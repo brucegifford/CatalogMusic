@@ -1,0 +1,9 @@
+--outputdir=ThunderFiles
+--media_files_dirs="C:\Users\bruce\Music\iTunes\iTunes Media\Music"
+--song_list_flat=iTunesSongs.json
+--albums_list_flat=Albums_list.json
+--artists_list_flat=Artists_list.json
+--albums_artists_folder_flat=Albums_Artists_flat
+--artists_albums_folder_flat=Artists_Albums_flat
+--albums_nested=Albums
+--artists_nested=Artists
