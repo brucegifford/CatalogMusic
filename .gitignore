@@ -3,10 +3,9 @@
 /.idea/
 !/.idea/.gitignore
 /dist/
-/build
-/logs/
+/build/
+**/logs/
 *.spec
 /.vscode/
-/ThunderFiles/
 /ThunderFiles/
 /Thunder_iTunesFiles/

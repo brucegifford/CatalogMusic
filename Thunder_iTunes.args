@@ -1,5 +1,5 @@
---outputdir=Thunder_iTunesFiles
---media_files_dirs="C:\Users\bruce\Music\iTunes\iTunes Media\Music"
+--outputdir=Thunder_iTunes
+--itunes_library="C:\Users\bruce\Music\iTunes\Library.xml"
 --song_list_flat=iTunesSongs.json
 --albums_list_flat=Albums_list.json
 --artists_list_flat=Artists_list.json

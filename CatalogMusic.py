@@ -6,6 +6,7 @@ import logging
 from log_util import setup_logger2
 import traceback
 from ReadFilesystemMusic import extract_metadata
+from ParseITunesLibrary import parse_itunes_library_file
 from WriteLists import write_flat_songs_list, write_flat_albums_list, write_flat_artists_list, \
     write_flat_albums_artists_folder, write_flat_artists_albums_folder, \
     write_nested_albums_folders, write_nested_artists_folders
@@ -81,6 +82,37 @@ def make_output_file_path(output_dir, filename):
         output_path = filename
     return output_path
 
+
+def write_output_files(media_files, output_dir, args, logger):
+    if args.song_list_flat:
+        flat_file_path = make_output_file_path(output_dir, args.song_list_flat)
+        write_flat_songs_list(media_files, flat_file_path)
+
+    if args.albums_list_flat:
+        flat_albums_path = make_output_file_path(output_dir, args.albums_list_flat)
+        write_flat_albums_list(media_files, flat_albums_path)
+
+    if args.artists_list_flat:
+        flat_artists_path = make_output_file_path(output_dir, args.artists_list_flat)
+        write_flat_artists_list(media_files, flat_artists_path)
+
+    if args.albums_artists_folder_flat:
+        flat_albums_artists_folder_path = make_output_file_path(output_dir, args.albums_artists_folder_flat)
+        write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_path)
+
+    if args.artists_albums_folder_flat:
+        flat_artists_albums_folder_path = make_output_file_path(output_dir, args.artists_albums_folder_flat)
+        write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_path)
+
+    if args.albums_nested:
+        nested_albums_folder_path = make_output_file_path(output_dir, args.albums_nested)
+        write_nested_albums_folders(media_files, nested_albums_folder_path)
+
+    if args.artists_nested:
+        nested_artists_folder_path = make_output_file_path(output_dir, args.artists_nested)
+        write_nested_artists_folders(media_files, nested_artists_folder_path)
+
+
 def Main():
     app_name = "CatalogMusic"
 
@@ -91,6 +123,7 @@ def Main():
                 good_args.append(arg)
 
         parser = argparse.ArgumentParser(description='Catalog Music', fromfile_prefix_chars='@')
+        parser.add_argument('--itunes_library', default=None, help="itunes library xml file", required=False)
         parser.add_argument('--media_files_dirs', nargs='*')
         parser.add_argument('--media_files_input', default=None, help="json file wtih media files in it", required=False)
         parser.add_argument('--song_list_flat', default=None, help="file path for writing a file with all files in it", required=False)
@@ -120,6 +153,9 @@ def Main():
                                error_log_file=os.path.join(log_dir, app_name + '.excp.log'))
 
         media_files = []
+        song_list = []
+        playlist = []
+
         if args.media_files_input:
             if os.path.exists(args.media_files_input):
                 media_files_input = args.media_files_input
@@ -131,35 +167,17 @@ def Main():
             for media_dir in args.media_files_dirs:
                 print(media_dir)
                 extract_metadata(media_files, media_dir)
+        elif args.itunes_library:
+            song_list, playlist = parse_itunes_library_file(args.itunes_library)
 
         if media_files:
-            if args.song_list_flat:
-                flat_file_path = make_output_file_path(output_dir, args.song_list_flat)
-                write_flat_songs_list(media_files, flat_file_path)
+            write_output_files(media_files, output_dir, args, logger)
 
-            if args.albums_list_flat:
-                flat_albums_path = make_output_file_path(output_dir, args.albums_list_flat)
-                write_flat_albums_list(media_files, flat_albums_path)
+        if song_list:
+            write_output_files(song_list, output_dir+"_songs", args, logger)
 
-            if args.artists_list_flat:
-                flat_artists_path = make_output_file_path(output_dir, args.artists_list_flat)
-                write_flat_artists_list(media_files, flat_artists_path)
-
-            if args.albums_artists_folder_flat:
-                flat_albums_artists_folder_path = make_output_file_path(output_dir, args.albums_artists_folder_flat)
-                write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_path)
-
-            if args.artists_albums_folder_flat:
-                flat_artists_albums_folder_path = make_output_file_path(output_dir, args.artists_albums_folder_flat)
-                write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_path)
-
-            if args.albums_nested:
-                nested_albums_folder_path = make_output_file_path(output_dir, args.albums_nested)
-                write_nested_albums_folders(media_files, nested_albums_folder_path)
-
-            if args.artists_nested:
-                nested_artists_folder_path = make_output_file_path(output_dir, args.artists_nested)
-                write_nested_artists_folders(media_files, nested_artists_folder_path)
+        if playlist:
+            write_output_files(playlist, output_dir+"_playlists", args, logger)
 
 
 
