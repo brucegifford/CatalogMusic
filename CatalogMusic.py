@@ -75,6 +75,18 @@ from WriteLists import write_flat_songs_list, write_flat_albums_list, write_flat
 
 
 """
+
+def strip_quotes_if_needed(input_arg):
+    input_arg = input_arg.strip()
+    if input_arg[0] == '"' and input_arg[-1] == '"':
+        # strip open and closing double quotes
+        input_arg = input_arg[1:-1]
+    if input_arg[0] == "'" and input_arg[-1] == "'":
+        # strip open and closing single quotes
+        input_arg = input_arg[1:-1]
+    return input_arg
+
+
 def make_output_file_path(output_dir, filename):
     if len(output_dir) > 0:
         output_path = os.path.join(output_dir, filename)
@@ -157,18 +169,19 @@ def Main():
         playlist = []
 
         if args.media_files_input:
-            if os.path.exists(args.media_files_input):
-                media_files_input = args.media_files_input
-            else:
-                media_files_input = os.path.join(output_dir, args.media_files_input)
+            media_files_input = strip_quotes_if_needed(args.media_files_input)
+            if not os.path.exists(args.media_files_input):
+                media_files_input = os.path.join(output_dir, media_files_input)
             with open(media_files_input, encoding='utf-8') as data_file:
                 media_files = json.load(data_file)
         elif args.media_files_dirs:
             for media_dir in args.media_files_dirs:
+                media_dir = strip_quotes_if_needed(media_dir)
                 print(media_dir)
                 extract_metadata(media_files, media_dir)
         elif args.itunes_library:
-            song_list, playlist = parse_itunes_library_file(args.itunes_library)
+            itunes_library = strip_quotes_if_needed(args.itunes_library)
+            song_list, playlist = parse_itunes_library_file(itunes_library)
 
         if media_files:
             write_output_files(media_files, output_dir, args, logger)
