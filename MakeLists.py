@@ -19,15 +19,24 @@ def sort_song_list(song_list):
     for song in song_list:
         del song["__sort_key__"]
 
+unknown_value = "__UNKNOWN__"
+def get_key_Value(dict_inp, key):
+    value = dict_inp.get(key, unknown_value)
+    if value is None:
+        return unknown_value
+    else:
+        return value
+
 def make_albums_list(media_files):
     albums_dict = {}
     for media_file in media_files:
-        album_name = media_file.get("album", "__UNKNOWN__")
+        album_name = get_key_Value(media_file, "album")
         if not album_name in albums_dict:
             albums_dict[album_name] = {"album": album_name, "songs":[]}
         album_dict = albums_dict[album_name]
         album_dict["songs"].append(media_file)
     albums = []
+    #print(albums_dict.keys())
     for album_name in sorted(albums_dict.keys()):
         album_dict = albums_dict[album_name]
         sort_song_list(album_dict["songs"])
@@ -37,18 +46,19 @@ def make_albums_list(media_files):
 def make_artists_list(media_files):
     artists_dict = {}
     for media_file in media_files:
-        artist_name = media_file.get("artist", "__UNKNOWN__")
+        artist_name = get_key_Value(media_file, "artist")
         if not artist_name in artists_dict:
             artists_dict[artist_name] = {"artist": artist_name, "albums": {}}
         artist_dict = artists_dict[artist_name]
         albums_dict = artist_dict["albums"]
 
-        album_name = media_file.get("album", "__UNKNOWN__")
+        album_name = get_key_Value(media_file, "album")
         if not album_name in albums_dict:
             albums_dict[album_name] = {"album": album_name, "songs": []}
         album_dict = albums_dict[album_name]
         album_dict["songs"].append(media_file)
     artists = []
+    #print(artists_dict.keys())
     for artist_name in sorted(artists_dict.keys()):
         artist_dict_orig = artists_dict[artist_name]
         artist_dict = {
