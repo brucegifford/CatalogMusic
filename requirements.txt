@@ -1,0 +1,2 @@
+IReadiTunes @ git+https://github.com/brucegifford/IReadiTunes.git@0eb955a5134b00ef997944ff655ac29a17852e9a
+mutagen==1.46.0
