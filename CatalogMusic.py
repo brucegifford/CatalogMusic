@@ -5,6 +5,7 @@ import argparse
 import logging
 from log_util import setup_logger2
 import traceback
+import shutil
 from ReadFilesystemMusic import extract_metadata
 from ParseITunesLibrary import parse_itunes_library_file
 from WriteLists import write_flat_songs_list, write_flat_albums_list, write_flat_artists_list, \
@@ -175,6 +176,9 @@ def Main():
             with open(media_files_input, encoding='utf-8') as data_file:
                 media_files = json.load(data_file)
         elif args.media_files_dirs:
+            if os.path.exists(output_dir):
+                shutil.rmtree(output_dir)
+            os.makedirs(output_dir)
             for media_dir in args.media_files_dirs:
                 media_dir = strip_quotes_if_needed(media_dir)
                 print(media_dir)
@@ -187,10 +191,18 @@ def Main():
             write_output_files(media_files, output_dir, args, logger)
 
         if song_list:
-            write_output_files(song_list, output_dir+"_songs", args, logger)
+            songs_output_dir = output_dir+"_songs"
+            if os.path.exists(songs_output_dir):
+                shutil.rmtree(songs_output_dir)
+            os.makedirs(songs_output_dir)
+            write_output_files(song_list, songs_output_dir, args, logger)
 
         if playlist:
-            write_output_files(playlist, output_dir+"_playlists", args, logger)
+            playlists_output_dir = output_dir+"_playlists"
+            if os.path.exists(playlists_output_dir):
+                shutil.rmtree(playlists_output_dir)
+            os.makedirs(playlists_output_dir)
+            write_output_files(playlist, playlists_output_dir, args, logger)
 
 
 

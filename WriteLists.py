@@ -24,6 +24,8 @@ def write_flat_artists_list(media_files, flat_artists_path):
         data_file.write(json.dumps(artists_list_flat, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_path):
+    if os.path.exists(flat_albums_artists_folder_path):
+        shutil.rmtree(flat_albums_artists_folder_path)
     os.makedirs(flat_albums_artists_folder_path, exist_ok=True)
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
@@ -38,6 +40,8 @@ def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_pat
                 data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_path):
+    if os.path.exists(flat_artists_albums_folder_path):
+        shutil.rmtree(flat_artists_albums_folder_path)
     os.makedirs(flat_artists_albums_folder_path, exist_ok=True)
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
@@ -52,6 +56,8 @@ def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_pat
                 data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 def write_nested_albums_folders(media_files, nested_albums_folder_path):
+    if os.path.exists(nested_albums_folder_path):
+        shutil.rmtree(nested_albums_folder_path)
     os.makedirs(nested_albums_folder_path, exist_ok=True)
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
@@ -68,6 +74,8 @@ def write_nested_albums_folders(media_files, nested_albums_folder_path):
                 data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 def write_nested_artists_folders(media_files, nested_artists_folder_path):
+    if os.path.exists(nested_artists_folder_path):
+        shutil.rmtree(nested_artists_folder_path)
     os.makedirs(nested_artists_folder_path, exist_ok=True)
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
