@@ -1,4 +1,8 @@
 import xml.etree.ElementTree as ET
+from datetime import datetime
+import IReadiTunes as irit
+
+
 
 def parse_itunes_library_file(itunes_library_file):
     """
@@ -10,39 +14,19 @@ def parse_itunes_library_file(itunes_library_file):
     Returns:
         list: A list of dictionaries, where each dictionary represents an entry in the iTunes Library.
     """
+
+    # First of all, init the library
+    my_lib = irit.lib_init()
+
+    # Read iTunes XML file
+    my_lib.parse(itunes_library_file)
+
     song_list = []
-    playlist = []
+    for track in my_lib.get_track_list():
+        song_list.append(track.get_as_dict())
 
-    # Parse the iTunes Library.xml file
-    tree = ET.parse(itunes_library_file)
-    root = tree.getroot()
+    playlists = []
+    for playlist in my_lib.get_playlists():
+        playlists.append(playlist.get_as_dict())
 
-    # Get the "dict" element that contains the library data
-    library_dict = None
-    for child in root:
-        if child.tag == "dict":
-            library_dict = child
-            break
-
-    # Extract the data for each entry
-    entries = []
-    current_entry = {}
-    for child in library_dict:
-        if child.tag == "key":
-            current_entry[child.text] = None
-        elif current_entry:
-            if child.tag == "integer":
-                current_entry[list(current_entry.keys())[-1]] = int(child.text)
-            elif child.tag == "string":
-                current_entry[list(current_entry.keys())[-1]] = child.text
-            elif child.tag == "true":
-                current_entry[list(current_entry.keys())[-1]] = True
-            elif child.tag == "false":
-                current_entry[list(current_entry.keys())[-1]] = False
-            elif child.tag == "dict":
-                entries.append(current_entry)
-                current_entry = {}
-
-    return song_list, playlist
-
-    return entries
+    return song_list, playlists
