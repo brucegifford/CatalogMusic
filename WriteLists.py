@@ -1,5 +1,8 @@
 import json
 import os
+import shutil
+from datetime import date, datetime
+
 from MakeLists import make_albums_list, make_artists_list
 
 def make_legal_filename(filename):
@@ -9,19 +12,27 @@ def make_legal_filename(filename):
     return filename
 
 
+def json_serial(obj):
+    """JSON serializer for objects not serializable by default json code"""
+
+    if isinstance(obj, (datetime, date)):
+        return obj.isoformat()
+    raise TypeError ("Type %s not serializable" % type(obj))
+
+def write_json_file(json_data, file_path, encoding='utf-8'):
+    with open(file_path, "w", encoding=encoding) as data_file:
+        data_file.write(json.dumps(json_data, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False, default=json_serial))
+
 def write_flat_songs_list(media_files, flat_songs_path):
-    with open(flat_songs_path, "w", encoding='utf-8') as data_file:
-        data_file.write(json.dumps(media_files, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    write_json_file(media_files, flat_songs_path)
 
 def write_flat_albums_list(media_files, flat_albums_path):
     albums_list_flat = make_albums_list(media_files)
-    with open(flat_albums_path, "w", encoding='utf-8') as data_file:
-        data_file.write(json.dumps(albums_list_flat, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    write_json_file(albums_list_flat, flat_albums_path)
 
 def write_flat_artists_list(media_files, flat_artists_path):
     artists_list_flat = make_artists_list(media_files)
-    with open(flat_artists_path, "w", encoding='utf-8') as data_file:
-        data_file.write(json.dumps(artists_list_flat, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    write_json_file(artists_list_flat, flat_artists_path)
 
 def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_path):
     if os.path.exists(flat_albums_artists_folder_path):
@@ -36,8 +47,7 @@ def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_pat
             album_name = make_legal_filename(album_name)
             filename = "%s^%s.json" % (album_name, artist_name)
             filepath = os.path.join(flat_albums_artists_folder_path, filename)
-            with open(filepath, "w", encoding='utf-8') as data_file:
-                data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+            write_json_file(album, filepath)
 
 def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_path):
     if os.path.exists(flat_artists_albums_folder_path):
@@ -52,8 +62,7 @@ def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_pat
             album_name = make_legal_filename(album_name)
             filename = "%s^%s.json" % (artist_name, album_name)
             filepath = os.path.join(flat_artists_albums_folder_path, filename)
-            with open(filepath, "w", encoding='utf-8') as data_file:
-                data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+            write_json_file(album, filepath)
 
 def write_nested_albums_folders(media_files, nested_albums_folder_path):
     if os.path.exists(nested_albums_folder_path):
@@ -70,8 +79,7 @@ def write_nested_albums_folders(media_files, nested_albums_folder_path):
             os.makedirs(album_path, exist_ok=True)
             filename = "%s^%s.json" % (album_name, artist_name)
             filepath = os.path.join(album_path, filename)
-            with open(filepath, "w", encoding='utf-8') as data_file:
-                data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+            write_json_file(album, filepath)
 
 def write_nested_artists_folders(media_files, nested_artists_folder_path):
     if os.path.exists(nested_artists_folder_path):
@@ -88,5 +96,4 @@ def write_nested_artists_folders(media_files, nested_artists_folder_path):
             album_name = make_legal_filename(album_name)
             filename = "%s^%s.json" % (artist_name, album_name)
             filepath = os.path.join(artist_path, filename)
-            with open(filepath, "w", encoding='utf-8') as data_file:
-                data_file.write(json.dumps(album, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+            write_json_file(album, filepath)
