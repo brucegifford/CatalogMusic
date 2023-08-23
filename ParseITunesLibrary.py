@@ -44,6 +44,6 @@ def parse_itunes_library_file(itunes_library_file):
 
     playlists = []
     for playlist in my_lib.get_playlists():
-        playlists.append(playlist.get_as_dict())
+        playlists.append(playlist.get_as_dict(add_distingished_kind_label=True))
 
     return song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlists
