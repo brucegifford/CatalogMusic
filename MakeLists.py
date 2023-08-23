@@ -46,7 +46,12 @@ def make_albums_list(media_files):
 def make_artists_list(media_files):
     artists_dict = {}
     for media_file in media_files:
-        artist_name = get_key_Value(media_file, "artist")
+        if media_file.get("compilation",False) == True:
+            artist_name = "Compilations"
+        else:
+            artist_name = get_key_Value(media_file, "album_artist")
+            if artist_name is unknown_value:
+                artist_name = get_key_Value(media_file, "artist")
         if not artist_name in artists_dict:
             artists_dict[artist_name] = {"artist": artist_name, "albums": {}}
         artist_dict = artists_dict[artist_name]
