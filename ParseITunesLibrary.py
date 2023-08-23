@@ -22,11 +22,28 @@ def parse_itunes_library_file(itunes_library_file):
     my_lib.parse(itunes_library_file)
 
     song_list = []
-    for track in my_lib.get_track_list():
-        song_list.append(track.get_as_dict())
+    for song in my_lib.get_song_list():
+        song_list.append(song.get_as_dict())
+
+    movie_list = []
+    for movie in my_lib.get_movie_list():
+        movie_list.append(movie.get_as_dict())
+
+    podcast_list = []
+    for podcast in my_lib.get_podcast_list():
+        podcast_list.append(podcast.get_as_dict())
+
+    tvshow_list = []
+    for tvshow in my_lib.get_tvshow_list():
+        tvshow_list.append(tvshow.get_as_dict())
+
+    audiobook_list = []
+    for audiobook in my_lib.get_audiobook_list():
+        audiobook_list.append(audiobook.get_as_dict())
+
 
     playlists = []
     for playlist in my_lib.get_playlists():
         playlists.append(playlist.get_as_dict())
 
-    return song_list, playlists
+    return song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlists

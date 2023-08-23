@@ -185,17 +185,33 @@ def Main():
                 extract_metadata(media_files, media_dir)
         elif args.itunes_library:
             itunes_library = strip_quotes_if_needed(args.itunes_library)
-            song_list, playlist = parse_itunes_library_file(itunes_library)
+            song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlist = parse_itunes_library_file(itunes_library)
+
 
         if media_files:
             write_output_files(media_files, output_dir, args, logger)
 
+        def output_items_list(item_list, folder_suffix):
+            item_output_dir = output_dir+folder_suffix
+            if os.path.exists(item_output_dir):
+                shutil.rmtree(item_output_dir)
+            os.makedirs(item_output_dir)
+            write_output_files(item_list, item_output_dir, args, logger)
+
         if song_list:
-            songs_output_dir = output_dir+"_songs"
-            if os.path.exists(songs_output_dir):
-                shutil.rmtree(songs_output_dir)
-            os.makedirs(songs_output_dir)
-            write_output_files(song_list, songs_output_dir, args, logger)
+            output_items_list(song_list, "_songs")
+
+        if movie_list:
+            output_items_list(movie_list, "_movies")
+
+        if podcast_list:
+            output_items_list(podcast_list, "_podcasts")
+
+        if tvshow_list:
+            output_items_list(tvshow_list, "_tvshows")
+
+        if audiobook_list:
+            output_items_list(audiobook_list, "audiobook_list")
 
         if playlist:
             playlists_output_dir = output_dir+"_playlists"
