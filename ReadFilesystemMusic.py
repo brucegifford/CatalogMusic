@@ -46,11 +46,37 @@ def extract_metadata(media_files, root_dir, logger, base_path = None):
                 'rel_path': relative_path
             }
             for key, value in audio.items():
-                data[key] = value[0]
+                """
+                if type(value) not in [list, bool, mutagen.id3.TPE2, mutagen.id3.TALB]:
+                    print("check this out")
+                if key not in ['covr', 'trkn', 'disk'] and type(value) is list:
+                    for index, item in enumerate(value):
+                        if type(item) not in [str,int,tuple]:
+                            print("check this out, key %s, index %d type %s"%(key, index, str(type(item))))
+                """
+                if type(value) is list and len(value) == 1 and type(value[0]) is mutagen.mp4.MP4FreeForm:
+                    logger.error("skipping tag '%s' in file '%s' for now which contains MP4FreeForm key"%(key, entry.path))
+                    continue
+                elif key == 'covr':
+                    logger.error("skipping tag 'covr' in file %s for now"%(entry.path))
+                    continue
+                elif type(value) is list and len(value) == 1:
+                    data[key] = value[0]
+                elif type(value) in [mutagen.id3.TPE2, mutagen.id3.TALB] and type(value[0]) is str:
+                    data[key] = value[0]
+                elif type(value) is list and len(value) > 1:
+                    if key == 'genre':
+                        data[key] = ','.join(value)
+                    else:
+                        assert False, "What should we do with this kind of data, type is "+str(type(value))
+                elif type(value) is bool:
+                    data[key] = value
+                else:
+                    assert False, "What should we do with this kind of data, type is "+str(type(value))
             media_files.append(data)
         elif entry.is_dir():
             # recurse into the folder
-            extract_metadata(media_files, entry_path, base_path)
+            extract_metadata(media_files, entry_path, logger, base_path)
 
 
 def Main():
