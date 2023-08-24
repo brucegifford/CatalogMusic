@@ -6,8 +6,10 @@ from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
 from mutagen.oggvorbis import OggVorbis
+from mutagen.aiff import AIFF
+from mutagen.wave import WAVE
 
-def extract_metadata(media_files, root_dir, base_path = None):
+def extract_metadata(media_files, root_dir, logger, base_path = None):
     root_dir = os.path.abspath(root_dir)
     root_dir = root_dir.replace('\\', '/')
     if not root_dir.endswith('/'):
@@ -25,10 +27,14 @@ def extract_metadata(media_files, root_dir, base_path = None):
             ext = ext.lower()
             if ext == '.mp3':
                 audio = MP3(entry.path, ID3=EasyID3)
-            elif ext == '.mp4':
+            elif ext == '.mp4' or ext == '.m4a':
                 audio = MP4(entry.path)
             elif ext == '.flac':
                 audio = FLAC(entry.path)
+            elif ext == '.aif':
+                audio = AIFF(entry.path)
+            elif ext == '.wav':
+                audio = WAVE(entry.path)
             elif ext == '.ogg':
                 audio = OggVorbis(entry.path)
             else:
