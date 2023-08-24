@@ -1,4 +1,9 @@
-List files on disk that are not in iTunes
-Duplicate files on disk
-Duplicate entries in iTunes that point to same file on disk
-Entries in iTunes that point to files that are not on disk anymore
+File system vs iTunes Library
+=============================
+x-List files on disk that are not in iTunes
+?-Duplicate files on disk
+x-Duplicate entries in iTunes that point to same file on disk
+x-Entries in iTunes that point to files that are not on disk anymore
+
+Play lists vs iTunes Library
+============================
