@@ -168,6 +168,10 @@ def Main():
         media_files = []
         song_list = []
         playlist = []
+        movie_list = []
+        podcast_list = []
+        tvshow_list = []
+        audiobook_list = []
 
         if args.media_files_input:
             media_files_input = strip_quotes_if_needed(args.media_files_input)
@@ -177,12 +181,18 @@ def Main():
                 media_files = json.load(data_file)
         elif args.media_files_dirs:
             if os.path.exists(output_dir):
-                shutil.rmtree(output_dir)
-            os.makedirs(output_dir)
+                for entry in os.scandir(output_dir):
+                    if entry.name != "logs":
+                        if entry.is_file():
+                            shutil.rmfile(entry.path)
+                        else:
+                            shutil.rmtree(entry.path)
+            else:
+                os.makedirs(output_dir)
             for media_dir in args.media_files_dirs:
                 media_dir = strip_quotes_if_needed(media_dir)
                 print(media_dir)
-                extract_metadata(media_files, media_dir)
+                extract_metadata(media_files, media_dir, logger)
         elif args.itunes_library:
             itunes_library = strip_quotes_if_needed(args.itunes_library)
             song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlist = parse_itunes_library_file(itunes_library)
