@@ -1,6 +1,8 @@
 import os
 import json
 import traceback
+
+import mutagen
 from mutagen.easyid3 import EasyID3
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
