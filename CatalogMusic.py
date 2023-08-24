@@ -95,6 +95,11 @@ def make_output_file_path(output_dir, filename):
         output_path = filename
     return output_path
 
+def ensure_parent_folder_exists(file_path):
+    ## since the filename may include pathing information, make sure the final parent directory exists
+    output_path = os.path.dirname(file_path)
+    if output_path != '' and (not os.path.exists(output_path)):
+        os.makedirs(output_path)
 
 def write_output_files(media_files, output_dir, args, logger):
     if args.song_list_flat:
@@ -125,6 +130,20 @@ def write_output_files(media_files, output_dir, args, logger):
         nested_artists_folder_path = make_output_file_path(output_dir, args.artists_nested)
         write_nested_artists_folders(media_files, nested_artists_folder_path)
 
+def write_playlist_files(playlists, output_dir, args, logger):
+    if args.playlist_flat:
+        flat_file_path = make_output_file_path(output_dir, args.playlist_flat)
+        write_flat_songs_list(playlists, flat_file_path)
+
+    for index, playlist in enumerate(playlists):
+        outpath = playlist["display_path"]
+        if outpath[0] == '/':
+            outpath = outpath[1:]
+        flat_file_path = make_output_file_path(output_dir, outpath+".json")
+        ensure_parent_folder_exists(flat_file_path)
+        write_flat_songs_list(playlist, flat_file_path)
+
+
 
 def Main():
     app_name = "CatalogMusic"
@@ -146,6 +165,7 @@ def Main():
         parser.add_argument('--artists_albums_folder_flat', default=None, help="file path for writing a file with all files in it organized by album", required=False)
         parser.add_argument('--albums_nested', default=None, help="file path for writing a file with all files in it organized by album", required=False)
         parser.add_argument('--artists_nested', default=None, help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--playlist_flat', default=None, help="file path for writing a file with all playlists in it", required=False)
         parser.add_argument('--outputdir', help="directory where output files get written")
 
 
@@ -195,7 +215,7 @@ def Main():
                 extract_metadata(media_files, media_dir, logger)
         elif args.itunes_library:
             itunes_library = strip_quotes_if_needed(args.itunes_library)
-            song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlist = parse_itunes_library_file(itunes_library)
+            song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlists = parse_itunes_library_file(itunes_library)
 
 
         if media_files:
@@ -221,16 +241,14 @@ def Main():
             output_items_list(tvshow_list, "_tvshows")
 
         if audiobook_list:
-            output_items_list(audiobook_list, "audiobook_list")
+            output_items_list(audiobook_list, "_audiobooks")
 
-        if playlist:
+        if playlists:
             playlists_output_dir = output_dir+"_playlists"
             if os.path.exists(playlists_output_dir):
                 shutil.rmtree(playlists_output_dir)
             os.makedirs(playlists_output_dir)
-            write_output_files(playlist, playlists_output_dir, args, logger)
-
-
+            write_playlist_files(playlists, playlists_output_dir, args, logger)
 
     except Exception as ex:
         log_func = logger.error if logger else print

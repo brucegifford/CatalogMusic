@@ -7,3 +7,4 @@
 --artists_albums_folder_flat=Artists_Albums_flat
 --albums_nested=Albums
 --artists_nested=Artists
+--playlist_flat=iTunesPlaylists.json
