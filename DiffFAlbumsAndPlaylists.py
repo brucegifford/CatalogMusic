@@ -95,12 +95,12 @@ def load_itunes_playlists(itunes_playlists_file):
     playlist_names_sorted.sort()
     return itunes_playlists, playlist_names_sorted
 
-def add_playlist_checklist_for_album(album, playlist):
+def add_playlist_checklist_for_album(album, playlist, checklist):
     # if they have not created one yet, create one
     if not "playlist_checklists" in album:
         album["playlist_checklists"] = {}
     playlist_checklists = album["playlist_checklists"]
-    playlist_checklists[playlist["name"]] = playlist
+    playlist_checklists[playlist["name"]] = checklist
 
 class AlbumChecklist(object):
     def __init__(self, album_name, album_artist, album_map, playlist):
@@ -109,7 +109,7 @@ class AlbumChecklist(object):
         self.album_artist = album_artist
         self.album_key = make_album_key(self.album_name, self.album_artist)
         self.album = album_map[self.album_key]
-        add_playlist_checklist_for_album(self.album, playlist)
+        add_playlist_checklist_for_album(self.album, playlist, self)
         self.num_songs = len(self.album["songs"])
         self.songs_checked = 0
         self.checks = {}
@@ -120,6 +120,9 @@ class AlbumChecklist(object):
         assert self.checks[song_location] == False
         self.checks[song_location] = True
         self.songs_checked += 1
+
+    def fully_covered(self):
+        return self.songs_checked == self.num_songs
 
 def get_album_checklist_for_playlist(playlist, album_name, album_artist, album_map):
     # if they have not created one yet, create one
@@ -157,11 +160,89 @@ def match_playlists_to_albums(itunes_playlists, album_map):
             # if the album is in the ignore list, don't log about it
             if album_name in playlist_album_ignore_list:
                 continue
-            if checkList.songs_checked != checkList.num_songs:
+            if not checkList.fully_covered():
                 logger.info("Playlist '%s' is missing %s songs from album '%s'"%(playlist["name"],checkList.num_songs-checkList.songs_checked, album_name))
                 for key in sorted(checkList.checks.keys()):
                     if not checkList.checks[key]:
                         logger.info("\t%s"%(key))
+
+
+def find_albums_with_no_playlists(args, album_map):
+    albums_not_needing_playlists = ignores_data.get("albums_not_needing_playlists",{})
+    num_ignored = 0
+    num_with_no_playlists = 0
+    num_with_partial_playlists = 0
+    num_with_multiple_playlists = 0
+    num_with_complete_playlists = 0
+    for album_key, album in album_map.items():
+        if album_key in albums_not_needing_playlists:
+            logger.info("Ignoring album '%s' which does not need a playlist"%(album_key))
+            num_ignored += 1
+            continue
+        playlist_checklists = album.get("playlist_checklists", {})
+        if len(playlist_checklists) == 0:
+            logger.info("There are no playlists for Album '%s'"%(album_key))
+            num_with_no_playlists += 1
+            continue
+
+        # peak and see if this album is covered or not
+        if args.dont_show_fully_covered:
+            is_fully_covered_by_any = False
+            is_any_partial = False
+            for playlist_name, checkList in playlist_checklists.items():
+                if checkList.fully_covered():
+                    is_fully_covered_by_any = True
+                else:
+                    is_any_partial = True
+            # if this album is fully covered and we are not prinitng about it, update and move on
+            if is_fully_covered_by_any:
+                num_with_complete_playlists += 1
+                if is_any_partial:
+                    num_with_partial_playlists += 1
+                if len(playlist_checklists) > 1:
+                    num_with_multiple_playlists += 1
+                continue
+
+        if len(playlist_checklists) == 1:
+            #loop to get the first and only element
+            for playlist_name, checkList in playlist_checklists.items():
+                pass
+            if checkList.fully_covered():
+                if not args.dont_show_fully_covered:
+                    logger.info("Album '%s' is fully covered by playlist '%s'"%(album_key,playlist_name))
+                num_with_complete_playlists += 1
+            else:
+                logger.info("Album '%s' is only partially covered by playlist '%s', missing songs are:"%(album_key,playlist_name))
+                num_with_partial_playlists += 1
+                for key in sorted(checkList.checks.keys()):
+                    if not checkList.checks[key]:
+                        logger.info("\t%s"%(key))
+            continue
+        logger.info("Album '%s' is reference by multiple playlists "%(album_key))
+        num_with_multiple_playlists += 1
+        got_complete_coverage = False
+        got_partial_coverage = False
+        for playlist_name, checkList in playlist_checklists.items():
+            if checkList.fully_covered():
+                logger.info("\tAlbum '%s' is fully covered by playlist '%s'"%(album_key,playlist_name))
+                got_complete_coverage = True
+            else:
+                logger.info("\tAlbum '%s' is only partially covered by playlist '%s', included songs are:"%(album_key,playlist_name))
+                got_partial_coverage = True
+                for key in sorted(checkList.checks.keys()):
+                    if checkList.checks[key]:
+                        logger.info("\t\t%s"%(key))
+        if got_complete_coverage:
+            num_with_complete_playlists += 1
+        if got_partial_coverage:
+            num_with_partial_playlists += 1
+
+    # print summary
+    logger.info("Found %d albums with no playlists" %(num_with_no_playlists))
+    logger.info("Found %d albums with partial playlists" %(num_with_partial_playlists))
+    logger.info("Found %d albums with multiple playlists" %(num_with_multiple_playlists))
+    logger.info("Found %d albums with complete playlists" %(num_with_complete_playlists))
+    logger.info("Found %s albums which we are ignoring for playlists" %(num_ignored))
 
 
 
@@ -187,6 +268,7 @@ def Main():
         parser.add_argument('--albums_file', default=None, help="iTunes albums", required=True)
         parser.add_argument('--playlists_file', default=None, help="iTunes playlists", required=True)
         parser.add_argument('--ignores_file', default=None, help="json file of ignore entries", required=False)
+        parser.add_argument('--dont_show_fully_covered', default=False, action="store_true", help="when set, don't dump line on albums fully covered")
         parser.add_argument('--outputdir', help="directory where output files get written")
         parser.add_argument('--dump_album_keys', default=False, action="store_true", help="when set, dump keys to files")
 
@@ -229,7 +311,7 @@ def Main():
 
         match_playlists_to_albums(itunes_playlists, album_map)
 
-        #find_albums_with_no_playlists(album_map)
+        find_albums_with_no_playlists(args, album_map)
 
 
 
