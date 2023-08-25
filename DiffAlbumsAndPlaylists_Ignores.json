@@ -1,0 +1,13 @@
+{
+  "ignore_partial_albums_in_playlists": {
+    "Alabama - All": [
+      "Christmas Collection|Compilations",
+      "Country's Got Heart - Behind Closed Doors|Time Life Music"
+    ],
+    "Alabama - Christmas Collection": [
+      "Christmas Collection|Compilations"
+    ],
+    "Bruce R. McConkie - BYU Devotionals": [
+    ]
+  }
+}
