@@ -30,10 +30,17 @@ def get_key_Value(dict_inp, key):
 def make_albums_list(media_files):
     albums_dict = {}
     for media_file in media_files:
+        if media_file.get("compilation",False) == True:
+            artist_name = "Compilations"
+        else:
+            artist_name = get_key_Value(media_file, "album_artist")
+            if artist_name is unknown_value:
+                artist_name = get_key_Value(media_file, "artist")
         album_name = get_key_Value(media_file, "album")
-        if not album_name in albums_dict:
-            albums_dict[album_name] = {"album": album_name, "songs":[]}
-        album_dict = albums_dict[album_name]
+        album_key = album_name + '|' + artist_name
+        if not album_key in albums_dict:
+            albums_dict[album_key] = {"album": album_name, "album_artist":artist_name, "songs":[]}
+        album_dict = albums_dict[album_key]
         album_dict["songs"].append(media_file)
     albums = []
     #print(albums_dict.keys())
