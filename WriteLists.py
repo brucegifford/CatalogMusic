@@ -4,13 +4,7 @@ import shutil
 from datetime import date, datetime
 
 from MakeLists import make_albums_list, make_artists_list
-
-def make_legal_filename(filename):
-    for char in "/\\:*?\"'<>|[]":
-        filename = filename.replace(char, '_')
-    filename = filename.strip(', _.')
-    return filename
-
+from iTunesHelper import make_legal_filename
 
 def json_serial(obj):
     """JSON serializer for objects not serializable by default json code"""
