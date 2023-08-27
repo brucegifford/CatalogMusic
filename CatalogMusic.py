@@ -187,7 +187,7 @@ def Main():
 
         media_files = []
         song_list = []
-        playlist = []
+        playlists = []
         movie_list = []
         podcast_list = []
         tvshow_list = []
