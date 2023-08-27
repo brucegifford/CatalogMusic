@@ -1,3 +1,5 @@
+from iTunesHelper import get_itunes_album_artist, make_album_key, get_itunes_album_name
+
 def sort_song_list(song_list):
     index = 0
     for song in song_list:
@@ -30,16 +32,11 @@ def get_key_Value(dict_inp, key):
 def make_albums_list(media_files):
     albums_dict = {}
     for media_file in media_files:
-        if media_file.get("compilation",False) == True:
-            artist_name = "Compilations"
-        else:
-            artist_name = get_key_Value(media_file, "album_artist")
-            if artist_name is unknown_value:
-                artist_name = get_key_Value(media_file, "artist")
-        album_name = get_key_Value(media_file, "album")
-        album_key = album_name + '|' + artist_name
+        album_artist = get_itunes_album_artist(media_file, unknown_value)
+        album_name = get_itunes_album_name(media_file, unknown_value)
+        album_key = make_album_key(album_name, album_artist)
         if not album_key in albums_dict:
-            albums_dict[album_key] = {"album": album_name, "album_artist":artist_name, "songs":[]}
+            albums_dict[album_key] = {"album": album_name, "album_artist":album_artist, "songs":[]}
         album_dict = albums_dict[album_key]
         album_dict["songs"].append(media_file)
     albums = []
@@ -53,18 +50,13 @@ def make_albums_list(media_files):
 def make_artists_list(media_files):
     artists_dict = {}
     for media_file in media_files:
-        if media_file.get("compilation",False) == True:
-            artist_name = "Compilations"
-        else:
-            artist_name = get_key_Value(media_file, "album_artist")
-            if artist_name is unknown_value:
-                artist_name = get_key_Value(media_file, "artist")
-        if not artist_name in artists_dict:
-            artists_dict[artist_name] = {"artist": artist_name, "albums": {}}
-        artist_dict = artists_dict[artist_name]
+        album_artist = get_itunes_album_artist(media_file, unknown_value)
+        if not album_artist in artists_dict:
+            artists_dict[album_artist] = {"artist": album_artist, "albums": {}}
+        artist_dict = artists_dict[album_artist]
         albums_dict = artist_dict["albums"]
 
-        album_name = get_key_Value(media_file, "album")
+        album_name = get_itunes_album_name(media_file, unknown_value)
         if not album_name in albums_dict:
             albums_dict[album_name] = {"album": album_name, "songs": []}
         album_dict = albums_dict[album_name]
