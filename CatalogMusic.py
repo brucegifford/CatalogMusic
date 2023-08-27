@@ -175,8 +175,16 @@ def Main():
             output_dir = args.outputdir
         else:
             output_dir = ""
+
+        # do some direcotry cleanup if needed
+        if len(output_dir) > 0 and args.media_files_dirs and not args.media_files_input and os.path.exists(output_dir):
+            shutil.rmtree(output_dir)
+
+        # create the output_dir if needed
         if len(output_dir) > 0 and not os.path.exists(output_dir):
             os.makedirs(output_dir)
+
+
         log_dir = os.path.join(output_dir, "logs")
         if len(log_dir) > 0 and not os.path.exists(log_dir):
             os.makedirs(log_dir)
@@ -200,14 +208,7 @@ def Main():
             with open(media_files_input, encoding='utf-8') as data_file:
                 media_files = json.load(data_file)
         elif args.media_files_dirs:
-            if os.path.exists(output_dir):
-                for entry in os.scandir(output_dir):
-                    if entry.name != "logs":
-                        if entry.is_file():
-                            shutil.rmfile(entry.path)
-                        else:
-                            shutil.rmtree(entry.path)
-            else:
+            if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
             for media_dir in args.media_files_dirs:
                 media_dir = strip_quotes_if_needed(media_dir)
