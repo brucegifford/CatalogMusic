@@ -39,7 +39,7 @@ def make_album_key(album_name, album_artist):
     return album_name +'|'+ album_artist
 
 def make_legal_filename(filename):
-    for char in "/\\:*?\"<>|":
+    for char in "/\\:*?\"<>|’":
         filename = filename.replace(char, '_')
     filename = filename.strip(', ')
     if filename[-1] == '.':
