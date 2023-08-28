@@ -7,8 +7,3 @@
 **/logs/
 *.spec
 /.vscode/
-/Thunder_iTunes*/
-/DiffFilesAndiTunes/
-/DiffAlbumsAndPlaylists/
-/iTunesData-old/
-/iTunesData/

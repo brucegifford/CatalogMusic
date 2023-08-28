@@ -222,30 +222,30 @@ def Main():
         if media_files:
             write_output_files(media_files, output_dir, args, logger)
 
-        def output_items_list(item_list, folder_suffix):
-            item_output_dir = output_dir+folder_suffix
+        def output_items_list(item_list, folder_name):
+            item_output_dir = os.path.join(output_dir, folder_name)
             if os.path.exists(item_output_dir):
                 shutil.rmtree(item_output_dir)
             os.makedirs(item_output_dir)
             write_output_files(item_list, item_output_dir, args, logger)
 
         if song_list:
-            output_items_list(song_list, "_songs")
+            output_items_list(song_list, "songs")
 
         if movie_list:
-            output_items_list(movie_list, "_movies")
+            output_items_list(movie_list, "movies")
 
         if podcast_list:
-            output_items_list(podcast_list, "_podcasts")
+            output_items_list(podcast_list, "podcasts")
 
         if tvshow_list:
-            output_items_list(tvshow_list, "_tvshows")
+            output_items_list(tvshow_list, "tvshows")
 
         if audiobook_list:
-            output_items_list(audiobook_list, "_audiobooks")
+            output_items_list(audiobook_list, "audiobooks")
 
         if playlists:
-            playlists_output_dir = output_dir+"_playlists"
+            playlists_output_dir = os.path.join(output_dir, "playlists")
             if os.path.exists(playlists_output_dir):
                 shutil.rmtree(playlists_output_dir)
             os.makedirs(playlists_output_dir)
