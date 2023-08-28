@@ -46,4 +46,17 @@ def make_legal_filename(filename):
         filename = filename[:-1] + '_'
     return filename
 
+max_artist_folder_length = 40
+def get_artist_folder_truncated_if_needed(artist_folder):
+    if len(artist_folder) > max_artist_folder_length:
+        return artist_folder[:max_artist_folder_length]
+    else:
+        return artist_folder
 
+
+max_album_folder_length = 40
+def get_album_folder_truncated_if_needed(album_folder):
+    if len(album_folder) > max_album_folder_length:
+        return album_folder[:max_album_folder_length]
+    else:
+        return album_folder

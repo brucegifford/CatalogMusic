@@ -4,7 +4,7 @@ import shutil
 from datetime import date, datetime
 
 from MakeLists import make_albums_list, make_artists_list
-from iTunesHelper import make_legal_filename
+from iTunesHelper import make_legal_filename, get_artist_folder_truncated_if_needed, get_album_folder_truncated_if_needed
 
 def json_serial(obj):
     """JSON serializer for objects not serializable by default json code"""
@@ -65,9 +65,11 @@ def write_nested_albums_folders(media_files, nested_albums_folder_path):
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
         artist_name = artist["artist"]
+        artist_name = get_artist_folder_truncated_if_needed(artist_name)
         artist_name = make_legal_filename(artist_name)
         for album in artist["albums"]:
             album_name = album["album"]
+            album_name = get_album_folder_truncated_if_needed(album_name)
             album_name = make_legal_filename(album_name)
             album_path = os.path.join(nested_albums_folder_path, album_name)
             os.makedirs(album_path, exist_ok=True)
@@ -82,12 +84,21 @@ def write_nested_artists_folders(media_files, nested_artists_folder_path):
     artists_list = make_artists_list(media_files)
     for artist in artists_list:
         artist_name = artist["artist"]
+        artist_name = get_artist_folder_truncated_if_needed(artist_name)
         artist_name = make_legal_filename(artist_name)
         artist_path = os.path.join(nested_artists_folder_path, artist_name)
         os.makedirs(artist_path, exist_ok=True)
         for album in artist["albums"]:
             album_name = album["album"]
+            album_name = get_album_folder_truncated_if_needed(album_name)
             album_name = make_legal_filename(album_name)
-            filename = "%s^%s.json" % (artist_name, album_name)
+            """
+            album_path = os.path.join( artist_path, album_name )
+            os.makedirs(album_path, exist_ok=True)
+            """
+            filename = "%s.json" % (album_name)
+            """
+            filepath = os.path.join(album_path, filename)
+            """
             filepath = os.path.join(artist_path, filename)
             write_json_file(album, filepath)
