@@ -7,3 +7,8 @@ x-Entries in iTunes that point to files that are not on disk anymore
 
 Play lists vs iTunes Library
 ============================
+
+Podcasts
+=============
+Only create entries for items with location localhost
+Should only be Album\name, no artist, Album is the podcast
