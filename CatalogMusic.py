@@ -158,14 +158,14 @@ def Main():
         parser.add_argument('--itunes_library', default=None, help="itunes library xml file", required=False)
         parser.add_argument('--media_files_dirs', nargs='*')
         parser.add_argument('--media_files_input', default=None, help="json file wtih media files in it", required=False)
-        parser.add_argument('--song_list_flat', default=None, help="file path for writing a file with all files in it", required=False)
-        parser.add_argument('--albums_list_flat', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--artists_list_flat', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--albums_artists_folder_flat', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--artists_albums_folder_flat', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--albums_nested', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--artists_nested', default=None, help="file path for writing a file with all files in it organized by album", required=False)
-        parser.add_argument('--playlist_flat', default=None, help="file path for writing a file with all playlists in it", required=False)
+        parser.add_argument('--song_list_flat', default="iTunesSongs.json", help="file path for writing a file with all files in it", required=False)
+        parser.add_argument('--albums_list_flat', default="Albums_list.json", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--artists_list_flat', default="Artists_list.json", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--albums_artists_folder_flat', default="Albums_Artists_flat", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--artists_albums_folder_flat', default="Artists_Albums_flat", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--albums_nested', default="Albums", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--artists_nested', default="Artists", help="file path for writing a file with all files in it organized by album", required=False)
+        parser.add_argument('--playlist_flat', default="iTunesPlaylists.json", help="file path for writing a file with all playlists in it", required=False)
         parser.add_argument('--outputdir', help="directory where output files get written")
 
 
@@ -176,7 +176,7 @@ def Main():
         else:
             output_dir = ""
 
-        # do some direcotry cleanup if needed
+        # do some directory cleanup if needed
         if len(output_dir) > 0 and args.media_files_dirs and not args.media_files_input and os.path.exists(output_dir):
             shutil.rmtree(output_dir)
 
