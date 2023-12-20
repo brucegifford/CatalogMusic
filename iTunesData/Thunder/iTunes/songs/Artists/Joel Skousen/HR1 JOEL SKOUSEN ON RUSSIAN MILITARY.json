@@ -1,0 +1,30 @@
+{
+    "album": "HR1 JOEL SKOUSEN ON RUSSIAN MILITARY",
+    "songs": [
+        {
+            "album": "HR1 JOEL SKOUSEN ON RUSSIAN MILITARY",
+            "artist": "Joel Skousen",
+            "bitrate": 32,
+            "comments": "Broadcast on K-Talk on Mills Crenshaw show",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-08-11T16:16:56",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Other",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Joel Skousen/HR1 JOEL SKOUSEN ON RUSSIAN MILITARY/HR1 JOEL SKOUSEN ON RUSSIAN MILITARY.mp3",
+            "name": "HR1 JOEL SKOUSEN ON RUSSIAN MILITARY",
+            "persistent_id": "3679076013247022",
+            "sample_rate": 24000,
+            "size": 41572105,
+            "total_time": 10390416,
+            "track_count": 1,
+            "track_id": 29148,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

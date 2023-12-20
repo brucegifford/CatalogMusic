@@ -1,0 +1,33 @@
+{
+    "album": "Peace Amidst Suffering",
+    "songs": [
+        {
+            "album": "Peace Amidst Suffering",
+            "album_artist": "Mary Ellen Edmunds",
+            "artist": "Mary Ellen Edmunds",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "comments": "Mary Ellen Edmunds Collection",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-12-05T04:10:56",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mary Ellen Edmunds/Peace Amidst Suffering/01 Peace Amidst Suffering.mp3",
+            "name": "Peace Amidst Suffering",
+            "normalization": 1141,
+            "persistent_id": "F536D11718DC0162",
+            "sample_rate": 44100,
+            "size": 55570998,
+            "total_time": 2758191,
+            "track_count": 1,
+            "track_id": 32006,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2010
+        }
+    ]
+}

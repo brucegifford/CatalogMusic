@@ -1,0 +1,29 @@
+{
+    "album": "BYU Devotionals",
+    "songs": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "Ernest L. Wilkinson",
+            "bitrate": 40,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-11-10T22:54:36",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Ernest L. Wilkinson/BYU Devotionals/01 America, 1776-1976.mp3",
+            "name": "America, 1776-1976",
+            "persistent_id": "C78DCDB4F0B3E331",
+            "sample_rate": 22050,
+            "size": 14749824,
+            "total_time": 2949590,
+            "track_count": 1,
+            "track_id": 23402,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1976
+        }
+    ]
+}

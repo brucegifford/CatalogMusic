@@ -1,0 +1,30 @@
+{
+    "album": "Two Churches Only",
+    "songs": [
+        {
+            "album": "Two Churches Only",
+            "artist": "D. Christian Markham",
+            "bitrate": 64,
+            "comments": "Two Churches Only - by D. Christian Markham - A critical exposé of ancient and modern deceptions, hidden agendas, and overlooked truths. Feb 2013",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2013-05-02T22:29:32",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/D. Christian Markham/Two Churches Only/01 D. Christian Markham - Highland M.mp3",
+            "name": "D. Christian Markham - Highland Meeting",
+            "persistent_id": "0FAE433F8F75BE12",
+            "sample_rate": 44100,
+            "size": 64433410,
+            "total_time": 8091324,
+            "track_count": 1,
+            "track_id": 22254,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}

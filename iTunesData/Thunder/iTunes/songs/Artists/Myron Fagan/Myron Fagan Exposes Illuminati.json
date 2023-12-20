@@ -1,0 +1,29 @@
+{
+    "album": "Myron Fagan Exposes Illuminati",
+    "songs": [
+        {
+            "album": "Myron Fagan Exposes Illuminati",
+            "artist": "Myron Fagan",
+            "artwork_count": 1,
+            "bitrate": 40,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-12-05T04:19:31",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Myron Fagan/Myron Fagan Exposes Illuminati/Myron_Fagan_Exposes_Illuminati.mp3",
+            "name": "Myron_Fagan_Exposes_Illuminati",
+            "persistent_id": "84C8BCBE3AF7FBC2",
+            "sample_rate": 22050,
+            "size": 45434154,
+            "total_time": 9084760,
+            "track_count": 1,
+            "track_id": 33068,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

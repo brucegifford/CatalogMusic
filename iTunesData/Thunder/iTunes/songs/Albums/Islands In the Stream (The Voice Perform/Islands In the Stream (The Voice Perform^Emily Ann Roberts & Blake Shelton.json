@@ -1,0 +1,38 @@
+{
+    "album": "Islands In the Stream (The Voice Performance) - Single",
+    "songs": [
+        {
+            "album": "Islands In the Stream (The Voice Performance) - Single",
+            "album_artist": "Emily Ann Roberts & Blake Shelton",
+            "artist": "Emily Ann Roberts & Blake Shelton",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "composer": "Barry Alan Gibb, Maurice Ernest Gibb & Robin Hugh Gibb",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2021-12-30T21:59:35",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Country",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Emily Ann Roberts & Blake Shelton/Islands In the Stream (The Voice Perform/01 Islands In the Stream (The Voice.m4a",
+            "name": "Islands In the Stream (The Voice Performance)",
+            "normalization": 6678,
+            "persistent_id": "F3D5BBD1966F3A58",
+            "purchased": true,
+            "release_date": "2015-12-14T12:00:00",
+            "sample_rate": 44100,
+            "size": 7270554,
+            "sort_album": "Islands In the Stream (The Voice Performance) - Single",
+            "sort_artist": "Emily Ann Roberts & Blake Shelton",
+            "sort_name": "Islands In the Stream (The Voice Performance)",
+            "total_time": 204749,
+            "track_count": 1,
+            "track_id": 4656,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

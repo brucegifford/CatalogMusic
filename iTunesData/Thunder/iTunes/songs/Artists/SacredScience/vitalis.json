@@ -1,0 +1,28 @@
+{
+    "album": "vitalis",
+    "songs": [
+        {
+            "album": "vitalis",
+            "artist": "SacredScience",
+            "bitrate": 128,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2015-11-30T16:26:24",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Alternative Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/SacredScience/vitalis/vitalis.mp3",
+            "name": "vitalis",
+            "persistent_id": "9F616D7C15039AEE",
+            "sample_rate": 48000,
+            "size": 73712159,
+            "total_time": 4606368,
+            "track_count": 1,
+            "track_id": 35388,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

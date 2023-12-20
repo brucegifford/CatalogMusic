@@ -1,0 +1,32 @@
+{
+    "album": "60 Instrumental Golden Oldies",
+    "songs": [
+        {
+            "album": "60 Instrumental Golden Oldies",
+            "album_artist": "Hot Butter",
+            "artist": "Hot Butter",
+            "artwork_count": 1,
+            "bitrate": 236,
+            "comments": "Amazon.com Song ID: 248947595",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-12-06T17:37:30",
+            "disc_count": 2,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Pop",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Hot Butter/60 Instrumental Golden Oldies/1-28 Popcorn.mp3",
+            "name": "Popcorn",
+            "persistent_id": "721A454315AA7317",
+            "sample_rate": 44100,
+            "size": 4815194,
+            "total_time": 153077,
+            "track_count": 30,
+            "track_id": 37250,
+            "track_number": 28,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

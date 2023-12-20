@@ -1,0 +1,32 @@
+{
+    "album": "The Unknown Republic / Natural Law",
+    "songs": [
+        {
+            "album": "The Unknown Republic / Natural Law",
+            "artist": "Stephen Pratt",
+            "bitrate": 64,
+            "comments": "Steve Pratt lecture. January 8, 2010. Orem, UT. The Unknown Republic / Natural Law.",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-03-18T20:34:52",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Stephen Pratt/The Unknown Republic _ Natural Law/01 The Unknown Republic _ Natural La.mp3",
+            "name": "The Unknown Republic / Natural Law",
+            "persistent_id": "F9E671441025773A",
+            "sample_rate": 44100,
+            "size": 78248134,
+            "sort_album": "Unknown Republic / Natural Law",
+            "sort_name": "Unknown Republic / Natural Law",
+            "total_time": 9778886,
+            "track_count": 1,
+            "track_id": 36288,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2010
+        }
+    ]
+}

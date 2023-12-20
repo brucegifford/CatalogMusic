@@ -1,0 +1,29 @@
+{
+    "album": "In Pieces",
+    "songs": [
+        {
+            "album": "In Pieces",
+            "artist": "Garth Brooks",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "composer": "Garth Brooks, Jenny Yates",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2021-02-15T02:59:20",
+            "file_folder_count": 5,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/In Pieces/01 Standing Outside the Fire.mp3",
+            "name": "Standing Outside the Fire",
+            "normalization": 5884,
+            "persistent_id": "954A18229B4DCD92",
+            "sample_rate": 44100,
+            "size": 4749380,
+            "total_time": 232359,
+            "track_id": 23468,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1998
+        }
+    ]
+}

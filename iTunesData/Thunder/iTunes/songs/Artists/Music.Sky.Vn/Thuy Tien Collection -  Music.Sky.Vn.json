@@ -1,0 +1,31 @@
+{
+    "album": "Thuy Tien Collection -  Music.Sky.Vn",
+    "songs": [
+        {
+            "album": "Thuy Tien Collection -  Music.Sky.Vn",
+            "album_artist": "Music.Sky.Vn",
+            "artist": "Thuy Tien & Luong Tung Quang",
+            "artwork_count": 1,
+            "bitrate": 192,
+            "comments": "Luv24h Blog 360",
+            "composer": "Music.Sky.Vn",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-11-10T23:51:12",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Luv24H Blog 360",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Music.Sky.Vn/Thuy Tien Collection -  Music.Sky.Vn/08 Con Mua Bat Chot.mp3",
+            "name": "Con Mua Bat Chot",
+            "persistent_id": "503CC1E60120C285",
+            "sample_rate": 44100,
+            "size": 6414329,
+            "total_time": 265874,
+            "track_id": 33066,
+            "track_number": 8,
+            "track_type": "File"
+        }
+    ]
+}

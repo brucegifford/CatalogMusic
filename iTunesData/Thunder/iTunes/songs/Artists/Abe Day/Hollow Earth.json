@@ -1,0 +1,29 @@
+{
+    "album": "Hollow Earth",
+    "songs": [
+        {
+            "album": "Hollow Earth",
+            "artist": "Abe Day",
+            "bitrate": 64,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2013-05-02T20:49:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Abe Day/Hollow Earth/Abe-Day-Living-Earth-Highland-2013-M.mp3",
+            "name": "Abe-Day-Living-Earth-Highland-2013-M",
+            "persistent_id": "79117469FCED8580",
+            "sample_rate": 44100,
+            "size": 32315866,
+            "total_time": 4057573,
+            "track_count": 1,
+            "track_id": 17892,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}

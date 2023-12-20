@@ -1,0 +1,28 @@
+{
+    "album": "Behold the enemy is combined",
+    "songs": [
+        {
+            "album": "Behold the enemy is combined",
+            "artist": "Neal A. Maxwell",
+            "bitrate": 128,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-05-21T22:55:41",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Neal A. Maxwell/Behold the enemy is combined/neal-a-maxwell-behold-the-enemy-is-c.mp3",
+            "name": "neal-a-maxwell-behold-the-enemy-is-c",
+            "persistent_id": "176E81BC173E6122",
+            "sample_rate": 44100,
+            "size": 15912028,
+            "total_time": 993854,
+            "track_count": 1,
+            "track_id": 33070,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

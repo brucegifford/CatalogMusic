@@ -1,0 +1,29 @@
+{
+    "album": "Autism_Health+CD_09_05_2012",
+    "songs": [
+        {
+            "album": "Autism_Health+CD_09_05_2012",
+            "artist": "Jack Stockwell",
+            "bitrate": 126,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2015-01-07T00:50:02",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Autism_Health+CD_09_05_2012/Autism_Health+CD_09_05_2012.mp3",
+            "name": "Autism_Health+CD_09_05_2012",
+            "persistent_id": "A8361B0A7915506A",
+            "sample_rate": 44100,
+            "size": 62569430,
+            "total_time": 4393978,
+            "track_count": 1,
+            "track_id": 26910,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2012
+        }
+    ]
+}

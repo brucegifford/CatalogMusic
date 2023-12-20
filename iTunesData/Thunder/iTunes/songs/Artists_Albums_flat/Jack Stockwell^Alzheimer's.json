@@ -1,0 +1,28 @@
+{
+    "album": "Alzheimer's",
+    "songs": [
+        {
+            "album": "Alzheimer's",
+            "artist": "Jack Stockwell",
+            "bitrate": 128,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2015-01-06T22:20:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Alzheimer's/Alzheimer's.mp3",
+            "name": "Alzheimer's",
+            "persistent_id": "149B1C4C89FEE44A",
+            "sample_rate": 44100,
+            "size": 58067788,
+            "total_time": 3628591,
+            "track_count": 1,
+            "track_id": 26904,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

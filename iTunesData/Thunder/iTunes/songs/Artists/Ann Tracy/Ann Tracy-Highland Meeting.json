@@ -1,0 +1,30 @@
+{
+    "album": "Ann Tracy-Highland Meeting",
+    "songs": [
+        {
+            "album": "Ann Tracy-Highland Meeting",
+            "artist": "Ann Tracy",
+            "bitrate": 64,
+            "comments": "Highland Meeting (May 3, 2014): Ann Tracy speaking on epidemic of prescription Psychotropic drug usage in the US and how it is destroying so many individuals and families. You may not know that nearly every mass shooter in the past 15 years has been on th",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-11-12T21:59:10",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Ann Tracy/Ann Tracy-Highland Meeting/01 Ann Tracy-Highland Meeting.mp3",
+            "name": "Ann Tracy-Highland Meeting",
+            "persistent_id": "E1FB67CE38A07B0B",
+            "sample_rate": 44100,
+            "size": 51939636,
+            "total_time": 6520999,
+            "track_count": 1,
+            "track_id": 18392,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

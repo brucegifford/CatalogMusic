@@ -1,0 +1,30 @@
+{
+    "album": "1980 MTC Talk",
+    "songs": [
+        {
+            "album": "1980 MTC Talk",
+            "artist": "Murray Rawson",
+            "bitrate": 16,
+            "comments": "Murray Rawson - IndianTraditions - 1980 MTC Talk",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2009-09-15T01:27:46",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Murray Rawson/1980 MTC Talk/01 01 01 MurrayRawson-IndianTraditio.mp3",
+            "name": "01 01 MurrayRawson-IndianTraditions",
+            "persistent_id": "6DBF3398C3B3EB7E",
+            "sample_rate": 11025,
+            "size": 8371996,
+            "total_time": 4180793,
+            "track_count": 1,
+            "track_id": 33064,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1980
+        }
+    ]
+}

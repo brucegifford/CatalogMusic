@@ -1,0 +1,32 @@
+{
+    "album": "John Fox Conversion Story",
+    "songs": [
+        {
+            "album": "John Fox Conversion Story",
+            "album_artist": "hosted by www.awakeandarise.org",
+            "artist": "John Fox",
+            "artwork_count": 1,
+            "bitrate": 16,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2013-12-18T01:23:20",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/hosted by www.awakeandarise.org/John Fox Conversion Story/01 John Fox Conversion Story.mp3",
+            "name": "John Fox Conversion Story",
+            "normalization": 2000,
+            "persistent_id": "B6A51F768C69BDAE",
+            "sample_rate": 11025,
+            "size": 4631054,
+            "total_time": 2218109,
+            "track_count": 1,
+            "track_id": 25564,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1992
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "album": "Christmas Cookies",
+    "songs": [
+        {
+            "album": "Christmas Cookies",
+            "album_artist": "George Strait",
+            "artist": "George Strait",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "composer": "Aaron Barker",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-11-28T04:46:40",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Holiday",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Christmas Cookies/01 Christmas Cookies.m4a",
+            "name": "Christmas Cookies",
+            "normalization": 1230,
+            "persistent_id": "AB3B8BF7CE92F70E",
+            "purchased": true,
+            "release_date": "2001-01-01T12:00:00",
+            "sample_rate": 44100,
+            "size": 7098088,
+            "sort_album": "Christmas Cookies",
+            "sort_artist": "George Strait",
+            "sort_name": "Christmas Cookies",
+            "total_time": 198293,
+            "track_count": 15,
+            "track_id": 4646,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2001
+        }
+    ]
+}

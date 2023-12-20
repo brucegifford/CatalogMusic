@@ -1,0 +1,53 @@
+{
+    "album": "My Home's in Alabama",
+    "songs": [
+        {
+            "album": "My Home's in Alabama",
+            "artist": "Alabama",
+            "bitrate": 128,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2021-10-21T23:58:22",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/My Home's in Alabama/03 Why Lady Why.mp3",
+            "name": "Why Lady Why",
+            "persistent_id": "410583C48AB00C3C",
+            "sample_rate": 44100,
+            "size": 3047027,
+            "total_time": 189283,
+            "track_count": 10,
+            "track_id": 18080,
+            "track_number": 3,
+            "track_type": "File",
+            "year": 1980
+        },
+        {
+            "album": "My Home's in Alabama",
+            "artist": "Alabama",
+            "bitrate": 128,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2021-10-21T23:58:22",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/My Home's in Alabama/06 Tennessee River.mp3",
+            "name": "Tennessee River",
+            "persistent_id": "B07373E537B0110B",
+            "sample_rate": 44100,
+            "size": 2939193,
+            "total_time": 182543,
+            "track_count": 10,
+            "track_id": 18082,
+            "track_number": 6,
+            "track_type": "File",
+            "year": 1980
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "album": "BYU Education Week 2000",
+    "songs": [
+        {
+            "album": "BYU Education Week 2000",
+            "artist": "E. Dale LeBaron",
+            "bitrate": 32,
+            "composer": "BYU Broadcasting",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2014-11-10T22:54:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/E. Dale LeBaron/BYU Education Week 2000/01 The Book of Mormon in Preparing A.mp3",
+            "name": "The Book of Mormon in Preparing A People For the Savior...",
+            "persistent_id": "AE85FDCEC815C309",
+            "sample_rate": 32000,
+            "size": 12167603,
+            "sort_name": "Book of Mormon in Preparing A People For the Savior...",
+            "total_time": 3039228,
+            "track_count": 1,
+            "track_id": 23382,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2002
+        }
+    ]
+}

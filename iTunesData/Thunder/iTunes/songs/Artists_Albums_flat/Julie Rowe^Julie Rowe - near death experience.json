@@ -1,0 +1,31 @@
+{
+    "album": "Julie Rowe - near death experience",
+    "songs": [
+        {
+            "album": "Julie Rowe - near death experience",
+            "artist": "Julie Rowe",
+            "artwork_count": 1,
+            "bitrate": 32,
+            "comments": "Broadcast on K-Talk radio Mills Crenshaw radio show 7-16-2014",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2022-12-05T03:20:21",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Other",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Julie Rowe/Julie Rowe - near death experience/2014 0716 JULIE ROWE NDE.mp3",
+            "name": "2014 0716 JULIE ROWE NDE",
+            "persistent_id": "285125D69939A7D4",
+            "sample_rate": 24000,
+            "size": 41735334,
+            "total_time": 10388640,
+            "track_count": 1,
+            "track_id": 30390,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

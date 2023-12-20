@@ -1,0 +1,53 @@
+{
+    "album": "Animal Based Diet - New Health CD",
+    "songs": [
+        {
+            "album": "Animal Based Diet - New Health CD",
+            "artist": "Jack Stockwell",
+            "bitrate": 124,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2015-01-07T20:37:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Animal Based Diet - New Health CD/01 Part1.mp3",
+            "name": "Part1",
+            "persistent_id": "B8161BD00C6F2096",
+            "sample_rate": 44100,
+            "size": 65928137,
+            "total_time": 4497632,
+            "track_count": 2,
+            "track_id": 26906,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        },
+        {
+            "album": "Animal Based Diet - New Health CD",
+            "artist": "Jack Stockwell",
+            "bitrate": 124,
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2015-01-07T20:37:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Animal Based Diet - New Health CD/02 Part2.mp3",
+            "name": "Part2",
+            "persistent_id": "7494C51743085DAD",
+            "sample_rate": 44100,
+            "size": 19646921,
+            "total_time": 1263307,
+            "track_count": 2,
+            "track_id": 26908,
+            "track_number": 2,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}

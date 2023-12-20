@@ -1,0 +1,29 @@
+{
+    "album": "Sarah Menet",
+    "songs": [
+        {
+            "album": "Sarah Menet",
+            "artist": "Sarah Menet",
+            "bitrate": 64,
+            "comments": "Recorded 6/4/2011",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2018-12-02T00:04:36",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "kind": "AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Sarah Menet/Sarah Menet/01 Sarah Menet.m4a",
+            "name": "Sarah Menet",
+            "persistent_id": "F176460497670397",
+            "sample_rate": 44100,
+            "size": 4853610,
+            "total_time": 593523,
+            "track_count": 1,
+            "track_id": 35390,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2011
+        }
+    ]
+}
