@@ -1,0 +1,35 @@
+{
+    "album": "The Bourne Ultimate Collection",
+    "songs": [
+        {
+            "album": "The Bourne Ultimate Collection",
+            "artist": "Paul Greengrass",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for intense sequences of violence and action, and brief strong language.",
+            "date_added": "2017-11-17T05:19:30",
+            "date_modified": "2017-11-17T06:19:30",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Jason Bourne",
+            "persistent_id": "0549840DA3F3A144",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-07-29T07:00:00",
+            "size": 5176396651,
+            "sort_album": "Bourne Ultimate Collection",
+            "sort_artist": "Paul Greengrass",
+            "sort_name": "Jason Bourne",
+            "total_time": 7391680,
+            "track_count": 5,
+            "track_id": 4486,
+            "track_number": 5,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

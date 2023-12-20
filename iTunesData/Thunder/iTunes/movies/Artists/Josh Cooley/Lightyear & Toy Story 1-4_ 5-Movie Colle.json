@@ -1,0 +1,35 @@
+{
+    "album": "Lightyear & Toy Story 1-4: 5-Movie Collection",
+    "songs": [
+        {
+            "album": "Lightyear & Toy Story 1-4: 5-Movie Collection",
+            "artist": "Josh Cooley",
+            "artwork_count": 1,
+            "content_rating": "mpaa|G|100|",
+            "date_added": "2019-10-29T23:36:07",
+            "date_modified": "2019-10-30T00:36:07",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Toy Story 4",
+            "persistent_id": "AC5BF190BC90A0FC",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2019-06-21T07:00:00",
+            "size": 4092836266,
+            "sort_album": "Lightyear & Toy Story 1-4: 5-Movie Collection",
+            "sort_artist": "Josh Cooley",
+            "sort_name": "Toy Story 4",
+            "total_time": 6032608,
+            "track_count": 5,
+            "track_id": 4584,
+            "track_number": 4,
+            "track_type": "Remote",
+            "year": 2019
+        }
+    ]
+}

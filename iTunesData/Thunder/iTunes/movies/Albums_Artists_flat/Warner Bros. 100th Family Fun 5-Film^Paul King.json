@@ -1,0 +1,33 @@
+{
+    "album": "Warner Bros. 100th Family Fun 5-Film",
+    "songs": [
+        {
+            "album": "Warner Bros. 100th Family Fun 5-Film",
+            "artist": "Paul King",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some action and mild rude humor.",
+            "date_added": "2019-03-24T19:44:28",
+            "date_modified": "2019-03-24T20:44:28",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Paddington 2",
+            "persistent_id": "93E7FFB40E479C83",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-01-12T08:00:00",
+            "size": 4223256902,
+            "sort_album": "Warner Bros. 100th Family Fun 5-Film",
+            "sort_artist": "Paul King",
+            "sort_name": "Paddington 2",
+            "total_time": 6223133,
+            "track_count": 5,
+            "track_id": 4642,
+            "track_number": 4,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

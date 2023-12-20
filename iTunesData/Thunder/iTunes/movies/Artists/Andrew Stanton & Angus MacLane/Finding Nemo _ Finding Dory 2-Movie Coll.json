@@ -1,0 +1,35 @@
+{
+    "album": "Finding Nemo / Finding Dory 2-Movie Collection",
+    "songs": [
+        {
+            "album": "Finding Nemo / Finding Dory 2-Movie Collection",
+            "artist": "Andrew Stanton & Angus MacLane",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for mild thematic elements.",
+            "date_added": "2016-12-27T00:09:24",
+            "date_modified": "2016-12-27T01:09:24",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Finding Dory",
+            "persistent_id": "05C7F53AB585C57F",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-06-17T07:00:00",
+            "size": 4351352702,
+            "sort_album": "Finding Nemo / Finding Dory 2-Movie Collection",
+            "sort_artist": "Andrew Stanton & Angus MacLane",
+            "sort_name": "Finding Dory",
+            "total_time": 5822975,
+            "track_count": 2,
+            "track_id": 4586,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

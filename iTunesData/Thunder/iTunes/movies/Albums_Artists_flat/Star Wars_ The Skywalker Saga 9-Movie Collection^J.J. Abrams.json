@@ -1,0 +1,35 @@
+{
+    "album": "Star Wars: The Skywalker Saga 9-Movie Collection",
+    "songs": [
+        {
+            "album": "Star Wars: The Skywalker Saga 9-Movie Collection",
+            "artist": "J.J. Abrams",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for sci-fi action violence.",
+            "date_added": "2017-12-30T22:47:09",
+            "date_modified": "2017-12-30T23:47:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Star Wars: The Force Awakens",
+            "persistent_id": "12BE58173E4E6F63",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2015-12-18T08:00:00",
+            "size": 5617330705,
+            "sort_album": "Star Wars: The Skywalker Saga 9-Movie Collection",
+            "sort_artist": "J.J. Abrams",
+            "sort_name": "Star Wars: The Force Awakens",
+            "total_time": 8302127,
+            "track_count": 9,
+            "track_id": 4690,
+            "track_number": 7,
+            "track_type": "Remote",
+            "year": 2015
+        }
+    ]
+}

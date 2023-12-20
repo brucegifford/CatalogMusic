@@ -1,0 +1,35 @@
+{
+    "album": "DC Heroes 11 Film Collection",
+    "songs": [
+        {
+            "album": "DC Heroes 11 Film Collection",
+            "artist": "Patty Jenkins",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for sequences of violence and action, and some suggestive content.",
+            "date_added": "2017-10-11T00:57:38",
+            "date_modified": "2017-10-11T01:57:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Wonder Woman (2017)",
+            "persistent_id": "F89EFE7A1E3A0A7E",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-06-02T07:00:00",
+            "size": 5903325426,
+            "sort_album": "DC Heroes 11 Film Collection",
+            "sort_artist": "Patty Jenkins",
+            "sort_name": "Wonder Woman (2017)",
+            "total_time": 8482515,
+            "track_count": 11,
+            "track_id": 4518,
+            "track_number": 5,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

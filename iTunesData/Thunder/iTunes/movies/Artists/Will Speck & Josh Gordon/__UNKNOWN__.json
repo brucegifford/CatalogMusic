@@ -1,0 +1,31 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Will Speck & Josh Gordon",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for mild peril and thematic elements.",
+            "date_added": "2023-08-02T16:29:02",
+            "date_modified": "2023-08-02T16:29:02",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Lyle, Lyle, Crocodile",
+            "persistent_id": "B0F8AF25DD5D2CC4",
+            "play_count": 1,
+            "play_date": 3773824278,
+            "play_date_utc": "2023-08-02T18:31:18",
+            "purchased": true,
+            "release_date": "2022-10-07T07:00:00",
+            "size": 4450021648,
+            "sort_artist": "Will Speck & Josh Gordon",
+            "sort_name": "Lyle, Lyle, Crocodile",
+            "total_time": 6407148,
+            "track_id": 41608,
+            "track_type": "Remote",
+            "year": 2022
+        }
+    ]
+}

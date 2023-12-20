@@ -1,0 +1,29 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Josh Cooley, Domee Shi, Dave Mullins, Alan Barillaro, Sanjay Patel, James Ford Murphy, Rob Gibbs, Scott Morse, Kelsey Mann, Saschka Unseld, Mark Walsh & Brian Larsen",
+            "artwork_count": 1,
+            "content_rating": "mpaa|G|100|",
+            "date_added": "2018-12-29T17:53:33",
+            "date_modified": "2018-12-29T18:53:33",
+            "genre": "Short Films",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Pixar Short Films Collection: Volume 3",
+            "persistent_id": "0287BE683D59DCB1",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-11-13T08:00:00",
+            "size": 3460125922,
+            "sort_artist": "Josh Cooley, Domee Shi, Dave Mullins, Alan Barillaro, Sanjay Patel, James Ford Murphy, Rob Gibbs, Scott Morse, Kelsey Mann, Saschka Unseld, Mark Walsh & Brian Larsen",
+            "sort_name": "Pixar Short Films Collection: Volume 3",
+            "total_time": 4671378,
+            "track_id": 4652,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

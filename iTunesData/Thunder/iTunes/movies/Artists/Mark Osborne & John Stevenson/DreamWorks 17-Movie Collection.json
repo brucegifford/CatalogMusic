@@ -1,0 +1,35 @@
+{
+    "album": "DreamWorks 17-Movie Collection",
+    "songs": [
+        {
+            "album": "DreamWorks 17-Movie Collection",
+            "artist": "Mark Osborne & John Stevenson",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2015-12-28T03:01:34",
+            "date_modified": "2015-12-28T04:01:34",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Kung Fu Panda",
+            "persistent_id": "8F308116110528C3",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2008-06-06T07:00:00",
+            "size": 3661934540,
+            "sort_album": "DreamWorks 17-Movie Collection",
+            "sort_artist": "Mark Osborne & John Stevenson",
+            "sort_name": "Kung Fu Panda",
+            "total_time": 5551675,
+            "track_count": 17,
+            "track_id": 4530,
+            "track_number": 5,
+            "track_type": "Remote",
+            "year": 2008
+        }
+    ]
+}

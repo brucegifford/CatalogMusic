@@ -1,0 +1,35 @@
+{
+    "album": "Happy Feet 1 & 2",
+    "songs": [
+        {
+            "album": "Happy Feet 1 & 2",
+            "artist": "George Miller",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some mild peril and rude humor.",
+            "date_added": "2018-12-24T23:17:59",
+            "date_modified": "2018-12-25T00:17:59",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Happy Feet",
+            "persistent_id": "19260EE864879230",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2006-11-17T08:00:00",
+            "size": 4128958130,
+            "sort_album": "Happy Feet 1 & 2",
+            "sort_artist": "George Miller",
+            "sort_name": "Happy Feet",
+            "total_time": 6513760,
+            "track_count": 2,
+            "track_id": 4640,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2006
+        }
+    ]
+}

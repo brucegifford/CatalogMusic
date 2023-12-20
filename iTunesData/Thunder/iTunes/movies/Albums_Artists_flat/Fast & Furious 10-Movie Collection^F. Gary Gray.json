@@ -1,0 +1,35 @@
+{
+    "album": "Fast & Furious 10-Movie Collection",
+    "songs": [
+        {
+            "album": "Fast & Furious 10-Movie Collection",
+            "artist": "F. Gary Gray",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|",
+            "date_added": "2018-12-24T23:46:09",
+            "date_modified": "2018-12-25T00:46:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Fate of the Furious",
+            "persistent_id": "07C545A437BF10F8",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-04-14T07:00:00",
+            "size": 5649309250,
+            "sort_album": "Fast & Furious 10-Movie Collection",
+            "sort_artist": "F. Gary Gray",
+            "sort_name": "Fate of the Furious",
+            "total_time": 8157472,
+            "track_count": 10,
+            "track_id": 4538,
+            "track_number": 8,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

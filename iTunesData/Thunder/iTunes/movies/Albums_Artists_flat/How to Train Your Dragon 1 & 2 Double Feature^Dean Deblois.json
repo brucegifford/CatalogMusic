@@ -1,0 +1,35 @@
+{
+    "album": "How to Train Your Dragon 1 & 2 Double Feature",
+    "songs": [
+        {
+            "album": "How to Train Your Dragon 1 & 2 Double Feature",
+            "artist": "Dean Deblois",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for adventure action and some mild rude humor.",
+            "date_added": "2016-06-23T02:40:18",
+            "date_modified": "2019-02-13T05:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "How to Train Your Dragon 2",
+            "persistent_id": "016ECA4A0F0E790D",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2014-06-13T07:00:00",
+            "size": 4225497272,
+            "sort_album": "How to Train Your Dragon 1 & 2 Double Feature",
+            "sort_artist": "Dean Deblois",
+            "sort_name": "How to Train Your Dragon 2",
+            "total_time": 6155153,
+            "track_count": 2,
+            "track_id": 4636,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2014
+        }
+    ]
+}

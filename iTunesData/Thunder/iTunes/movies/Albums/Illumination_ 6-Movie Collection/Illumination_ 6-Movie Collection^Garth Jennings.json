@@ -1,0 +1,37 @@
+{
+    "album": "Illumination: 6-Movie Collection",
+    "songs": [
+        {
+            "album": "Illumination: 6-Movie Collection",
+            "artist": "Garth Jennings",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some rude humor and mild peril.",
+            "date_added": "2017-10-11T02:16:47",
+            "date_modified": "2019-02-13T05:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Sing",
+            "persistent_id": "AE2549E5F461F872",
+            "play_count": 1,
+            "play_date": 3772614376,
+            "play_date_utc": "2023-07-19T18:26:16",
+            "purchased": true,
+            "release_date": "2016-12-21T08:00:00",
+            "size": 5102666840,
+            "sort_album": "Illumination: 6-Movie Collection",
+            "sort_artist": "Garth Jennings",
+            "sort_name": "Sing",
+            "total_time": 6474112,
+            "track_count": 6,
+            "track_id": 4724,
+            "track_number": 5,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

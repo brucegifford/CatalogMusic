@@ -1,0 +1,34 @@
+{
+    "album": "COLEÇÃO LEGO (4 FILMES)",
+    "songs": [
+        {
+            "album": "COLEÇÃO LEGO (4 FILMES)",
+            "artist": "Mike Mitchell",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some rude humor.",
+            "date_added": "2019-07-29T00:00:03",
+            "date_modified": "2019-07-29T01:00:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The LEGO Movie 2: The Second Part",
+            "persistent_id": "D74720BBD54F7F8F",
+            "purchased": true,
+            "release_date": "2019-02-08T08:00:00",
+            "size": 4429198564,
+            "sort_album": "COLEÇÃO LEGO (4 FILMES)",
+            "sort_artist": "Mike Mitchell",
+            "sort_name": "LEGO Movie 2: The Second Part",
+            "total_time": 6432717,
+            "track_count": 4,
+            "track_id": 4550,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2019
+        }
+    ]
+}

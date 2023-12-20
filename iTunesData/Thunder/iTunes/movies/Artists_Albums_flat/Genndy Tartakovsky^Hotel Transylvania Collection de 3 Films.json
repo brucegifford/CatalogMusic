@@ -1,0 +1,35 @@
+{
+    "album": "Hotel Transylvania Collection de 3 Films",
+    "songs": [
+        {
+            "album": "Hotel Transylvania Collection de 3 Films",
+            "artist": "Genndy Tartakovsky",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some action and rude humor.",
+            "date_added": "2018-10-20T02:05:30",
+            "date_modified": "2018-10-20T03:05:30",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Hotel Transylvania 3",
+            "persistent_id": "1118CAD388275767",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-07-13T07:00:00",
+            "size": 4502215738,
+            "sort_album": "Hotel Transylvania Collection de 3 Films",
+            "sort_artist": "Genndy Tartakovsky",
+            "sort_name": "Hotel Transylvania 3",
+            "total_time": 5839712,
+            "track_count": 3,
+            "track_id": 4662,
+            "track_number": 3,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

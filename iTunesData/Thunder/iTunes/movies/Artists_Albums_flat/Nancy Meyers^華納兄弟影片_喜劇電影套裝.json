@@ -1,0 +1,35 @@
+{
+    "album": "華納兄弟影片:喜劇電影套裝",
+    "songs": [
+        {
+            "album": "華納兄弟影片:喜劇電影套裝",
+            "artist": "Nancy Meyers",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for some suggestive content and brief strong language.",
+            "date_added": "2018-09-03T21:20:10",
+            "date_modified": "2018-09-03T22:20:10",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Comedy",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Intern",
+            "persistent_id": "6B6079F8C266A638",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-01-11T08:00:00",
+            "size": 5617140367,
+            "sort_album": "華納兄弟影片:喜劇電影套裝",
+            "sort_artist": "Nancy Meyers",
+            "sort_name": "Intern",
+            "total_time": 7296878,
+            "track_count": 8,
+            "track_id": 4674,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

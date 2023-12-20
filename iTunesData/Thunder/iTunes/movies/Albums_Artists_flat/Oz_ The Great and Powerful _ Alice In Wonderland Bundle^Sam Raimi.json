@@ -1,0 +1,35 @@
+{
+    "album": "Oz: The Great and Powerful / Alice In Wonderland Bundle",
+    "songs": [
+        {
+            "album": "Oz: The Great and Powerful / Alice In Wonderland Bundle",
+            "artist": "Sam Raimi",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for sequences of action & scary images, and brief mild language",
+            "date_added": "2019-01-20T04:25:50",
+            "date_modified": "2019-01-20T05:25:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Oz the Great and Powerful",
+            "persistent_id": "A44500DF8A83CE0E",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2013-03-08T08:00:00",
+            "size": 5412255107,
+            "sort_album": "Oz: The Great and Powerful / Alice In Wonderland Bundle",
+            "sort_artist": "Sam Raimi",
+            "sort_name": "Oz the Great and Powerful",
+            "total_time": 7898855,
+            "track_count": 2,
+            "track_id": 4706,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2013
+        }
+    ]
+}

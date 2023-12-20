@@ -1,0 +1,42 @@
+{
+    "album": "The Incredibles / Incredibles 2 2-Movie Collection",
+    "songs": [
+        {
+            "album": "The Incredibles / Incredibles 2 2-Movie Collection",
+            "artist": "Pixar",
+            "artwork_count": 1,
+            "bitrate": 153,
+            "content_rating": "mpaa|PG|200|For action violence.",
+            "date_added": "2014-03-30T02:52:39",
+            "date_modified": "2022-05-21T03:36:15",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Protected MPEG-4 video file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Movies/The Incredibles/01 The Incredibles (HD) 2.m4v",
+            "movie": true,
+            "name": "The Incredibles",
+            "persistent_id": "BCEB4677A9762F73",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2004-11-05T08:00:00",
+            "size": 4196994611,
+            "sort_album": "Incredibles / Incredibles 2 2-Movie Collection",
+            "sort_artist": "Pixar",
+            "sort_name": "Incredibles",
+            "total_time": 6947857,
+            "track_count": 2,
+            "track_id": 4670,
+            "track_number": 1,
+            "track_type": "File",
+            "video_height": 534,
+            "video_width": 1280,
+            "year": 2004
+        }
+    ]
+}

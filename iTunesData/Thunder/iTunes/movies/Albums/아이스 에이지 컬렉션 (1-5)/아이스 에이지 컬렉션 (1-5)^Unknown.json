@@ -1,0 +1,35 @@
+{
+    "album": "아이스 에이지 컬렉션 (1-5)",
+    "songs": [
+        {
+            "album": "아이스 에이지 컬렉션 (1-5)",
+            "artist": "Unknown",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|For mild peril. ",
+            "date_added": "2017-11-17T05:16:44",
+            "date_modified": "2017-11-17T06:16:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Ice Age",
+            "persistent_id": "1C1A6BBC0ED33B7C",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2002-03-15T08:00:00",
+            "size": 3686717990,
+            "sort_album": "아이스 에이지 컬렉션 (1-5)",
+            "sort_artist": "Unknown",
+            "sort_name": "Ice Age",
+            "total_time": 4887887,
+            "track_count": 5,
+            "track_id": 4508,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2002
+        }
+    ]
+}

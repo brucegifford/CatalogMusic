@@ -1,0 +1,35 @@
+{
+    "album": "Ocean’s – Collection 4 films",
+    "songs": [
+        {
+            "album": "Ocean’s – Collection 4 films",
+            "artist": "Gary Ross",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for language, drug use, and some suggestive content.",
+            "date_added": "2018-10-20T02:07:58",
+            "date_modified": "2018-10-20T03:07:58",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Ocean's 8",
+            "persistent_id": "3086AFE0FF2A353D",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-06-08T07:00:00",
+            "size": 4644387327,
+            "sort_album": "Ocean’s – Collection 4 films",
+            "sort_artist": "Gary Ross",
+            "sort_name": "Ocean's 8",
+            "total_time": 6613772,
+            "track_count": 4,
+            "track_id": 4684,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

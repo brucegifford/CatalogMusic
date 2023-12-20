@@ -1,0 +1,35 @@
+{
+    "album": "Finding Nemo / Up",
+    "songs": [
+        {
+            "album": "Finding Nemo / Up",
+            "artist": "Pixar",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some peril and action.",
+            "date_added": "2016-06-22T23:27:04",
+            "date_modified": "2016-06-23T00:27:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Up",
+            "persistent_id": "6DDF869D1DF12174",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2009-05-29T07:00:00",
+            "size": 4370846220,
+            "sort_album": "Finding Nemo / Up",
+            "sort_artist": "Pixar",
+            "sort_name": "Up",
+            "total_time": 5817023,
+            "track_count": 2,
+            "track_id": 4660,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2009
+        }
+    ]
+}

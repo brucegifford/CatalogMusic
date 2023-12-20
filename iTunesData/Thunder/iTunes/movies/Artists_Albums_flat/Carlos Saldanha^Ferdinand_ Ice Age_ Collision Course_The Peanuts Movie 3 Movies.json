@@ -1,0 +1,35 @@
+{
+    "album": "Ferdinand/ Ice Age: Collision Course/The Peanuts Movie 3 Movies",
+    "songs": [
+        {
+            "album": "Ferdinand/ Ice Age: Collision Course/The Peanuts Movie 3 Movies",
+            "artist": "Carlos Saldanha",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2018-03-17T02:22:48",
+            "date_modified": "2018-03-17T03:22:48",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Ferdinand",
+            "persistent_id": "4F500DA0A85961E6",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-12-15T08:00:00",
+            "size": 4507128862,
+            "sort_album": "Ferdinand/ Ice Age: Collision Course/The Peanuts Movie 3 Movies",
+            "sort_artist": "Carlos Saldanha",
+            "sort_name": "Ferdinand",
+            "total_time": 6512630,
+            "track_count": 3,
+            "track_id": 4510,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

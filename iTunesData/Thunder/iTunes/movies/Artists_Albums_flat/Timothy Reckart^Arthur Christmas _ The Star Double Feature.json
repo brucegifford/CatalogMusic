@@ -1,0 +1,35 @@
+{
+    "album": "Arthur Christmas / The Star Double Feature",
+    "songs": [
+        {
+            "album": "Arthur Christmas / The Star Double Feature",
+            "artist": "Timothy Reckart",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some thematic elements.",
+            "date_added": "2018-03-17T02:25:27",
+            "date_modified": "2018-03-17T03:25:27",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Star",
+            "persistent_id": "B6F87C2D9F62626A",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-11-17T08:00:00",
+            "size": 3967820413,
+            "sort_album": "Arthur Christmas / The Star Double Feature",
+            "sort_artist": "Timothy Reckart",
+            "sort_name": "Star",
+            "total_time": 5183850,
+            "track_count": 2,
+            "track_id": 4644,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

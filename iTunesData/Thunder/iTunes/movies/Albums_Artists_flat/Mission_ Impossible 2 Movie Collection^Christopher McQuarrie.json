@@ -1,0 +1,35 @@
+{
+    "album": "Mission: Impossible 2 Movie Collection",
+    "songs": [
+        {
+            "album": "Mission: Impossible 2 Movie Collection",
+            "artist": "Christopher McQuarrie",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|Rated PG-13 for violence and intense sequences of action, and for brief strong language.",
+            "date_added": "2018-12-29T18:00:58",
+            "date_modified": "2019-02-13T05:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Mission: Impossible - Fallout",
+            "persistent_id": "630DE39D87D2B14F",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-07-27T07:00:00",
+            "size": 6705972845,
+            "sort_album": "Mission: Impossible 2 Movie Collection",
+            "sort_artist": "Christopher McQuarrie",
+            "sort_name": "Mission: Impossible - Fallout",
+            "total_time": 8873322,
+            "track_count": 2,
+            "track_id": 4618,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

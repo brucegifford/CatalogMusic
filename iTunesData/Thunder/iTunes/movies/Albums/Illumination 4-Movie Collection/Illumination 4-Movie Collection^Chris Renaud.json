@@ -1,0 +1,35 @@
+{
+    "album": "Illumination 4-Movie Collection",
+    "songs": [
+        {
+            "album": "Illumination 4-Movie Collection",
+            "artist": "Chris Renaud",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for action and some rude humor.",
+            "date_added": "2017-10-11T02:28:38",
+            "date_modified": "2019-02-13T05:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Secret Life of Pets",
+            "persistent_id": "713421CDD860315F",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-07-08T07:00:00",
+            "size": 3988785682,
+            "sort_album": "Illumination 4-Movie Collection",
+            "sort_artist": "Chris Renaud",
+            "sort_name": "Secret Life of Pets",
+            "total_time": 5187680,
+            "track_count": 4,
+            "track_id": 4654,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}
