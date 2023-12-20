@@ -1,0 +1,37 @@
+{
+    "album": "Sesame Street: Free Episode",
+    "songs": [
+        {
+            "album": "Sesame Street: Free Episode",
+            "artist": "Sesame Street",
+            "artwork_count": 1,
+            "content_rating": "us-tv|TV-Y|100|",
+            "date_added": "2014-01-04T22:15:26",
+            "date_modified": "2019-02-13T05:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "episode_order": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Protected MPEG-4 video file",
+            "name": "Great Vibrations",
+            "persistent_id": "010737CC61A59851",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2013-04-25T07:00:00",
+            "series": "Sesame Street",
+            "size": 2214651897,
+            "sort_album": "Sesame Street: Free Episode",
+            "sort_artist": "Sesame Street",
+            "sort_name": "Great Vibrations",
+            "total_time": 3357123,
+            "track_count": 1,
+            "track_id": 4592,
+            "track_number": 1,
+            "track_type": "Remote",
+            "tv_show": true,
+            "year": 2013
+        }
+    ]
+}
