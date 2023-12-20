@@ -1,0 +1,31 @@
+{
+    "album": "Python for Informatics's official Podcast.",
+    "episodes": [
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "bitrate": 64,
+            "bpm": 120,
+            "composer": "www.dr-chuck.com",
+            "date_added": "2021-12-30T22:54:05",
+            "date_modified": "2019-08-06T23:02:16",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Podcasts/Python for Informatics's official Podcas/Py4Inf-01-Intro.mp3 1.mp3",
+            "name": "Py4Inf-01-Intro.mp3",
+            "normalization": 1219,
+            "persistent_id": "4A1FBC4811BCA077",
+            "podcast": true,
+            "release_date": "2013-09-18T01:04:00",
+            "sample_rate": 44100,
+            "size": 27428698,
+            "total_time": 3428075,
+            "track_id": 4734,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2013
+        }
+    ]
+}

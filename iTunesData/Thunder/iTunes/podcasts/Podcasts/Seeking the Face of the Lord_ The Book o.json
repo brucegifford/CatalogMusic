@@ -1,0 +1,22 @@
+{
+    "album": "Seeking the Face of the Lord: The Book of Mormon",
+    "episodes": [
+        {
+            "album": "Seeking the Face of the Lord: The Book of Mormon",
+            "date_added": "2023-07-11T19:48:50",
+            "genre": "Podcast",
+            "location": "https://mstroud.podomatic.com/enclosure/2023-07-04T05_02_17-07_00.mp3?_=1688472146.16668423",
+            "name": "Episode 278: Independence Day",
+            "persistent_id": "55163BB2C1932DE8",
+            "play_count": 3,
+            "play_date": 3771494393,
+            "play_date_utc": "2023-07-06T19:19:53",
+            "podcast": true,
+            "release_date": "2023-07-04T12:02:17",
+            "size": 42339941,
+            "total_time": 3367000,
+            "track_id": 41566,
+            "track_type": "URL"
+        }
+    ]
+}
