@@ -222,11 +222,15 @@ def Main():
         if media_files:
             write_output_files(media_files, output_dir, args, logger)
 
-        def output_items_list(item_list, folder_name):
+        def make_output_folder(folder_name):
             item_output_dir = os.path.join(output_dir, folder_name)
             if os.path.exists(item_output_dir):
                 shutil.rmtree(item_output_dir)
             os.makedirs(item_output_dir)
+            return item_output_dir
+
+        def output_items_list(item_list, folder_name):
+            item_output_dir = make_output_folder(folder_name)
             write_output_files(item_list, item_output_dir, args, logger)
 
         if song_list:
@@ -245,10 +249,7 @@ def Main():
             output_items_list(audiobook_list, "audiobooks")
 
         if playlists:
-            playlists_output_dir = os.path.join(output_dir, "playlists")
-            if os.path.exists(playlists_output_dir):
-                shutil.rmtree(playlists_output_dir)
-            os.makedirs(playlists_output_dir)
+            playlists_output_dir = make_output_folder("playlists")
             write_playlist_files(playlists, playlists_output_dir, args, logger)
 
     except Exception as ex:
