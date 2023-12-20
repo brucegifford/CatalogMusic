@@ -1,0 +1,36 @@
+{
+    "album": "The Game: Nothing is as it seems",
+    "songs": [
+        {
+            "album": "The Game: Nothing is as it seems",
+            "album_artist": "Heather Noel",
+            "artist": "Heather Noel",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-12-30T22:54:08",
+            "date_modified": "2020-04-20T04:59:58",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Heather Noel/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 1196,
+            "persistent_id": "E3668D5AE5C545EB",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2018-05-24T07:00:00",
+            "sample_rate": 44100,
+            "size": 814095869,
+            "sort_album": "Game: Nothing is as it seems",
+            "total_time": 52844410,
+            "track_count": 1,
+            "track_id": 4970,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2018
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "Siddhartha",
+    "songs": [
+        {
+            "album": "Siddhartha",
+            "album_artist": "Hermann Hesse",
+            "artist": "Hermann Hesse",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:08:42",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Hermann Hesse/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 629,
+            "persistent_id": "06940C65EBE4E7F3",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-08-25T07:00:00",
+            "sample_rate": 44100,
+            "size": 245634719,
+            "total_time": 18367320,
+            "track_count": 1,
+            "track_id": 4854,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "album": "The Girl in the Plane",
+    "songs": [
+        {
+            "album": "The Girl in the Plane",
+            "album_artist": "Katherine Center",
+            "artist": "Katherine Center",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:00:10",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Katherine Center/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 466,
+            "persistent_id": "94DD43D61763CDB4",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-07-23T07:00:00",
+            "sample_rate": 44100,
+            "size": 45225351,
+            "sort_album": "Girl in the Plane",
+            "total_time": 3125322,
+            "track_count": 1,
+            "track_id": 4902,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

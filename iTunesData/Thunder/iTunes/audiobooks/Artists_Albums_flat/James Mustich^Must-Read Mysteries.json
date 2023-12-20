@@ -1,0 +1,33 @@
+{
+    "album": "Must-Read Mysteries",
+    "songs": [
+        {
+            "album": "Must-Read Mysteries",
+            "album_artist": "James Mustich",
+            "artist": "James Mustich",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:10:00",
+            "disc_count": 1,
+            "file_folder_count": 4,
+            "genre": "Nonfiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/James Mustich/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "persistent_id": "DE1C132811F6EAD0",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-02-19T08:00:00",
+            "sample_rate": 44100,
+            "size": 10399747,
+            "total_time": 1206055,
+            "track_count": 1,
+            "track_id": 4914,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "album": "The Risk Theatre Model of Tragedy: Gambling, Drama, and the Unexpected",
+    "songs": [
+        {
+            "album": "The Risk Theatre Model of Tragedy: Gambling, Drama, and the Unexpected",
+            "album_artist": "Edwin Wong",
+            "artist": "Edwin Wong",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:00:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Nonfiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Edwin Wong/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 310,
+            "persistent_id": "9F3EB1609812D61F",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-03-02T08:00:00",
+            "sample_rate": 44100,
+            "size": 339453800,
+            "sort_album": "Risk Theatre Model of Tragedy: Gambling, Drama, and the Unexpected",
+            "total_time": 26318942,
+            "track_count": 1,
+            "track_id": 4896,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

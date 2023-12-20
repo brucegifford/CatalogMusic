@@ -1,0 +1,36 @@
+{
+    "album": "The Legend of Sleepy Hollow",
+    "songs": [
+        {
+            "album": "The Legend of Sleepy Hollow",
+            "album_artist": "Washington Irving",
+            "artist": "Washington Irving",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:00:54",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Washington Irving/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 820,
+            "persistent_id": "E4DB71197DB345D9",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-08-25T07:00:00",
+            "sample_rate": 44100,
+            "size": 61147245,
+            "sort_album": "Legend of Sleepy Hollow",
+            "total_time": 4996623,
+            "track_count": 1,
+            "track_id": 4846,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

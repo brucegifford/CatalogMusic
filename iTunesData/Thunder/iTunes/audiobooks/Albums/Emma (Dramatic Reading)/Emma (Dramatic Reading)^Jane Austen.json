@@ -1,0 +1,35 @@
+{
+    "album": "Emma (Dramatic Reading)",
+    "songs": [
+        {
+            "album": "Emma (Dramatic Reading)",
+            "album_artist": "Jane Austen",
+            "artist": "Jane Austen",
+            "artwork_count": 1,
+            "bitrate": 80,
+            "date_added": "2021-12-30T22:54:08",
+            "date_modified": "2020-12-13T18:59:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Jane Austen/01 Track 1 3.m4b",
+            "name": "Track 1",
+            "normalization": 253,
+            "persistent_id": "D5AEF427CD81FF8D",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-08-25T07:00:00",
+            "sample_rate": 44100,
+            "size": 626590177,
+            "total_time": 59151707,
+            "track_count": 1,
+            "track_id": 4994,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

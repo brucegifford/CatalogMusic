@@ -1,0 +1,35 @@
+{
+    "album": "James Locker: The Duality of Fate (Second Edition)",
+    "songs": [
+        {
+            "album": "James Locker: The Duality of Fate (Second Edition)",
+            "album_artist": "Martin Lundqvist",
+            "artist": "Martin Lundqvist",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:12:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Mysteries & Thrillers",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Martin Lundqvist/01 Track 1 3.m4b",
+            "name": "Track 1",
+            "normalization": 602,
+            "persistent_id": "6F7E1122E9B2C31F",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-05-11T07:00:00",
+            "sample_rate": 44100,
+            "size": 422270045,
+            "total_time": 30802610,
+            "track_count": 1,
+            "track_id": 4838,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "album": "The Memory Thief",
+    "songs": [
+        {
+            "album": "The Memory Thief",
+            "album_artist": "Rachel Morgan",
+            "artist": "Rachel Morgan",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:02:14",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Sci-Fi & Fantasy",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Rachel Morgan/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 356,
+            "persistent_id": "7B0F6764508F2168",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-12-01T08:00:00",
+            "sample_rate": 44100,
+            "size": 137018093,
+            "sort_album": "Memory Thief",
+            "total_time": 10730594,
+            "track_count": 1,
+            "track_id": 4906,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

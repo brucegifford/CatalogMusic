@@ -1,0 +1,35 @@
+{
+    "album": "Free Falling",
+    "songs": [
+        {
+            "album": "Free Falling",
+            "album_artist": "Susan Kiernan-Lewis",
+            "artist": "Susan Kiernan-Lewis",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:10:58",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Susan Kiernan-Lewis/01 Track 1 2.m4b",
+            "name": "Track 1",
+            "normalization": 253,
+            "persistent_id": "81BBE6F800842EDB",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2016-03-01T08:00:00",
+            "sample_rate": 44100,
+            "size": 283269417,
+            "total_time": 22953668,
+            "track_count": 1,
+            "track_id": 4856,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2016
+        }
+    ]
+}

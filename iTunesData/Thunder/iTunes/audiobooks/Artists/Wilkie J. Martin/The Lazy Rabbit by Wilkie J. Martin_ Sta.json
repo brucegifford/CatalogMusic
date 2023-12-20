@@ -1,0 +1,36 @@
+{
+    "album": "The Lazy Rabbit by Wilkie J. Martin: Startling New Grim Fable About Laziness Featuring A Rabbit, A Vole And A Fox",
+    "songs": [
+        {
+            "album": "The Lazy Rabbit by Wilkie J. Martin: Startling New Grim Fable About Laziness Featuring A Rabbit, A Vole And A Fox",
+            "album_artist": "Wilkie J. Martin",
+            "artist": "Wilkie J. Martin",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-12-30T22:54:07",
+            "date_modified": "2020-04-20T05:12:52",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 4,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Audiobooks/Wilkie J. Martin/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 452,
+            "persistent_id": "4CC7250D4133DD0E",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-07-31T07:00:00",
+            "sample_rate": 44100,
+            "size": 9046591,
+            "sort_album": "Lazy Rabbit by Wilkie J. Martin: Startling New Grim Fable About Laziness Featuring A Rabbit, A Vole And A Fox",
+            "total_time": 686059,
+            "track_count": 1,
+            "track_id": 4844,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}
