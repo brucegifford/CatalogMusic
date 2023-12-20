@@ -10,7 +10,7 @@ from ReadFilesystemMusic import extract_metadata
 from ParseITunesLibrary import parse_itunes_library_file
 from WriteLists import write_flat_songs_list, write_flat_albums_list, write_flat_artists_list, \
     write_flat_albums_artists_folder, write_flat_artists_albums_folder, \
-    write_nested_albums_folders, write_nested_artists_folders
+    write_nested_albums_folders, write_nested_artists_folders, write_flat_podcast_list, write_podcasts_folder
 
 """
 --song_list_flat
@@ -130,6 +130,22 @@ def write_output_files(media_files, output_dir, args, logger):
         nested_artists_folder_path = make_output_file_path(output_dir, args.artists_nested)
         write_nested_artists_folders(media_files, nested_artists_folder_path)
 
+
+def output_podcast_list(podcast_files, output_dir, args, logger):
+    if args.podcast_list_full:
+        flat_file_path = make_output_file_path(output_dir, args.podcast_list_full)
+        write_flat_songs_list(podcast_files, flat_file_path)
+
+    if args.podcast_list_flat:
+        flat_podcast_path = make_output_file_path(output_dir, args.podcast_list_flat)
+        write_flat_podcast_list(podcast_files, flat_podcast_path, args.podcast_sort_episodes_reversed)
+
+    if args.podcast_folder:
+        podcasts_folder_path = make_output_file_path(output_dir, args.podcast_folder)
+        write_podcasts_folder(podcast_files, podcasts_folder_path, args.podcast_folder_csvs, args.podcast_sort_episodes_reversed)
+
+
+
 def write_playlist_files(playlists, output_dir, args, logger):
     if args.playlist_flat:
         flat_file_path = make_output_file_path(output_dir, args.playlist_flat)
@@ -166,6 +182,11 @@ def Main():
         parser.add_argument('--albums_nested', default="Albums", help="file path for writing a file with all files in it organized by album", required=False)
         parser.add_argument('--artists_nested', default="Artists", help="file path for writing a file with all files in it organized by album", required=False)
         parser.add_argument('--playlist_flat', default="iTunesPlaylists.json", help="file path for writing a file with all playlists in it", required=False)
+        parser.add_argument('--podcast_list_full', default="iTunesPodcasts.json", help="file path for writing a file with all files in it", required=False)
+        parser.add_argument('--podcast_list_flat', default="podcasts_list.json", help="file path for writing a file with all files in it", required=False)
+        parser.add_argument('--podcast_folder', default="Podcasts", help="file path for writing a file with all files in it organized by podcast", required=False)
+        parser.add_argument('--podcast_folder_csvs', default=False, action="store_true", help="when set, dump csv files in the podcasts folder")
+        parser.add_argument('--podcast_sort_episodes_reversed', nargs='*')
         parser.add_argument('--outputdir', help="directory where output files get written")
 
 
@@ -240,7 +261,9 @@ def Main():
             output_items_list(movie_list, "movies")
 
         if podcast_list:
-            output_items_list(podcast_list, "podcasts")
+            item_output_dir = make_output_folder("podcasts")
+            output_podcast_list(podcast_list, item_output_dir, args, logger)
+            #output_items_list(podcast_list, "podcasts")
 
         if tvshow_list:
             output_items_list(tvshow_list, "tvshows")
