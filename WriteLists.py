@@ -2,8 +2,9 @@ import json
 import os
 import shutil
 from datetime import date, datetime
+import csv
 
-from MakeLists import make_albums_list, make_artists_list
+from MakeLists import make_albums_list, make_artists_list, make_podcast_list
 from iTunesHelper import make_legal_filename, get_artist_folder_truncated_if_needed, get_album_folder_truncated_if_needed
 
 def json_serial(obj):
@@ -102,3 +103,32 @@ def write_nested_artists_folders(media_files, nested_artists_folder_path):
             """
             filepath = os.path.join(artist_path, filename)
             write_json_file(album, filepath)
+
+def write_flat_podcast_list(media_files, flat_podcasts_path, podcast_sort_episodes_reversed):
+    podcasts_list_flat = make_podcast_list(media_files, podcast_sort_episodes_reversed)
+    write_json_file(podcasts_list_flat, flat_podcasts_path)
+
+def write_podcasts_folder(media_files, nested_podcasts_folder_path, write_podcast_folder_csvs, podcast_sort_episodes_reversed):
+    if os.path.exists(nested_podcasts_folder_path):
+        shutil.rmtree(nested_podcasts_folder_path)
+    os.makedirs(nested_podcasts_folder_path, exist_ok=True)
+    podcasts_list = make_podcast_list(media_files, podcast_sort_episodes_reversed)
+    for podcast_dict in podcasts_list:
+        album_name = podcast_dict["album"]
+        album_name = get_album_folder_truncated_if_needed(album_name)
+        album_name = make_legal_filename(album_name)
+        filename = "%s.json" % (album_name)
+        podcast_path = os.path.join(nested_podcasts_folder_path, filename)
+        write_json_file(podcast_dict, podcast_path)
+
+        # now write a csv versoin of the file
+        csv_filename = "%s.csv" % (album_name)
+        csv_podcast_path = os.path.join(nested_podcasts_folder_path, csv_filename)
+
+        if write_podcast_folder_csvs:
+            keys = set().union(*(d.keys() for d in podcast_dict["episodes"]))
+            with open(csv_podcast_path, 'w', encoding='utf8', newline='') as output_file:
+                fc = csv.DictWriter(output_file, fieldnames=keys,)
+                fc.writeheader()
+                fc.writerows(podcast_dict["episodes"])
+

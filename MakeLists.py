@@ -76,3 +76,48 @@ def make_artists_list(media_files):
         artists.append(artist_dict)
     return artists
 
+def sort_episode_list(episode_list, sort_reversed):
+    index = 0
+    for episode in episode_list:
+        index += 1
+        index_str = str(index).zfill(4)
+        if "release_date" in episode:
+            sort_date = episode["release_date"]
+        elif "date_added" in episode:
+            sort_date = episode["date_added"]
+        elif "date_modified" in episode:
+            sort_date = episode["date_modified"]
+        else:
+            sort_date = "YYYY-MM-DDTHH:MM:SS"
+        track_id = str(episode.get("track_id", "9999"))
+        episode_sort_key = "%s:%s:%s"%(sort_date, track_id, index_str)
+        episode["__sort_key__"] = episode_sort_key
+    episode_list.sort(key=lambda k: k["__sort_key__"], reverse=sort_reversed)
+    for episode in episode_list:
+        del episode["__sort_key__"]
+
+def make_podcast_list(media_files, podcast_sort_episodes_reversed_list):
+    # create a map of podcast names for quick lookup
+    sort_reversed_map = {}
+    for podcast_name in podcast_sort_episodes_reversed_list:
+        sort_reversed_map[podcast_name.lower()] = True
+
+    #print("sort map", str(sort_reversed_map))
+
+    podcast_dict = {}
+    for media_file in media_files:
+        album_name = get_itunes_album_name(media_file, unknown_value)
+        if not album_name in podcast_dict:
+            podcast_dict[album_name] = {"album": album_name, "episodes":[]}
+        album_dict = podcast_dict[album_name]
+        album_dict["episodes"].append(media_file)
+    podcasts = []
+    #print(albums_dict.keys())
+    for album_key in sorted(podcast_dict.keys()):
+        album_dict = podcast_dict[album_key]
+        podcast_name = album_dict["album"]
+        #print("'%s' '%s', %s" %(podcast_name, podcast_name.lower(), str(sort_reversed_map.get(podcast_name.lower(),False)) ))
+        sort_episode_list(album_dict["episodes"], sort_reversed_map.get(podcast_name.lower(),False))
+        podcasts.append(album_dict)
+    return podcasts
+
