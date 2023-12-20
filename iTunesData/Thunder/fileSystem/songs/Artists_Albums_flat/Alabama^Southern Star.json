@@ -1,0 +1,49 @@
+{
+    "album": "Southern Star",
+    "songs": [
+        {
+            "album": "Southern Star",
+            "artist": "Alabama",
+            "date": "1989",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Southern Star/01 Song Of The South.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Southern Star/01 Song Of The South.mp3",
+            "title": "Song Of The South",
+            "tracknumber": "1/13"
+        },
+        {
+            "album": "Southern Star",
+            "artist": "Alabama",
+            "date": "1989",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Southern Star/03 High Cotton.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Southern Star/03 High Cotton.mp3",
+            "title": "High Cotton",
+            "tracknumber": "3/13"
+        },
+        {
+            "album": "Southern Star",
+            "artist": "Alabama",
+            "date": "1989",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Southern Star/08 Southern Star.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Southern Star/08 Southern Star.mp3",
+            "title": "Southern Star",
+            "tracknumber": "8/13"
+        },
+        {
+            "album": "Southern Star",
+            "artist": "Alabama",
+            "date": "1989",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Southern Star/09 If I Had You.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Southern Star/09 If I Had You.mp3",
+            "title": "If I Had You",
+            "tracknumber": "9/13"
+        }
+    ]
+}

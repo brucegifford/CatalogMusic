@@ -1,0 +1,35 @@
+{
+    "album": "Christmas Cookies",
+    "songs": [
+        {
+            "aART": "George Strait",
+            "atID": 96353,
+            "cmID": 1534575741,
+            "cnID": 1443835316,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Christmas Cookies/01 Christmas Cookies.m4a",
+            "geID": 8,
+            "plID": 1443835107,
+            "purd": "2020-12-09 05:51:47",
+            "rel_path": "George Strait/Christmas Cookies/01 Christmas Cookies.m4a",
+            "soal": "Christmas Cookies",
+            "soar": "George Strait",
+            "sonm": "Christmas Cookies",
+            "stik": 1,
+            "trkn": [
+                1,
+                15
+            ],
+            "©ART": "George Strait",
+            "©alb": "Christmas Cookies",
+            "©day": "2001-01-01T12:00:00Z",
+            "©gen": "Holiday",
+            "©nam": "Christmas Cookies",
+            "©wrt": "Aaron Barker"
+        }
+    ]
+}

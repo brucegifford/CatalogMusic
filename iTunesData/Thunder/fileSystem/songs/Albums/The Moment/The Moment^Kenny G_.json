@@ -1,0 +1,31 @@
+{
+    "album": "The Moment",
+    "songs": [
+        {
+            "album": "The Moment",
+            "artist": "Kenny G.",
+            "composer": "Kenny G., Walter Afanasieff",
+            "date": "1996",
+            "discnumber": "1/1",
+            "encodedby": "iTunes v6.0.4.2",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Kenny G_/The Moment/11 Northern Lights.mp3",
+            "genre": "Jazz",
+            "rel_path": "Kenny G_/The Moment/11 Northern Lights.mp3",
+            "title": "Northern Lights",
+            "tracknumber": "11/12"
+        },
+        {
+            "album": "The Moment",
+            "artist": "Kenny G.",
+            "composer": "Kenny G., Walter Afanasieff",
+            "date": "1996",
+            "discnumber": "1/1",
+            "encodedby": "iTunes v6.0.4.2",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Kenny G_/The Moment/12 Innocence.mp3",
+            "genre": "Jazz",
+            "rel_path": "Kenny G_/The Moment/12 Innocence.mp3",
+            "title": "Innocence",
+            "tracknumber": "12/12"
+        }
+    ]
+}

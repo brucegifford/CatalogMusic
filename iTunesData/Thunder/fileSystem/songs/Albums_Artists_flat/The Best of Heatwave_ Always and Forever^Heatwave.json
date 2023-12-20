@@ -1,0 +1,35 @@
+{
+    "album": "The Best of Heatwave: Always and Forever",
+    "songs": [
+        {
+            "aART": "Heatwave",
+            "atID": 868364,
+            "cmID": 461185,
+            "cnID": 153422067,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Heatwave/The Best of Heatwave_ Always and Forever/04 Always and Forever.m4a",
+            "geID": 15,
+            "plID": 153421868,
+            "purd": "2015-04-22 02:08:39",
+            "rel_path": "Heatwave/The Best of Heatwave_ Always and Forever/04 Always and Forever.m4a",
+            "soal": "Best of Heatwave: Always and Forever",
+            "soar": "Heatwave",
+            "sonm": "Always and Forever",
+            "stik": 1,
+            "trkn": [
+                4,
+                13
+            ],
+            "©ART": "Heatwave",
+            "©alb": "The Best of Heatwave: Always and Forever",
+            "©day": "1976-01-01T08:00:00Z",
+            "©gen": "R&B/Soul",
+            "©nam": "Always and Forever",
+            "©wrt": "Rod Temperton"
+        }
+    ]
+}

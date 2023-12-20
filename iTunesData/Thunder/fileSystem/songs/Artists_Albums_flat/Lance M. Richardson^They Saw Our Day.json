@@ -1,0 +1,41 @@
+{
+    "album": "They Saw Our Day",
+    "songs": [
+        {
+            "album": "They Saw Our Day",
+            "albumartist": "Lance M. Richardson",
+            "artist": "Lance M. Richardson",
+            "date": "2000",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Lance M. Richardson/They Saw Our Day/01 They Saw Our Day (Tape 1 Side A).mp3",
+            "genre": "Talk: Religious",
+            "rel_path": "Lance M. Richardson/They Saw Our Day/01 They Saw Our Day (Tape 1 Side A).mp3",
+            "title": "They Saw Our Day (Tape 1 Side A)",
+            "tracknumber": "1/3"
+        },
+        {
+            "album": "They Saw Our Day",
+            "albumartist": "Lance M. Richardson",
+            "artist": "Lance M. Richardson",
+            "date": "2000",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Lance M. Richardson/They Saw Our Day/02 They Saw Our Day (Tape 1 Side B).mp3",
+            "genre": "Talk: Religious",
+            "rel_path": "Lance M. Richardson/They Saw Our Day/02 They Saw Our Day (Tape 1 Side B).mp3",
+            "title": "They Saw Our Day (Tape 1 Side B)",
+            "tracknumber": "2/3"
+        },
+        {
+            "album": "They Saw Our Day",
+            "albumartist": "Lance M. Richardson",
+            "artist": "Lance M. Richardson",
+            "date": "2000",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Lance M. Richardson/They Saw Our Day/03 They Saw Our Day (Tape 2).mp3",
+            "genre": "Talk: Religious",
+            "rel_path": "Lance M. Richardson/They Saw Our Day/03 They Saw Our Day (Tape 2).mp3",
+            "title": "They Saw Our Day (Tape 2)",
+            "tracknumber": "3/3"
+        }
+    ]
+}

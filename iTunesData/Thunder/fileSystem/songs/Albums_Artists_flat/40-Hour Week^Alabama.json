@@ -1,0 +1,38 @@
+{
+    "album": "40-Hour Week",
+    "songs": [
+        {
+            "album": "40-Hour Week",
+            "artist": "Alabama",
+            "date": "1985",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/40-Hour Week/01 40 Hour Week (For a Livin').mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/40-Hour Week/01 40 Hour Week (For a Livin').mp3",
+            "title": "40 Hour Week (For a Livin')",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "40-Hour Week",
+            "artist": "Alabama",
+            "date": "1985",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/40-Hour Week/02 Can't Keep A Good Man Down.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/40-Hour Week/02 Can't Keep A Good Man Down.mp3",
+            "title": "Can't Keep A Good Man Down",
+            "tracknumber": "2/10"
+        },
+        {
+            "album": "40-Hour Week",
+            "artist": "Alabama",
+            "date": "1985",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/40-Hour Week/03 There's No Way.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/40-Hour Week/03 There's No Way.mp3",
+            "title": "There's No Way",
+            "tracknumber": "3/10"
+        }
+    ]
+}

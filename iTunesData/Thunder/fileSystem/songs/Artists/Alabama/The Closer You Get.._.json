@@ -1,0 +1,38 @@
+{
+    "album": "The Closer You Get...",
+    "songs": [
+        {
+            "album": "The Closer You Get...",
+            "artist": "Alabama",
+            "date": "1983",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/The Closer You Get.._/01 The Closer You Get.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/The Closer You Get.._/01 The Closer You Get.mp3",
+            "title": "The Closer You Get",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "The Closer You Get...",
+            "artist": "Alabama",
+            "date": "1983",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/The Closer You Get.._/02 Lady Down On Love.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/The Closer You Get.._/02 Lady Down On Love.mp3",
+            "title": "Lady Down On Love",
+            "tracknumber": "2/10"
+        },
+        {
+            "album": "The Closer You Get...",
+            "artist": "Alabama",
+            "date": "1983",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/The Closer You Get.._/06 Dixieland Delight.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/The Closer You Get.._/06 Dixieland Delight.mp3",
+            "title": "Dixieland Delight",
+            "tracknumber": "6/10"
+        }
+    ]
+}

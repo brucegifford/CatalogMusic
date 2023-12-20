@@ -1,0 +1,27 @@
+{
+    "album": "Greatest Hits Vol. II",
+    "songs": [
+        {
+            "album": "Greatest Hits Vol. II",
+            "artist": "Alabama",
+            "date": "1991",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Greatest Hits Vol. II/01 Born Country.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Greatest Hits Vol. II/01 Born Country.mp3",
+            "title": "Born Country",
+            "tracknumber": "1/11"
+        },
+        {
+            "album": "Greatest Hits Vol. II",
+            "artist": "Alabama",
+            "date": "1991",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Greatest Hits Vol. II/02 Then Again.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Greatest Hits Vol. II/02 Then Again.mp3",
+            "title": "Then Again",
+            "tracknumber": "2/11"
+        }
+    ]
+}

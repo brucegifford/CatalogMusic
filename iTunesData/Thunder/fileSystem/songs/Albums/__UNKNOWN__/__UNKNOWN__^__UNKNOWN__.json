@@ -1,0 +1,19 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "TALB": "Voice Memos",
+            "TPE2": "iPhone",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/iPhone/Voice Memos/burning.aif",
+            "rel_path": "iPhone/Voice Memos/burning.aif"
+        },
+        {
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/iPhone/Voice Memos/MIC-2007-11-09_21h04m31s.wav",
+            "rel_path": "iPhone/Voice Memos/MIC-2007-11-09_21h04m31s.wav"
+        },
+        {
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/iPhone/Voice Memos/MIC-2008-03-07_20h48m24s.wav",
+            "rel_path": "iPhone/Voice Memos/MIC-2008-03-07_20h48m24s.wav"
+        }
+    ]
+}

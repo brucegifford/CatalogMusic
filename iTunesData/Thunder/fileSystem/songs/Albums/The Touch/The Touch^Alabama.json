@@ -1,0 +1,27 @@
+{
+    "album": "The Touch",
+    "songs": [
+        {
+            "album": "The Touch",
+            "artist": "Alabama",
+            "date": "1986",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/The Touch/01 You've Got The Touch.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/The Touch/01 You've Got The Touch.mp3",
+            "title": "You've Got The Touch",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "The Touch",
+            "artist": "Alabama",
+            "date": "1986",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/The Touch/06 Touch Me When We're Dancin.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/The Touch/06 Touch Me When We're Dancin.mp3",
+            "title": "Touch Me When We're Dancin",
+            "tracknumber": "6/10"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "album": "Animal Based Diet - New Health CD",
+    "songs": [
+        {
+            "album": "Animal Based Diet - New Health CD",
+            "artist": "Jack Stockwell",
+            "date": "2013",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Animal Based Diet - New Health CD/01 Part1.mp3",
+            "genre": "Talk: Health",
+            "rel_path": "Jack Stockwell/Animal Based Diet - New Health CD/01 Part1.mp3",
+            "title": "Part1",
+            "tracknumber": "1/2"
+        },
+        {
+            "album": "Animal Based Diet - New Health CD",
+            "artist": "Jack Stockwell",
+            "date": "2013",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Jack Stockwell/Animal Based Diet - New Health CD/02 Part2.mp3",
+            "genre": "Talk: Health",
+            "rel_path": "Jack Stockwell/Animal Based Diet - New Health CD/02 Part2.mp3",
+            "title": "Part2",
+            "tracknumber": "2/2"
+        }
+    ]
+}

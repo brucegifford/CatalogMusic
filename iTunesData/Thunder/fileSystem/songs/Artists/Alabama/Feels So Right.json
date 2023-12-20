@@ -1,0 +1,37 @@
+{
+    "album": "Feels So Right",
+    "songs": [
+        {
+            "album": "Feels So Right",
+            "artist": "Alabama",
+            "date": "1981",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Feels So Right/01 Feels So Right.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Feels So Right/01 Feels So Right.mp3",
+            "title": "Feels So Right",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "Feels So Right",
+            "artist": "Alabama",
+            "date": "1981",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Feels So Right/Alabama - Love In The First Degree.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Feels So Right/Alabama - Love In The First Degree.mp3",
+            "tracknumber": "2/10"
+        },
+        {
+            "album": "Feels So Right",
+            "artist": "Alabama",
+            "date": "1981",
+            "discnumber": "1/1",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Alabama/Feels So Right/07 Old Flame.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Feels So Right/07 Old Flame.mp3",
+            "title": "Old Flame",
+            "tracknumber": "7/10"
+        }
+    ]
+}
