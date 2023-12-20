@@ -1,0 +1,35 @@
+{
+    "all_items": true,
+    "display_path": "/Talks/Anthony Larson - Electric Universe _ Plasma Theory",
+    "name": "Anthony Larson - Electric Universe / Plasma Theory",
+    "parent_persistent_id": "5EA2C9CCFE391E48",
+    "playlist_id": 84642,
+    "playlist_persistent_id": "7AF3A21CCB889654",
+    "tracks": [
+        {
+            "album": "Electric Universe / Plasma Theory",
+            "artist": "Anthony Larson",
+            "bitrate": 64,
+            "comments": "Anthony-Larson-Highland-2013-March-1: Ancient Planetary History, Cutting Edge Science and the Restored Gospel: Plasma Physics & the Electric Universe.",
+            "date_added": "2022-06-01T05:06:51",
+            "date_modified": "2013-05-02T22:03:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/Anthony Larson/Electric Universe _ Plasma Theory/Anthony-Larson-Highland-2013-March-1.mp3",
+            "name": "Anthony-Larson-Highland-2013-March-1",
+            "persistent_id": "D7FC9420EBE7E14D",
+            "sample_rate": 44100,
+            "size": 35602322,
+            "total_time": 4470439,
+            "track_count": 1,
+            "track_id": 18394,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}
