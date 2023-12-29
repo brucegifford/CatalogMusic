@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Nina Harris, Stephanie Hohl, Calie Schmidt, Valerie Loveless, Emily Pritchet, Brooklyn Parks",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/da6852e7-6e9c-4a12-8a0e-86c3e5051929/what-to-read_tc.mp3?aid=rss_feed",
+            "name": "What to Read this Holiday: New Releases and Children's Books",
+            "persistent_id": "8FB4951B27EA3902",
+            "play_count": 1,
+            "play_date": 3658486404,
+            "play_date_utc": "2019-12-06T21:13:24",
+            "sample_rate": 44100,
+            "total_time": 1168000,
+            "track_id": 22664,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

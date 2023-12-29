@@ -1,0 +1,395 @@
+{
+    "album": "The Mountain",
+    "songs": [
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 1975386,
+            "cnID": 1369348544,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/01 Burning Man (feat. Brothers Osbor.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/01 Burning Man (feat. Brothers Osbor.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Burning Man (feat. Brothers Osborne)",
+            "stik": 1,
+            "trkn": [
+                1,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Burning Man (feat. Brothers Osborne)",
+            "©wrt": "Luke Dick & Bobby Pinson"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 48845149,
+            "cnID": 1369348556,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/02 The Mountain.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/02 The Mountain.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Mountain",
+            "stik": 1,
+            "trkn": [
+                2,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-04-13T07:00:00Z",
+            "©gen": "Country",
+            "©nam": "The Mountain",
+            "©wrt": "Dierks Bentley, Jon Randall, Luke Dick & Natalie Hemby"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 27570981,
+            "cnID": 1369348557,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/03 Living.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/03 Living.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Living",
+            "stik": 1,
+            "trkn": [
+                3,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-04-27T07:00:00Z",
+            "©gen": "Country",
+            "©nam": "Living",
+            "©wrt": "Dierks Bentley, Ross Copperman, Jon Nite & Ashley Gorley"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 80883591,
+            "cnID": 1369348558,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/04 Woman, Amen.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/04 Woman, Amen.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Woman, Amen",
+            "stik": 1,
+            "trkn": [
+                4,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-01-17T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Woman, Amen",
+            "©wrt": "Dierks Bentley, Ross Copperman & Josh Kear"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 42281917,
+            "cnID": 1369348559,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/05 You Can't Bring Me Down.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/05 You Can't Bring Me Down.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "You Can't Bring Me Down",
+            "stik": 1,
+            "trkn": [
+                5,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-05-11T07:00:00Z",
+            "©gen": "Country",
+            "©nam": "You Can't Bring Me Down",
+            "©wrt": "Dierks Bentley, Hillary Lindsey & Luke Laird"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 284588371,
+            "cnID": 1369348563,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/06 Nothing On But the Stars.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/06 Nothing On But the Stars.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Nothing On But the Stars",
+            "stik": 1,
+            "trkn": [
+                6,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Nothing On But the Stars",
+            "©wrt": "Dierks Bentley, Ross Copperman, Jon Randall & Jon Nite"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 5278113,
+            "cnID": 1369348564,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/07 Goodbye in Telluride.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/07 Goodbye in Telluride.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Goodbye in Telluride",
+            "stik": 1,
+            "trkn": [
+                7,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Goodbye in Telluride",
+            "©wrt": "Dierks Bentley, Ross Copperman, Ashley Gorley & Scooter Carusoe"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 689473663,
+            "cnID": 1369348565,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/08 My Religion.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/08 My Religion.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "My Religion",
+            "stik": 1,
+            "trkn": [
+                8,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "My Religion",
+            "©wrt": "Jamie Kenney, Ben Burgess, Michael Pollack & Rick Markowitz"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 437527769,
+            "cnID": 1369348566,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/09 One Way.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/09 One Way.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "One Way",
+            "stik": 1,
+            "trkn": [
+                9,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "One Way",
+            "©wrt": "Dierks Bentley, Jeff Hyde & Laura Veltz"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 284588371,
+            "cnID": 1369348567,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/10 Son of the Sun.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/10 Son of the Sun.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Son of the Sun",
+            "stik": 1,
+            "trkn": [
+                10,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Son of the Sun",
+            "©wrt": "Dierks Bentley, Ross Copperman, Jon Randall & Jon Nite"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 264618846,
+            "cnID": 1369348568,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/11 Stranger to Myself.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/11 Stranger to Myself.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Stranger to Myself",
+            "stik": 1,
+            "trkn": [
+                11,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Stranger to Myself",
+            "©wrt": "Dierks Bentley, Ross Copperman & Heather Morgan"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 284588371,
+            "cnID": 1369348569,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/12 Travelin' Light (feat. Brandi Car.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/12 Travelin' Light (feat. Brandi Car.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "Travelin' Light (feat. Brandi Carlile)",
+            "stik": 1,
+            "trkn": [
+                12,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "Travelin' Light (feat. Brandi Carlile)",
+            "©wrt": "Dierks Bentley, Ashley Gorley & Jon Nite"
+        },
+        {
+            "aART": "Dierks Bentley",
+            "atID": 3088872,
+            "cmID": 2656374,
+            "cnID": 1369348631,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/13 How I'm Going Out.m4a",
+            "geID": 6,
+            "plID": 1369348197,
+            "purd": "2020-11-08 02:41:34",
+            "rel_path": "Dierks Bentley/The Mountain/13 How I'm Going Out.m4a",
+            "soal": "Mountain",
+            "soar": "Dierks Bentley",
+            "sonm": "How I'm Going Out",
+            "stik": 1,
+            "trkn": [
+                13,
+                13
+            ],
+            "©ART": "Dierks Bentley",
+            "©alb": "The Mountain",
+            "©day": "2018-06-08T12:00:00Z",
+            "©gen": "Country",
+            "©nam": "How I'm Going Out",
+            "©wrt": "Jon Randall & Jessi Alexander"
+        }
+    ]
+}

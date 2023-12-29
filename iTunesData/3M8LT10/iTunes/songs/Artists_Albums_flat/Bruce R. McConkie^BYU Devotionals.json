@@ -1,0 +1,30 @@
+{
+    "album": "BYU Devotionals",
+    "songs": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "Bruce R. McConkie",
+            "bitrate": 32,
+            "comments": "This devotional is licensed for personal, home, and Church use only. All other uses must have prior written permission from BYU IT Services 255 FB, Provo, UT 84602. BYU provides this devotional without charge and may not be sold.  This notice must remain ",
+            "date_added": "2022-11-28T22:05:56",
+            "date_modified": "2014-11-10T22:54:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Bruce R. McConkie/BYU Devotionals/01 Making Our Calling and Election S.mp3",
+            "name": "Making Our Calling and Election Sure",
+            "persistent_id": "B85F0420E646510A",
+            "sample_rate": 22050,
+            "size": 7549056,
+            "total_time": 1886693,
+            "track_count": 1,
+            "track_id": 28986,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1969
+        }
+    ]
+}

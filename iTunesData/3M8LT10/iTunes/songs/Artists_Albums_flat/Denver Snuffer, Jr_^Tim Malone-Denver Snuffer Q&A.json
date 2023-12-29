@@ -1,0 +1,30 @@
+{
+    "album": "Tim Malone-Denver Snuffer Q&A",
+    "songs": [
+        {
+            "album": "Tim Malone-Denver Snuffer Q&A",
+            "artist": "Denver Snuffer, Jr.",
+            "bitrate": 80,
+            "date_added": "2021-09-20T19:12:07",
+            "date_modified": "2015-07-04T07:55:34",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Denver Snuffer, Jr_/Tim Malone-Denver Snuffer Q&A/01 Tim Malone-Denver Snuffer Q&A.mp3",
+            "name": "Tim Malone-Denver Snuffer Q&A",
+            "normalization": 1224,
+            "persistent_id": "D1343287E10BA7DA",
+            "sample_rate": 16000,
+            "size": 59288756,
+            "total_time": 5928660,
+            "track_count": 1,
+            "track_id": 16320,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

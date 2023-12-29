@@ -1,0 +1,35 @@
+{
+    "album": "Of Love & Legend",
+    "songs": [
+        {
+            "album": "Of Love & Legend",
+            "album_artist": "Vanessa K. Eccles",
+            "artist": "Vanessa K. Eccles",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:11:11",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Sci-Fi & Fantasy",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Vanessa K. Eccles/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 968,
+            "persistent_id": "3CD32F3400BC4B37",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-01-29T08:00:00",
+            "sample_rate": 44100,
+            "size": 62406383,
+            "total_time": 4302654,
+            "track_count": 1,
+            "track_id": 23920,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

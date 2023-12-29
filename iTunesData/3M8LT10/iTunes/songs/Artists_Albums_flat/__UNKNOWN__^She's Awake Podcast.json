@@ -1,0 +1,101 @@
+{
+    "album": "She's Awake Podcast",
+    "songs": [
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-07-08T17_17_22-07_00.mp3",
+            "name": "There Is Always A Barrel",
+            "persistent_id": "383E39B16C816D8D",
+            "total_time": 1319000,
+            "track_id": 24576,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-07-19T14_26_42-07_00.mp3",
+            "name": "What's The Point?",
+            "persistent_id": "65878843A0FEAC85",
+            "total_time": 1094000,
+            "track_id": 24578,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-09-21T20_02_04-07_00.mp3",
+            "name": "Learning From Triggers",
+            "persistent_id": "49F4A78165DE6942",
+            "total_time": 810000,
+            "track_id": 24580,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-09-27T12_14_03-07_00.mp3",
+            "name": "Let's Start Fresh",
+            "persistent_id": "613C0F2C98A171CE",
+            "total_time": 914000,
+            "track_id": 24582,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-10-18T13_21_59-07_00.mp3",
+            "name": "Getting Clear On Your Priorities and Boundaries",
+            "persistent_id": "C1293F50112E9F67",
+            "total_time": 1423000,
+            "track_id": 24584,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:53",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2020-11-12T11_42_50-08_00.mp3",
+            "name": "Two Ways To Breath",
+            "persistent_id": "58F2C3AC8A75BBC9",
+            "total_time": 995000,
+            "track_id": 24586,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:54",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2021-03-14T18_25_36-07_00.mp3?_=15408970",
+            "name": "Episode 66: You Need More Light",
+            "persistent_id": "51B9620A452DE964",
+            "total_time": 632000,
+            "track_id": 24616,
+            "track_type": "URL"
+        },
+        {
+            "album": "She's Awake Podcast",
+            "date_added": "2021-09-20T19:12:54",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://dangrant.podomatic.com/enclosure/2021-03-14T19_25_04-07_00.mp3?_=15409104",
+            "name": "Episode 67: The Long Hard Miles",
+            "persistent_id": "2AA7F1AF7293EA63",
+            "total_time": 828000,
+            "track_id": 24618,
+            "track_type": "URL"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "Something in the Water - Single",
+    "songs": [
+        {
+            "aART": "Carrie Underwood",
+            "atID": 63399334,
+            "cmID": 1467170800,
+            "cnID": 921612175,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Carrie Underwood/Something in the Water - Single/01 Something in the Water.m4a",
+            "geID": 6,
+            "plID": 921612174,
+            "purd": "2014-10-01 06:30:31",
+            "rel_path": "Carrie Underwood/Something in the Water - Single/01 Something in the Water.m4a",
+            "soal": "Something in the Water - Single",
+            "soar": "Carrie Underwood",
+            "sonm": "Something in the Water",
+            "stik": 1,
+            "trkn": [
+                1,
+                1
+            ],
+            "©ART": "Carrie Underwood",
+            "©alb": "Something in the Water - Single",
+            "©day": "2014-09-29T07:00:00Z",
+            "©gen": "Country",
+            "©nam": "Something in the Water",
+            "©wrt": "Carrie Underwood, Chris DeStefano & Brett James"
+        }
+    ]
+}

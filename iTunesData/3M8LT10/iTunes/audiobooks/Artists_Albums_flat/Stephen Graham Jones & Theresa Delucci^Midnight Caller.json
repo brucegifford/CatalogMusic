@@ -1,0 +1,35 @@
+{
+    "album": "Midnight Caller",
+    "songs": [
+        {
+            "album": "Midnight Caller",
+            "album_artist": "Stephen Graham Jones & Theresa Delucci",
+            "artist": "Stephen Graham Jones & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:44",
+            "date_modified": "2020-04-20T05:00:29",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Stephen Graham Jones & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1230,
+            "persistent_id": "E8A4620C6E789E95",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 9657068,
+            "total_time": 653466,
+            "track_count": 1,
+            "track_id": 23988,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

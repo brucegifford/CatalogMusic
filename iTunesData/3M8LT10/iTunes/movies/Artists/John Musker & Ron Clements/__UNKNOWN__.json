@@ -1,0 +1,36 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "John Musker & Ron Clements",
+            "artwork_count": 1,
+            "bitrate": 152,
+            "content_rating": "mpaa|PG|200|for peril, some scary images and brief thematic elements.",
+            "date_added": "2021-09-20T19:11:59",
+            "date_modified": "2018-12-29T00:22:01",
+            "file_folder_count": -1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Movies/Moana (2016)/Moana (2016) (1080p HD) 1.m4v",
+            "movie": true,
+            "name": "Moana (2016)",
+            "persistent_id": "D605F70A3FD56283",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2016-11-23T08:00:00",
+            "size": 4501185422,
+            "sort_artist": "John Musker & Ron Clements",
+            "sort_name": "Moana (2016)",
+            "total_time": 6507292,
+            "track_id": 4722,
+            "track_type": "File",
+            "video_height": 804,
+            "video_width": 1920,
+            "year": 2016
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "album": "The Changelog - conversations about open source & software development",
+    "songs": [
+        {
+            "album": "The Changelog - conversations about open source & software development",
+            "artist": "Adam Stacoviak and Jerod Santo",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:39",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/387/the-changelog-387.mp3",
+            "name": "Prepare yourself for Quantum Computing",
+            "persistent_id": "002E871941AFC8AE",
+            "sample_rate": 44100,
+            "sort_album": "Changelog - conversations about open source & software development",
+            "total_time": 4170000,
+            "track_id": 23816,
+            "track_type": "URL",
+            "year": 2020
+        }
+    ]
+}

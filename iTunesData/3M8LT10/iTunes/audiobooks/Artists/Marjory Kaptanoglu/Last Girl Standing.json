@@ -1,0 +1,35 @@
+{
+    "album": "Last Girl Standing",
+    "songs": [
+        {
+            "album": "Last Girl Standing",
+            "album_artist": "Marjory Kaptanoglu",
+            "artist": "Marjory Kaptanoglu",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-09-20T19:12:40",
+            "date_modified": "2020-04-20T05:09:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Marjory Kaptanoglu/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 640,
+            "persistent_id": "0E5DEC39E943CB9A",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-06-15T07:00:00",
+            "sample_rate": 44100,
+            "size": 301530533,
+            "total_time": 25158980,
+            "track_count": 1,
+            "track_id": 23888,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

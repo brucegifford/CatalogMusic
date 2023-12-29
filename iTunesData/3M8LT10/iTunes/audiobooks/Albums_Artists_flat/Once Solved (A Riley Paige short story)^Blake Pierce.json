@@ -1,0 +1,35 @@
+{
+    "album": "Once Solved (A Riley Paige short story)",
+    "songs": [
+        {
+            "album": "Once Solved (A Riley Paige short story)",
+            "album_artist": "Blake Pierce",
+            "artist": "Blake Pierce",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:44",
+            "date_modified": "2020-04-20T05:11:23",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Mysteries & Thrillers",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Blake Pierce/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 349,
+            "persistent_id": "9871701868EB5A04",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-10-31T07:00:00",
+            "sample_rate": 44100,
+            "size": 19274213,
+            "total_time": 1287883,
+            "track_count": 1,
+            "track_id": 23962,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

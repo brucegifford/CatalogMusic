@@ -1,0 +1,29 @@
+{
+    "album": "Plural Marriage",
+    "songs": [
+        {
+            "album": "Plural Marriage",
+            "artist": "Denver Snuffer, Jr.",
+            "bitrate": 96,
+            "date_added": "2021-09-20T19:12:06",
+            "date_modified": "2015-03-23T03:20:10",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Denver Snuffer, Jr_/Plural Marriage/01 Plural Marriage.mp3",
+            "name": "Plural Marriage",
+            "persistent_id": "1F622A1E86D8A318",
+            "sample_rate": 44100,
+            "size": 86753013,
+            "total_time": 7228551,
+            "track_count": 1,
+            "track_id": 16216,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

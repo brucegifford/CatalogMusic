@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Anne Marie Oborn, Shelly Locke",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/36ce6cc6-0695-40e8-8ff4-f0d631514997/shelly-locke_tc.mp3?aid=rss_feed",
+            "name": "Convincing the World to Make More Babies",
+            "persistent_id": "91DFBCDD96E05C72",
+            "play_count": 1,
+            "play_date": 3656575440,
+            "play_date_utc": "2019-11-14T18:24:00",
+            "sample_rate": 44100,
+            "total_time": 1823000,
+            "track_id": 22530,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

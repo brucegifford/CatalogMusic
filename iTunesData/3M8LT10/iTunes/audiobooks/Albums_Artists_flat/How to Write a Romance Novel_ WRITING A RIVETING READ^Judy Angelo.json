@@ -1,0 +1,35 @@
+{
+    "album": "How to Write a Romance Novel: WRITING A RIVETING READ",
+    "songs": [
+        {
+            "album": "How to Write a Romance Novel: WRITING A RIVETING READ",
+            "album_artist": "Judy Angelo",
+            "artist": "Judy Angelo",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:00:27",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Nonfiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Judy Angelo/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 503,
+            "persistent_id": "BDF863F3ED28B06E",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-08-15T07:00:00",
+            "sample_rate": 44100,
+            "size": 98162743,
+            "total_time": 7102104,
+            "track_count": 1,
+            "track_id": 23940,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

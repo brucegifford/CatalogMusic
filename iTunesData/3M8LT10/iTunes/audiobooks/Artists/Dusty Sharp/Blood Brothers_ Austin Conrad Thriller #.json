@@ -1,0 +1,35 @@
+{
+    "album": "Blood Brothers: Austin Conrad Thriller #1",
+    "songs": [
+        {
+            "album": "Blood Brothers: Austin Conrad Thriller #1",
+            "album_artist": "Dusty Sharp",
+            "artist": "Dusty Sharp",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T04:56:52",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Mysteries & Thrillers",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Dusty Sharp/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 311,
+            "persistent_id": "3BB9374823EE359F",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-08-19T07:00:00",
+            "sample_rate": 44100,
+            "size": 111996678,
+            "total_time": 8368431,
+            "track_count": 1,
+            "track_id": 23910,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

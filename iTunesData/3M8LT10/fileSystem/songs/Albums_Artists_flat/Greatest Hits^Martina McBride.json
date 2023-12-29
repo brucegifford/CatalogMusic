@@ -1,0 +1,442 @@
+{
+    "album": "Greatest Hits",
+    "songs": [
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/01 My Baby Loves Me.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/01 My Baby Loves Me.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "My Baby Loves Me",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Gretchen Peters"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/02 Life #9.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/02 Life #9.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Life #9",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Kostas/Tony Pérez"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/03 Independence Day.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/03 Independence Day.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Independence Day",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Gretchen Peters"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/04 Strangers.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/04 Strangers.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Strangers",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Bobby Braddock"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/05 Safe In The Arms Of Love.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/05 Safe In The Arms Of Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Safe In The Arms Of Love",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Mary Ann Kennedy/Pat Bunch/Pam Rose"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/06 Wild Angels.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/06 Wild Angels.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Wild Angels",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Gary Harrison/Matraca Berg/Harry Stinson"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/07 Valentine.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/07 Valentine.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "1997",
+            "©gen": "Country & Folk",
+            "©nam": "Valentine",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Jim Brickman/Jack Kugell"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/08 A Broken Wing.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/08 A Broken Wing.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "A Broken Wing",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "James House/Phil Barnhart/Sam Hogin"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/09 Happy Girl.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/09 Happy Girl.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Happy Girl",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Annie Roboff/Beth Nielsen Chapman"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/10 Wrong Again.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/10 Wrong Again.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Wrong Again",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Cynthia Weil/Tommy Lee James"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/11 Whatever You Say.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/11 Whatever You Say.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Whatever You Say",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Ed Hill/Tony Martin"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/12 I Love You.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/12 I Love You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "I Love You",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Keith Follesé/Tammy Hyler/Adrienne Follesé"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/13 Love's The Only House.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/13 Love's The Only House.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Love's The Only House",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Tom Douglas/Buzz Cason"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/14 There You Are.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/14 There You Are.m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "There You Are",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Mark D. Sanders/Bob Dipiero/Ed Hill"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/15 When God-Fearin' Women Get The Bl.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/15 When God-Fearin' Women Get The Bl.m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "When God-Fearin' Women Get The Blues (Intro)",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Leslie Satcher"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/16 When God-Fearin' Women Get The Bl.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/16 When God-Fearin' Women Get The Bl.m4a",
+            "tmpo": 0,
+            "trkn": [
+                16,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "When God-Fearin' Women Get The Blues",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Leslie Satcher"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/17 Where Would You Be.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/17 Where Would You Be.m4a",
+            "tmpo": 0,
+            "trkn": [
+                17,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Where Would You Be",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "R. Ferrell/R. Proctor"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/18 Concrete Angel.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/18 Concrete Angel.m4a",
+            "tmpo": 0,
+            "trkn": [
+                18,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Concrete Angel",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Rob Crosby/Stephanie Bentley"
+        },
+        {
+            "aART": "Martina McBride",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Martina McBride/Greatest Hits/19 Blessed.m4a",
+            "pgap": false,
+            "rel_path": "Martina McBride/Greatest Hits/19 Blessed.m4a",
+            "tmpo": 0,
+            "trkn": [
+                19,
+                19
+            ],
+            "©ART": "Martina McBride",
+            "©alb": "Greatest Hits",
+            "©day": "2001",
+            "©gen": "Country & Folk",
+            "©nam": "Blessed",
+            "©too": "iTunes 12.1.1.4",
+            "©wrt": "Troy Verges/Hillary Lindsey/Brett James"
+        }
+    ]
+}

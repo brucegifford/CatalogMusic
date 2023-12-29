@@ -1,0 +1,35 @@
+{
+    "album": "The Mission of Elija",
+    "songs": [
+        {
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.m4a",
+            "rel_path": "Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.m4a",
+            "trkn": [
+                1,
+                1
+            ],
+            "©ART": "Denver Snuffer, Jr.",
+            "©alb": "The Mission of Elija",
+            "©cmt": "Lecture in Spanish Fork at confetti books on Friday October 14th, 2011. Recorded on iPhone",
+            "©day": "2011",
+            "©gen": "Talk: Religious",
+            "©nam": "The Mission of Elija"
+        },
+        {
+            "album": "The Mission of Elija",
+            "artist": "Denver Snuffer, Jr.",
+            "date": "2011",
+            "discnumber": "1/1",
+            "encodedby": "iTunes 10.6.3.25",
+            "full_path": "D:/iTunes Media/Music/Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.mp3",
+            "genre": "Talk: Religious",
+            "rel_path": "Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.mp3",
+            "title": "The Mission of Elija",
+            "tracknumber": "1/1"
+        }
+    ]
+}

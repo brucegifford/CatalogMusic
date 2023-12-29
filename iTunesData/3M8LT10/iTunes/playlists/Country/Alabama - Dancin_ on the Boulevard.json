@@ -1,0 +1,37 @@
+{
+    "all_items": true,
+    "display_path": "/Country/Alabama - Dancin_ on the Boulevard",
+    "name": "Alabama - Dancin' on the Boulevard",
+    "parent_persistent_id": "0F085AD49BFFB28F",
+    "playlist_id": 69397,
+    "playlist_persistent_id": "42E425395517ED81",
+    "tracks": [
+        {
+            "album": "Dancin' on the Boulevard ",
+            "artist": "Alabama",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:00",
+            "date_modified": "2021-10-21T23:52:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Alabama/Dancin' on the Boulevard/02 Sad Lookin' Moon.mp3",
+            "name": "Sad Lookin' Moon",
+            "persistent_id": "C27470D1ADFCB143",
+            "play_count": 5,
+            "play_date": 3785585195,
+            "play_date_utc": "2023-12-16T22:26:35",
+            "sample_rate": 44100,
+            "size": 3462896,
+            "total_time": 215275,
+            "track_count": 11,
+            "track_id": 14754,
+            "track_number": 2,
+            "track_type": "File",
+            "year": 1997
+        }
+    ]
+}

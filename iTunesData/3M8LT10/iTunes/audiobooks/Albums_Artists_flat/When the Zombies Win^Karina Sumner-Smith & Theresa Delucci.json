@@ -1,0 +1,35 @@
+{
+    "album": "When the Zombies Win",
+    "songs": [
+        {
+            "album": "When the Zombies Win",
+            "album_artist": "Karina Sumner-Smith & Theresa Delucci",
+            "artist": "Karina Sumner-Smith & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:02:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Karina Sumner-Smith & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1291,
+            "persistent_id": "2A3244B59906A1FC",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 8799629,
+            "total_time": 507587,
+            "track_count": 1,
+            "track_id": 23994,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

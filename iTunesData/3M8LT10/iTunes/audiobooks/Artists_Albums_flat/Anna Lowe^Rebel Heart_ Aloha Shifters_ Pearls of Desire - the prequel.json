@@ -1,0 +1,35 @@
+{
+    "album": "Rebel Heart: Aloha Shifters: Pearls of Desire - the prequel",
+    "songs": [
+        {
+            "album": "Rebel Heart: Aloha Shifters: Pearls of Desire - the prequel",
+            "album_artist": "Anna Lowe",
+            "artist": "Anna Lowe",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T04:57:49",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Romance",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Anna Lowe/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 868,
+            "persistent_id": "6890EA4586F0824A",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2018-11-05T08:00:00",
+            "sample_rate": 44100,
+            "size": 72628692,
+            "total_time": 4893332,
+            "track_count": 1,
+            "track_id": 23918,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2018
+        }
+    ]
+}

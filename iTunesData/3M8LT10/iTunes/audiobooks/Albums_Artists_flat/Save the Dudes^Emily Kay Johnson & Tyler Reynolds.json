@@ -1,0 +1,35 @@
+{
+    "album": "Save the Dudes",
+    "songs": [
+        {
+            "album": "Save the Dudes",
+            "album_artist": "Emily Kay Johnson & Tyler Reynolds",
+            "artist": "Emily Kay Johnson & Tyler Reynolds",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:44",
+            "date_modified": "2020-04-20T05:11:06",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Emily Kay Johnson & Tyler Reynolds/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 294,
+            "persistent_id": "785E268C1FD7CED1",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-11-01T07:00:00",
+            "sample_rate": 44100,
+            "size": 148912128,
+            "total_time": 10874906,
+            "track_count": 1,
+            "track_id": 23948,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

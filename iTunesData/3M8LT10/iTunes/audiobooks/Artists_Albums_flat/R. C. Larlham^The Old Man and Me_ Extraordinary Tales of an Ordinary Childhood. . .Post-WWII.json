@@ -1,0 +1,36 @@
+{
+    "album": "The Old Man and Me: Extraordinary Tales of an Ordinary Childhood. . .Post-WWII",
+    "songs": [
+        {
+            "album": "The Old Man and Me: Extraordinary Tales of an Ordinary Childhood. . .Post-WWII",
+            "album_artist": "R. C. Larlham",
+            "artist": "R. C. Larlham",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T04:59:22",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Biographies & Memoirs",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/R. C. Larlham/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1135,
+            "persistent_id": "92D8937A610B675D",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-12-22T08:00:00",
+            "sample_rate": 44100,
+            "size": 480253726,
+            "sort_album": "Old Man and Me: Extraordinary Tales of an Ordinary Childhood. . .Post-WWII",
+            "total_time": 33294262,
+            "track_count": 1,
+            "track_id": 23942,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

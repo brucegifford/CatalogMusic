@@ -1,0 +1,24 @@
+{
+    "album": "DevOps on AWS Radio",
+    "songs": [
+        {
+            "album": "DevOps on AWS Radio",
+            "artist": "Mphasis Stelligent",
+            "bitrate": 163,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://feeds.soundcloud.com/stream/723640879-stelligent-ep-26-dos-donts-containers-michael-wittig.mp3",
+            "name": "Ep. 26 The Do's and Dont's of Containers with Michael Wittig",
+            "persistent_id": "D7F80D38AB170CD2",
+            "play_count": 1,
+            "play_date": 3662010290,
+            "play_date_utc": "2020-01-16T16:04:50",
+            "sample_rate": 44100,
+            "total_time": 2028000,
+            "track_id": 22684,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

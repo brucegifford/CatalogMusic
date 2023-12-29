@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Robert C. Freeman, Bob Freeman",
+            "bitrate": 127,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/5c0bb28b-5a7e-47c6-9e34-5289b071a168/bob-freeman1_tc.mp3?aid=rss_feed",
+            "name": "Saints at War with Robert C. Freeman Part One Veterans Day Special",
+            "persistent_id": "04C2E7590DF6F35D",
+            "play_count": 1,
+            "play_date": 3660988899,
+            "play_date_utc": "2020-01-04T20:21:39",
+            "sample_rate": 44100,
+            "total_time": 1889000,
+            "track_id": 22556,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "album": "Conni & Co",
+    "songs": [
+        {
+            "album": "Conni & Co",
+            "album_artist": "Julia Boehme & Conni & Co",
+            "artist": "Julia Boehme & Conni & Co",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:11:21",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Julia Boehme & Conni & Co/01 Conni & Co Track 1.m4b",
+            "name": "Conni & Co Track 1",
+            "normalization": 1740,
+            "part_of_gapless_album": true,
+            "persistent_id": "7C96EE96BC40F167",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2007-08-16T07:00:00",
+            "sample_rate": 44100,
+            "size": 151326950,
+            "total_time": 9037492,
+            "track_count": 1,
+            "track_id": 23926,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2007
+        }
+    ]
+}

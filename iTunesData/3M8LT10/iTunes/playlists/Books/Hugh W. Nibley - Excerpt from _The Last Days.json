@@ -1,0 +1,40 @@
+{
+    "all_items": true,
+    "display_path": "/Books/Hugh W. Nibley - Excerpt from _The Last Days",
+    "name": "Hugh W. Nibley - Excerpt from \"The Last Days\"",
+    "parent_persistent_id": "63724C021295ED09",
+    "playlist_id": 67664,
+    "playlist_persistent_id": "802C54BD11D7C97A",
+    "tracks": [
+        {
+            "album": "Excerpt from \"The Last Days\" ",
+            "artist": "Hugh W. Nibley",
+            "artwork_count": 1,
+            "bitrate": 16,
+            "comments": "To get the full talk, contact the Foundation for Ancient Research and Mormon Studies.  1-800-327-6715  The title from the Essay is \"Scriptural Perspectives on How to Survive the Calamities of the Last Days.\"  Later published in Nibley's Book \"The Propheti",
+            "composer": "Read by Lloyd D. Newll",
+            "date_added": "2021-09-20T19:12:15",
+            "date_modified": "2008-09-06T16:55:25",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Hugh W. Nibley/Excerpt from _The Last Days_/01 Pre-Emptive War.mp3",
+            "name": "Pre-Emptive War",
+            "normalization": 355,
+            "persistent_id": "3A374A28E2BC45BC",
+            "play_count": 1,
+            "play_date": 3683004642,
+            "play_date_utc": "2020-09-15T14:50:42",
+            "sample_rate": 11025,
+            "size": 1835652,
+            "total_time": 814184,
+            "track_count": 1,
+            "track_id": 17118,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "all_items": true,
+    "display_path": "/Talks/Sarah Menet - Sarah Menet",
+    "name": "Sarah Menet - Sarah Menet",
+    "parent_persistent_id": "518F505A5BA41685",
+    "playlist_id": 74483,
+    "playlist_persistent_id": "353F36F63F016136",
+    "tracks": [
+        {
+            "album": "Sarah Menet",
+            "artist": "Sarah Menet",
+            "bitrate": 64,
+            "comments": "Recorded 6/4/2011",
+            "date_added": "2021-09-20T19:12:28",
+            "date_modified": "2018-12-02T00:04:34",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "kind": "AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Sarah Menet/Sarah Menet/01 Sarah Menet.m4a",
+            "name": "Sarah Menet",
+            "persistent_id": "6F2C2A3CA0906448",
+            "sample_rate": 44100,
+            "size": 4853610,
+            "total_time": 593523,
+            "track_count": 1,
+            "track_id": 20290,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2011
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "album": "Roll On",
+    "songs": [
+        {
+            "album": "Roll On",
+            "artist": "Alabama",
+            "date": "1984",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Roll On/01 Roll On (Eighteen Wheeler).mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Roll On/01 Roll On (Eighteen Wheeler).mp3",
+            "title": "Roll On (Eighteen Wheeler)",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "Roll On",
+            "artist": "Alabama",
+            "date": "1984",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Roll On/05 If You're Gonna Play In Texas.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Roll On/05 If You're Gonna Play In Texas.mp3",
+            "title": "If You're Gonna Play In Texas",
+            "tracknumber": "5/10"
+        },
+        {
+            "album": "Roll On",
+            "artist": "Alabama",
+            "date": "1984",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Roll On/06 (There's A) Fire In The Night.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Roll On/06 (There's A) Fire In The Night.mp3",
+            "title": "(There's A) Fire In The Night",
+            "tracknumber": "6/10"
+        },
+        {
+            "album": "Roll On",
+            "artist": "Alabama",
+            "date": "1984",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Roll On/Alabama - When We Make Love.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Roll On/Alabama - When We Make Love.mp3",
+            "tracknumber": "7/10"
+        }
+    ]
+}

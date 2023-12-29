@@ -1,0 +1,49 @@
+{
+    "album": "Pass It On Down",
+    "songs": [
+        {
+            "album": "Pass It On Down",
+            "artist": "Alabama",
+            "date": "1990",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Pass It On Down/02 Here We Are.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Pass It On Down/02 Here We Are.mp3",
+            "title": "Here We Are",
+            "tracknumber": "2/12"
+        },
+        {
+            "album": "Pass It On Down",
+            "artist": "Alabama",
+            "date": "1990",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Pass It On Down/03 Down Home.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Pass It On Down/03 Down Home.mp3",
+            "title": "Down Home",
+            "tracknumber": "3/12"
+        },
+        {
+            "album": "Pass It On Down",
+            "artist": "Alabama",
+            "date": "1990",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Pass It On Down/04 Forever's As Far As I'll Go.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Pass It On Down/04 Forever's As Far As I'll Go.mp3",
+            "title": "Forever's As Far As I'll Go",
+            "tracknumber": "4/12"
+        },
+        {
+            "album": "Pass It On Down",
+            "artist": "Alabama",
+            "date": "1990",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Pass It On Down/05 Jukebox In My Mind.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Pass It On Down/05 Jukebox In My Mind.mp3",
+            "title": "Jukebox In My Mind",
+            "tracknumber": "5/12"
+        }
+    ]
+}

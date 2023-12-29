@@ -1,0 +1,35 @@
+{
+    "album": "Rise of the Dragons (Kings and Sorcerers–Book 1)",
+    "songs": [
+        {
+            "album": "Rise of the Dragons (Kings and Sorcerers–Book 1)",
+            "album_artist": "Morgan Rice",
+            "artist": "Morgan Rice",
+            "artwork_count": 1,
+            "bitrate": 96,
+            "date_added": "2021-09-20T19:12:40",
+            "date_modified": "2020-04-20T05:06:08",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Morgan Rice/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 347,
+            "persistent_id": "523CE2F0A437702C",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2015-03-25T07:00:00",
+            "sample_rate": 44100,
+            "size": 378039628,
+            "total_time": 29998429,
+            "track_count": 1,
+            "track_id": 23878,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

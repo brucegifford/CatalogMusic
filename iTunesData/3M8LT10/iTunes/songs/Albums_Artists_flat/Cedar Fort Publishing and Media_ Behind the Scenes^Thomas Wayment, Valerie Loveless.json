@@ -1,0 +1,22 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Thomas Wayment, Valerie Loveless",
+            "bitrate": 128,
+            "composer": "Stephanie K. Adams",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/4d48562f-935b-4046-94cc-5f3ca3e81c44/thomas-wayment_tc.mp3?aid=rss_feed",
+            "name": "BYU Greek Scholar Describes an Historically Accurate Nativity: Thomas Wayment",
+            "persistent_id": "E3DD65A6336F548C",
+            "sample_rate": 44100,
+            "total_time": 3201000,
+            "track_id": 22712,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

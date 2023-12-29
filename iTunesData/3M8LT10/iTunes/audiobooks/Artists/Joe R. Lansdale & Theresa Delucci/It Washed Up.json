@@ -1,0 +1,35 @@
+{
+    "album": "It Washed Up",
+    "songs": [
+        {
+            "album": "It Washed Up",
+            "album_artist": "Joe R. Lansdale & Theresa Delucci",
+            "artist": "Joe R. Lansdale & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:06:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Joe R. Lansdale & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1123,
+            "persistent_id": "949DB20E92085B6B",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 7434277,
+            "total_time": 415930,
+            "track_count": 1,
+            "track_id": 24004,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

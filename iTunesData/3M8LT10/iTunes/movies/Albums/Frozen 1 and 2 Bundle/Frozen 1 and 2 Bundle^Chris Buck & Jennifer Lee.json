@@ -1,0 +1,42 @@
+{
+    "album": "Frozen 1 and 2 Bundle",
+    "songs": [
+        {
+            "album": "Frozen 1 and 2 Bundle",
+            "artist": "Chris Buck & Jennifer Lee",
+            "artwork_count": 1,
+            "bitrate": 152,
+            "content_rating": "mpaa|PG|200|for some action and mild rude humor.",
+            "date_added": "2021-09-20T19:12:33",
+            "date_modified": "2019-05-26T01:33:34",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Movies/Frozen/01 Frozen (HD).m4v",
+            "movie": true,
+            "name": "Frozen",
+            "persistent_id": "422244518633AB6C",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2013-11-27T08:00:00",
+            "size": 3407190331,
+            "sort_album": "Frozen 1 and 2 Bundle",
+            "sort_artist": "Chris Buck & Jennifer Lee",
+            "sort_name": "Frozen",
+            "total_time": 6133312,
+            "track_count": 2,
+            "track_id": 4718,
+            "track_number": 1,
+            "track_type": "File",
+            "video_height": 568,
+            "video_width": 1280,
+            "year": 2013
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "album": "Just Us",
+    "songs": [
+        {
+            "album": "Just Us",
+            "artist": "Alabama",
+            "date": "1987",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Just Us/05 Face To Face.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Just Us/05 Face To Face.mp3",
+            "title": "Face To Face",
+            "tracknumber": "5/9"
+        },
+        {
+            "album": "Just Us",
+            "artist": "Alabama",
+            "date": "1987",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Just Us/09 Fallin' Again.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Just Us/09 Fallin' Again.mp3",
+            "title": "Fallin' Again",
+            "tracknumber": "9/9"
+        }
+    ]
+}

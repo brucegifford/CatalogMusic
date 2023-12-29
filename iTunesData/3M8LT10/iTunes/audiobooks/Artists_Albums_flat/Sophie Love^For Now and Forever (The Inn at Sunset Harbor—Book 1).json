@@ -1,0 +1,35 @@
+{
+    "album": "For Now and Forever (The Inn at Sunset Harbor—Book 1)",
+    "songs": [
+        {
+            "album": "For Now and Forever (The Inn at Sunset Harbor—Book 1)",
+            "album_artist": "Sophie Love",
+            "artist": "Sophie Love",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:40",
+            "date_modified": "2020-04-20T05:02:59",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Romance",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Sophie Love/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 434,
+            "persistent_id": "7C700AAFD961AEBF",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2016-10-19T07:00:00",
+            "sample_rate": 44100,
+            "size": 343751726,
+            "total_time": 24418671,
+            "track_count": 1,
+            "track_id": 23880,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2016
+        }
+    ]
+}

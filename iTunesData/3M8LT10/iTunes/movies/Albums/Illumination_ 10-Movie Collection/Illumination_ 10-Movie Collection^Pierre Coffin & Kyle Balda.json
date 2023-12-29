@@ -1,0 +1,42 @@
+{
+    "album": "Illumination: 10-Movie Collection",
+    "songs": [
+        {
+            "album": "Illumination: 10-Movie Collection",
+            "artist": "Pierre Coffin & Kyle Balda",
+            "artwork_count": 1,
+            "bitrate": 153,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2021-09-20T19:12:33",
+            "date_modified": "2019-05-26T01:38:01",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Movies/Despicable Me 3/05 Despicable Me 3 (HD).m4v",
+            "movie": true,
+            "name": "Despicable Me 3",
+            "persistent_id": "4409AB916DD87F22",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2017-06-30T07:00:00",
+            "size": 3409241189,
+            "sort_album": "Illumination: 10-Movie Collection",
+            "sort_artist": "Pierre Coffin & Kyle Balda",
+            "sort_name": "Despicable Me 3",
+            "total_time": 5381673,
+            "track_count": 10,
+            "track_id": 4660,
+            "track_number": 5,
+            "track_type": "File",
+            "video_height": 536,
+            "video_width": 1280,
+            "year": 2017
+        }
+    ]
+}

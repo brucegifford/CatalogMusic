@@ -1,0 +1,35 @@
+{
+    "album": "Uncle Tom's Cabin",
+    "songs": [
+        {
+            "album": "Uncle Tom's Cabin",
+            "album_artist": "Harriet Beecher Stowe",
+            "artist": "Harriet Beecher Stowe",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:44",
+            "date_modified": "2020-04-20T05:05:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Harriet Beecher Stowe/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 629,
+            "persistent_id": "2FF252A8D0D4A9CF",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-08-25T07:00:00",
+            "sample_rate": 44100,
+            "size": 879477423,
+            "total_time": 65214402,
+            "track_count": 1,
+            "track_id": 23978,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

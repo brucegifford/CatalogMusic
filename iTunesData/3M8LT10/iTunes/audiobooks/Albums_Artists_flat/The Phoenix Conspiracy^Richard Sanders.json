@@ -1,0 +1,36 @@
+{
+    "album": "The Phoenix Conspiracy",
+    "songs": [
+        {
+            "album": "The Phoenix Conspiracy",
+            "album_artist": "Richard Sanders",
+            "artist": "Richard Sanders",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:41",
+            "date_modified": "2020-04-20T04:58:26",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Sci-Fi & Fantasy",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Richard Sanders/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1259,
+            "persistent_id": "066572FDD63D2380",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-01-01T08:00:00",
+            "sample_rate": 44100,
+            "size": 595654198,
+            "sort_album": "Phoenix Conspiracy",
+            "total_time": 43172022,
+            "track_count": 1,
+            "track_id": 23894,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

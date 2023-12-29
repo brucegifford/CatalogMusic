@@ -1,0 +1,33 @@
+{
+    "album": "Greatest Hits",
+    "songs": [
+        {
+            "album": "Greatest Hits",
+            "artist": "Alabama",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:00",
+            "date_modified": "2022-11-29T19:46:12",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Alabama/Greatest Hits/Alabama - She And I.mp3",
+            "name": "Alabama - She And I",
+            "persistent_id": "4D01D602AFABF937",
+            "play_count": 7,
+            "play_date": 3785588996,
+            "play_date_utc": "2023-12-16T23:29:56",
+            "sample_rate": 44100,
+            "size": 3640027,
+            "total_time": 216293,
+            "track_count": 10,
+            "track_id": 14756,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1986
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "In Sheep's Clothing",
+    "songs": [
+        {
+            "album": "In Sheep's Clothing",
+            "album_artist": "Molly Tanzer & Theresa Delucci",
+            "artist": "Molly Tanzer & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:01:31",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Molly Tanzer & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 934,
+            "persistent_id": "BF83373DD37361BE",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 21930410,
+            "total_time": 1429471,
+            "track_count": 1,
+            "track_id": 24012,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

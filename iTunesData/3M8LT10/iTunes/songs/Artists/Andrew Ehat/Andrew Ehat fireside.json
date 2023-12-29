@@ -1,0 +1,32 @@
+{
+    "album": "Andrew Ehat fireside",
+    "songs": [
+        {
+            "album": "Andrew Ehat fireside",
+            "artist": "Andrew Ehat",
+            "bitrate": 64,
+            "comments": "Recorded 12/29/2012 7:41 PM",
+            "date_added": "2021-09-20T19:12:01",
+            "date_modified": "2018-12-01T19:28:20",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "kind": "AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Andrew Ehat/Andrew Ehat fireside/01 Andrew Ehat fireside.m4a",
+            "name": "Andrew Ehat fireside",
+            "persistent_id": "95C55A69375513E0",
+            "play_count": 1,
+            "play_date": 3725907109,
+            "play_date_utc": "2022-01-25T05:11:49",
+            "sample_rate": 44100,
+            "size": 82828025,
+            "total_time": 10134788,
+            "track_count": 1,
+            "track_id": 14930,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2012
+        }
+    ]
+}

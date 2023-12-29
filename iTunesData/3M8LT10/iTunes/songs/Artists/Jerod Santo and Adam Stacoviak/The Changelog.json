@@ -1,0 +1,19 @@
+{
+    "album": "The Changelog",
+    "songs": [
+        {
+            "album": "The Changelog",
+            "artist": "Jerod Santo and Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/331/the-changelog-331.mp3",
+            "name": "GitHub Actions is the next big thing",
+            "persistent_id": "47B7EE2381BABBF4",
+            "sort_album": "Changelog",
+            "total_time": 4641000,
+            "track_id": 22846,
+            "track_type": "URL"
+        }
+    ]
+}

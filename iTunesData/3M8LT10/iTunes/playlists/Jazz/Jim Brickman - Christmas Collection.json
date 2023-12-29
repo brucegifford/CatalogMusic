@@ -1,0 +1,39 @@
+{
+    "all_items": true,
+    "display_path": "/Jazz/Jim Brickman - Christmas Collection",
+    "name": "Jim Brickman - Christmas Collection",
+    "parent_persistent_id": "61A9EEE449690EFB",
+    "playlist_id": 70745,
+    "playlist_persistent_id": "1298AF769AC35654",
+    "tracks": [
+        {
+            "album": "Christmas Collection",
+            "artist": "Jim Brickman",
+            "bitrate": 160,
+            "compilation": true,
+            "date_added": "2021-09-20T19:12:02",
+            "date_modified": "2008-11-06T03:21:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Christmas",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Compilations/Christmas Collection/07 Joy to the World.mp3",
+            "name": "Joy to the World",
+            "normalization": 1596,
+            "persistent_id": "C717F0499AC34FFA",
+            "play_count": 11,
+            "play_date": 3785962593,
+            "play_date_utc": "2023-12-21T07:16:33",
+            "sample_rate": 44100,
+            "size": 3878240,
+            "total_time": 193802,
+            "track_count": 10,
+            "track_id": 15200,
+            "track_number": 7,
+            "track_type": "File",
+            "year": 1998
+        }
+    ]
+}

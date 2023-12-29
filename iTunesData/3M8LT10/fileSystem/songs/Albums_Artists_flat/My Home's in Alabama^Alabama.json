@@ -1,0 +1,27 @@
+{
+    "album": "My Home's in Alabama",
+    "songs": [
+        {
+            "album": "My Home's in Alabama",
+            "artist": "Alabama",
+            "date": "1980",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/My Home's in Alabama/03 Why Lady Why.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/My Home's in Alabama/03 Why Lady Why.mp3",
+            "title": "Why Lady Why",
+            "tracknumber": "3/10"
+        },
+        {
+            "album": "My Home's in Alabama",
+            "artist": "Alabama",
+            "date": "1980",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/My Home's in Alabama/06 Tennessee River.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/My Home's in Alabama/06 Tennessee River.mp3",
+            "title": "Tennessee River",
+            "tracknumber": "6/10"
+        }
+    ]
+}

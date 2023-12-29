@@ -1,0 +1,37 @@
+{
+    "all_items": true,
+    "display_path": "/Country/Alabama - Cheap Seats",
+    "name": "Alabama - Cheap Seats",
+    "parent_persistent_id": "0F085AD49BFFB28F",
+    "playlist_id": 69389,
+    "playlist_persistent_id": "9C031DEFAA9EDE45",
+    "tracks": [
+        {
+            "album": "Cheap Seats",
+            "artist": "Alabama",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:00",
+            "date_modified": "2021-10-21T23:51:31",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Country",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Alabama/Cheap Seats/06 Reckless.mp3",
+            "name": "Reckless",
+            "persistent_id": "78B41D549DC65D5C",
+            "play_count": 7,
+            "play_date": 3785606487,
+            "play_date_utc": "2023-12-17T04:21:27",
+            "sample_rate": 44100,
+            "size": 3206687,
+            "total_time": 199262,
+            "track_count": 11,
+            "track_id": 14750,
+            "track_number": 6,
+            "track_type": "File",
+            "year": 1993
+        }
+    ]
+}

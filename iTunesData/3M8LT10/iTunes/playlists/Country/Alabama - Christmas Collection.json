@@ -1,0 +1,41 @@
+{
+    "all_items": true,
+    "display_path": "/Country/Alabama - Christmas Collection",
+    "name": "Alabama - Christmas Collection",
+    "parent_persistent_id": "0F085AD49BFFB28F",
+    "playlist_id": 69393,
+    "playlist_persistent_id": "4B9BCFAFB9630E5F",
+    "tracks": [
+        {
+            "album": "Christmas Collection",
+            "artist": "Alabama",
+            "bitrate": 160,
+            "compilation": true,
+            "date_added": "2021-09-20T19:12:02",
+            "date_modified": "2008-11-06T03:21:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Christmas",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Compilations/Christmas Collection/09 Tennessee Christmas.mp3",
+            "name": "Tennessee Christmas",
+            "normalization": 1875,
+            "persistent_id": "7242C63DCEF1541C",
+            "play_count": 14,
+            "play_date": 3785584979,
+            "play_date_utc": "2023-12-16T22:22:59",
+            "sample_rate": 44100,
+            "size": 4447707,
+            "skip_count": 1,
+            "skip_date": "2020-11-23T18:08:45",
+            "total_time": 222275,
+            "track_count": 10,
+            "track_id": 15204,
+            "track_number": 9,
+            "track_type": "File",
+            "year": 1998
+        }
+    ]
+}

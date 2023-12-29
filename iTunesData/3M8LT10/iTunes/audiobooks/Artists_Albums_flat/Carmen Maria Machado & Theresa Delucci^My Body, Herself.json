@@ -1,0 +1,35 @@
+{
+    "album": "My Body, Herself",
+    "songs": [
+        {
+            "album": "My Body, Herself",
+            "album_artist": "Carmen Maria Machado & Theresa Delucci",
+            "artist": "Carmen Maria Machado & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:12:23",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Carmen Maria Machado & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 944,
+            "persistent_id": "64B9087C4AC4533D",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 12319081,
+            "total_time": 793330,
+            "track_count": 1,
+            "track_id": 24002,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

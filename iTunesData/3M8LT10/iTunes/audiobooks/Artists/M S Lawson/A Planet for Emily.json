@@ -1,0 +1,36 @@
+{
+    "album": "A Planet for Emily",
+    "songs": [
+        {
+            "album": "A Planet for Emily",
+            "album_artist": "M S Lawson",
+            "artist": "M S Lawson",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:07:53",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Sci-Fi & Fantasy",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/M S Lawson/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 512,
+            "persistent_id": "E4F79148B23F81E6",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2018-05-02T07:00:00",
+            "sample_rate": 44100,
+            "size": 396189678,
+            "sort_album": "Planet for Emily",
+            "total_time": 23851599,
+            "track_count": 1,
+            "track_id": 23932,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2018
+        }
+    ]
+}

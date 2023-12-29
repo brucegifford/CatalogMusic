@@ -1,0 +1,35 @@
+{
+    "album": "Baby it's Cold Outside",
+    "songs": [
+        {
+            "album": "Baby it's Cold Outside",
+            "album_artist": "Renee Conoulty",
+            "artist": "Renee Conoulty",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:02:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Renee Conoulty/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 309,
+            "persistent_id": "E06F34FA86BC431D",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-11-03T07:00:00",
+            "sample_rate": 44100,
+            "size": 26710333,
+            "total_time": 1795967,
+            "track_count": 1,
+            "track_id": 23924,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Michael Grant",
+            "bitrate": 111,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/3dd164ff-bfdb-45c5-9972-6abf9b8c313f/michael-grant_tc.mp3?aid=rss_feed",
+            "name": "Millennial and Boomer talk Jesus, Smart Phones and LGBTQ",
+            "persistent_id": "B0DB6FA3A426398D",
+            "play_count": 1,
+            "play_date": 3658480022,
+            "play_date_utc": "2019-12-06T19:27:02",
+            "sample_rate": 44100,
+            "total_time": 4340000,
+            "track_id": 22660,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Marilyn Faulkner",
+            "bitrate": 122,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/efb7167c-5836-4fac-9619-90641ff79af4/marilyn-faulkner_tc.mp3?aid=rss_feed",
+            "name": "The User Friendly Book of Mormon for your 2020 Study of Come Follow Me",
+            "persistent_id": "0ED7E9E381F32B81",
+            "sample_rate": 44100,
+            "sort_name": "User Friendly Book of Mormon for your 2020 Study of Come Follow Me",
+            "total_time": 3485000,
+            "track_id": 22732,
+            "track_type": "URL",
+            "year": 2020
+        }
+    ]
+}

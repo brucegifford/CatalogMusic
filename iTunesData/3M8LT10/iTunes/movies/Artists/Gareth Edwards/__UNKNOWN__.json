@@ -1,0 +1,36 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Gareth Edwards",
+            "artwork_count": 1,
+            "bitrate": 154,
+            "content_rating": "mpaa|PG-13|300|for extended sequences of sci-fi violence and action.",
+            "date_added": "2021-09-20T19:11:57",
+            "date_modified": "2018-12-29T00:09:14",
+            "file_folder_count": -1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Movies/Rogue One_ A Star Wars Story/Rogue One_ A Star Wars Story (1080p 1.m4v",
+            "movie": true,
+            "name": "Rogue One: A Star Wars Story",
+            "persistent_id": "26D2D8AC4E14F0AD",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2016-12-16T08:00:00",
+            "size": 5672282190,
+            "sort_artist": "Gareth Edwards",
+            "sort_name": "Rogue One: A Star Wars Story",
+            "total_time": 8070520,
+            "track_id": 4602,
+            "track_type": "File",
+            "video_height": 804,
+            "video_width": 1920,
+            "year": 2016
+        }
+    ]
+}

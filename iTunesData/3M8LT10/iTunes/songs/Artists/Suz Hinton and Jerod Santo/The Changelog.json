@@ -1,0 +1,19 @@
+{
+    "album": "The Changelog",
+    "songs": [
+        {
+            "album": "The Changelog",
+            "artist": "Suz Hinton and Jerod Santo",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/316/the-changelog-316.mp3",
+            "name": "REST easy, GraphQL is here",
+            "persistent_id": "B24C913FD728BE16",
+            "sort_album": "Changelog",
+            "total_time": 3943000,
+            "track_id": 22814,
+            "track_type": "URL"
+        }
+    ]
+}

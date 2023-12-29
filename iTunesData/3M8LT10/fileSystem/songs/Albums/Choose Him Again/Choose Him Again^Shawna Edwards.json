@@ -1,0 +1,25 @@
+{
+    "album": "Choose Him Again",
+    "songs": [
+        {
+            "album": "Choose Him Again",
+            "artist": "Shawna Edwards",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Shawna Edwards/Choose Him Again/01 Choose Him Again.mp3",
+            "genre": "Primary",
+            "rel_path": "Shawna Edwards/Choose Him Again/01 Choose Him Again.mp3",
+            "title": "Choose Him Again",
+            "tracknumber": "1/2"
+        },
+        {
+            "album": "Choose Him Again",
+            "artist": "Shawna Edwards",
+            "discnumber": "2/2",
+            "full_path": "D:/iTunes Media/Music/Shawna Edwards/Choose Him Again/2-02 Choose Him Again Instrumental.mp3",
+            "genre": "Primary",
+            "rel_path": "Shawna Edwards/Choose Him Again/2-02 Choose Him Again Instrumental.mp3",
+            "title": "Choose Him Again Instrumental",
+            "tracknumber": "2/2"
+        }
+    ]
+}

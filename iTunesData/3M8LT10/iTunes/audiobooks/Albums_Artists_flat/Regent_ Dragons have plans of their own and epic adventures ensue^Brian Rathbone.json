@@ -1,0 +1,35 @@
+{
+    "album": "Regent: Dragons have plans of their own and epic adventures ensue",
+    "songs": [
+        {
+            "album": "Regent: Dragons have plans of their own and epic adventures ensue",
+            "album_artist": "Brian Rathbone",
+            "artist": "Brian Rathbone",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:43",
+            "date_modified": "2020-04-20T05:03:33",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Kids & Young Adults",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Brian Rathbone/01 Track 1 5.m4b",
+            "name": "Track 1",
+            "normalization": 604,
+            "persistent_id": "BE4E73735BE28799",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2014-03-19T07:00:00",
+            "sample_rate": 44100,
+            "size": 530422356,
+            "total_time": 31959162,
+            "track_count": 1,
+            "track_id": 23908,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

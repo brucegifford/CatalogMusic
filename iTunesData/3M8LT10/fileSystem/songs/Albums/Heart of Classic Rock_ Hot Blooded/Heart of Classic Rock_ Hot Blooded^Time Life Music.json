@@ -1,0 +1,603 @@
+{
+    "album": "Heart of Classic Rock: Hot Blooded",
+    "songs": [
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-01 If You Leave Me Now.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-01 If You Leave Me Now.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                13
+            ],
+            "©ART": "Chicago",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "If You Leave Me Now",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-02 Blinded by the Light.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-02 Blinded by the Light.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                13
+            ],
+            "©ART": "Manfred Mann's Earth Band",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Blinded by the Light",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-03 Still the One.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-03 Still the One.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                13
+            ],
+            "©ART": "Orleans",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Still the One",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-04 Double Vision.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-04 Double Vision.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                13
+            ],
+            "©ART": "Foreigner",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Double Vision",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-05 She_s Gone.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-05 She_s Gone.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                13
+            ],
+            "©ART": "Hall & Oates",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "She’s Gone",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-06 Feel Like Makin_ Love.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-06 Feel Like Makin_ Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                13
+            ],
+            "©ART": "Bad Company",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Feel Like Makin’ Love",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-07 I Need You.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-07 I Need You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                13
+            ],
+            "©ART": "America",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "I Need You",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-08 When Will I Be Loved.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-08 When Will I Be Loved.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                13
+            ],
+            "©ART": "Linda Ronstadt",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "When Will I Be Loved",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-09 Must of Got Lost.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-09 Must of Got Lost.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                13
+            ],
+            "©ART": "J. Geils Band",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Must of Got Lost",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-10 Stay with Me.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-10 Stay with Me.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                13
+            ],
+            "©ART": "Faces",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Stay with Me",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-11 Go All the Way.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-11 Go All the Way.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                13
+            ],
+            "©ART": "Raspberries",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Go All the Way",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-12 Hello It_s Me.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-12 Hello It_s Me.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                13
+            ],
+            "©ART": "Todd Rundgren",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Hello It’s Me",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/1-13 Love Is Alive.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/1-13 Love Is Alive.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                13
+            ],
+            "©ART": "Gary Wright",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Love Is Alive",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-01 I Want to Know What Love Is.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-01 I Want to Know What Love Is.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                13
+            ],
+            "©ART": "Foreigner",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "I Want to Know What Love Is",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-02 I'd Really Love to See You Toni.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-02 I'd Really Love to See You Toni.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                13
+            ],
+            "©ART": "England Dan & John Ford Coley",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "I'd Really Love to See You Tonight",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-03 You Are the Woman.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-03 You Are the Woman.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                13
+            ],
+            "©ART": "Firefall",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "You Are the Woman",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-04 Get Closer.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-04 Get Closer.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                13
+            ],
+            "©ART": "Seals & Crofts",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Get Closer",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-05 Take Me in Your Arms (Rock Me).m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-05 Take Me in Your Arms (Rock Me).m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                13
+            ],
+            "©ART": "The Doobie Brothers",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Take Me in Your Arms (Rock Me)",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-06 Colour My World.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-06 Colour My World.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                13
+            ],
+            "©ART": "Chicago",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Colour My World",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-07 Heartbreaker.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-07 Heartbreaker.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                13
+            ],
+            "©ART": "Pat Benatar",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Heartbreaker",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-08 Photograph.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-08 Photograph.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                13
+            ],
+            "©ART": "Ringo Starr",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Photograph",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-09 Can't Get Enough.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-09 Can't Get Enough.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                13
+            ],
+            "©ART": "Bad Company",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Can't Get Enough",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-10 Hot Blooded.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-10 Hot Blooded.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                13
+            ],
+            "©ART": "Foreigner",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Hot Blooded",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-11 I Saw the Light.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-11 I Saw the Light.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                13
+            ],
+            "©ART": "Todd Rnudgren",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "I Saw the Light",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-12 Woman From Tokyo.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-12 Woman From Tokyo.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                13
+            ],
+            "©ART": "Deep Purple",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Woman From Tokyo",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Heart of Classic Rock_ Hot Blooded/2-13 Baby, Now That I've Found You.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Heart of Classic Rock_ Hot Blooded/2-13 Baby, Now That I've Found You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                13
+            ],
+            "©ART": "The Foundations",
+            "©alb": "Heart of Classic Rock: Hot Blooded",
+            "©day": "2011",
+            "©gen": "Rock",
+            "©nam": "Baby, Now That I've Found You",
+            "©too": "iTunes 12.8.3.1",
+            "©wrt": "Time Life"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Wendy Parmley",
+            "bitrate": 127,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/38b1d9ae-89fc-44a1-8e27-d3739cf4803c/survivors-of-suicide-awareness-day_tc.mp3?aid=rss_feed",
+            "name": "Let's Remove the Stigma from Mental Illness and Suicide",
+            "persistent_id": "61AAA6FF4E8646DC",
+            "play_count": 1,
+            "play_date": 3658486390,
+            "play_date_utc": "2019-12-06T21:13:10",
+            "sample_rate": 44100,
+            "total_time": 4863000,
+            "track_id": 22662,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

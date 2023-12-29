@@ -1,0 +1,30 @@
+{
+    "album": "Supping with the Lord",
+    "songs": [
+        {
+            "album": "Supping with the Lord",
+            "artist": "Kathleen Flake",
+            "bitrate": 32,
+            "comments": "KATHLEEN FLAKE, an attorney in Washington, D.C.i,s studying\nliturgy at f i e Catholic University ofAmerica. Versions ofthis paper\nwere presented at the Sunstone symposiums in Salt Lake City (1 9921\nand Washington, D. C. (1 993).",
+            "date_added": "2021-09-20T19:12:22",
+            "date_modified": "2017-11-13T05:34:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Kathleen Flake/Supping with the Lord/01 Supping with the Lord.mp3",
+            "name": "01 Supping with the Lord",
+            "persistent_id": "472068C49E5DFABB",
+            "sample_rate": 32000,
+            "size": 10514969,
+            "total_time": 2626092,
+            "track_count": 1,
+            "track_id": 18836,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1992
+        }
+    ]
+}

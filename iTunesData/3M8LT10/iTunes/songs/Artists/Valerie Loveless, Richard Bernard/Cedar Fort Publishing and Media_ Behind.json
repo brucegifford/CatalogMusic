@@ -1,0 +1,21 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Richard Bernard",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/ad70c1e8-06ca-450a-96fd-2a33725ff820/richard-bernard_tc.mp3?aid=rss_feed",
+            "name": "Change the Way you Study the Scriptures for the Easiest Reference",
+            "persistent_id": "12E015A0869677A3",
+            "sample_rate": 44100,
+            "total_time": 4494000,
+            "track_id": 22738,
+            "track_type": "URL",
+            "year": 2020
+        }
+    ]
+}

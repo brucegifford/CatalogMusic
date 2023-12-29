@@ -1,0 +1,36 @@
+{
+    "album": "The Beasts of the Earth, the Madness of Men",
+    "songs": [
+        {
+            "album": "The Beasts of the Earth, the Madness of Men",
+            "album_artist": "Brooke Bolander & Theresa Delucci",
+            "artist": "Brooke Bolander & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T04:59:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Brooke Bolander & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 952,
+            "persistent_id": "4DEC33220E0763C6",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 12140891,
+            "sort_album": "Beasts of the Earth, the Madness of Men",
+            "total_time": 745680,
+            "track_count": 1,
+            "track_id": 23998,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "album": "The Changelog",
+    "songs": [
+        {
+            "album": "The Changelog",
+            "artist": "Saron Yitbarek",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/takeover-clh-s3e1/the-changelog-takeover-clh-s3e1.mp3",
+            "name": "Python's Tale",
+            "persistent_id": "0481B60C0C22AF67",
+            "sort_album": "Changelog",
+            "total_time": 1729000,
+            "track_id": 22888,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Saron Yitbarek",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/takeover-clh-s3e2/the-changelog-takeover-clh-s3e2.mp3",
+            "name": "Learning the BASICs",
+            "persistent_id": "21E0E12A2AC71CA5",
+            "sort_album": "Changelog",
+            "total_time": 1576000,
+            "track_id": 22894,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Saron Yitbarek",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/takeover-clh-s4e1/the-changelog-takeover-clh-s4e1.mp3",
+            "name": "The soul of an old machine",
+            "persistent_id": "B5D5359A1ED46931",
+            "sort_album": "Changelog",
+            "sort_name": "soul of an old machine",
+            "total_time": 1812000,
+            "track_id": 22948,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Saron Yitbarek",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:39",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/takeover-clh-s4e3/the-changelog-takeover-clh-s4e3.mp3",
+            "name": "Altair 8800 and the dawn of a revolution",
+            "persistent_id": "2016472440293DA1",
+            "sample_rate": 44100,
+            "sort_album": "Changelog",
+            "total_time": 1986000,
+            "track_id": 23794,
+            "track_type": "URL",
+            "year": 2020
+        }
+    ]
+}

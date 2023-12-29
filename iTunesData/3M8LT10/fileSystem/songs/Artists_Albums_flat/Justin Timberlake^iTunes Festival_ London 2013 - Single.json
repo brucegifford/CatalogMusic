@@ -1,0 +1,65 @@
+{
+    "album": "iTunes Festival: London 2013 - Single",
+    "songs": [
+        {
+            "aART": "Justin Timberlake",
+            "atID": 398128,
+            "cmID": 3342627,
+            "cnID": 748481509,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Justin Timberlake/iTunes Festival_ London 2013 - Single/01 SexyBack (Live).m4a",
+            "geID": 14,
+            "plID": 748481240,
+            "purd": "2013-12-26 07:39:15",
+            "rel_path": "Justin Timberlake/iTunes Festival_ London 2013 - Single/01 SexyBack (Live).m4a",
+            "soal": "iTunes Festival: London 2013 - Single",
+            "soar": "Justin Timberlake",
+            "sonm": "SexyBack (Live)",
+            "stik": 1,
+            "trkn": [
+                1,
+                2
+            ],
+            "©ART": "Justin Timberlake",
+            "©alb": "iTunes Festival: London 2013 - Single",
+            "©day": "2013-12-15T12:00:00Z",
+            "©gen": "Pop",
+            "©nam": "SexyBack (Live)",
+            "©wrt": "Justin Timberlake, N/A, Danjahandz & Timbaland"
+        },
+        {
+            "aART": "Justin Timberlake",
+            "atID": 398128,
+            "cmID": 285974442,
+            "cnID": 748481512,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Justin Timberlake/iTunes Festival_ London 2013 - Single/02 Take Back the Night (Live).m4a",
+            "geID": 14,
+            "plID": 748481240,
+            "purd": "2013-12-26 07:39:15",
+            "rel_path": "Justin Timberlake/iTunes Festival_ London 2013 - Single/02 Take Back the Night (Live).m4a",
+            "soal": "iTunes Festival: London 2013 - Single",
+            "soar": "Justin Timberlake",
+            "sonm": "Take Back the Night (Live)",
+            "stik": 1,
+            "trkn": [
+                2,
+                2
+            ],
+            "©ART": "Justin Timberlake",
+            "©alb": "iTunes Festival: London 2013 - Single",
+            "©day": "2013-12-15T12:00:00Z",
+            "©gen": "Pop",
+            "©nam": "Take Back the Night (Live)",
+            "©wrt": "Justin Timberlake, N/A, Timothy Mosley, James Fauntleroy & J. Harmon"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+    "songs": [
+        {
+            "album": "Cedar Fort Publishing and Media: Behind the Scenes",
+            "artist": "Valerie Loveless, Sean Nobmann",
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://cdn.simplecast.com/audio/14f821/14f8212a-0f65-4e66-89f3-e38f5d547ebe/cfd9b9d5-d2af-4de2-99fc-c38590d42277/sean-nobmann-final_tc.mp3?aid=rss_feed",
+            "name": "Moroni, Helping You Shake the Powers of Evil.",
+            "persistent_id": "D01784BD77D6B514",
+            "play_count": 1,
+            "play_date": 3656409786,
+            "play_date_utc": "2019-11-12T20:23:06",
+            "sample_rate": 44100,
+            "total_time": 2991000,
+            "track_id": 22550,
+            "track_type": "URL",
+            "year": 2019
+        }
+    ]
+}

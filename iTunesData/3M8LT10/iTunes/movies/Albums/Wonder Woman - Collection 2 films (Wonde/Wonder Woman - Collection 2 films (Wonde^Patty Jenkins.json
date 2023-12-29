@@ -1,0 +1,42 @@
+{
+    "album": "Wonder Woman - Collection 2 films (Wonder Woman & Wonder Woman 1984)",
+    "songs": [
+        {
+            "album": "Wonder Woman - Collection 2 films (Wonder Woman & Wonder Woman 1984)",
+            "artist": "Patty Jenkins",
+            "artwork_count": 1,
+            "bitrate": 154,
+            "content_rating": "mpaa|PG-13|300|for sequences of violence and action, and some suggestive content.",
+            "date_added": "2021-09-20T19:11:58",
+            "date_modified": "2018-12-29T00:31:00",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Movies/Wonder Woman (2017)/01 Wonder Woman (2017) (1080p HD).m4v",
+            "movie": true,
+            "name": "Wonder Woman (2017)",
+            "persistent_id": "D27D16060695A2F2",
+            "play_count": 1,
+            "protected": true,
+            "purchased": true,
+            "release_date": "2017-06-02T07:00:00",
+            "size": 5890292363,
+            "sort_album": "Wonder Woman - Collection 2 films (Wonder Woman & Wonder Woman 1984)",
+            "sort_artist": "Patty Jenkins",
+            "sort_name": "Wonder Woman (2017)",
+            "total_time": 8472543,
+            "track_count": 2,
+            "track_id": 4630,
+            "track_number": 1,
+            "track_type": "File",
+            "video_height": 800,
+            "video_width": 1920,
+            "year": 2017
+        }
+    ]
+}

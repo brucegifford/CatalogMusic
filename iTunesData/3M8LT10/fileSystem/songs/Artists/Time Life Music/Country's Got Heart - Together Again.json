@@ -1,0 +1,841 @@
+{
+    "album": "Country's Got Heart - Together Again",
+    "songs": [
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-01 Mama He's Crazy.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-01 Mama He's Crazy.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                20
+            ],
+            "©ART": "The Judds",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Mama He's Crazy",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-02 Forever And Ever, Amen.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-02 Forever And Ever, Amen.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                20
+            ],
+            "©ART": "Randy Travis",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Forever And Ever, Amen",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-03 Together Again.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-03 Together Again.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                20
+            ],
+            "©ART": "Emmylou Harris",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Together Again",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-04 You're The Reason God Made Okla.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-04 You're The Reason God Made Okla.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                20
+            ],
+            "©ART": "David Frizzell & Shelly West",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "You're The Reason God Made Oklahoma",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-05 I Love A Rainy Day.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-05 I Love A Rainy Day.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                20
+            ],
+            "©ART": "Eddie Rabbitt",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "I Love A Rainy Day",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-06 Slow Hand.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-06 Slow Hand.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                20
+            ],
+            "©ART": "Conway Twitty",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Slow Hand",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-07 Lookin' For Love.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-07 Lookin' For Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                20
+            ],
+            "©ART": "Johnny Lee",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Lookin' For Love",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-08 If I Said You Have A Beautiful.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-08 If I Said You Have A Beautiful.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                20
+            ],
+            "©ART": "The Bellamy Brothers",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "If I Said You Have A Beautiful Body Would You Hold It Against Me",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-09 Every Which Way But Loose.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-09 Every Which Way But Loose.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                20
+            ],
+            "©ART": "Eddie Rabbitt",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Every Which Way But Loose",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-10 I Told You So.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-10 I Told You So.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                20
+            ],
+            "©ART": "Randy Travis",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "I Told You So",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-11 The Wind Beneath My Wings.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-11 The Wind Beneath My Wings.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                20
+            ],
+            "©ART": "Gary Morris",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "The Wind Beneath My Wings",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-12 Blue Bayou.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-12 Blue Bayou.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                20
+            ],
+            "©ART": "Linda Ronstadt",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Blue Bayou",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-13 Paper Roses.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-13 Paper Roses.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                20
+            ],
+            "©ART": "Marie Osmond",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Paper Roses",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-14 You And I.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-14 You And I.m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                20
+            ],
+            "©ART": "Eddie Rabbitt & Crystal Gayle",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "You And I",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-15 To Know Him Is To Love Him.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-15 To Know Him Is To Love Him.m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                20
+            ],
+            "©ART": "Dolly Parton, Linda Rondstadt, Emmylou Harris",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "To Know Him Is To Love Him",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-16 On The Other Hand.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-16 On The Other Hand.m4a",
+            "tmpo": 0,
+            "trkn": [
+                16,
+                20
+            ],
+            "©ART": "Randy Travis",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "On The Other Hand",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-17 Drivin' My Life Away.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-17 Drivin' My Life Away.m4a",
+            "tmpo": 0,
+            "trkn": [
+                17,
+                20
+            ],
+            "©ART": "Eddie Rabbitt",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Drivin' My Life Away",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-18 Young Love.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-18 Young Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                18,
+                20
+            ],
+            "©ART": "The Judds",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Young Love",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-19 Swingin'.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-19 Swingin'.m4a",
+            "tmpo": 0,
+            "trkn": [
+                19,
+                20
+            ],
+            "©ART": "John Anderson",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Swingin'",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/1-20 How Do I Live.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/1-20 How Do I Live.m4a",
+            "tmpo": 0,
+            "trkn": [
+                20,
+                20
+            ],
+            "©ART": "LeAnn Rimes",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "How Do I Live",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-01 A Better Man.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-01 A Better Man.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                18
+            ],
+            "©ART": "Clint Black",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "A Better Man",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-02 Born To Fly.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-02 Born To Fly.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                18
+            ],
+            "©ART": "Sara Evans",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Born To Fly",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-03 Crying My Heart Out Over You.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-03 Crying My Heart Out Over You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                18
+            ],
+            "©ART": "Ricky Skaggs",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Crying My Heart Out Over You",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-04 Somewhere Between Right And Wro.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-04 Somewhere Between Right And Wro.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                18
+            ],
+            "©ART": "Earl Thomas Conley",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Somewhere Between Right And Wrong",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-05 Country Sunshine.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-05 Country Sunshine.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                18
+            ],
+            "©ART": "Dottie West",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Country Sunshine",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-06 My Blue Ridge Mountain Boy.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-06 My Blue Ridge Mountain Boy.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                18
+            ],
+            "©ART": "Dolly Parton",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "My Blue Ridge Mountain Boy",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-07 He Love Me All The Way.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-07 He Love Me All The Way.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                18
+            ],
+            "©ART": "Tammy Wynette",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "He Love Me All The Way",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-08 The Most Beautiful Girl.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-08 The Most Beautiful Girl.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                18
+            ],
+            "©ART": "Charlie Rich",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "The Most Beautiful Girl",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-09 El Paso City.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-09 El Paso City.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                18
+            ],
+            "©ART": "Marty Robbins",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "El Paso City",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-10 Delta Dawn.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-10 Delta Dawn.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                18
+            ],
+            "©ART": "Tanya Tucker",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Delta Dawn",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-11 Sunday Morning Coming Down.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-11 Sunday Morning Coming Down.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                18
+            ],
+            "©ART": "Johnny Cash",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Sunday Morning Coming Down",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-12 It Was Almost Like A Song.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-12 It Was Almost Like A Song.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                18
+            ],
+            "©ART": "Ronnie Milsap",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "It Was Almost Like A Song",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-13 I Can Help.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-13 I Can Help.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                18
+            ],
+            "©ART": "Billy Swan",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "I Can Help",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-14 She Got The Goldmine (I Got The.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-14 She Got The Goldmine (I Got The.m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                18
+            ],
+            "©ART": "Jerry Reed",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "She Got The Goldmine (I Got The Shaft)",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-15 Meet Me In Montana.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-15 Meet Me In Montana.m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                18
+            ],
+            "©ART": "Marie Osmond & Dan Seals",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Meet Me In Montana",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-16 Coat Of Many Colors.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-16 Coat Of Many Colors.m4a",
+            "tmpo": 0,
+            "trkn": [
+                16,
+                18
+            ],
+            "©ART": "Dolly Parton",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "Coat Of Many Colors",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-17 When I Said I Do.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-17 When I Said I Do.m4a",
+            "tmpo": 0,
+            "trkn": [
+                17,
+                18
+            ],
+            "©ART": "Clint Black & Lisa Hartman Black",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "When I Said I Do",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                2,
+                2
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Country's Got Heart - Together Again/2-18 When You Say Nothing At All.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Country's Got Heart - Together Again/2-18 When You Say Nothing At All.m4a",
+            "tmpo": 0,
+            "trkn": [
+                18,
+                18
+            ],
+            "©ART": "Keith Whitley",
+            "©alb": "Country's Got Heart - Together Again",
+            "©gen": "Country & Folk",
+            "©nam": "When You Say Nothing At All",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        }
+    ]
+}

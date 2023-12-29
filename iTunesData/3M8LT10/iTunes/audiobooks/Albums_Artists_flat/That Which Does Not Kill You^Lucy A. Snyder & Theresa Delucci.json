@@ -1,0 +1,35 @@
+{
+    "album": "That Which Does Not Kill You",
+    "songs": [
+        {
+            "album": "That Which Does Not Kill You",
+            "album_artist": "Lucy A. Snyder & Theresa Delucci",
+            "artist": "Lucy A. Snyder & Theresa Delucci",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:04:53",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Lucy A. Snyder & Theresa Delucci/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 934,
+            "persistent_id": "0108CA36073023B6",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2020-02-11T08:00:00",
+            "sample_rate": 44100,
+            "size": 12778137,
+            "total_time": 809223,
+            "track_count": 1,
+            "track_id": 24008,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2020
+        }
+    ]
+}

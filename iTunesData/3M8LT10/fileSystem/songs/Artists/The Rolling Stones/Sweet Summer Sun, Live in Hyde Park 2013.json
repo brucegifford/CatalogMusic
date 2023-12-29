@@ -1,0 +1,95 @@
+{
+    "album": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+    "songs": [
+        {
+            "aART": "The Rolling Stones",
+            "atID": 1249595,
+            "cmID": 365667,
+            "cnID": 734514471,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/01 Beast of Burden (Live).m4a",
+            "geID": 21,
+            "plID": 734514372,
+            "purd": "2014-01-06 18:10:38",
+            "rel_path": "The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/01 Beast of Burden (Live).m4a",
+            "soal": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "soar": "Rolling Stones",
+            "sonm": "Beast of Burden (Live)",
+            "stik": 1,
+            "trkn": [
+                1,
+                3
+            ],
+            "©ART": "The Rolling Stones",
+            "©alb": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "©day": "2013-07-22T07:00:00Z",
+            "©gen": "Rock",
+            "©nam": "Beast of Burden (Live)",
+            "©wrt": "Keith Richards & Mick Jagger"
+        },
+        {
+            "aART": "The Rolling Stones",
+            "atID": 1249595,
+            "cmID": 365667,
+            "cnID": 734514473,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/02 Tumbling Dice (Live).m4a",
+            "geID": 21,
+            "plID": 734514372,
+            "purd": "2014-01-06 18:10:38",
+            "rel_path": "The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/02 Tumbling Dice (Live).m4a",
+            "soal": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "soar": "Rolling Stones",
+            "sonm": "Tumbling Dice (Live)",
+            "stik": 1,
+            "trkn": [
+                2,
+                3
+            ],
+            "©ART": "The Rolling Stones",
+            "©alb": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "©day": "2013-07-22T07:00:00Z",
+            "©gen": "Rock",
+            "©nam": "Tumbling Dice (Live)",
+            "©wrt": "Keith Richards & Mick Jagger"
+        },
+        {
+            "aART": "The Rolling Stones",
+            "atID": 1249595,
+            "cmID": 365667,
+            "cnID": 734514475,
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/03 Doom & Gloom (Live).m4a",
+            "geID": 21,
+            "plID": 734514372,
+            "purd": "2014-01-06 18:10:38",
+            "rel_path": "The Rolling Stones/Sweet Summer Sun, Live in Hyde Park 2013/03 Doom & Gloom (Live).m4a",
+            "soal": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "soar": "Rolling Stones",
+            "sonm": "Doom & Gloom (Live)",
+            "stik": 1,
+            "trkn": [
+                3,
+                3
+            ],
+            "©ART": "The Rolling Stones",
+            "©alb": "Sweet Summer Sun, Live in Hyde Park 2013 (Live) - Single",
+            "©day": "2013-07-22T07:00:00Z",
+            "©gen": "Rock",
+            "©nam": "Doom & Gloom (Live)",
+            "©wrt": "Keith Richards & Mick Jagger"
+        }
+    ]
+}

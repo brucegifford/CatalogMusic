@@ -1,0 +1,35 @@
+{
+    "album": "You Asked - Spirit Answered",
+    "songs": [
+        {
+            "album": "You Asked - Spirit Answered",
+            "album_artist": "Joel The Medium",
+            "artist": "Joel The Medium",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:44",
+            "date_modified": "2020-04-20T05:07:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Self-Development",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Joel The Medium/01 Track 1.m4b",
+            "name": "Track 1",
+            "normalization": 1259,
+            "persistent_id": "C6FD51059A9F8586",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2018-09-28T07:00:00",
+            "sample_rate": 44100,
+            "size": 59121327,
+            "total_time": 4096757,
+            "track_count": 1,
+            "track_id": 23974,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2018
+        }
+    ]
+}

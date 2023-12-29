@@ -1,0 +1,36 @@
+{
+    "album": "The Mayor of Mayonnaise Manor",
+    "songs": [
+        {
+            "album": "The Mayor of Mayonnaise Manor",
+            "album_artist": "Martin Lundqvist",
+            "artist": "Martin Lundqvist",
+            "artwork_count": 1,
+            "bitrate": 112,
+            "date_added": "2021-09-20T19:12:45",
+            "date_modified": "2020-04-20T05:00:28",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Fiction",
+            "kind": "Protected AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Audiobooks/Martin Lundqvist/01 Track 1 1.m4b",
+            "name": "Track 1",
+            "normalization": 241,
+            "persistent_id": "938B3AD5B0DA0E03",
+            "protected": true,
+            "purchased": true,
+            "release_date": "2019-05-13T07:00:00",
+            "sample_rate": 44100,
+            "size": 4383492,
+            "sort_album": "Mayor of Mayonnaise Manor",
+            "total_time": 272178,
+            "track_count": 1,
+            "track_id": 24022,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

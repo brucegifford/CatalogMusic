@@ -1,0 +1,445 @@
+{
+    "album": "Classic Country Duets",
+    "songs": [
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/01 We're Gonna Hold On.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/01 We're Gonna Hold On.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                20
+            ],
+            "©ART": "George Jones & Tammy Wynette",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "We're Gonna Hold On",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/02 After The Fire Is Gone.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/02 After The Fire Is Gone.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                20
+            ],
+            "©ART": "Conway Twitty & Loretta Lynn",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "After The Fire Is Gone",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/03 Holding On To Nothin'.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/03 Holding On To Nothin'.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                20
+            ],
+            "©ART": "Porter Wagoner & Dolly Parton",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Holding On To Nothin'",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/04 Jackson.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/04 Jackson.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                20
+            ],
+            "©ART": "Johnny Cash & June Carter",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Jackson",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/05 Suspicious Minds.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/05 Suspicious Minds.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                20
+            ],
+            "©ART": "Waylon Jennings & Jessi Colter",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Suspicious Minds",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/06 I Dont Want To Have To Marry You.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/06 I Dont Want To Have To Marry You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                20
+            ],
+            "©ART": "Jim Ed Brown & Helen Cornelius",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "I Dont Want To Have To Marry You",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/07 Islands In The Stream.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/07 Islands In The Stream.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                20
+            ],
+            "©ART": "Kenny Rogers & Dolly Parton",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Islands In The Stream",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/08 Golden Ring.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/08 Golden Ring.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                20
+            ],
+            "©ART": "George Jones & Tammy Wynette",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Golden Ring",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/09 Mamma's Don't Let Your Babies Gro.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/09 Mamma's Don't Let Your Babies Gro.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                20
+            ],
+            "©ART": "Waylon Jennings & Willie Nelson",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Mamma's Don't Let Your Babies Grow Up To Be Cowboys",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/10 Paradise Tonight.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/10 Paradise Tonight.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                20
+            ],
+            "©ART": "Charly McClain & Mickey Gilley",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Paradise Tonight",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/11 My Elusive Dreams.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/11 My Elusive Dreams.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                20
+            ],
+            "©ART": "David Houston & Tammy Wynette",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "My Elusive Dreams",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/12 The Last Thing On My Mind.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/12 The Last Thing On My Mind.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                20
+            ],
+            "©ART": "Porter Wagoner & Dolly Parton",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "The Last Thing On My Mind",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/13 If I Were A Carpenter.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/13 If I Were A Carpenter.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                20
+            ],
+            "©ART": "Johnny Cash & June Carter",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "If I Were A Carpenter",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/14 Good Hearted Woman.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/14 Good Hearted Woman.m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                20
+            ],
+            "©ART": "Waylon Jennings & Willie Nelson",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Good Hearted Woman",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/15 Don't Let Me Cross Over.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/15 Don't Let Me Cross Over.m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                20
+            ],
+            "©ART": "Carl & Pearl Butler",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Don't Let Me Cross Over",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/16 Just Someone I Used To Know.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/16 Just Someone I Used To Know.m4a",
+            "tmpo": 0,
+            "trkn": [
+                16,
+                20
+            ],
+            "©ART": "Porter Wagoner & Dolly Parton",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Just Someone I Used To Know",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/17 Louisiana Woman, Mississippi Man.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/17 Louisiana Woman, Mississippi Man.m4a",
+            "tmpo": 0,
+            "trkn": [
+                17,
+                20
+            ],
+            "©ART": "Loretta Lynn & Conway Twitty",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Louisiana Woman, Mississippi Man",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/18 A Place To Fall Apart.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/18 A Place To Fall Apart.m4a",
+            "tmpo": 0,
+            "trkn": [
+                18,
+                20
+            ],
+            "©ART": "Merle Haggard & Janie Fricke",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "A Place To Fall Apart",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/19 Near You.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/19 Near You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                19,
+                20
+            ],
+            "©ART": "George Jones & Tammy Wynette",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Near You",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        },
+        {
+            "aART": "Time Life Music",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "D:/iTunes Media/Music/Time Life Music/Classic Country Duets/20 Real Love.m4a",
+            "pgap": false,
+            "rel_path": "Time Life Music/Classic Country Duets/20 Real Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                20,
+                20
+            ],
+            "©ART": "Dolly Parton & Kenny Rogers",
+            "©alb": "Classic Country Duets",
+            "©gen": "Country & Folk",
+            "©nam": "Real Love",
+            "©too": "iTunes 12.8.2.3",
+            "©wrt": "Time Life"
+        }
+    ]
+}

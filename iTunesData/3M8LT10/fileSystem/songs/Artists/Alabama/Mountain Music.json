@@ -1,0 +1,38 @@
+{
+    "album": "Mountain Music",
+    "songs": [
+        {
+            "album": "Mountain Music",
+            "artist": "Alabama",
+            "date": "1982",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Mountain Music/01 Mountain Music.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Mountain Music/01 Mountain Music.mp3",
+            "title": "Mountain Music",
+            "tracknumber": "1/10"
+        },
+        {
+            "album": "Mountain Music",
+            "artist": "Alabama",
+            "date": "1982",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Mountain Music/02 Close Enough To Perfect.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Mountain Music/02 Close Enough To Perfect.mp3",
+            "title": "Close Enough To Perfect",
+            "tracknumber": "2/10"
+        },
+        {
+            "album": "Mountain Music",
+            "artist": "Alabama",
+            "date": "1982",
+            "discnumber": "1/1",
+            "full_path": "D:/iTunes Media/Music/Alabama/Mountain Music/06 Take Me Down.mp3",
+            "genre": "Country",
+            "rel_path": "Alabama/Mountain Music/06 Take Me Down.mp3",
+            "title": "Take Me Down",
+            "tracknumber": "6/10"
+        }
+    ]
+}

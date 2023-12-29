@@ -1,0 +1,91 @@
+{
+    "album": "The Changelog",
+    "songs": [
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/324/the-changelog-324.mp3",
+            "name": "Tidelift's mission is to pay open source maintainers",
+            "persistent_id": "634283056F6F65AB",
+            "sort_album": "Changelog",
+            "total_time": 4099000,
+            "track_id": 22832,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "bitrate": 192,
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/329/the-changelog-329.mp3",
+            "name": "Perspectives on Kubernetes and successful cloud platforms",
+            "persistent_id": "D29590E51D4EC17C",
+            "sample_rate": 44100,
+            "sort_album": "Changelog",
+            "total_time": 2551980,
+            "track_id": 22842,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/330/the-changelog-330.mp3",
+            "name": "source{d} turns code into actionable insights",
+            "persistent_id": "0BCD4CFF8EE0A3C7",
+            "sort_album": "Changelog",
+            "total_time": 2839000,
+            "track_id": 22844,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/333/the-changelog-333.mp3",
+            "name": "Tactical design advice for developers",
+            "persistent_id": "1F55987BCCD094F2",
+            "sort_album": "Changelog",
+            "total_time": 4406000,
+            "track_id": 22850,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/371/the-changelog-371.mp3",
+            "name": "Re-licensing Sentry",
+            "persistent_id": "BFC8695F60B0C8D3",
+            "sort_album": "Changelog",
+            "total_time": 4723000,
+            "track_id": 22930,
+            "track_type": "URL"
+        },
+        {
+            "album": "The Changelog",
+            "artist": "Adam Stacoviak",
+            "date_added": "2021-09-20T19:12:38",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://chtbl.com/track/382DG4/https://cdn.changelog.com/uploads/podcast/373/the-changelog-373.mp3",
+            "name": "Trending up GitHub's developer charts",
+            "persistent_id": "2BEC15000580DA0B",
+            "sort_album": "Changelog",
+            "total_time": 2726000,
+            "track_id": 22934,
+            "track_type": "URL"
+        }
+    ]
+}
