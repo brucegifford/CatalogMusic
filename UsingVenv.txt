@@ -1,0 +1,51 @@
+===============================
+Initially creating the venv
+===============================
+cd to C:\dev\CatalogMusic
+verify that "python" on your command line gets the python you want
+then run
+    create_venv.bat
+
+===============================
+Activate the venv
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    do_activate.bat
+
+===============================
+Update pip, do this when first installing python or your venv so you have current pip
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    update_pip.bat
+
+===============================
+Install initial packages
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    apply_requirements_txt.bat
+
+===============================
+To run pip commands
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    pip.bat arg1 arg2 ...
+
+===============================
+If you install or update packages
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    update_requirements_txt.bat
+This will update the requirements.txt file with the current package list
+
+===============================
+if you update the iReadiTunes packages in github
+===============================
+cd to C:\dev\CatalogMusic
+then run
+    update_readITunes.bat
+
