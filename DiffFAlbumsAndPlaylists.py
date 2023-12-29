@@ -78,7 +78,8 @@ def load_itunes_playlists(itunes_playlists_file):
         # don't look at folders
         if playlist.get("folder",False):
             continue
-        update_locations(playlist["tracks"])
+        if "tracks" in playlist:
+            update_locations(playlist["tracks"])
         itunes_playlists.append(playlist)
         playlist_name = playlist["name"]
         playlist_names_sorted.append(playlist_name)
