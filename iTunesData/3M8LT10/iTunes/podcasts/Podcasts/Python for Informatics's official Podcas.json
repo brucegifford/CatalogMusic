@@ -26,6 +26,126 @@
             "track_type": "File",
             "unplayed": true,
             "year": 2013
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-11-Regex.mp3",
+            "name": "Py4Inf-11-Regex.mp3",
+            "persistent_id": "88ACD08328D52A12",
+            "track_id": 21308,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-10-Tuples.mp3",
+            "name": "Py4Inf-10-Tuples.mp3",
+            "persistent_id": "7D4A0928B5779C18",
+            "track_id": 21310,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-09-Dictionaries.mp3",
+            "name": "Py4Inf-09-Dictionaries.mp3",
+            "persistent_id": "A27CC5A0D1F68D85",
+            "track_id": 21312,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-08-Lists.mp3",
+            "name": "Py4Inf-08-Lists.mp3",
+            "persistent_id": "C8EB1D1523EA1175",
+            "track_id": 21314,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-07-Files.mp3",
+            "name": "Py4Inf-07-Files.mp3",
+            "persistent_id": "1ABB2FEE14C8AC40",
+            "track_id": 21316,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-06-Strings.mp3",
+            "name": "Py4Inf-06-Strings.mp3",
+            "persistent_id": "FC0897F06BACB5E1",
+            "track_id": 21318,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-05-Iterations.mp3",
+            "name": "Py4Inf-05-Iterations.mp3",
+            "persistent_id": "07172944E7FA41E7",
+            "track_id": 21320,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-04-Functions.mp3",
+            "name": "Py4Inf-04-Functions.mp3",
+            "persistent_id": "EA4C9DAA817DEF9A",
+            "track_id": 21322,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-03-Conditional.mp3",
+            "name": "Py4Inf-03-Conditional.mp3",
+            "persistent_id": "23BC941D5B0FFC7B",
+            "track_id": 21324,
+            "track_type": "URL"
+        },
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Recording by Dr. Chuck",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-02-Expressions.mp3",
+            "name": "Py4Inf-02-Expressions.mp3",
+            "persistent_id": "9716E16CCDE22BEE",
+            "track_id": 21326,
+            "track_type": "URL"
         }
     ]
 }

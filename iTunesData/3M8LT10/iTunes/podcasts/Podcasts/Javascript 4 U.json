@@ -1,0 +1,31 @@
+{
+    "album": "Javascript 4 U",
+    "episodes": [
+        {
+            "album": "Javascript 4 U",
+            "artist": "James Robertson",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "QuickTime movie url",
+            "location": "https://archive.org/download/Js4u266IPhone/js4u266-iPhone.m4v",
+            "name": "JS 4U 266: Adding a Weather Layer",
+            "persistent_id": "BD2FE00065734028",
+            "total_time": 42000,
+            "track_id": 22160,
+            "track_type": "URL"
+        },
+        {
+            "album": "Javascript 4 U",
+            "artist": "James Robertson",
+            "date_added": "2021-09-20T19:12:34",
+            "genre": "Podcast",
+            "kind": "QuickTime movie url",
+            "location": "https://archive.org/download/Js4u267Broadband/js4u267-iPhone.m4v",
+            "name": "JS 4U 267: Styling Map Elements",
+            "persistent_id": "CB69448B4EF1C075",
+            "total_time": 66000,
+            "track_id": 22162,
+            "track_type": "URL"
+        }
+    ]
+}
