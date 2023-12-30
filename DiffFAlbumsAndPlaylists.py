@@ -7,6 +7,7 @@ import shutil
 import traceback
 from log_util import setup_logger2
 from iTunesHelper import get_itunes_album_artist, make_album_key
+from MakeLists import unknown_value
 
 logger = None
 output_dir = None
@@ -139,7 +140,7 @@ def get_album_checklist_for_playlist(playlist, album_name, album_artist, album_m
 
 def match_playlist_to_albums(playlist, album_map):
     for track in playlist["tracks"]:
-        album_name = track["album"]
+        album_name = track.get("album",unknown_value)
         album_artist = get_itunes_album_artist(track)
         album_checklist = get_album_checklist_for_playlist(playlist, album_name, album_artist, album_map)
         album_checklist.mark_song(track["location"])
