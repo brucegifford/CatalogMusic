@@ -1,0 +1,7 @@
+--file_system_songs
+iTunesData/3M7DT10/fileSystem/songs/iTunesSongs.json
+--iTunes_Library_songs
+iTunesData/3M7DT10/iTunes/songs/iTunesSongs.json
+--outputdir
+DiffFilesAndiTunes/3M7DT10
+--dump_song_keys
