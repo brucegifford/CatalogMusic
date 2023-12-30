@@ -3,7 +3,7 @@ iTunesData/3M8LT10/iTunes/songs/Albums_list.json
 --playlists_file
 iTunesData/3M8LT10/iTunes/playlists/iTunesPlaylists.json
 --outputdir
-DiffFilesAndiTunes/3M8LT10
+DiffResults/3M8LT10
 --ignores_file
 argFiles/DiffAlbumsAndPlaylists_Ignores.json
 --dump_album_keys

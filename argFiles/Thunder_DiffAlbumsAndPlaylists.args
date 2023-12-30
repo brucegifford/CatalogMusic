@@ -1,9 +1,9 @@
 --albums_file
-iTunesData/3M7DT10/iTunes/songs/Albums_list.json
+iTunesData/Thunder/iTunes/songs/Albums_list.json
 --playlists_file
-iTunesData/3M7DT10/iTunes/playlists/iTunesPlaylists.json
+iTunesData/Thunder/iTunes/playlists/iTunesPlaylists.json
 --outputdir
-DiffResults/3M7DT10
+DiffResults/Thunder
 --ignores_file
 argFiles/DiffAlbumsAndPlaylists_Ignores.json
 --dump_album_keys
