@@ -1,0 +1,33 @@
+{
+    "album": "COLEÇÃO LEGO (4 FILMES)",
+    "songs": [
+        {
+            "album": "COLEÇÃO LEGO (4 FILMES)",
+            "artist": "Chris McKay",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for rude humor and some action.",
+            "date_added": "2018-11-23T17:38:52",
+            "date_modified": "2018-11-23T17:38:52",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The LEGO Batman Movie",
+            "persistent_id": "A81F95DE38CAFEB5",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-02-10T08:00:00",
+            "size": 4251171498,
+            "sort_album": "COLEÇÃO LEGO (4 FILMES)",
+            "sort_artist": "Chris McKay",
+            "sort_name": "LEGO Batman Movie",
+            "total_time": 6275143,
+            "track_count": 4,
+            "track_id": 32827,
+            "track_number": 3,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

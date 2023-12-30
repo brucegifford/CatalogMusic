@@ -22,10 +22,12 @@
             "play_date_utc": "2023-11-03T00:19:19",
             "sample_rate": 44100,
             "size": 7246782,
+            "skip_count": 1,
+            "skip_date": "2023-12-30T04:48:25",
             "sort_album": "Best Of Bread",
             "total_time": 194426,
             "track_count": 20,
-            "track_id": 24642,
+            "track_id": 24639,
             "track_number": 1,
             "track_type": "File",
             "year": 1970
@@ -54,7 +56,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 187973,
             "track_count": 20,
-            "track_id": 24644,
+            "track_id": 24641,
             "track_number": 2,
             "track_type": "File",
             "year": 1972
@@ -83,7 +85,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 187826,
             "track_count": 20,
-            "track_id": 24646,
+            "track_id": 24643,
             "track_number": 3,
             "track_type": "File",
             "year": 1972
@@ -112,7 +114,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 148973,
             "track_count": 20,
-            "track_id": 24648,
+            "track_id": 24645,
             "track_number": 4,
             "track_type": "File",
             "year": 1972
@@ -141,7 +143,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 169293,
             "track_count": 20,
-            "track_id": 24650,
+            "track_id": 24647,
             "track_number": 5,
             "track_type": "File",
             "year": 1970
@@ -170,7 +172,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 155466,
             "track_count": 20,
-            "track_id": 24652,
+            "track_id": 24649,
             "track_number": 6,
             "track_type": "File",
             "year": 1971
@@ -199,7 +201,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 154973,
             "track_count": 20,
-            "track_id": 24654,
+            "track_id": 24651,
             "track_number": 7,
             "track_type": "File",
             "year": 1972
@@ -228,7 +230,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 164866,
             "track_count": 20,
-            "track_id": 24656,
+            "track_id": 24653,
             "track_number": 8,
             "track_type": "File",
             "year": 1972
@@ -257,7 +259,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 167226,
             "track_count": 20,
-            "track_id": 24658,
+            "track_id": 24655,
             "track_number": 9,
             "track_type": "File",
             "year": 1970
@@ -286,7 +288,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 143306,
             "track_count": 20,
-            "track_id": 24660,
+            "track_id": 24657,
             "track_number": 10,
             "track_type": "File",
             "year": 1970
@@ -315,7 +317,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 191960,
             "track_count": 20,
-            "track_id": 24662,
+            "track_id": 24659,
             "track_number": 11,
             "track_type": "File",
             "year": 1970
@@ -344,7 +346,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 152053,
             "track_count": 20,
-            "track_id": 24664,
+            "track_id": 24661,
             "track_number": 12,
             "track_type": "File",
             "year": 1971
@@ -374,7 +376,7 @@
             "sort_name": "Guitar Man",
             "total_time": 225880,
             "track_count": 20,
-            "track_id": 24666,
+            "track_id": 24663,
             "track_number": 13,
             "track_type": "File",
             "year": 1972
@@ -403,7 +405,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 218906,
             "track_count": 20,
-            "track_id": 24668,
+            "track_id": 24665,
             "track_number": 14,
             "track_type": "File",
             "year": 1973
@@ -433,7 +435,7 @@
             "sort_name": "Last Time",
             "total_time": 249800,
             "track_count": 20,
-            "track_id": 24670,
+            "track_id": 24667,
             "track_number": 15,
             "track_type": "File",
             "year": 1969
@@ -462,7 +464,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 156640,
             "track_count": 20,
-            "track_id": 24672,
+            "track_id": 24669,
             "track_number": 16,
             "track_type": "File",
             "year": 1972
@@ -491,7 +493,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 176773,
             "track_count": 20,
-            "track_id": 24674,
+            "track_id": 24671,
             "track_number": 17,
             "track_type": "File",
             "year": 1971
@@ -520,7 +522,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 201453,
             "track_count": 20,
-            "track_id": 24676,
+            "track_id": 24673,
             "track_number": 18,
             "track_type": "File",
             "year": 1972
@@ -549,7 +551,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 233626,
             "track_count": 20,
-            "track_id": 24678,
+            "track_id": 24675,
             "track_number": 19,
             "track_type": "File",
             "year": 1969
@@ -578,7 +580,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 174493,
             "track_count": 20,
-            "track_id": 24680,
+            "track_id": 24677,
             "track_number": 20,
             "track_type": "File",
             "year": 1977

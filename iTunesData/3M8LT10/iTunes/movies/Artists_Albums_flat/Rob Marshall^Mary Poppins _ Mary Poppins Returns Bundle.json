@@ -1,0 +1,35 @@
+{
+    "album": "Mary Poppins / Mary Poppins Returns Bundle",
+    "songs": [
+        {
+            "album": "Mary Poppins / Mary Poppins Returns Bundle",
+            "artist": "Rob Marshall",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some mild thematic elements and brief action.",
+            "date_added": "2019-04-17T22:47:58",
+            "date_modified": "2019-04-17T22:47:58",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Mary Poppins Returns",
+            "persistent_id": "656CAF4E7C7BB456",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2018-12-19T08:00:00",
+            "size": 5466084413,
+            "sort_album": "Mary Poppins / Mary Poppins Returns Bundle",
+            "sort_artist": "Rob Marshall",
+            "sort_name": "Mary Poppins Returns",
+            "total_time": 7916865,
+            "track_count": 2,
+            "track_id": 32767,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

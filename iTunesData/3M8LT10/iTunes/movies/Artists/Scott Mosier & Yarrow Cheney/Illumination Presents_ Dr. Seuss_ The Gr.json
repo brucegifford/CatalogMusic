@@ -1,0 +1,34 @@
+{
+    "album": "Illumination Presents: Dr. Seuss’ The Grinch & Dr. Seuss’ The Lorax 2-Movie Pack",
+    "songs": [
+        {
+            "album": "Illumination Presents: Dr. Seuss’ The Grinch & Dr. Seuss’ The Lorax 2-Movie Pack",
+            "artist": "Scott Mosier & Yarrow Cheney",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2019-12-25T02:47:03",
+            "date_modified": "2019-12-25T02:47:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Illumination Presents: Dr. Seuss' The Grinch",
+            "persistent_id": "17CD729912D8DA09",
+            "purchased": true,
+            "release_date": "2018-11-09T08:00:00",
+            "size": 3599695967,
+            "sort_album": "Illumination Presents: Dr. Seuss’ The Grinch & Dr. Seuss’ The Lorax 2-Movie Pack",
+            "sort_artist": "Scott Mosier & Yarrow Cheney",
+            "sort_name": "Illumination Presents: Dr. Seuss' The Grinch",
+            "total_time": 5179840,
+            "track_count": 2,
+            "track_id": 32805,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

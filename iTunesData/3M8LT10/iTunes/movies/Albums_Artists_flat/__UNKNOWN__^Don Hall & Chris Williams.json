@@ -1,0 +1,28 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Don Hall & Chris Williams",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for action and peril, some rude humor, and thematic elements.",
+            "date_added": "2017-11-17T05:19:29",
+            "date_modified": "2017-11-17T05:19:29",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Big Hero 6",
+            "persistent_id": "61B0217AB18C9AF4",
+            "purchased": true,
+            "release_date": "2014-11-07T08:00:00",
+            "size": 4103803389,
+            "sort_artist": "Don Hall & Chris Williams",
+            "sort_name": "Big Hero 6",
+            "total_time": 6134920,
+            "track_id": 32839,
+            "track_type": "Remote",
+            "year": 2014
+        }
+    ]
+}

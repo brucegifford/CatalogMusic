@@ -1,0 +1,35 @@
+{
+    "album": "Mission: Impossible 1-3 Film Collection",
+    "songs": [
+        {
+            "album": "Mission: Impossible 1-3 Film Collection",
+            "artist": "John Woo",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for intense sequences of violent action and some sensuality.",
+            "date_added": "2019-01-12T22:07:57",
+            "date_modified": "2019-02-13T04:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Mission: Impossible II",
+            "persistent_id": "25B5B4B19D75AE02",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2000-05-24T07:00:00",
+            "size": 5024332044,
+            "sort_album": "Mission: Impossible 1-3 Film Collection",
+            "sort_artist": "John Woo",
+            "sort_name": "Mission: Impossible II",
+            "total_time": 7425842,
+            "track_count": 3,
+            "track_id": 32797,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2000
+        }
+    ]
+}

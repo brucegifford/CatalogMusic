@@ -14,7 +14,7 @@
             "release_date": "2018-06-05T11:46:00",
             "size": 38733697,
             "total_time": 2418000,
-            "track_id": 5856,
+            "track_id": 5887,
             "track_type": "URL",
             "unplayed": true
         },
@@ -31,7 +31,7 @@
             "release_date": "2020-02-28T14:00:00",
             "size": 40329043,
             "total_time": 2518000,
-            "track_id": 5884,
+            "track_id": 5915,
             "track_type": "URL",
             "unplayed": true
         },
@@ -48,7 +48,7 @@
             "size": 31064977,
             "sort_name": "Value of a Good Name | L. Tom Perry | February 1997",
             "total_time": 1939000,
-            "track_id": 5890,
+            "track_id": 5921,
             "track_type": "URL",
             "unplayed": true
         },
@@ -64,7 +64,7 @@
             "release_date": "2020-04-03T14:21:00",
             "size": 28950936,
             "total_time": 1807000,
-            "track_id": 5892,
+            "track_id": 5923,
             "track_type": "URL",
             "unplayed": true
         },
@@ -80,7 +80,7 @@
             "release_date": "2020-04-10T18:27:49",
             "size": 36885493,
             "total_time": 2303000,
-            "track_id": 5894,
+            "track_id": 5925,
             "track_type": "URL",
             "unplayed": true
         },
@@ -96,7 +96,7 @@
             "release_date": "2020-05-08T22:07:52",
             "size": 40476196,
             "total_time": 2527000,
-            "track_id": 5896,
+            "track_id": 5927,
             "track_type": "URL",
             "unplayed": true
         },
@@ -120,7 +120,7 @@
             "sample_rate": 44100,
             "size": 19065715,
             "total_time": 1188388,
-            "track_id": 24136,
+            "track_id": 24159,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -146,7 +146,7 @@
             "size": 30067294,
             "sort_name": "Book of Mormon: Man-Made or God-Given? | Tad R. Callster, Nov 2016",
             "total_time": 1875983,
-            "track_id": 24140,
+            "track_id": 24163,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -172,7 +172,7 @@
             "size": 8708744,
             "sort_name": "Importance of Asking Questions (Excerpted) | Cecil O. Samuelson , Nov 2001",
             "total_time": 541074,
-            "track_id": 24142,
+            "track_id": 24165,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -190,7 +190,7 @@
             "release_date": "2021-01-22T19:10:00",
             "size": 32082322,
             "total_time": 2003000,
-            "track_id": 32680,
+            "track_id": 32677,
             "track_type": "URL",
             "unplayed": true
         },
@@ -210,7 +210,7 @@
             "release_date": "2021-05-07T15:00:00",
             "size": 22964527,
             "total_time": 1433000,
-            "track_id": 5908,
+            "track_id": 5939,
             "track_type": "URL"
         },
         {
@@ -229,7 +229,7 @@
             "release_date": "2021-05-14T13:00:00",
             "size": 45255951,
             "total_time": 2826000,
-            "track_id": 5910,
+            "track_id": 5941,
             "track_type": "URL"
         },
         {
@@ -245,7 +245,7 @@
             "release_date": "2021-07-30T14:00:00",
             "size": 43604596,
             "total_time": 2723000,
-            "track_id": 5916,
+            "track_id": 5947,
             "track_type": "URL",
             "unplayed": true
         },
@@ -271,7 +271,7 @@
             "size": 30118686,
             "sort_name": "Prophet Joseph Smith | Preston Nibley, Dec 1958",
             "total_time": 1879144,
-            "track_id": 9670,
+            "track_id": 9699,
             "track_type": "File",
             "unplayed": true,
             "year": 2021
@@ -286,7 +286,7 @@
             "name": "“Lightning Out of Heaven”: Joseph Smith and the Forging of Community | Terryl L. Givens, Nov 2005",
             "persistent_id": "2A360DD126335F05",
             "total_time": 2447000,
-            "track_id": 24114,
+            "track_id": 24137,
             "track_type": "URL"
         },
         {
@@ -299,7 +299,7 @@
             "name": "Joseph Smith: “A Choice Seer” | Neal A. Maxwell, Mar 1986",
             "persistent_id": "998E2E07CF4B3114",
             "total_time": 2833000,
-            "track_id": 24116,
+            "track_id": 24139,
             "track_type": "URL"
         },
         {
@@ -312,7 +312,7 @@
             "name": "But for Joseph | Katherine D. Pullins, Jun 2000",
             "persistent_id": "591497AC6D586E9F",
             "total_time": 1957000,
-            "track_id": 24118,
+            "track_id": 24141,
             "track_type": "URL"
         },
         {
@@ -328,7 +328,7 @@
             "play_date": 3698139052,
             "play_date_utc": "2021-03-09T19:50:52",
             "total_time": 1409000,
-            "track_id": 24120,
+            "track_id": 24143,
             "track_type": "URL"
         },
         {
@@ -341,7 +341,7 @@
             "name": "Joseph Smith: Seer, Translator, Revelator, and Prophet | Alexander L. Baugh, Jun 2014",
             "persistent_id": "5C7B4D931A4BC55C",
             "total_time": 1945000,
-            "track_id": 24122,
+            "track_id": 24145,
             "track_type": "URL"
         },
         {
@@ -355,7 +355,7 @@
             "persistent_id": "39451A435AC5CF3A",
             "sort_name": "Life and Character of the Prophet Joseph Smith | William E. Berrett, Apr 1964",
             "total_time": 2005000,
-            "track_id": 24124,
+            "track_id": 24147,
             "track_type": "URL"
         },
         {
@@ -371,7 +371,7 @@
             "play_date": 3703922484,
             "play_date_utc": "2021-05-15T17:21:24",
             "total_time": 1193000,
-            "track_id": 24126,
+            "track_id": 24149,
             "track_type": "URL"
         },
         {
@@ -385,7 +385,7 @@
             "persistent_id": "3A0BB2ED8AE60DB8",
             "sort_name": "Prophet Joseph Smith | Preston Nibley, Dec 1958",
             "total_time": 1879000,
-            "track_id": 24128,
+            "track_id": 24151,
             "track_type": "URL"
         },
         {
@@ -398,7 +398,7 @@
             "name": "Joseph Smith: Lover of the Cause of Christ | Heidi S. Swinton, Nov 2004",
             "persistent_id": "AEBAA430557FE17C",
             "total_time": 1758000,
-            "track_id": 24130,
+            "track_id": 24153,
             "track_type": "URL"
         },
         {
@@ -414,7 +414,7 @@
             "release_date": "2021-09-30T12:00:00",
             "size": 40083299,
             "total_time": 2503000,
-            "track_id": 5864,
+            "track_id": 5895,
             "track_type": "URL",
             "unplayed": true
         },
@@ -431,7 +431,7 @@
             "release_date": "2021-11-19T15:25:00",
             "size": 29102263,
             "total_time": 1816000,
-            "track_id": 5902,
+            "track_id": 5933,
             "track_type": "URL",
             "unplayed": true
         },
@@ -448,7 +448,7 @@
             "release_date": "2021-12-03T15:15:00",
             "size": 31270644,
             "total_time": 1952000,
-            "track_id": 5904,
+            "track_id": 5935,
             "track_type": "URL",
             "unplayed": true
         },
@@ -466,7 +466,7 @@
             "size": 15671554,
             "sort_name": "Legacy of Learning (Excerpted) | Cecil O. Samuelson | August 2005",
             "total_time": 977000,
-            "track_id": 5906,
+            "track_id": 5937,
             "track_type": "URL",
             "unplayed": true
         },
@@ -483,7 +483,7 @@
             "release_date": "2022-01-28T18:30:00",
             "size": 47533020,
             "total_time": 2968000,
-            "track_id": 5866,
+            "track_id": 5897,
             "track_type": "URL",
             "unplayed": true
         },
@@ -500,7 +500,7 @@
             "release_date": "2022-02-23T15:10:00",
             "size": 46782365,
             "total_time": 2921000,
-            "track_id": 5868,
+            "track_id": 5899,
             "track_type": "URL",
             "unplayed": true
         },
@@ -517,7 +517,7 @@
             "release_date": "2022-03-04T15:00:00",
             "size": 43262729,
             "total_time": 2701000,
-            "track_id": 5870,
+            "track_id": 5901,
             "track_type": "URL",
             "unplayed": true
         },
@@ -534,7 +534,7 @@
             "release_date": "2022-03-25T14:15:00",
             "size": 44868104,
             "total_time": 2802000,
-            "track_id": 5872,
+            "track_id": 5903,
             "track_type": "URL",
             "unplayed": true
         },
@@ -551,7 +551,7 @@
             "release_date": "2022-04-29T13:00:00",
             "size": 46356049,
             "total_time": 2895000,
-            "track_id": 5874,
+            "track_id": 5905,
             "track_type": "URL",
             "unplayed": true
         },
@@ -568,7 +568,7 @@
             "release_date": "2022-05-13T15:10:00",
             "size": 44924548,
             "total_time": 2805000,
-            "track_id": 5876,
+            "track_id": 5907,
             "track_type": "URL",
             "unplayed": true
         },
@@ -585,7 +585,7 @@
             "release_date": "2022-05-27T11:00:00",
             "size": 39335591,
             "total_time": 2456000,
-            "track_id": 5878,
+            "track_id": 5909,
             "track_type": "URL",
             "unplayed": true
         },
@@ -602,7 +602,7 @@
             "release_date": "2022-06-17T15:15:00",
             "size": 46116972,
             "total_time": 2880000,
-            "track_id": 5880,
+            "track_id": 5911,
             "track_type": "URL",
             "unplayed": true
         },
@@ -619,7 +619,7 @@
             "release_date": "2022-07-01T15:30:00",
             "size": 33760826,
             "total_time": 2107000,
-            "track_id": 5858,
+            "track_id": 5889,
             "track_type": "URL",
             "unplayed": true
         },
@@ -636,7 +636,7 @@
             "release_date": "2022-07-15T15:15:00",
             "size": 40120115,
             "total_time": 2505000,
-            "track_id": 5900,
+            "track_id": 5931,
             "track_type": "URL",
             "unplayed": true
         },
@@ -654,7 +654,7 @@
             "size": 26721545,
             "sort_name": "Profile of a Prophet | Hugh B. Brown | October 1955",
             "total_time": 1667000,
-            "track_id": 5912,
+            "track_id": 5943,
             "track_type": "URL",
             "unplayed": true
         },
@@ -671,7 +671,7 @@
             "release_date": "2022-08-12T11:00:00",
             "size": 42453530,
             "total_time": 2651000,
-            "track_id": 5860,
+            "track_id": 5891,
             "track_type": "URL",
             "unplayed": true
         },
@@ -688,7 +688,7 @@
             "size": 26007267,
             "sort_name": "Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
             "total_time": 1623000,
-            "track_id": 5882,
+            "track_id": 5913,
             "track_type": "URL",
             "unplayed": true
         },
@@ -705,7 +705,7 @@
             "size": 39001194,
             "sort_name": "Lord God of Joseph Smith | Bruce R. McConkie | January 1972",
             "total_time": 2435000,
-            "track_id": 5888,
+            "track_id": 5919,
             "track_type": "URL",
             "unplayed": true
         },
@@ -722,7 +722,7 @@
             "release_date": "2022-10-21T11:00:00",
             "size": 40328625,
             "total_time": 2518000,
-            "track_id": 27766,
+            "track_id": 27763,
             "track_type": "URL",
             "unplayed": true
         },
@@ -739,7 +739,7 @@
             "release_date": "2022-11-04T11:00:00",
             "size": 30479019,
             "total_time": 1902000,
-            "track_id": 5914,
+            "track_id": 5945,
             "track_type": "URL",
             "unplayed": true
         },
@@ -752,13 +752,15 @@
             "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/d4bb5e01-ca62-4add-8c6d-aa7100f94325/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1610131033",
             "name": "Lessons from Joseph Smith | Bonnie L. Oscarson | December 2016",
             "persistent_id": "F2B63CC2A8438444",
+            "play_count": 1,
+            "play_date": 3698139052,
+            "play_date_utc": "2021-03-09T19:50:52",
             "podcast": true,
             "release_date": "2022-12-02T12:00:00",
             "size": 23512461,
             "total_time": 1467000,
-            "track_id": 32704,
-            "track_type": "URL",
-            "unplayed": true
+            "track_id": 32701,
+            "track_type": "URL"
         },
         {
             "album": "Joseph Smith: BYU Speeches",
@@ -773,7 +775,7 @@
             "release_date": "2022-12-16T12:00:00",
             "size": 32274545,
             "total_time": 2015000,
-            "track_id": 32706,
+            "track_id": 32703,
             "track_type": "URL",
             "unplayed": true
         },
@@ -790,7 +792,7 @@
             "release_date": "2022-12-30T12:00:00",
             "size": 43604178,
             "total_time": 2723000,
-            "track_id": 30368,
+            "track_id": 30365,
             "track_type": "URL",
             "unplayed": true
         },
@@ -808,7 +810,7 @@
             "size": 33048640,
             "sort_name": "Life and Character of the Prophet Joseph Smith | William E. Berrett | April 1964",
             "total_time": 2063000,
-            "track_id": 30374,
+            "track_id": 30371,
             "track_type": "URL",
             "unplayed": true
         },
@@ -825,7 +827,7 @@
             "size": 31064559,
             "sort_name": "Value of a Good Name | L. Tom Perry | February 1997",
             "total_time": 1939000,
-            "track_id": 30394,
+            "track_id": 30391,
             "track_type": "URL",
             "unplayed": true
         },
@@ -842,7 +844,7 @@
             "size": 34580852,
             "sort_name": "Choice Seer and Prophet | LeGrand Richards | March 1956",
             "total_time": 2159000,
-            "track_id": 30396,
+            "track_id": 30393,
             "track_type": "URL",
             "unplayed": true
         },
@@ -862,7 +864,7 @@
             "release_date": "2023-03-10T11:00:00",
             "size": 45255533,
             "total_time": 2826000,
-            "track_id": 32392,
+            "track_id": 32389,
             "track_type": "URL"
         },
         {
@@ -878,7 +880,7 @@
             "size": 29343826,
             "sort_name": "Book of Mormon Manuscripts | Preston Nibley | April 1957",
             "total_time": 1831000,
-            "track_id": 32436,
+            "track_id": 32433,
             "track_type": "URL",
             "unplayed": true
         },
@@ -895,7 +897,7 @@
             "release_date": "2023-04-07T10:00:00",
             "size": 46301688,
             "total_time": 2891000,
-            "track_id": 32438,
+            "track_id": 32435,
             "track_type": "URL",
             "unplayed": true
         },
@@ -912,7 +914,7 @@
             "size": 35383758,
             "sort_name": "Restoration of the Priesthood | A. William Lund | March 1951",
             "total_time": 2209000,
-            "track_id": 32598,
+            "track_id": 32595,
             "track_type": "URL",
             "unplayed": true
         },
@@ -928,7 +930,7 @@
             "release_date": "2023-05-19T10:00:00",
             "size": 40475778,
             "total_time": 2527000,
-            "track_id": 32604,
+            "track_id": 32601,
             "track_type": "URL",
             "unplayed": true
         },
@@ -945,7 +947,7 @@
             "size": 39274124,
             "sort_name": "Authorship of the Book of Mormon | Noel B. Reynolds | May 1997",
             "total_time": 2452000,
-            "track_id": 5886,
+            "track_id": 5917,
             "track_type": "URL",
             "unplayed": true
         },
@@ -962,7 +964,7 @@
             "release_date": "2023-06-16T10:00:00",
             "size": 29375186,
             "total_time": 1833000,
-            "track_id": 32608,
+            "track_id": 32605,
             "track_type": "URL",
             "unplayed": true
         },
@@ -979,7 +981,7 @@
             "release_date": "2023-06-30T10:00:00",
             "size": 40082881,
             "total_time": 2503000,
-            "track_id": 32672,
+            "track_id": 32669,
             "track_type": "URL",
             "unplayed": true
         },
@@ -998,7 +1000,7 @@
             "release_date": "2023-07-14T10:00:00",
             "size": 30926634,
             "total_time": 1930000,
-            "track_id": 5898,
+            "track_id": 5929,
             "track_type": "URL"
         },
         {
@@ -1014,7 +1016,7 @@
             "release_date": "2023-08-25T10:00:00",
             "size": 26615396,
             "total_time": 1661000,
-            "track_id": 5862,
+            "track_id": 5893,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1027,11 +1029,13 @@
             "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/5e17cfed-6b4a-431c-a4ca-aa7100f77d2d/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1561062890",
             "name": "Joseph Smith and the Lighter View | Leonard J. Arrington | November 1974",
             "persistent_id": "826092B56AC1F204",
+            "play_date": 3704426435,
+            "play_date_utc": "2021-05-21T13:20:35",
             "podcast": true,
             "release_date": "2023-09-08T10:00:00",
             "size": 22964109,
             "total_time": 1433000,
-            "track_id": 32674,
+            "track_id": 32671,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1047,7 +1051,7 @@
             "release_date": "2023-11-17T11:00:00",
             "size": 28950518,
             "total_time": 1807000,
-            "track_id": 32708,
+            "track_id": 32705,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1064,7 +1068,7 @@
             "size": 26007267,
             "sort_name": "Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
             "total_time": 1623000,
-            "track_id": 32710,
+            "track_id": 32707,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1084,7 +1088,7 @@
             "release_date": "2023-12-15T11:00:00",
             "size": 20055103,
             "total_time": 1251000,
-            "track_id": 27700,
+            "track_id": 27697,
             "track_type": "URL"
         }
     ]

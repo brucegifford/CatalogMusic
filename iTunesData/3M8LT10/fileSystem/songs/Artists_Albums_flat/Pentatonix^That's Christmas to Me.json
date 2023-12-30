@@ -3,6 +3,7 @@
     "songs": [
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Charles Wesley; Felix Mendelssohn",
             "date": "2014",
@@ -15,6 +16,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Robin Pecknold",
             "date": "2014",
@@ -27,6 +29,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Leroy Anderson; Mitchell Parish",
             "date": "2014",
@@ -39,6 +42,20 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
+            "artist": "Pentatonix; Tori Kelly",
+            "composer": "Bobby McFerrin; Dick Smith; Felix Bernard",
+            "date": "2014",
+            "encodedby": "iTunes 12.7.1.14",
+            "full_path": "D:/iTunes Media/Music/Pentatonix/That's Christmas to Me/04 Winter Wonderland_Don't Worry Be.mp3",
+            "genre": "Holiday",
+            "rel_path": "Pentatonix/That's Christmas to Me/04 Winter Wonderland_Don't Worry Be.mp3",
+            "title": "Winter Wonderland/Don't Worry Be Happy",
+            "tracknumber": "4"
+        },
+        {
+            "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Pentatonix",
             "date": "2014",
@@ -51,6 +68,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Buddy Greene; Mark Lowry",
             "date": "2014",
@@ -63,6 +81,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Buddy Greene; Mark Lowry; Pyotr Il'yich Tchaikovsky",
             "date": "2014",
@@ -75,6 +94,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Edward Pola; George Wyle",
             "date": "2014",
@@ -87,6 +107,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Haven Gillespie; J. Fred Coots",
             "date": "2014",
@@ -99,6 +120,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Franz Grüber; Joseph Mohr",
             "date": "2014",
@@ -111,6 +133,7 @@
         },
         {
             "album": "That's Christmas to Me",
+            "albumartist": "Pentatonix",
             "artist": "Pentatonix",
             "composer": "Kristen Anderson-Lopez; Robert Lopez",
             "date": "2014",

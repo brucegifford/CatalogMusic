@@ -1,0 +1,35 @@
+{
+    "album": "Mission: Impossible: The 5 Movie Collection",
+    "songs": [
+        {
+            "album": "Mission: Impossible: The 5 Movie Collection",
+            "artist": "Brad Bird",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for sequences of intense action and violence.",
+            "date_added": "2019-01-12T22:10:55",
+            "date_modified": "2019-02-13T04:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Mission: Impossible - Ghost Protocol",
+            "persistent_id": "1BB3E278F0CF542F",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2011-12-16T08:00:00",
+            "size": 5620036806,
+            "sort_album": "Mission: Impossible: The 5 Movie Collection",
+            "sort_artist": "Brad Bird",
+            "sort_name": "Mission: Impossible - Ghost Protocol",
+            "total_time": 8065440,
+            "track_count": 5,
+            "track_id": 32799,
+            "track_number": 4,
+            "track_type": "Remote",
+            "year": 2011
+        }
+    ]
+}

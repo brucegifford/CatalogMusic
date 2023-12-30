@@ -1,0 +1,32 @@
+{
+    "album": "COLEÇÃO LEGO (4 FILMES)",
+    "songs": [
+        {
+            "album": "COLEÇÃO LEGO (4 FILMES)",
+            "artist": "Phil Lord & Christopher Miller",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for mild action and rude humor",
+            "date_added": "2017-11-17T05:19:29",
+            "date_modified": "2017-11-17T05:19:29",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The LEGO Movie",
+            "persistent_id": "3164CA2D59FA8551",
+            "purchased": true,
+            "release_date": "2014-02-07T08:00:00",
+            "size": 4096517449,
+            "sort_album": "COLEÇÃO LEGO (4 FILMES)",
+            "sort_artist": "Phil Lord & Christopher Miller",
+            "sort_name": "LEGO Movie",
+            "total_time": 6033312,
+            "track_count": 4,
+            "track_id": 32771,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2014
+        }
+    ]
+}

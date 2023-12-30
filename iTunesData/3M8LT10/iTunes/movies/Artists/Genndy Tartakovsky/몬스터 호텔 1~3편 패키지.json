@@ -1,0 +1,33 @@
+{
+    "album": "몬스터 호텔 1~3편 패키지",
+    "songs": [
+        {
+            "album": "몬스터 호텔 1~3편 패키지",
+            "artist": "Genndy Tartakovsky",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some scary images, action and rude humor.",
+            "date_added": "2018-12-29T18:10:08",
+            "date_modified": "2018-12-29T18:10:08",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": false,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Hotel Transylvania 2",
+            "persistent_id": "DD1323A4DEA89023",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2015-09-25T07:00:00",
+            "size": 1614824369,
+            "sort_album": "몬스터 호텔 1~3편 패키지",
+            "sort_artist": "Genndy Tartakovsky",
+            "sort_name": "Hotel Transylvania 2",
+            "total_time": 5382083,
+            "track_count": 3,
+            "track_id": 32793,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2015
+        }
+    ]
+}

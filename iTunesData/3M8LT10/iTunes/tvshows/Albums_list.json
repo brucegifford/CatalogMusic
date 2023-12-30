@@ -1,0 +1,79 @@
+[
+    {
+        "album": "Sesame Street: Free Episode",
+        "album_artist": "Sesame Street",
+        "songs": [
+            {
+                "album": "Sesame Street: Free Episode",
+                "artist": "Sesame Street",
+                "artwork_count": 1,
+                "content_rating": "us-tv|TV-Y|100|",
+                "date_added": "2014-01-04T22:15:26",
+                "date_modified": "2019-02-13T04:28:57",
+                "disc_count": 1,
+                "disc_number": 1,
+                "episode_order": 1,
+                "genre": "Kids & Family",
+                "has_video": true,
+                "hd": true,
+                "kind": "Purchased MPEG-4 video file",
+                "name": "Great Vibrations",
+                "persistent_id": "5F03143F6073F394",
+                "play_count": 1,
+                "purchased": true,
+                "release_date": "2013-04-25T07:00:00",
+                "series": "Sesame Street",
+                "size": 2214651897,
+                "sort_album": "Sesame Street: Free Episode",
+                "sort_artist": "Sesame Street",
+                "sort_name": "Great Vibrations",
+                "total_time": 3357123,
+                "track_count": 1,
+                "track_id": 32785,
+                "track_number": 1,
+                "track_type": "Remote",
+                "tv_show": true,
+                "year": 2013
+            }
+        ]
+    },
+    {
+        "album": "Tournament of Champions, Season 2",
+        "album_artist": "Tournament of Champions",
+        "songs": [
+            {
+                "album": "Tournament of Champions, Season 2",
+                "artist": "Tournament of Champions",
+                "artwork_count": 1,
+                "content_rating": "us-tv|TV-PG|400|",
+                "date_added": "2021-05-17T00:12:07",
+                "date_modified": "2021-05-17T00:12:07",
+                "disc_count": 1,
+                "disc_number": 1,
+                "episode_order": 7,
+                "genre": "Reality & Nonfiction",
+                "has_video": true,
+                "hd": true,
+                "kind": "Purchased MPEG-4 video file",
+                "name": "A Champion is Crowned",
+                "persistent_id": "6EE3CAFC7A15B134",
+                "play_count": 1,
+                "purchased": true,
+                "release_date": "2021-04-19T07:00:00",
+                "season": 2,
+                "series": "Tournament of Champions",
+                "size": 3372218393,
+                "sort_album": "Tournament of Champions, Season 2",
+                "sort_artist": "Tournament of Champions",
+                "sort_name": "Champion is Crowned",
+                "total_time": 5058195,
+                "track_count": 13,
+                "track_id": 32843,
+                "track_number": 7,
+                "track_type": "Remote",
+                "tv_show": true,
+                "year": 2021
+            }
+        ]
+    }
+]

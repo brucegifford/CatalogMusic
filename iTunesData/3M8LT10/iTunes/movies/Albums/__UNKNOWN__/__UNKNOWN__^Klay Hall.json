@@ -1,0 +1,29 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Klay Hall",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some mild action and rude humor.",
+            "date_added": "2016-06-22T23:22:48",
+            "date_modified": "2016-06-22T23:22:48",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Planes",
+            "persistent_id": "3246904CE3179B67",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2013-08-09T07:00:00",
+            "size": 4128097938,
+            "sort_artist": "Klay Hall",
+            "sort_name": "Planes",
+            "total_time": 5527277,
+            "track_id": 32773,
+            "track_type": "Remote",
+            "year": 2013
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "10 Must Own Family Animations",
+    "songs": [
+        {
+            "album": "10 Must Own Family Animations",
+            "artist": "Sarah Smith",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some mild rude humor.",
+            "date_added": "2018-12-30T20:42:46",
+            "date_modified": "2018-12-30T20:42:46",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": false,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Arthur Christmas",
+            "persistent_id": "355AD31045418206",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2011-11-23T08:00:00",
+            "size": 1474561893,
+            "sort_album": "10 Must Own Family Animations",
+            "sort_artist": "Sarah Smith",
+            "sort_name": "Arthur Christmas",
+            "total_time": 5852863,
+            "track_count": 10,
+            "track_id": 32835,
+            "track_number": 6,
+            "track_type": "Remote",
+            "year": 2011
+        }
+    ]
+}

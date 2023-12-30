@@ -1,0 +1,29 @@
+{
+    "album": "Beautiful You",
+    "songs": [
+        {
+            "album": "Beautiful You",
+            "artist": "Audrey Bandley and Jen Marco",
+            "date_added": "2023-12-30T04:45:50",
+            "date_modified": "2015-12-29T17:51:45",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Christian & Gospel",
+            "kind": "AAC audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Audrey Bandley and Jen Marco/Beautiful You/Beautiful You.m4a",
+            "name": "Beautiful You",
+            "persistent_id": "63065D6D113485A9",
+            "sample_rate": 44100,
+            "size": 3439906,
+            "sort_album": "Beautiful You",
+            "sort_artist": "Audrey Bandley and Jen Marco",
+            "track_count": 1,
+            "track_id": 76140,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2012
+        }
+    ]
+}

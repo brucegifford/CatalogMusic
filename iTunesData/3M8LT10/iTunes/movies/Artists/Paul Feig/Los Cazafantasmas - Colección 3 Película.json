@@ -1,0 +1,35 @@
+{
+    "album": "Los Cazafantasmas - Colección 3 Películas",
+    "songs": [
+        {
+            "album": "Los Cazafantasmas - Colección 3 Películas",
+            "artist": "Paul Feig",
+            "artwork_count": 1,
+            "content_rating": "mpaa|NR|10|",
+            "date_added": "2017-11-17T05:16:44",
+            "date_modified": "2017-11-17T05:16:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Comedy",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Ghostbusters (2016)",
+            "persistent_id": "73B13307E4DBE4D9",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-07-15T07:00:00",
+            "size": 5562941274,
+            "sort_album": "Los Cazafantasmas - Colección 3 Películas",
+            "sort_artist": "Paul Feig",
+            "sort_name": "Ghostbusters (2016)",
+            "total_time": 8022303,
+            "track_count": 3,
+            "track_id": 32747,
+            "track_number": 3,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

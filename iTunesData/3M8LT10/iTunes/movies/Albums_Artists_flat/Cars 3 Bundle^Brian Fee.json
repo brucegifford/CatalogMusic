@@ -1,0 +1,34 @@
+{
+    "album": "Cars 3 Bundle",
+    "songs": [
+        {
+            "album": "Cars 3 Bundle",
+            "artist": "Brian Fee",
+            "artwork_count": 1,
+            "content_rating": "mpaa|G|100|",
+            "date_added": "2018-01-07T20:13:43",
+            "date_modified": "2018-01-07T20:13:43",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Cars 3",
+            "persistent_id": "504DA04F18F45D6C",
+            "purchased": true,
+            "release_date": "2017-06-16T07:00:00",
+            "size": 4095648689,
+            "sort_album": "Cars 3 Bundle",
+            "sort_artist": "Brian Fee",
+            "sort_name": "Cars 3",
+            "total_time": 6143712,
+            "track_count": 3,
+            "track_id": 32729,
+            "track_number": 3,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

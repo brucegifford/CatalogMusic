@@ -1,0 +1,34 @@
+{
+    "album": "Aladdin Live Action + Signature Collection",
+    "songs": [
+        {
+            "album": "Aladdin Live Action + Signature Collection",
+            "artist": "Guy Ritchie",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some action/peril.",
+            "date_added": "2019-09-21T18:21:46",
+            "date_modified": "2019-09-21T18:21:46",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Aladdin",
+            "persistent_id": "8198D454412D961E",
+            "purchased": true,
+            "release_date": "2019-05-24T07:00:00",
+            "size": 5384903692,
+            "sort_album": "Aladdin Live Action + Signature Collection",
+            "sort_artist": "Guy Ritchie",
+            "sort_name": "Aladdin",
+            "total_time": 7750115,
+            "track_count": 2,
+            "track_id": 32769,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2019
+        }
+    ]
+}

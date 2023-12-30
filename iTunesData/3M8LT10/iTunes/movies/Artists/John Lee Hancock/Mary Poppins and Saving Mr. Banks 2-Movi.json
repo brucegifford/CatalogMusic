@@ -1,0 +1,35 @@
+{
+    "album": "Mary Poppins and Saving Mr. Banks 2-Movie Collection",
+    "songs": [
+        {
+            "album": "Mary Poppins and Saving Mr. Banks 2-Movie Collection",
+            "artist": "John Lee Hancock",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|",
+            "date_added": "2014-03-30T02:59:00",
+            "date_modified": "2014-03-30T02:59:00",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Comedy",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Saving Mr. Banks",
+            "persistent_id": "E26F5904FE369A41",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2013-12-20T08:00:00",
+            "size": 5255945346,
+            "sort_album": "Mary Poppins and Saving Mr. Banks 2-Movie Collection",
+            "sort_artist": "John Lee Hancock",
+            "sort_name": "Saving Mr. Banks",
+            "total_time": 7623330,
+            "track_count": 2,
+            "track_id": 32863,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2013
+        }
+    ]
+}

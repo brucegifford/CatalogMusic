@@ -1,0 +1,35 @@
+{
+    "album": "4K - Life of Pi + The Martian + The Revenant 3-Movie",
+    "songs": [
+        {
+            "album": "4K - Life of Pi + The Martian + The Revenant 3-Movie",
+            "artist": "Ridley Scott",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for some strong language, injury images, and brief nudity.",
+            "date_added": "2018-12-24T23:46:09",
+            "date_modified": "2018-12-24T23:46:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Sci-Fi & Fantasy",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Martian",
+            "persistent_id": "FEDF8B60128B6389",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2015-10-02T07:00:00",
+            "size": 5901870710,
+            "sort_album": "4K - Life of Pi + The Martian + The Revenant 3-Movie",
+            "sort_artist": "Ridley Scott",
+            "sort_name": "Martian",
+            "total_time": 8522638,
+            "track_count": 3,
+            "track_id": 32815,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2015
+        }
+    ]
+}

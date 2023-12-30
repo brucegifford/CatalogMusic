@@ -1,0 +1,34 @@
+{
+    "album": "Ralph Breaks the Internet / Wreck-It-Ralph 2-Movie Collection",
+    "songs": [
+        {
+            "album": "Ralph Breaks the Internet / Wreck-It-Ralph 2-Movie Collection",
+            "artist": "Rich Moore & Phil Johnston",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for some action and rude humor.",
+            "date_added": "2019-04-10T02:04:53",
+            "date_modified": "2019-04-10T02:04:53",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Ralph Breaks the Internet",
+            "persistent_id": "4A61C6D7A27A5715",
+            "purchased": true,
+            "release_date": "2018-11-21T08:00:00",
+            "size": 4552411325,
+            "sort_album": "Ralph Breaks the Internet / Wreck-It-Ralph 2-Movie Collection",
+            "sort_artist": "Rich Moore & Phil Johnston",
+            "sort_name": "Ralph Breaks the Internet",
+            "total_time": 6779688,
+            "track_count": 2,
+            "track_id": 32757,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2018
+        }
+    ]
+}

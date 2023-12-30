@@ -3,7 +3,7 @@
     "display_path": "/Country/George Strait - Pure Country",
     "name": "George Strait - Pure Country",
     "parent_persistent_id": "0F085AD49BFFB28F",
-    "playlist_id": 69891,
+    "playlist_id": 70311,
     "playlist_persistent_id": "56D11359E91F057F",
     "tracks": [
         {
@@ -28,7 +28,7 @@
             "sample_rate": 44100,
             "size": 2855918,
             "total_time": 138266,
-            "track_id": 16982,
+            "track_id": 17007,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -55,7 +55,7 @@
             "sample_rate": 44100,
             "size": 3374192,
             "total_time": 164179,
-            "track_id": 16984,
+            "track_id": 17009,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -82,7 +82,7 @@
             "sample_rate": 44100,
             "size": 4333931,
             "total_time": 212166,
-            "track_id": 16986,
+            "track_id": 17011,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -109,7 +109,7 @@
             "sample_rate": 44100,
             "size": 3495936,
             "total_time": 170266,
-            "track_id": 16988,
+            "track_id": 17013,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -136,7 +136,7 @@
             "sample_rate": 44100,
             "size": 3139091,
             "total_time": 152424,
-            "track_id": 16990,
+            "track_id": 17015,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -163,7 +163,7 @@
             "sample_rate": 44100,
             "size": 3229489,
             "total_time": 156943,
-            "track_id": 16992,
+            "track_id": 17017,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -190,7 +190,7 @@
             "sample_rate": 44100,
             "size": 4438419,
             "total_time": 217391,
-            "track_id": 16994,
+            "track_id": 17019,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -217,7 +217,7 @@
             "sample_rate": 44100,
             "size": 2777038,
             "total_time": 134321,
-            "track_id": 16996,
+            "track_id": 17021,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -245,7 +245,7 @@
             "size": 3888806,
             "sort_name": "King of Broken Hearts",
             "total_time": 189910,
-            "track_id": 16998,
+            "track_id": 17023,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -272,7 +272,7 @@
             "sample_rate": 44100,
             "size": 3898225,
             "total_time": 190380,
-            "track_id": 17000,
+            "track_id": 17025,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -299,7 +299,7 @@
             "sample_rate": 44100,
             "size": 3342864,
             "total_time": 162612,
-            "track_id": 17002,
+            "track_id": 17027,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
@@ -330,7 +330,7 @@
             "size": 3796226,
             "total_time": 178520,
             "track_count": 10,
-            "track_id": 32610,
+            "track_id": 32607,
             "track_number": 1,
             "track_type": "File",
             "year": 2023
@@ -361,7 +361,7 @@
             "size": 3880886,
             "total_time": 182752,
             "track_count": 10,
-            "track_id": 32612,
+            "track_id": 32609,
             "track_number": 2,
             "track_type": "File",
             "year": 2023
@@ -392,7 +392,7 @@
             "size": 4390771,
             "total_time": 208248,
             "track_count": 10,
-            "track_id": 32614,
+            "track_id": 32611,
             "track_number": 3,
             "track_type": "File",
             "year": 2023
@@ -423,7 +423,7 @@
             "size": 4105031,
             "total_time": 193959,
             "track_count": 10,
-            "track_id": 32616,
+            "track_id": 32613,
             "track_number": 4,
             "track_type": "File",
             "year": 2009
@@ -454,7 +454,7 @@
             "size": 5059522,
             "total_time": 241684,
             "track_count": 10,
-            "track_id": 32618,
+            "track_id": 32615,
             "track_number": 5,
             "track_type": "File",
             "year": 2023
@@ -485,7 +485,7 @@
             "size": 4358887,
             "total_time": 206654,
             "track_count": 10,
-            "track_id": 32620,
+            "track_id": 32617,
             "track_number": 6,
             "track_type": "File",
             "year": 2023
@@ -516,7 +516,7 @@
             "size": 5207889,
             "total_time": 249103,
             "track_count": 10,
-            "track_id": 32622,
+            "track_id": 32619,
             "track_number": 7,
             "track_type": "File",
             "year": 2023
@@ -547,7 +547,7 @@
             "size": 4691696,
             "total_time": 223294,
             "track_count": 10,
-            "track_id": 32624,
+            "track_id": 32621,
             "track_number": 8,
             "track_type": "File",
             "year": 2023
@@ -578,7 +578,7 @@
             "size": 6363547,
             "total_time": 306886,
             "track_count": 10,
-            "track_id": 32626,
+            "track_id": 32623,
             "track_number": 9,
             "track_type": "File",
             "year": 2023
@@ -609,7 +609,7 @@
             "size": 4257521,
             "total_time": 201586,
             "track_count": 10,
-            "track_id": 32628,
+            "track_id": 32625,
             "track_number": 10,
             "track_type": "File",
             "year": 2009

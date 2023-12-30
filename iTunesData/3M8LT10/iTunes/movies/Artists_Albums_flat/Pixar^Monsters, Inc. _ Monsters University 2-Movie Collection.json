@@ -1,0 +1,35 @@
+{
+    "album": "Monsters, Inc. / Monsters University 2-Movie Collection",
+    "songs": [
+        {
+            "album": "Monsters, Inc. / Monsters University 2-Movie Collection",
+            "artist": "Pixar",
+            "artwork_count": 1,
+            "content_rating": "mpaa|G|100|",
+            "date_added": "2015-09-17T13:52:09",
+            "date_modified": "2015-09-17T13:52:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Monsters, Inc.",
+            "persistent_id": "64285B46D4B6C3EC",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2001-11-02T08:00:00",
+            "size": 4268830670,
+            "sort_album": "Monsters, Inc. / Monsters University 2-Movie Collection",
+            "sort_artist": "Pixar",
+            "sort_name": "Monsters, Inc.",
+            "total_time": 5586580,
+            "track_count": 2,
+            "track_id": 32737,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2001
+        }
+    ]
+}

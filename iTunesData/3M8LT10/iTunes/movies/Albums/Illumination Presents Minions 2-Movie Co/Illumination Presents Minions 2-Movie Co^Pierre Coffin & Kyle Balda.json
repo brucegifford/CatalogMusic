@@ -1,0 +1,33 @@
+{
+    "album": "Illumination Presents Minions 2-Movie Collection",
+    "songs": [
+        {
+            "album": "Illumination Presents Minions 2-Movie Collection",
+            "artist": "Pierre Coffin & Kyle Balda",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for action and rude humor.",
+            "date_added": "2016-06-23T04:06:47",
+            "date_modified": "2019-02-13T04:28:57",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Minions",
+            "persistent_id": "63EDC9D0997A84D9",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2015-07-10T07:00:00",
+            "size": 4234646740,
+            "sort_album": "Illumination Presents Minions 2-Movie Collection",
+            "sort_artist": "Pierre Coffin & Kyle Balda",
+            "sort_name": "Minions",
+            "total_time": 5463128,
+            "track_count": 2,
+            "track_id": 32849,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2015
+        }
+    ]
+}
