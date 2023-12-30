@@ -1,0 +1,29 @@
+==============================================================
+Run CatalogMusic.py with this args to look at the file system
+==============================================================
+@argFiles/3M7DT10_fs.args
+#--media_files_input=iTunesSongs.json
+
+==============================================================
+To re-run with same media files json use these args
+==============================================================
+#@argFiles/3M7DT10_fs.args
+--media_files_input=iTunesSongs.json
+
+==============================================================
+Run CatalogMusic.py with these args to look at the iTunes file
+Be sure the iTunes file has been freshly exported so it is current
+==============================================================
+@argFiles/3M7DT10_iTunes.args
+@argFiles/podcasts_sort_episodes_reversed.args
+
+==============================================================
+Run DiffFilesAndiTunes.py with these args to compare filesystem files with iTunes files
+==============================================================
+@argFiles/3M7DT10_DiffFilesAndiTunes.args
+
+==============================================================
+Run DiffFAlbumsAndPlaylists.py with these args to compare iTunes Albums with iTunes Playlists
+==============================================================
+@argFiles/3M8LT10_DiffAlbumsAndPlaylists.args
+
