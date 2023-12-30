@@ -1,0 +1,35 @@
+{
+    "all_items": true,
+    "display_path": "/Talks/Stephen Pratt - Know Your Liberty Lecture",
+    "name": "Stephen Pratt - Know Your Liberty Lecture",
+    "parent_persistent_id": "2784946B72D16BBE",
+    "playlist_id": 81281,
+    "playlist_persistent_id": "16D115BA544462CC",
+    "tracks": [
+        {
+            "album": "Know Your Liberty Lecture",
+            "artist": "Stephen Pratt",
+            "bitrate": 42,
+            "comments": "7 April 2007",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T23:19:18",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Stephen Pratt/Know Your Liberty Lecture/01 Know Your Liberty Lecture.mp3",
+            "name": "Know Your Liberty Lecture",
+            "persistent_id": "544C39E7ED028357",
+            "sample_rate": 22050,
+            "size": 45193172,
+            "total_time": 8520124,
+            "track_count": 1,
+            "track_id": 16966,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2007
+        }
+    ]
+}

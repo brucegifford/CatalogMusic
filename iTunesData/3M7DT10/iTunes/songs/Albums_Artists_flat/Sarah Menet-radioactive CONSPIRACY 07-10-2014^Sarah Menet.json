@@ -1,0 +1,30 @@
+{
+    "album": "Sarah Menet-radioactive CONSPIRACY 07-10-2014",
+    "songs": [
+        {
+            "album": "Sarah Menet-radioactive CONSPIRACY 07-10-2014",
+            "artist": "Sarah Menet",
+            "bitrate": 128,
+            "comments": "Sarah Menet on radioactive CONSPIRACY 07-10-2014",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-12T22:10:59",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Sarah Menet/Sarah Menet-radioactive CONSPIRACY 07-10/01 Sarah Menet-radioactive CONSPIRAC.mp3",
+            "name": "Sarah Menet-radioactive CONSPIRACY 07-10-2014",
+            "persistent_id": "F591C5C7F0816ABD",
+            "sample_rate": 44100,
+            "size": 139592850,
+            "total_time": 8723905,
+            "track_count": 1,
+            "track_id": 16078,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

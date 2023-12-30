@@ -1,0 +1,31 @@
+{
+    "album": "Desperado",
+    "songs": [
+        {
+            "album": "Desperado",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "http://mp3.rin.ru",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T22:49:44",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/Desperado/05 Desperado.mp3",
+            "name": "Desperado",
+            "persistent_id": "BEBFE4A19A2F9810",
+            "play_count": 12,
+            "play_date": 3666350024,
+            "play_date_utc": "2020-03-06T21:33:44",
+            "sample_rate": 44100,
+            "size": 5213123,
+            "sort_artist": "Eagles",
+            "total_time": 217208,
+            "track_id": 28574,
+            "track_number": 5,
+            "track_type": "File",
+            "year": 1973
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "Apple Keynotes (HD)",
+    "songs": [
+        {
+            "album": "Apple Keynotes (HD)",
+            "artist": "Apple",
+            "artwork_count": 1,
+            "bitrate": 122,
+            "date_added": "2016-04-22T03:38:01",
+            "date_modified": "2016-03-27T19:55:48",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "has_video": true,
+            "hd": false,
+            "kind": "QuickTime movie file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/Apple Keynotes (HD)/Apple Special Event, March 2016 (HD).mov",
+            "movie": true,
+            "name": "Apple Special Event, March 2016 (HD)",
+            "persistent_id": "E9839E0EB41F2510",
+            "play_count": 1,
+            "play_date": 3640779877,
+            "play_date_utc": "2019-05-15T21:44:37",
+            "podcast": true,
+            "release_date": "2016-03-21T12:00:00",
+            "size": 2920996493,
+            "total_time": 3808471,
+            "track_id": 22906,
+            "track_type": "File",
+            "video_height": 720,
+            "video_width": 1280,
+            "year": 2016
+        }
+    ]
+}

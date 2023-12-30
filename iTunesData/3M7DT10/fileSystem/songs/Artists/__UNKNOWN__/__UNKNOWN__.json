@@ -1,0 +1,21 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "full_path": "D:/iTunes Media/Music/Unknown Artist/Unknown Album/burning.aif",
+            "rel_path": "Unknown Artist/Unknown Album/burning.aif"
+        },
+        {
+            "full_path": "D:/iTunes Media/Music/Unknown Artist/Unknown Album/MIC-2007-11-09_21h04m31s.wav",
+            "rel_path": "Unknown Artist/Unknown Album/MIC-2007-11-09_21h04m31s.wav"
+        },
+        {
+            "full_path": "D:/iTunes Media/Music/Unknown Artist/Unknown Album/MIC-2008-03-07_20h48m24s.wav",
+            "rel_path": "Unknown Artist/Unknown Album/MIC-2008-03-07_20h48m24s.wav"
+        },
+        {
+            "full_path": "D:/iTunes Media/Music/Unknown Artist/Unknown Album/Nope Sound Effect.mp3",
+            "rel_path": "Unknown Artist/Unknown Album/Nope Sound Effect.mp3"
+        }
+    ]
+}

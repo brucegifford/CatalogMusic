@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Claudio R. M. Costa",
+            "artist": "Elder Claudio R. M. Costa",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:08:18",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Claudio R. M. Costa/October 2015 General Conference/470 That They Do Always Remember Him.mp3",
+            "name": "That They Do Always Remember Him",
+            "persistent_id": "74B40E84C6086024",
+            "sample_rate": 44100,
+            "size": 5143628,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 640156,
+            "track_id": 7362,
+            "track_number": 470,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

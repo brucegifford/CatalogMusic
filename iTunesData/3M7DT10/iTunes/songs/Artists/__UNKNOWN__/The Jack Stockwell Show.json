@@ -1,0 +1,17 @@
+{
+    "album": "The Jack Stockwell Show",
+    "songs": [
+        {
+            "album": "The Jack Stockwell Show",
+            "date_added": "2016-04-22T03:37:59",
+            "kind": "Internet audio stream",
+            "location": "http://live.radioamerica.org/loudwater/feed.pl?tap=51",
+            "name": "The Jack Stockwell Show",
+            "persistent_id": "CCEB5DE3AB607AF4",
+            "sort_album": "Jack Stockwell Show",
+            "sort_name": "Jack Stockwell Show",
+            "track_id": 18502,
+            "track_type": "URL"
+        }
+    ]
+}

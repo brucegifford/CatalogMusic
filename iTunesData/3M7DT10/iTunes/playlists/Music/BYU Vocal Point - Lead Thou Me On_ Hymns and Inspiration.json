@@ -1,0 +1,40 @@
+{
+    "all_items": true,
+    "display_path": "/Music/BYU Vocal Point - Lead Thou Me On_ Hymns and Inspiration",
+    "name": "BYU Vocal Point - Lead Thou Me On: Hymns and Inspiration",
+    "parent_persistent_id": "3C819CF1BE4FAAB3",
+    "playlist_id": 78035,
+    "playlist_persistent_id": "AE8A131C1E81B7B0",
+    "tracks": [
+        {
+            "album": "Lead Thou Me On: Hymns and Inspiration",
+            "album_artist": "BYU Vocal Point",
+            "artist": "BYU Vocal Point",
+            "artwork_count": 1,
+            "bitrate": 320,
+            "composer": "John Henry Newman, John B. Dykes; arr. James Stevens",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-04-09T03:32:08",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Christian",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/BYU Vocal Point/Lead Thou Me On_ Hymns and Inspiration/01 Lead, Kindly Light.mp3",
+            "name": "Lead, Kindly Light",
+            "persistent_id": "73EF5B9F1D7ECD18",
+            "play_count": 5,
+            "play_date": 3639998283,
+            "play_date_utc": "2019-05-06T20:38:03",
+            "sample_rate": 44100,
+            "size": 10081310,
+            "total_time": 244506,
+            "track_count": 13,
+            "track_id": 5164,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

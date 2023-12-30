@@ -1,0 +1,93 @@
+{
+    "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+    "episodes": [
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6028/0/dialoguepodcast_17.mp3",
+            "name": "Dialogue Podcast #17 w/Wes Johnson",
+            "persistent_id": "28E2C0491230FAC1",
+            "play_count": 1,
+            "total_time": 4406000,
+            "track_id": 20730,
+            "track_type": "URL"
+        },
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6098/0/dialoguepodcast_18.mp3",
+            "name": "Dialogue Podcast #18 w/Adam Miller",
+            "persistent_id": "4FD38D074AD70E75",
+            "play_count": 1,
+            "total_time": 3964000,
+            "track_id": 20732,
+            "track_type": "URL"
+        },
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6114/0/dialoguepodcast19.mp3",
+            "name": "Dialogue Podcast #19 w/Craig Harline",
+            "persistent_id": "509C9379FCF0B7DB",
+            "play_count": 1,
+            "total_time": 4415000,
+            "track_id": 20734,
+            "track_type": "URL"
+        },
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6360/0/dialoguepodcast_20.mp3",
+            "name": "Dialogue Podcast #20 w/David Holland",
+            "persistent_id": "4EEF2FBEFB770A42",
+            "play_count": 1,
+            "total_time": 4241000,
+            "track_id": 20736,
+            "track_type": "URL"
+        },
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "bitrate": 128,
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6372/0/dialoguepodcast_21.mp3",
+            "name": "Dialogue Podcast #21 w/Neylan McBaine",
+            "persistent_id": "6B1A856F3DF78EF0",
+            "play_count": 1,
+            "play_date": 3508827103,
+            "play_date_utc": "2015-03-10T16:11:43",
+            "sample_rate": 44100,
+            "total_time": 3873000,
+            "track_id": 22552,
+            "track_type": "URL",
+            "year": 2015
+        },
+        {
+            "album": "Dialogue - A Journal of Mormon Thought » Dialogue Journal Podcast",
+            "artist": "Dialogue: A Journal of Mormon Thought",
+            "date_added": "2016-04-22T03:38:01",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "https://www.dialoguejournal.com/podpress_trac/feed/6916/0/dialoguepodcast_25.mp3",
+            "name": "Dialogue Podcast #25 w/Russell Stevenson",
+            "persistent_id": "F097E1DEBCDF9801",
+            "total_time": 4343000,
+            "track_id": 22892,
+            "track_type": "URL"
+        }
+    ]
+}

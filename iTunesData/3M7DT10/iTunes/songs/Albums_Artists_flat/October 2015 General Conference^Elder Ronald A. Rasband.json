@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Ronald A. Rasband",
+            "artist": "Elder Ronald A. Rasband",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:07:28",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Ronald A. Rasband/October 2015 General Conference/420 I Stand All Amazed.mp3",
+            "name": "I Stand All Amazed",
+            "persistent_id": "D3849BAB2E70B9A6",
+            "sample_rate": 44100,
+            "size": 3362457,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 416496,
+            "track_id": 7402,
+            "track_number": 420,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

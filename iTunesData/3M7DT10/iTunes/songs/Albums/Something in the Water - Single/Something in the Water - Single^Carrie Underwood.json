@@ -1,0 +1,38 @@
+{
+    "album": "Something in the Water - Single",
+    "songs": [
+        {
+            "album": "Something in the Water - Single",
+            "album_artist": "Carrie Underwood",
+            "artist": "Carrie Underwood",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "composer": "Carrie Underwood, Chris DeStefano & Brett James",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-11-30T16:32:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Country",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Carrie Underwood/Something in the Water - Single/01 Something in the Water.m4a",
+            "name": "Something in the Water",
+            "normalization": 7763,
+            "persistent_id": "9920A734D0DF6146",
+            "purchased": true,
+            "release_date": "2014-09-29T07:00:00",
+            "sample_rate": 44100,
+            "size": 8354078,
+            "sort_album": "Something in the Water - Single",
+            "sort_artist": "Carrie Underwood",
+            "sort_name": "Something in the Water",
+            "total_time": 237096,
+            "track_count": 1,
+            "track_id": 5238,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

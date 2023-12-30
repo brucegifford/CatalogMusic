@@ -1,0 +1,19 @@
+{
+    "album": "The Changelog",
+    "songs": [
+        {
+            "album": "The Changelog",
+            "artist": "5by5",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Software How-To",
+            "kind": "Internet audio stream",
+            "location": "http://feeds.5by5.tv/changelog",
+            "name": "The Changelog",
+            "persistent_id": "EFBEC91D4110C151",
+            "sort_album": "Changelog",
+            "sort_name": "Changelog",
+            "track_id": 20406,
+            "track_type": "URL"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Gary E. Stevenson",
+            "artist": "Elder Gary E. Stevenson",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:07:38",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Gary E. Stevenson/October 2015 General Conference/430 Plain and Precious Truths.mp3",
+            "name": "Plain and Precious Truths",
+            "persistent_id": "A9C30F8BAF73C7ED",
+            "sample_rate": 44100,
+            "size": 3423831,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 424045,
+            "track_id": 7374,
+            "track_number": 430,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

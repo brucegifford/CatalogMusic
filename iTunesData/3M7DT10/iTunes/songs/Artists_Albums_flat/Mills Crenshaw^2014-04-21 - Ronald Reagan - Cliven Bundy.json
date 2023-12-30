@@ -1,0 +1,30 @@
+{
+    "album": "2014-04-21 - Ronald Reagan - Cliven Bundy",
+    "songs": [
+        {
+            "album": "2014-04-21 - Ronald Reagan - Cliven Bundy",
+            "artist": "Mills Crenshaw",
+            "bitrate": 32,
+            "comments": "Broadcast on Mills Crenshaw K-Talk show 4-21-2014",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-08-11T16:31:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Other",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Mills Crenshaw/2014-04-21 - Ronald Reagan - Cliven Bund/01 2014-04-21 - Ronald Reagan - Cliv.mp3",
+            "name": "2014-04-21 - Ronald Reagan - Cliven Bundy",
+            "persistent_id": "77F1F758607CF6C8",
+            "sample_rate": 24000,
+            "size": 27997511,
+            "total_time": 6996768,
+            "track_count": 1,
+            "track_id": 14034,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "all_items": true,
+    "display_path": "/Music/John Canaan - Carol To My King_ A Collection of Christmas Classics",
+    "name": "John Canaan - Carol To My King: A Collection of Christmas Classics",
+    "parent_persistent_id": "3C819CF1BE4FAAB3",
+    "playlist_id": 78784,
+    "playlist_persistent_id": "A0F5A9A0CE87B7FC",
+    "tracks": [
+        {
+            "album": "Carol To My King: A Collection of Christmas Classics",
+            "artist": "John Canaan",
+            "bitrate": 160,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2008-11-06T03:27:32",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "LDS",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/John Canaan/Carol To My King_ A Collection of Christ/05 Nativity Carol.mp3",
+            "name": "Nativity Carol",
+            "normalization": 1496,
+            "persistent_id": "8BB6501E50128E6F",
+            "play_count": 17,
+            "play_date": 3660898937,
+            "play_date_utc": "2020-01-03T19:22:17",
+            "sample_rate": 44100,
+            "size": 5193777,
+            "total_time": 259578,
+            "track_count": 11,
+            "track_id": 12060,
+            "track_number": 5,
+            "track_type": "File"
+        }
+    ]
+}

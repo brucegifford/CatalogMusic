@@ -1,0 +1,26 @@
+{
+    "album": "BYU Devotionals",
+    "songs": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "Neal A. Maxwell",
+            "bitrate": 48,
+            "comments": "© 1978 Intellectual Reserve, Inc. --All rights reserved.  This devotional or fireside is licensed for personal, home, and Church use only. All other uses must have prior written permission from BYU OIT Multimedia Applications, 255 FB, Provo, UT 84602. BYU",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-11-09T05:26:07",
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Neal A. Maxwell/BYU Devotionals/Meeting the Challenges of Today.mp3",
+            "name": "Meeting the Challenges of Today",
+            "persistent_id": "162D0D682861FFC6",
+            "sample_rate": 32000,
+            "size": 12499072,
+            "total_time": 2082672,
+            "track_id": 14044,
+            "track_type": "File",
+            "year": 1978
+        }
+    ]
+}

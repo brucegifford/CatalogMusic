@@ -1,0 +1,38 @@
+{
+    "album": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+    "songs": [
+        {
+            "album": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+            "album_artist": "Various Artists",
+            "artist": "The Millennium Choir",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "compilation": true,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-11-30T16:32:40",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Christian & Gospel",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Compilations/Praise to the Man - A Collection of Song/01 Fantasy On a Scottish Tune.m4a",
+            "name": "Fantasy On a Scottish Tune",
+            "normalization": 1778,
+            "persistent_id": "7D041F0AAE0AE1D6",
+            "purchased": true,
+            "release_date": "2007-01-01T08:00:00",
+            "sample_rate": 44100,
+            "size": 11345207,
+            "sort_album": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+            "sort_artist": "Millennium Choir",
+            "sort_name": "Fantasy On a Scottish Tune",
+            "total_time": 318053,
+            "track_count": 12,
+            "track_id": 7006,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2007
+        }
+    ]
+}

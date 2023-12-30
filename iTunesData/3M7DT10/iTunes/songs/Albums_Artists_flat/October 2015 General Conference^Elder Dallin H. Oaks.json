@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Dallin H. Oaks",
+            "artist": "Elder Dallin H. Oaks",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:05:51",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Dallin H. Oaks/October 2015 General Conference/280 Strengthened by the Atonement of.mp3",
+            "name": "Strengthened by the Atonement of Jesus Christ",
+            "persistent_id": "18D7817D9B75E5A4",
+            "sample_rate": 44100,
+            "size": 7598032,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 948062,
+            "track_id": 7368,
+            "track_number": 280,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

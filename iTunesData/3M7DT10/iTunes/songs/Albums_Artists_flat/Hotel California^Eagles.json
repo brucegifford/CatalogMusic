@@ -1,0 +1,30 @@
+{
+    "album": "Hotel California",
+    "songs": [
+        {
+            "album": "Hotel California",
+            "artist": "Eagles",
+            "artwork_count": 1,
+            "bitrate": 320,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:06:27",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/Hotel California/04 Wasted Time.mp3",
+            "name": "Wasted Time",
+            "persistent_id": "76681DBBFB3D52E1",
+            "play_count": 10,
+            "play_date": 3666355971,
+            "play_date_utc": "2020-03-06T23:12:51",
+            "sample_rate": 44100,
+            "size": 11899482,
+            "total_time": 296489,
+            "track_id": 28618,
+            "track_number": 4,
+            "track_type": "File",
+            "year": 1976
+        }
+    ]
+}

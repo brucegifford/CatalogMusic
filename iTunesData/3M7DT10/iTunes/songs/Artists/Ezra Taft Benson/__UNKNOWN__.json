@@ -1,0 +1,29 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Ezra Taft Benson",
+            "bitrate": 15,
+            "comments": "That great and wise American, Thomas Jefferson, warned us of the danger of conferring unwarranted power upon our government administrators in these sobering words:\n\n\". . . Our Constitution has accordingly fixed the limits to which, and no further, our c",
+            "composer": "Ezra Taft Benson - http://www.latterdayconservative.com",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T23:55:58",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG-4 video file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Ezra Taft Benson/Unknown Album/01 A Race Against Time.mp4",
+            "name": "A Race Against Time",
+            "persistent_id": "B14D5021F641AC57",
+            "size": 5811867,
+            "sort_name": "Race Against Time",
+            "total_time": 2774127,
+            "track_count": 1,
+            "track_id": 7416,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

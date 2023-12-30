@@ -1,0 +1,48 @@
+{
+    "album": "Hotel California",
+    "songs": [
+        {
+            "album": "Hotel California",
+            "artist": "The Eagles",
+            "date": "1976",
+            "full_path": "D:/iTunes Media/Music/The Eagles/Hotel California/03 Life In The Fast Lane.mp3",
+            "genre": "Country Rock",
+            "rel_path": "The Eagles/Hotel California/03 Life In The Fast Lane.mp3",
+            "title": "Life In The Fast Lane",
+            "tracknumber": "3"
+        },
+        {
+            "album": "Hotel California",
+            "artist": "The Eagles",
+            "date": "1976",
+            "full_path": "D:/iTunes Media/Music/The Eagles/Hotel California/06 Victim Of Love.mp3",
+            "genre": "Rock",
+            "rel_path": "The Eagles/Hotel California/06 Victim Of Love.mp3",
+            "title": "Victim Of Love",
+            "tracknumber": "06"
+        },
+        {
+            "album": "Hotel California",
+            "albumartist": "The Eagles",
+            "artist": "The Eagles",
+            "composer": "Joe Vitale/Joe Walsh",
+            "date": "1976",
+            "full_path": "D:/iTunes Media/Music/The Eagles/Hotel California/07 Pretty Maids All In A Row.mp3",
+            "genre": "Rock",
+            "organization": "Asylum",
+            "rel_path": "The Eagles/Hotel California/07 Pretty Maids All In A Row.mp3",
+            "title": "Pretty Maids All In A Row",
+            "tracknumber": "7"
+        },
+        {
+            "album": "Hotel California",
+            "artist": "The Eagles",
+            "date": "1976",
+            "full_path": "D:/iTunes Media/Music/The Eagles/Hotel California/09 The Last Resort.mp3",
+            "genre": "Rock",
+            "rel_path": "The Eagles/Hotel California/09 The Last Resort.mp3",
+            "title": "The Last Resort",
+            "tracknumber": "09"
+        }
+    ]
+}

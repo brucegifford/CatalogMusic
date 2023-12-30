@@ -1,0 +1,36 @@
+{
+    "all_items": true,
+    "display_path": "/Talks/Joel Skousen - Joel Skousen speaking at Highland Utah, Nov. 2 2012",
+    "name": "Joel Skousen - Joel Skousen speaking at Highland Utah, Nov. 2 2012",
+    "parent_persistent_id": "2784946B72D16BBE",
+    "playlist_id": 81013,
+    "playlist_persistent_id": "7F8131E15B9DB8BC",
+    "tracks": [
+        {
+            "album": "Joel Skousen speaking at Highland Utah, Nov. 2 2012",
+            "album_artist": "Joel Skousen",
+            "artist": "Joel Skousen",
+            "bitrate": 128,
+            "comments": "Joel Skousen - Highland UT 2 Nov 2012 - Some of the topics he spoke about are war with Iran, Emergency Preparedness (Hurricane Sandy), real vs. bogus threats/conspiraces being spread on the internet, the world super-powers, Secret Combinations, World Wa",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-05-02T22:41:04",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Joel Skousen/Joel Skousen speaking at Highland Utah,/01 Joel Skousen speaking at Highland.mp3",
+            "name": "Joel Skousen speaking at Highland Utah, Nov. 2 2012",
+            "persistent_id": "6F95E57BA3552960",
+            "sample_rate": 44100,
+            "size": 117914340,
+            "total_time": 7386331,
+            "track_count": 1,
+            "track_id": 12048,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2012
+        }
+    ]
+}

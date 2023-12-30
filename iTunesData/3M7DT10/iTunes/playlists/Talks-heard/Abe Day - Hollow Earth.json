@@ -1,0 +1,34 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/Abe Day - Hollow Earth",
+    "name": "Abe Day - Hollow Earth",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81515,
+    "playlist_persistent_id": "F1CB671A7AFD0F38",
+    "tracks": [
+        {
+            "album": "Hollow Earth",
+            "artist": "Abe Day",
+            "bitrate": 64,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-05-02T20:49:03",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Abe Day/Hollow Earth/Abe-Day-Living-Earth-Highland-2013-M.mp3",
+            "name": "Abe-Day-Living-Earth-Highland-2013-M",
+            "persistent_id": "4658E3D7F53D875E",
+            "sample_rate": 44100,
+            "size": 32315866,
+            "total_time": 4057573,
+            "track_count": 1,
+            "track_id": 4228,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}

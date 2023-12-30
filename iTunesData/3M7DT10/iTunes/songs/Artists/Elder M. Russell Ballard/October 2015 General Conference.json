@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder M. Russell Ballard",
+            "artist": "Elder M. Russell Ballard",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:03:05",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder M. Russell Ballard/October 2015 General Conference/120 God Is at the Helm.mp3",
+            "name": "God Is at the Helm",
+            "persistent_id": "521F9811B4DB0A96",
+            "sample_rate": 44100,
+            "size": 7528456,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 938527,
+            "track_id": 7390,
+            "track_number": 120,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

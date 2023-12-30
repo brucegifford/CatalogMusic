@@ -1,0 +1,31 @@
+{
+    "album": "On The Border",
+    "songs": [
+        {
+            "album": "On The Border",
+            "album_artist": "Eagles",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "The Eagles",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:23:12",
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/On The Border/10 Best Of My Love.mp3",
+            "name": "Best Of My Love",
+            "persistent_id": "31DE265E7ABC898B",
+            "play_count": 12,
+            "play_date": 3666349807,
+            "play_date_utc": "2020-03-06T21:30:07",
+            "sample_rate": 44100,
+            "size": 6501023,
+            "sort_artist": "Eagles",
+            "total_time": 270785,
+            "track_id": 28572,
+            "track_number": 10,
+            "track_type": "File",
+            "year": 1974
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "album": "The Jack Stockwell Show",
+    "songs": [
+        {
+            "album": "The Jack Stockwell Show",
+            "artist": "Dr. Jack",
+            "bitrate": 48,
+            "date_added": "2016-04-22T03:37:59",
+            "genre": "Alternative Health",
+            "kind": "MPEG audio stream",
+            "location": "http://media.blubrry.com/stockwell/livearchive.radioamerica.org/loudwater/jss/000019509_000_000000051.mp3",
+            "name": "Excommunication with Paul Toscano",
+            "persistent_id": "E77F36A9A1229B3E",
+            "play_count": 1,
+            "play_date": 3506341174,
+            "play_date_utc": "2015-02-09T22:39:34",
+            "sample_rate": 32000,
+            "sort_album": "Jack Stockwell Show",
+            "total_time": 4813000,
+            "track_id": 18504,
+            "track_type": "URL",
+            "year": 2014
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "album": "The Mission of Elijah",
+    "songs": [
+        {
+            "album": "The Mission of Elijah",
+            "artist": "Denver Snuffer",
+            "bitrate": 128,
+            "comments": "Talk given at Confetti books on Friday evening October 14th, 2011",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2011-10-17T18:05:39",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Denver Snuffer/The Mission of Elijah/01 The Mission of Elijah.MP3",
+            "name": "The Mission of Elijah",
+            "persistent_id": "3874C0372628F5E4",
+            "sample_rate": 44100,
+            "size": 119563411,
+            "sort_album": "Mission of Elijah",
+            "sort_name": "Mission of Elijah",
+            "total_time": 7472457,
+            "track_count": 1,
+            "track_id": 7292,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2011
+        }
+    ]
+}

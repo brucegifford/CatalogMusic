@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Von G. Keetch",
+            "artist": "Elder Von G. Keetch",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:09:08",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Von G. Keetch/October 2015 General Conference/530 Blessed and Happy Are Those Who.mp3",
+            "name": "Blessed and Happy Are Those Who Keep the Commandments of God",
+            "persistent_id": "EF43739C838F8B6A",
+            "sample_rate": 44100,
+            "size": 4939006,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 613903,
+            "track_id": 7406,
+            "track_number": 530,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

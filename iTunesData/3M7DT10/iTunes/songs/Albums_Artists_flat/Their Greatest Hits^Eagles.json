@@ -1,0 +1,28 @@
+{
+    "album": "Their Greatest Hits",
+    "songs": [
+        {
+            "album": "Their Greatest Hits",
+            "artist": "Eagles",
+            "bitrate": 320,
+            "comments": "Òîëüêî äëÿ îçíàêîìëåíèÿ",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:22:07",
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/Their Greatest Hits/04 Already Gone.mp3",
+            "name": "Already Gone",
+            "persistent_id": "6D0B1596D88E1599",
+            "play_count": 12,
+            "play_date": 3666346687,
+            "play_date_utc": "2020-03-06T20:38:07",
+            "sample_rate": 44100,
+            "size": 10083256,
+            "total_time": 252186,
+            "track_id": 28570,
+            "track_number": 4,
+            "track_type": "File"
+        }
+    ]
+}

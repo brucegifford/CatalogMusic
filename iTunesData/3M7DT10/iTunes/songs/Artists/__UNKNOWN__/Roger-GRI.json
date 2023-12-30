@@ -1,0 +1,15 @@
+{
+    "album": "Roger-GRI",
+    "songs": [
+        {
+            "album": "Roger-GRI",
+            "date_added": "2016-04-22T03:37:56",
+            "kind": "Internet audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/podcast",
+            "name": "Roger-GRI",
+            "persistent_id": "34FB3DA71A103A16",
+            "track_id": 17514,
+            "track_type": "URL"
+        }
+    ]
+}

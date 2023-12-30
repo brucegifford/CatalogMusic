@@ -1,0 +1,35 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/Steven Jones - Alternative_Free Energy Research",
+    "name": "Steven Jones - Alternative/Free Energy Research",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81784,
+    "playlist_persistent_id": "4A67B54235363F2D",
+    "tracks": [
+        {
+            "album": "Alternative/Free Energy Research",
+            "artist": "Steven Jones",
+            "bitrate": 128,
+            "comments": "steve-jones-12-15-2011-final•\tDr. Steven Jones - Alternative/Free Energy Research - Steve Jones talking about alternative energy research and projects.",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-05-02T22:59:11",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Steven Jones/Alternative_Free Energy Research/01 Alternative_Free Energy Research.mp3",
+            "name": "Alternative/Free Energy Research",
+            "persistent_id": "2A1A39A4841444B1",
+            "sample_rate": 44100,
+            "size": 124069668,
+            "total_time": 7771219,
+            "track_count": 1,
+            "track_id": 16970,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2011
+        }
+    ]
+}

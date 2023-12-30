@@ -1,0 +1,17 @@
+{
+    "album": "The Alex Jones Show - Infowars.com",
+    "songs": [
+        {
+            "album": "The Alex Jones Show - Infowars.com",
+            "date_added": "2016-04-22T03:37:56",
+            "kind": "Internet audio stream",
+            "location": "http://xml.nfowars.net/Alex.rss",
+            "name": "The Alex Jones Show - Infowars.com",
+            "persistent_id": "E2EDB2D326852DD8",
+            "sort_album": "Alex Jones Show - Infowars.com",
+            "sort_name": "Alex Jones Show - Infowars.com",
+            "track_id": 17516,
+            "track_type": "URL"
+        }
+    ]
+}

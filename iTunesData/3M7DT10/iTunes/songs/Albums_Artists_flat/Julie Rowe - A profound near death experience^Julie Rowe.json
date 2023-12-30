@@ -1,0 +1,30 @@
+{
+    "album": "Julie Rowe - A profound near death experience",
+    "songs": [
+        {
+            "album": "Julie Rowe - A profound near death experience",
+            "artist": "Julie Rowe",
+            "bitrate": 32,
+            "comments": "Broadcast on K-Talk radio Mills Crenshaw radio show 5-29-2014",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-08-11T16:20:21",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Julie Rowe/Julie Rowe - A profound near death exper/2014 0529 JULIE ROW A PROFOUNF NEAR.mp3",
+            "name": "2014 0529 JULIE ROW A PROFOUNF NEAR",
+            "persistent_id": "A36C73557E1520BA",
+            "sample_rate": 24000,
+            "size": 41818670,
+            "total_time": 10452048,
+            "track_count": 1,
+            "track_id": 12132,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "album": "BlackSmoke",
+    "songs": [
+        {
+            "album": "BlackSmoke",
+            "artist": "SacredScience",
+            "bitrate": 128,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-11-30T16:25:35",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Alternative Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/SacredScience/BlackSmoke/SacredScience_BlackSmoke.mp3",
+            "name": "SacredScience_BlackSmoke",
+            "persistent_id": "2A35E43B67AADD66",
+            "sample_rate": 48000,
+            "size": 13123103,
+            "total_time": 819552,
+            "track_count": 1,
+            "track_id": 16066,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "album": "BYU Devotionals",
+    "songs": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "Ezra Taft Benson",
+            "bitrate": 40,
+            "comments": "© 1966 Intellectual Reserve, Inc. --All rights reserved.  This devotional or fireside is licensed for personal, home, and Church use only. All other uses must have prior written permission from BYU OIT Multimedia Applications, 255 FB, Provo, UT 84602. BYU",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T22:54:37",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Ezra Taft Benson/BYU Devotionals/01 Safety in the Face of Danger.mp3",
+            "name": "Safety in the Face of Danger",
+            "persistent_id": "45D6502BB4014780",
+            "sample_rate": 22050,
+            "size": 11587712,
+            "total_time": 2316930,
+            "track_count": 1,
+            "track_id": 7414,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1966
+        }
+    ]
+}

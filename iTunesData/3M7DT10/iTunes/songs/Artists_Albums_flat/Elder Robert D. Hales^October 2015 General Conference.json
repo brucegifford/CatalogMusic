@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Robert D. Hales",
+            "artist": "Elder Robert D. Hales",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:04:51",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Robert D. Hales/October 2015 General Conference/220 Meeting the Challenges of Today_.mp3",
+            "name": "Meeting the Challenges of Today’s World",
+            "persistent_id": "7DCDCA107DA0C87A",
+            "sample_rate": 44100,
+            "size": 6956431,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 867056,
+            "track_id": 7400,
+            "track_number": 220,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

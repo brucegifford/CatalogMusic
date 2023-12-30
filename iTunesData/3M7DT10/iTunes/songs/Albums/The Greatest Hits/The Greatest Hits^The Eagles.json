@@ -1,0 +1,29 @@
+{
+    "album": "The Greatest Hits",
+    "songs": [
+        {
+            "album": "The Greatest Hits",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:01:20",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/The Greatest Hits/Heartache Tonight.mp3",
+            "name": "Heartache Tonight",
+            "persistent_id": "F731CEEFE551984F",
+            "play_count": 11,
+            "play_date": 3666350710,
+            "play_date_utc": "2020-03-06T21:45:10",
+            "sample_rate": 44100,
+            "size": 6363134,
+            "sort_album": "Greatest Hits",
+            "sort_artist": "Eagles",
+            "total_time": 265090,
+            "track_id": 28580,
+            "track_type": "File"
+        }
+    ]
+}

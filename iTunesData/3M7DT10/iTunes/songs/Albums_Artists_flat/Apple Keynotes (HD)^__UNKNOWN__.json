@@ -1,0 +1,15 @@
+{
+    "album": "Apple Keynotes (HD)",
+    "songs": [
+        {
+            "album": "Apple Keynotes (HD)",
+            "date_added": "2016-04-22T03:38:00",
+            "kind": "Internet audio stream",
+            "location": "http://podcasts.apple.com/apple_keynotes_hd/apple_keynotes_hd.xml",
+            "name": "Apple Keynotes (HD)",
+            "persistent_id": "EE4A538104DC849F",
+            "track_id": 22556,
+            "track_type": "URL"
+        }
+    ]
+}

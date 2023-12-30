@@ -1,0 +1,28 @@
+{
+    "album": "6-3-6 The Healing Triad",
+    "songs": [
+        {
+            "album": "6-3-6 The Healing Triad",
+            "artist": "Jack Stockwell",
+            "bitrate": 128,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-01-02T17:46:48",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Jack Stockwell/6-3-6 The Healing Triad/01 6-3-6 The Healing Triad.mp3",
+            "name": "6-3-6 The Healing Triad",
+            "persistent_id": "FFC7019DADFD71E5",
+            "sample_rate": 44100,
+            "size": 53007599,
+            "total_time": 3312326,
+            "track_count": 1,
+            "track_id": 10090,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

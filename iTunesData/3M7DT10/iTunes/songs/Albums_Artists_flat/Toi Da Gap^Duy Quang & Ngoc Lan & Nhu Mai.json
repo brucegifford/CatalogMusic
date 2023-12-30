@@ -1,0 +1,28 @@
+{
+    "album": "Toi Da Gap",
+    "songs": [
+        {
+            "album": "Toi Da Gap",
+            "artist": "Duy Quang & Ngoc Lan & Nhu Mai",
+            "bitrate": 320,
+            "comments": "GodSpeed",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-12T21:24:44",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Duy Quang & Ngoc Lan & Nhu Mai/Toi Da Gap/01 Toi Da Gap.mp3",
+            "name": "Toi Da Gap",
+            "persistent_id": "3A15190BD87F2EA8",
+            "sample_rate": 44100,
+            "size": 8517760,
+            "total_time": 212897,
+            "track_count": 1,
+            "track_id": 7354,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

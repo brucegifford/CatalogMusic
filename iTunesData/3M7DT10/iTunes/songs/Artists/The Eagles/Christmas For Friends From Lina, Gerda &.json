@@ -1,0 +1,30 @@
+{
+    "album": "Christmas For Friends From Lina, Gerda & Edvardas",
+    "songs": [
+        {
+            "album": "Christmas For Friends From Lina, Gerda & Edvardas",
+            "artist": "The Eagles",
+            "bitrate": 320,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:24:53",
+            "file_folder_count": 5,
+            "genre": "Other",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/Christmas For Friends From Lina, Gerda &/39 Please Come Home for Christmas.mp3",
+            "name": "Please Come Home for Christmas  ",
+            "persistent_id": "EC7906B255E3F352",
+            "play_count": 10,
+            "play_date": 3666354512,
+            "play_date_utc": "2020-03-06T22:48:32",
+            "sample_rate": 44100,
+            "size": 7200896,
+            "sort_artist": "Eagles",
+            "total_time": 179957,
+            "track_id": 28602,
+            "track_number": 39,
+            "track_type": "File",
+            "year": 2007
+        }
+    ]
+}

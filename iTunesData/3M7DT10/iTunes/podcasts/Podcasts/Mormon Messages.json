@@ -1,0 +1,27 @@
+{
+    "album": "Mormon Messages",
+    "episodes": [
+        {
+            "album": "Mormon Messages",
+            "album_artist": "The Church of Jesus Christ of Latter-day Saints",
+            "artist": "The Church of Jesus Christ of Latter-day Saints",
+            "bitrate": 309,
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "QuickTime movie url",
+            "location": "http://feeds.lds.org/~r/mormon-messages/~5/yfUk34tZuvA/2014-12-011-protect-our-nestlings-720p-eng.mp4",
+            "name": "Protect Our Nestlings",
+            "persistent_id": "200137C5C40EF395",
+            "play_count": 1,
+            "play_date": 3509447858,
+            "play_date_utc": "2015-03-17T20:37:38",
+            "sort_album_artist": "Church of Jesus Christ of Latter-day Saints",
+            "sort_artist": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 120000,
+            "track_id": 22554,
+            "track_number": 11,
+            "track_type": "URL",
+            "year": 2015
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "album": "Front-end Five",
+    "songs": [
+        {
+            "album": "Front-end Five",
+            "artist": "Code School",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Tech News",
+            "kind": "Internet audio stream",
+            "location": "https://frontendfive.codeschool.com/feed.rss",
+            "name": "Front-end Five",
+            "persistent_id": "D40958DCD6A61BB8",
+            "track_id": 22858,
+            "track_type": "URL"
+        }
+    ]
+}

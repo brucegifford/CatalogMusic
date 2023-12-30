@@ -1,0 +1,27 @@
+{
+    "album": "The Very Best Of - Disk 2",
+    "songs": [
+        {
+            "album": "The Very Best Of - Disk 2",
+            "artist": "The Eagles",
+            "date": "2003",
+            "encodedby": "Exact Audio Copy   (Secure mode)",
+            "full_path": "D:/iTunes Media/Music/The Eagles/The Very Best Of - Disk 2/05 New Kid In Town.mp3",
+            "genre": "Rock",
+            "rel_path": "The Eagles/The Very Best Of - Disk 2/05 New Kid In Town.mp3",
+            "title": "New Kid In Town",
+            "tracknumber": "5"
+        },
+        {
+            "album": "The Very Best Of - Disk 2",
+            "artist": "The Eagles",
+            "date": "2003",
+            "encodedby": "Exact Audio Copy   (Secure mode)",
+            "full_path": "D:/iTunes Media/Music/The Eagles/The Very Best Of - Disk 2/09 I Can't Tell You Why.mp3",
+            "genre": "Rock",
+            "rel_path": "The Eagles/The Very Best Of - Disk 2/09 I Can't Tell You Why.mp3",
+            "title": "I Can't Tell You Why",
+            "tracknumber": "9"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "album": "Risen",
+    "songs": [
+        {
+            "album": "Risen",
+            "artist": "Shawna Edwards",
+            "bitrate": 256,
+            "comments": "RISEN is sung by Kristen Scott, Hallie Cahoon and \nmembers of the One Voice Children's Choir, \nand arranged by Daniel Blomberg.\nSpecial thanks to Gary Edwards & Linda Urquhart.\n",
+            "date_added": "2019-03-21T21:46:24",
+            "date_modified": "2019-03-21T21:49:09",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Shawna Edwards/Risen/Risen.mp3",
+            "name": "Risen",
+            "persistent_id": "1F7D5467AA243CFD",
+            "play_count": 3,
+            "play_date": 3665721894,
+            "play_date_utc": "2020-02-28T15:04:54",
+            "sample_rate": 44100,
+            "size": 7720901,
+            "total_time": 241214,
+            "track_count": 1,
+            "track_id": 25342,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2019
+        }
+    ]
+}

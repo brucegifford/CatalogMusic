@@ -1,0 +1,60 @@
+{
+    "album": "Intro to JavaScript - Google Docs Spreadsheets",
+    "songs": [
+        {
+            "album": "Intro to JavaScript - Google Docs Spreadsheets",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "iTunes U",
+            "kind": "QuickTime movie url",
+            "location": "https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic/v4/c3/ef/45/c3ef4550-abe7-4c9e-e050-31e354a9af15/201-5812084024884550332-Decisons_Is_It_Negative.mp4",
+            "name": "Decisons Is It Negative",
+            "persistent_id": "F41B6A6A9FEEDD3A",
+            "track_id": 17688,
+            "track_type": "URL"
+        },
+        {
+            "album": "Intro to JavaScript - Google Docs Spreadsheets",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "iTunes U",
+            "kind": "QuickTime movie url",
+            "location": "https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic/v4/0b/fa/44/0bfa44eb-e36d-d7a3-2416-f322fec7649f/202-426067579786892167-JavaScript_Double_Function_2012_04_12.mp4",
+            "name": "JavaScript_Double_Function_2012-04-12",
+            "persistent_id": "8D7992B010F64627",
+            "track_id": 17690,
+            "track_type": "URL"
+        },
+        {
+            "album": "Intro to JavaScript - Google Docs Spreadsheets",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "iTunes U",
+            "kind": "QuickTime movie url",
+            "location": "https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic/v4/0e/a5/a6/0ea5a68d-0705-9a92-111d-ade77318b44b/107-3322982486576964872-Is_It_Hot_or_Cold____Decisions.mp4",
+            "name": "Is_It_Hot_or_Cold__-_Decisions",
+            "persistent_id": "ABAA94236478E32D",
+            "track_id": 17692,
+            "track_type": "URL"
+        },
+        {
+            "album": "Intro to JavaScript - Google Docs Spreadsheets",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "iTunes U",
+            "kind": "QuickTime movie url",
+            "location": "https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic/v4/60/d6/9e/60d69ee8-b300-c45c-b02c-00fb54bb81d9/204-9179867379550794665-JavaScript_Adder_Function_2012_04_12.mp4",
+            "name": "JavaScript_Adder_Function_2012-04-12",
+            "persistent_id": "9A860699749FC207",
+            "track_id": 17694,
+            "track_type": "URL"
+        },
+        {
+            "album": "Intro to JavaScript - Google Docs Spreadsheets",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "iTunes U",
+            "kind": "QuickTime movie url",
+            "location": "https://itunesu.assets.itunes.com/apple-assets-us-std-000001/CobaltPublic/v4/60/86/af/6086af87-3c37-801f-c2df-9e191b7fc79a/108-925249368496549127-JavaScript_MPG_Function_2012_04_12.mp4",
+            "name": "JavaScript MPG Function",
+            "persistent_id": "2A66E74DA58FE0E0",
+            "track_id": 17696,
+            "track_type": "URL"
+        }
+    ]
+}

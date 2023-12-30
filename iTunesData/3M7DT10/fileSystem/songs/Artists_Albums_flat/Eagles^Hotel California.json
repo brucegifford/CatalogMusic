@@ -1,0 +1,15 @@
+{
+    "album": "Hotel California",
+    "songs": [
+        {
+            "album": "Hotel California",
+            "artist": "Eagles",
+            "date": "1976",
+            "full_path": "D:/iTunes Media/Music/Eagles/Hotel California/04 Wasted Time.mp3",
+            "genre": "Rock",
+            "rel_path": "Eagles/Hotel California/04 Wasted Time.mp3",
+            "title": "Wasted Time",
+            "tracknumber": "04"
+        }
+    ]
+}

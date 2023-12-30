@@ -1,0 +1,34 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/Jack Stockwell - Mad Cow Disease and Measles",
+    "name": "Jack Stockwell - Mad Cow Disease and Measles",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81540,
+    "playlist_persistent_id": "7D3D4E7A3F48BEB5",
+    "tracks": [
+        {
+            "album": "Mad Cow Disease and Measles",
+            "artist": "Jack Stockwell",
+            "bitrate": 48,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-01-26T21:12:13",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Jack Stockwell/Mad Cow Disease and Measles/Mad Cow Disease and Measles.mp3",
+            "name": "Mad Cow Disease and Measles",
+            "persistent_id": "09485021CB4330E8",
+            "sample_rate": 32000,
+            "size": 33183837,
+            "total_time": 5528916,
+            "track_count": 1,
+            "track_id": 10108,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

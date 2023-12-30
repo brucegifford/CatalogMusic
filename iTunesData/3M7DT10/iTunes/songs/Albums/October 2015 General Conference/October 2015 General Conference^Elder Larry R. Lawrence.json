@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Larry R. Lawrence",
+            "artist": "Elder Larry R. Lawrence",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:03:34",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Larry R. Lawrence/October 2015 General Conference/150 What Lack I Yet_.mp3",
+            "name": "What Lack I Yet?",
+            "persistent_id": "72C618F6153B6BC7",
+            "sample_rate": 44100,
+            "size": 4977450,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 615784,
+            "track_id": 7388,
+            "track_number": 150,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

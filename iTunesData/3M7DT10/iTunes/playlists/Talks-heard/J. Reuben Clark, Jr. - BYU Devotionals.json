@@ -1,0 +1,34 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/J. Reuben Clark, Jr. - BYU Devotionals",
+    "name": "J. Reuben Clark, Jr. - BYU Devotionals",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81524,
+    "playlist_persistent_id": "062D96DE84C1C04D",
+    "tracks": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "J. Reuben Clark, Jr.",
+            "bitrate": 32,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T22:54:36",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/J. Reuben Clark, Jr_/BYU Devotionals/01 Constitution.mp3",
+            "name": "Constitution",
+            "persistent_id": "B040D1EE9353743A",
+            "sample_rate": 22050,
+            "size": 8964224,
+            "total_time": 2240835,
+            "track_count": 1,
+            "track_id": 10084,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1957
+        }
+    ]
+}

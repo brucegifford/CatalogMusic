@@ -1,0 +1,26 @@
+{
+    "album": "VSM audio files - (c) 2010 virtualsheetmusic.com",
+    "songs": [
+        {
+            "album": "VSM audio files - (c) 2010 virtualsheetmusic.com",
+            "artist": "F.Chopin",
+            "bitrate": 128,
+            "composer": "F.Chopin",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-03-16T22:20:50",
+            "file_folder_count": 5,
+            "genre": "Classical",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/F.Chopin/VSM audio files - (c) 2010 virtualsheetm/Funeral March for violin & piano_ Le.mp3",
+            "name": "Funeral March for violin & piano: Lento",
+            "persistent_id": "62D2C425482F353B",
+            "sample_rate": 44100,
+            "size": 5298342,
+            "total_time": 331075,
+            "track_id": 7418,
+            "track_type": "File",
+            "year": 2010
+        }
+    ]
+}

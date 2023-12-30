@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder D. Todd Christofferson",
+            "artist": "Elder D. Todd Christofferson",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:08:47",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder D. Todd Christofferson/October 2015 General Conference/510 Why the Church.mp3",
+            "name": "Why the Church",
+            "persistent_id": "EF58313A32CF254C",
+            "sample_rate": 44100,
+            "size": 7441499,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 928208,
+            "track_id": 7364,
+            "track_number": 510,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

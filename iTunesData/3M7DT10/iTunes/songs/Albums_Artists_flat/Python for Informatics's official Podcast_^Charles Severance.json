@@ -1,0 +1,17 @@
+{
+    "album": "Python for Informatics's official Podcast.",
+    "songs": [
+        {
+            "album": "Python for Informatics's official Podcast.",
+            "artist": "Charles Severance",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Software How-To",
+            "kind": "Internet audio stream",
+            "location": "http://www.pythonlearn.com/audiofeed.xml",
+            "name": "Python for Informatics's official Podcast.",
+            "persistent_id": "854794850C6CFDBC",
+            "track_id": 20698,
+            "track_type": "URL"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "album": "Sittin' On the Dock of the Bay",
+    "songs": [
+        {
+            "album": "Sittin' On the Dock of the Bay",
+            "album_artist": "Otis Redding",
+            "artist": "Otis Redding",
+            "artwork_count": 1,
+            "bitrate": 246,
+            "comments": "Amazon.com Song ID: 213931174",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-01-22T06:17:06",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "R&B",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Otis Redding/Sittin' On the Dock of the Bay/01 Sittin' On the Dock of the Bay.mp3",
+            "name": "Sittin' On the Dock of the Bay",
+            "persistent_id": "9507E4C8A292496D",
+            "play_count": 16,
+            "play_date": 3666266279,
+            "play_date_utc": "2020-03-05T22:17:59",
+            "sample_rate": 44100,
+            "size": 5105763,
+            "total_time": 162560,
+            "track_count": 18,
+            "track_id": 15444,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

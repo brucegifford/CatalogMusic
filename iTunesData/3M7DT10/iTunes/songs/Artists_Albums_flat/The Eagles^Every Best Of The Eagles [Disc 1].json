@@ -1,0 +1,35 @@
+{
+    "album": "Every Best Of The Eagles [Disc 1]",
+    "songs": [
+        {
+            "album": "Every Best Of The Eagles [Disc 1]",
+            "album_artist": "The Eagles",
+            "artist": "The Eagles",
+            "bitrate": 256,
+            "comments": "Ripped by Diverking",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T22:58:41",
+            "disc_count": 2,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Country Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/Every Best Of The Eagles [Disc 1]/1-14 One Of These Nights.mp3",
+            "name": "One Of These Nights",
+            "persistent_id": "EC718F352D95B22A",
+            "play_count": 10,
+            "play_date": 3666354072,
+            "play_date_utc": "2020-03-06T22:41:12",
+            "sample_rate": 44100,
+            "size": 9301532,
+            "sort_album_artist": "Eagles",
+            "sort_artist": "Eagles",
+            "total_time": 290533,
+            "track_id": 28598,
+            "track_number": 14,
+            "track_type": "File",
+            "year": 1975
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "album": "Hell Freezes Over",
+    "songs": [
+        {
+            "album": "Hell Freezes Over",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "The Eagles\n",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:24:07",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/Hell Freezes Over/01 Get Over It.mp3",
+            "name": "Get Over It",
+            "persistent_id": "9478295C3B1ED156",
+            "play_count": 11,
+            "play_date": 3666350445,
+            "play_date_utc": "2020-03-06T21:40:45",
+            "sample_rate": 44100,
+            "size": 5079919,
+            "sort_artist": "Eagles",
+            "total_time": 211461,
+            "track_id": 28578,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1994
+        }
+    ]
+}

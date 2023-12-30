@@ -1,0 +1,33 @@
+{
+    "album": "Hell Freezes Over",
+    "songs": [
+        {
+            "album": "Hell Freezes Over",
+            "album_artist": "Eagles",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "http://www.mp3real.ru",
+            "composer": "Don Felder/Don Henley/Glenn Frey",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T22:48:25",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/Hell Freezes Over/06 Hotel California (acoustic live).mp3",
+            "name": "Hotel California (acoustic live)",
+            "persistent_id": "9EA5B5CC4054E34B",
+            "play_count": 11,
+            "play_date": 3666351533,
+            "play_date_utc": "2020-03-06T21:58:53",
+            "sample_rate": 44100,
+            "size": 10382512,
+            "sort_artist": "Eagles",
+            "total_time": 432091,
+            "track_id": 28584,
+            "track_number": 6,
+            "track_type": "File",
+            "year": 1994
+        }
+    ]
+}

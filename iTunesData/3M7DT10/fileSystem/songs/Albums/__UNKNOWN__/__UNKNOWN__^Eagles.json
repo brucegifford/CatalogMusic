@@ -1,0 +1,32 @@
+{
+    "album": "__UNKNOWN__",
+    "songs": [
+        {
+            "artist": "Eagles",
+            "encodedby": "FairStars Soft",
+            "full_path": "D:/iTunes Media/Music/Eagles/Unknown Album/Doolin-Dalton.mp3",
+            "rel_path": "Eagles/Unknown Album/Doolin-Dalton.mp3",
+            "title": "Doolin-Dalton"
+        },
+        {
+            "artist": "Eagles",
+            "full_path": "D:/iTunes Media/Music/Eagles/Unknown Album/Hotel California - Remastered.mp3",
+            "rel_path": "Eagles/Unknown Album/Hotel California - Remastered.mp3",
+            "title": "Hotel California - Remastered"
+        },
+        {
+            "artist": "Eagles",
+            "full_path": "D:/iTunes Media/Music/Eagles/Unknown Album/Love will keep us alive.mp3",
+            "rel_path": "Eagles/Unknown Album/Love will keep us alive.mp3",
+            "title": "Love will keep us alive"
+        },
+        {
+            "artist": "Eagles",
+            "composer": "Tempchin",
+            "date": "1972",
+            "full_path": "D:/iTunes Media/Music/Eagles/Unknown Album/Peaceful Easy Feeling.mp3",
+            "rel_path": "Eagles/Unknown Album/Peaceful Easy Feeling.mp3",
+            "title": "Peaceful Easy Feeling"
+        }
+    ]
+}

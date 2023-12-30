@@ -1,0 +1,28 @@
+{
+    "album": "TSS_Mate",
+    "songs": [
+        {
+            "album": "TSS_Mate",
+            "artist": "SacredScience",
+            "bitrate": 128,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-11-30T16:26:16",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Alternative Health",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/SacredScience/TSS_Mate/TSS_Mate.mp3",
+            "name": "TSS_Mate",
+            "persistent_id": "5DC94FA2B419F443",
+            "sample_rate": 48000,
+            "size": 29882783,
+            "total_time": 1867032,
+            "track_count": 1,
+            "track_id": 16070,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}

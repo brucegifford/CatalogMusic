@@ -1,0 +1,15 @@
+{
+    "album": "Mormon FAIR-Cast",
+    "songs": [
+        {
+            "album": "Mormon FAIR-Cast",
+            "date_added": "2016-04-22T03:38:00",
+            "kind": "Internet audio stream",
+            "location": "http://blog.fairmormon.org/feed/podcast/",
+            "name": "Mormon FAIR-Cast",
+            "persistent_id": "6C68347E3CC875FC",
+            "track_id": 20724,
+            "track_type": "URL"
+        }
+    ]
+}

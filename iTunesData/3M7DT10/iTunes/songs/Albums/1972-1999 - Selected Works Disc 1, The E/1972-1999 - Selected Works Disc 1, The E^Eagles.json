@@ -1,0 +1,28 @@
+{
+    "album": "1972-1999 - Selected Works Disc 1, The Early Days",
+    "songs": [
+        {
+            "album": "1972-1999 - Selected Works Disc 1, The Early Days",
+            "artist": "Eagles",
+            "bitrate": 192,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:23:47",
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/1972-1999 - Selected Works Disc 1, The E/11 James Dean.mp3",
+            "name": "James Dean",
+            "persistent_id": "86BBC8E550D00CD9",
+            "play_count": 11,
+            "play_date": 3666352280,
+            "play_date_utc": "2020-03-06T22:11:20",
+            "sample_rate": 44100,
+            "size": 5233399,
+            "total_time": 218017,
+            "track_count": 13,
+            "track_id": 28590,
+            "track_number": 11,
+            "track_type": "File"
+        }
+    ]
+}

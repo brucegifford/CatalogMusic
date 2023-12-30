@@ -1,0 +1,29 @@
+{
+    "album": "BYU Devotionals",
+    "songs": [
+        {
+            "album": "BYU Devotionals",
+            "artist": "David O. McKay",
+            "bitrate": 40,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T22:54:37",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Speech",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/David O. McKay/BYU Devotionals/01 Two Contending Forces.mp3",
+            "name": "Two Contending Forces",
+            "persistent_id": "96C76EF2B6CE470C",
+            "sample_rate": 22050,
+            "size": 13508736,
+            "total_time": 2701453,
+            "track_count": 1,
+            "track_id": 7280,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1960
+        }
+    ]
+}

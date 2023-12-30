@@ -1,0 +1,19 @@
+{
+    "album": "The Becoming SuperHuman Podcast",
+    "songs": [
+        {
+            "album": "The Becoming SuperHuman Podcast",
+            "artist": "Jonathan Levi, SuperLearner & Lifehacker",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Self-Help",
+            "kind": "Internet audio stream",
+            "location": "http://becomingasuperhuman.libsyn.com/rss",
+            "name": "The Becoming SuperHuman Podcast",
+            "persistent_id": "300EA76456901BB0",
+            "sort_album": "Becoming SuperHuman Podcast",
+            "sort_name": "Becoming SuperHuman Podcast",
+            "track_id": 20384,
+            "track_type": "URL"
+        }
+    ]
+}

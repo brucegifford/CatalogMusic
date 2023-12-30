@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Jeffrey R. Holland",
+            "artist": "Elder Jeffrey R. Holland",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:05:01",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Jeffrey R. Holland/October 2015 General Conference/230 Behold Thy Mother.mp3",
+            "name": "Behold Thy Mother",
+            "persistent_id": "26E4627AAF8BD75D",
+            "sample_rate": 44100,
+            "size": 7998535,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 993044,
+            "track_id": 7382,
+            "track_number": 230,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

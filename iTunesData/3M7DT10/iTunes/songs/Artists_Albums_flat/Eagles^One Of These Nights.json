@@ -1,0 +1,32 @@
+{
+    "album": "One Of These Nights",
+    "songs": [
+        {
+            "album": "One Of These Nights",
+            "album_artist": "Eagles",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "The Eagles",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:00:34",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/One Of These Nights/06 Take It To The Limit.mp3",
+            "name": "Take It To The Limit",
+            "persistent_id": "4D963E1E3392B890",
+            "play_count": 10,
+            "play_date": 3666355247,
+            "play_date_utc": "2020-03-06T23:00:47",
+            "sample_rate": 44100,
+            "size": 6885963,
+            "sort_artist": "Eagles",
+            "total_time": 286824,
+            "track_id": 28608,
+            "track_number": 6,
+            "track_type": "File",
+            "year": 1975
+        }
+    ]
+}

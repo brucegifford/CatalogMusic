@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Devin G. Durrant",
+            "artist": "Devin G. Durrant",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:08:59",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Devin G. Durrant/October 2015 General Conference/520 My Heart Pondereth Them Continua.mp3",
+            "name": "My Heart Pondereth Them Continually",
+            "persistent_id": "EB088EC3738E6B13",
+            "sample_rate": 44100,
+            "size": 4878945,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 604917,
+            "track_id": 7294,
+            "track_number": 520,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

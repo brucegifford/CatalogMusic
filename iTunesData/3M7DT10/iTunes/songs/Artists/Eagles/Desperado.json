@@ -1,0 +1,29 @@
+{
+    "album": "Desperado",
+    "songs": [
+        {
+            "album": "Desperado",
+            "album_artist": "Eagles",
+            "artist": "Eagles",
+            "bitrate": 192,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T22:58:02",
+            "file_folder_count": 5,
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Eagles/Desperado/04 Tequila Sunrise.mp3",
+            "name": "Tequila Sunrise",
+            "persistent_id": "D5D24708B8C59F48",
+            "play_count": 10,
+            "play_date": 3666355421,
+            "play_date_utc": "2020-03-06T23:03:41",
+            "sample_rate": 44100,
+            "size": 4185110,
+            "total_time": 174288,
+            "track_id": 28610,
+            "track_number": 4,
+            "track_type": "File",
+            "year": 1973
+        }
+    ]
+}

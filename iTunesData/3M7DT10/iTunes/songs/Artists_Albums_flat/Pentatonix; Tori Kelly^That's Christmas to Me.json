@@ -1,0 +1,28 @@
+{
+    "album": "That's Christmas to Me",
+    "songs": [
+        {
+            "album": "That's Christmas to Me",
+            "artist": "Pentatonix; Tori Kelly",
+            "bitrate": 160,
+            "composer": "Bobby McFerrin; Dick Smith; Felix Bernard",
+            "date_added": "2017-11-29T22:21:29",
+            "date_modified": "2017-11-29T22:21:31",
+            "file_folder_count": 5,
+            "genre": "Holiday",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Pentatonix_ Tori Kelly/That's Christmas to Me/04 Winter Wonderland_Don't Worry Be.mp3",
+            "name": "Winter Wonderland/Don't Worry Be Happy",
+            "normalization": 2497,
+            "persistent_id": "EF810F27E2E8BED8",
+            "sample_rate": 44100,
+            "size": 4160989,
+            "total_time": 207934,
+            "track_id": 24174,
+            "track_number": 4,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

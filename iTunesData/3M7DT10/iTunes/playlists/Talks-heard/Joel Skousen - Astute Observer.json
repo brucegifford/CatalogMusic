@@ -1,0 +1,36 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/Joel Skousen - Astute Observer",
+    "name": "Joel Skousen - Astute Observer",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81544,
+    "playlist_persistent_id": "CCEB015BD5E897B0",
+    "tracks": [
+        {
+            "album": "Astute Observer",
+            "artist": "Joel Skousen",
+            "artwork_count": 1,
+            "bitrate": 32,
+            "comments": "(AlexJ interview mentioned: https://www.youtube.com/watch?v=LDFE9LabDhE#t=3333 ) also see:  latterdayconservative.com   worldaffairsbrief.com",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-01-08T04:35:46",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Joel Skousen/Astute Observer/01 Joel Skousen speaks his opinions.mp3",
+            "name": "Joel Skousen speaks his opinions on GlobalCombinations, Ferguson, Vaccines, Listening to Conscience, etc.",
+            "persistent_id": "9199CDE606B7D886",
+            "sample_rate": 22050,
+            "size": 41548919,
+            "total_time": 10361913,
+            "track_count": 1,
+            "track_id": 12042,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

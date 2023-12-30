@@ -1,0 +1,52 @@
+{
+    "all_items": true,
+    "display_path": "/Talks/Denver Snuffer Jr. - St. George DOC Conference",
+    "name": "Denver Snuffer Jr. - St. George DOC Conference",
+    "parent_persistent_id": "2784946B72D16BBE",
+    "playlist_id": 80867,
+    "playlist_persistent_id": "0A8647A3E778DA15",
+    "tracks": [
+        {
+            "album": "St. George DOC Conference",
+            "album_artist": "Doctrine of Christ Conference",
+            "artist": "Denver Snuffer Jr.",
+            "bitrate": 192,
+            "date_added": "2017-03-22T01:23:37",
+            "date_modified": "2017-03-22T01:25:54",
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Doctrine of Christ Conference/St. George DOC Conference/Questions & Answers.mp3",
+            "name": "Questions & Answers",
+            "persistent_id": "D9CDC8ACC9CA8D60",
+            "sample_rate": 44100,
+            "size": 91973508,
+            "total_time": 3832058,
+            "track_id": 22966,
+            "track_type": "File",
+            "year": 2017
+        },
+        {
+            "album": "St. George DOC Conference",
+            "album_artist": "Doctrine of Christ Conference",
+            "artist": "Denver Snuffer Jr.",
+            "bitrate": 192,
+            "date_added": "2017-03-22T00:51:19",
+            "date_modified": "2017-03-22T01:25:55",
+            "file_folder_count": 5,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Doctrine of Christ Conference/St. George DOC Conference/Things to Keep You Up at Night.mp3",
+            "name": "Things to Keep You Up at Night",
+            "persistent_id": "6D9213C655657817",
+            "sample_rate": 44100,
+            "size": 153199722,
+            "total_time": 6383151,
+            "track_id": 22964,
+            "track_type": "File",
+            "year": 2017
+        }
+    ]
+}

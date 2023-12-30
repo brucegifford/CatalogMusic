@@ -1,0 +1,32 @@
+{
+    "album": "The End is Near",
+    "songs": [
+        {
+            "album": "The End is Near",
+            "artist": "Tom Butler and Dan Campbell",
+            "bitrate": 64,
+            "comments": "Highland Meeting (March 7, 2014): Tom Butler and Dan Campbell. Topic: \"The End is Near\". Current events and how near we really may be to the collapse of the empire, the coming wars, the fiction we live under and who is behind it all. Also delving into fal",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-12T21:55:47",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Tom Butler and Dan Campbell/The End is Near/01 The End is Near.mp3",
+            "name": "The End is Near",
+            "persistent_id": "EFFD3B5F029DD6BD",
+            "sample_rate": 44100,
+            "size": 65906610,
+            "sort_album": "End is Near",
+            "sort_name": "End is Near",
+            "total_time": 8275095,
+            "track_count": 1,
+            "track_id": 17440,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

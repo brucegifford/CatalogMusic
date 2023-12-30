@@ -1,0 +1,32 @@
+{
+    "album": "The Eagles Greatest Hits",
+    "songs": [
+        {
+            "album": "The Eagles Greatest Hits",
+            "album_artist": "Unknown",
+            "artist": "The Eagles",
+            "bitrate": 128,
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T23:21:38",
+            "file_folder_count": 5,
+            "genre": "Pop",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Unknown/The Eagles Greatest Hits/15 The long run.mp3",
+            "name": "The long run",
+            "persistent_id": "9539EBAF38FF14DE",
+            "play_count": 11,
+            "play_date": 3666353233,
+            "play_date_utc": "2020-03-06T22:27:13",
+            "sample_rate": 44100,
+            "size": 3501859,
+            "sort_album": "Eagles Greatest Hits",
+            "sort_artist": "Eagles",
+            "sort_name": "long run",
+            "total_time": 219088,
+            "track_id": 28614,
+            "track_number": 15,
+            "track_type": "File"
+        }
+    ]
+}

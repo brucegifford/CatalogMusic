@@ -1,0 +1,35 @@
+{
+    "all_items": true,
+    "display_path": "/Talks-heard/Ronald Rollins - Young Earth Creation",
+    "name": "Ronald Rollins - Young Earth Creation",
+    "parent_persistent_id": "D48A1F6A87EA0E38",
+    "playlist_id": 81764,
+    "playlist_persistent_id": "9DB4C0A2647648F4",
+    "tracks": [
+        {
+            "album": "Young Earth Creation",
+            "artist": "Ronald Rollins",
+            "bitrate": 64,
+            "comments": "Dr. Rollins - Young Earth Creation - Dr. Ronald Rollins spoke about how the earth may be much younger than the evolutionist crowd wants it to be. Understanding how widely accepted evolutionists beliefs conflict with solid scientific evidences is importa",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-05-02T22:32:50",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Spoken & Audio",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Ronald Rollins/Young Earth Creation/01 Young Earth Meeting-Highland-Feb.mp3",
+            "name": "Young Earth Meeting-Highland-Feb 2013",
+            "persistent_id": "820701F67A324A7C",
+            "sample_rate": 44100,
+            "size": 50632610,
+            "total_time": 6358073,
+            "track_count": 1,
+            "track_id": 15830,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2013
+        }
+    ]
+}

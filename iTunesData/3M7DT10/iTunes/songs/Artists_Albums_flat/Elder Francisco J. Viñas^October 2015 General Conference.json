@@ -1,0 +1,31 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Francisco J. Viñas",
+            "artist": "Elder Francisco J. Viñas",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:03:46",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Francisco J. Viñas/October 2015 General Conference/160 The Pleasing Word of God.mp3",
+            "name": "The Pleasing Word of God",
+            "persistent_id": "6CB0524E272CC253",
+            "sample_rate": 44100,
+            "size": 5408725,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "sort_name": "Pleasing Word of God",
+            "total_time": 672626,
+            "track_id": 7372,
+            "track_number": 160,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

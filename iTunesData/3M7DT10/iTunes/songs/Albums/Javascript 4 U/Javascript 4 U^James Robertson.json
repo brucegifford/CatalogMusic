@@ -1,0 +1,17 @@
+{
+    "album": "Javascript 4 U",
+    "songs": [
+        {
+            "album": "Javascript 4 U",
+            "artist": "James Robertson",
+            "date_added": "2016-04-22T03:37:58",
+            "genre": "Software How-To",
+            "kind": "Internet audio stream",
+            "location": "http://www.jarober.com/rss/blog_js4u.xml",
+            "name": "Javascript 4 U",
+            "persistent_id": "29C852FF87D40EA3",
+            "track_id": 18442,
+            "track_type": "URL"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "album": "Roger-GRI",
+    "episodes": [
+        {
+            "album": "Roger-GRI",
+            "artist": "Roger K Young",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/2010/03/21/the-roger-k-young-show-1.mp3",
+            "name": "The Roger K. Young Show",
+            "persistent_id": "545804F7D1FE65D0",
+            "play_count": 1,
+            "sort_name": "Roger K. Young Show",
+            "total_time": 7260000,
+            "track_id": 22848,
+            "track_type": "URL"
+        },
+        {
+            "album": "Roger-GRI",
+            "artist": "Roger K Young",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/2010/03/28/the-roger-k-young-show-2.mp3",
+            "name": "The Roger K. Young Show",
+            "persistent_id": "01B5735669207C61",
+            "play_count": 1,
+            "sort_name": "Roger K. Young Show",
+            "total_time": 7260000,
+            "track_id": 22850,
+            "track_type": "URL"
+        },
+        {
+            "album": "Roger-GRI",
+            "artist": "Roger K Young",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/2010/04/04/the-roger-k-young-show-1.mp3",
+            "name": "The Roger K. Young Show",
+            "persistent_id": "019C50A5AA147A94",
+            "play_count": 1,
+            "sort_name": "Roger K. Young Show",
+            "total_time": 7260000,
+            "track_id": 22852,
+            "track_type": "URL"
+        },
+        {
+            "album": "Roger-GRI",
+            "artist": "Roger K Young",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/2010/04/11/the-roger-k-young-show-1.mp3",
+            "name": "The Roger K. Young Show",
+            "persistent_id": "CC244E47AE3A1E01",
+            "play_count": 1,
+            "sort_name": "Roger K. Young Show",
+            "total_time": 7260000,
+            "track_id": 22854,
+            "track_type": "URL"
+        },
+        {
+            "album": "Roger-GRI",
+            "artist": "Roger K Young",
+            "date_added": "2016-04-22T03:38:00",
+            "genre": "Podcast",
+            "kind": "MPEG audio stream",
+            "location": "http://www.blogtalkradio.com/roger-gri/2010/04/18/the-roger-k-young-show-1.mp3",
+            "name": "The Roger K. Young Show",
+            "persistent_id": "D827C5462CEA559B",
+            "play_count": 1,
+            "sort_name": "Roger K. Young Show",
+            "total_time": 7260000,
+            "track_id": 22856,
+            "track_type": "URL"
+        }
+    ]
+}

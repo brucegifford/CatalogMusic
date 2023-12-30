@@ -1,0 +1,30 @@
+{
+    "album": "Jack Stockwell-Highland Meeting",
+    "songs": [
+        {
+            "album": "Jack Stockwell-Highland Meeting",
+            "artist": "Jack Stockwell",
+            "bitrate": 64,
+            "comments": "Dr. Jack Stockwell speaking at the Highland Group meeting. November 7, 2014",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-19T22:10:13",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Freedom",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Jack Stockwell/Jack Stockwell-Highland Meeting/01 Jack Stockwell-Highland Meeting.mp3",
+            "name": "Jack Stockwell-Highland Meeting",
+            "persistent_id": "A8D264920AEA716F",
+            "sample_rate": 44100,
+            "size": 56036443,
+            "total_time": 7035637,
+            "track_count": 1,
+            "track_id": 10106,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2014
+        }
+    ]
+}

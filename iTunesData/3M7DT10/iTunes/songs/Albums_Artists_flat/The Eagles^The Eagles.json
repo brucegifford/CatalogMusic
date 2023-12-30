@@ -1,0 +1,33 @@
+{
+    "album": "The Eagles",
+    "songs": [
+        {
+            "album": "The Eagles",
+            "artist": "The Eagles",
+            "bitrate": 192,
+            "comments": "Glenn Frey - guitar, keyboards, vocals;\nDon Henley - drums, vocals;\nBernie Leadon - guitar, steel guitar, banjo, vocals;\nRandy Meisner - bass, vocals.",
+            "composer": "Henley/Leadon",
+            "date_added": "2019-09-06T23:35:29",
+            "date_modified": "2019-09-06T22:58:49",
+            "file_folder_count": 5,
+            "genre": "Rock",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/The Eagles/The Eagles/02 Witchy Woman.mp3",
+            "name": "Witchy Woman",
+            "persistent_id": "2826ED418C34BDD4",
+            "play_count": 10,
+            "play_date": 3666356224,
+            "play_date_utc": "2020-03-06T23:17:04",
+            "sample_rate": 44100,
+            "size": 6062080,
+            "sort_album": "Eagles",
+            "sort_artist": "Eagles",
+            "total_time": 252551,
+            "track_id": 28620,
+            "track_number": 2,
+            "track_type": "File",
+            "year": 1972
+        }
+    ]
+}

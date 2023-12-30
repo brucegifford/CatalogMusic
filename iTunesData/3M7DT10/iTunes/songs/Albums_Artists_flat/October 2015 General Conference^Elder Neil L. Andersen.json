@@ -1,0 +1,30 @@
+{
+    "album": "October 2015 General Conference",
+    "songs": [
+        {
+            "album": "October 2015 General Conference",
+            "album_artist": "Elder Neil L. Andersen",
+            "artist": "Elder Neil L. Andersen",
+            "artwork_count": 1,
+            "bitrate": 64,
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2015-10-30T21:06:31",
+            "file_folder_count": 5,
+            "genre": "General Conference",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Elder Neil L. Andersen/October 2015 General Conference/310 Faith Is Not by Chance, but by C.mp3",
+            "name": "Faith Is Not by Chance, but by Choice",
+            "persistent_id": "F76F6817497D8F80",
+            "sample_rate": 44100,
+            "size": 7173913,
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 895007,
+            "track_id": 7392,
+            "track_number": 310,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

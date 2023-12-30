@@ -1,0 +1,30 @@
+{
+    "album": "Wilbert Smith Speech 1958",
+    "songs": [
+        {
+            "album": "Wilbert Smith Speech 1958",
+            "artist": "Wilbert Smith",
+            "bitrate": 24,
+            "comments": "UFO?",
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2014-11-10T22:41:24",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "        ",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Wilbert Smith/Wilbert Smith Speech 1958/WilbertSmithSpeech1958.mp3",
+            "name": "WilbertSmithSpeech1958",
+            "persistent_id": "664123640134DF74",
+            "sample_rate": 16000,
+            "size": 3324204,
+            "total_time": 1104624,
+            "track_count": 1,
+            "track_id": 17510,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 1958
+        }
+    ]
+}

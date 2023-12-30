@@ -1,0 +1,28 @@
+{
+    "album": "Preps & Last Days",
+    "songs": [
+        {
+            "album": "Preps & Last Days",
+            "artist": "Joel Skousen, Steven Jones, Jack_Monnett",
+            "bitrate": 32,
+            "date_added": "2016-04-21T22:53:45",
+            "date_modified": "2013-12-18T00:10:36",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Talk: Prep",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Music/Joel Skousen, Steven Jones, Jack_Monnett/Preps & Last Days/01 Preps & Last Days.mp3",
+            "name": "Preps & Last Days",
+            "persistent_id": "CDABAE806F0D4C35",
+            "sample_rate": 22050,
+            "size": 38907655,
+            "total_time": 9724316,
+            "track_count": 1,
+            "track_id": 12050,
+            "track_number": 1,
+            "track_type": "File"
+        }
+    ]
+}
