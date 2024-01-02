@@ -1932,10 +1932,10 @@ d:/itunes media/music/denver snuffer, jr_/forty years in mormonism-talk10/3-07 t
 d:/itunes media/music/denver snuffer, jr_/forty years in mormonism-talk10/3-08 track 35.mp3
 d:/itunes media/music/denver snuffer, jr_/forty years in mormonism-talk10/3-09 track 36.mp3
 d:/itunes media/music/denver snuffer, jr_/kutv interview - june 2015/01 kutv interview - june 2015.mp3
+d:/itunes media/music/denver snuffer, jr_/mormon history/mormon_history.mp3
 d:/itunes media/music/denver snuffer, jr_/plural marriage/01 plural marriage.mp3
 d:/itunes media/music/denver snuffer, jr_/temples & zion/01 temples & zion.mp3
 d:/itunes media/music/denver snuffer, jr_/the mission of elija/01 the mission of elija.m4a
-d:/itunes media/music/denver snuffer, jr_/the mission of elija/01 the mission of elija.mp3
 d:/itunes media/music/denver snuffer, jr_/the road to emmaus/1-01 track 01.mp3
 d:/itunes media/music/denver snuffer, jr_/the road to emmaus/1-02 track 02.mp3
 d:/itunes media/music/denver snuffer, jr_/the road to emmaus/1-03 track 03.mp3
@@ -1985,9 +1985,6 @@ d:/itunes media/music/denver snuffer, jr_/the zion symposium/12 track 12.mp3
 d:/itunes media/music/denver snuffer, jr_/the zion symposium/13 track 13.mp3
 d:/itunes media/music/denver snuffer, jr_/the zion symposium/14 track 14.mp3
 d:/itunes media/music/denver snuffer, jr_/tim malone-denver snuffer q&a/01 tim malone-denver snuffer q&a.mp3
-d:/itunes media/music/denver snuffer/mormon history/mormon_history.mp3
-d:/itunes media/music/denver snuffer/temples & zion/01 temples & zion.mp3
-d:/itunes media/music/denver snuffer/the mission of elijah/01 the mission of elijah.mp3
 d:/itunes media/music/doctrine of christ conference/st. george doc conference/questions & answers.mp3
 d:/itunes media/music/doctrine of christ conference/st. george doc conference/things to keep you up at night.mp3
 d:/itunes media/music/eddie rabbitt/i wanna dance with you/01 she's an old cadillac.mp3
@@ -2049,7 +2046,47 @@ d:/itunes media/music/garth brooks/double live/1-11 much too young (to feel this
 d:/itunes media/music/garth brooks/double live/1-12 the river.mp3
 d:/itunes media/music/garth brooks/double live/1-13 applause.mp3
 d:/itunes media/music/garth brooks/double live/1-14 tearin' it up (and burnin' it d.mp3
+d:/itunes media/music/garth brooks/fun/01 the road i'm on.m4a
+d:/itunes media/music/garth brooks/fun/02 that's what cowboys do.m4a
+d:/itunes media/music/garth brooks/fun/03 all day long.m4a
+d:/itunes media/music/garth brooks/fun/04 shallow.m4a
+d:/itunes media/music/garth brooks/fun/05 dive bar.m4a
+d:/itunes media/music/garth brooks/fun/06 amen.m4a
+d:/itunes media/music/garth brooks/fun/07 the courage of love.m4a
+d:/itunes media/music/garth brooks/fun/08 i can be me with you.m4a
+d:/itunes media/music/garth brooks/fun/09 message in a bottle.m4a
+d:/itunes media/music/garth brooks/fun/10 stronger than me.m4a
+d:/itunes media/music/garth brooks/fun/11 (a hard way to make an) easy livi.m4a
+d:/itunes media/music/garth brooks/fun/12 where the cross don't burn.m4a
+d:/itunes media/music/garth brooks/fun/13 -.m4a
+d:/itunes media/music/garth brooks/fun/14 party gras (the mardi gras song).m4a
+d:/itunes media/music/garth brooks/fun/15 (sometimes you've got to die to).m4a
+d:/itunes media/music/garth brooks/gunslinger/01 honky-tonk somewhere.m4a
+d:/itunes media/music/garth brooks/gunslinger/02 weekend.m4a
+d:/itunes media/music/garth brooks/gunslinger/03 ask me how i know.m4a
+d:/itunes media/music/garth brooks/gunslinger/04 baby, let's lay down and dance.m4a
+d:/itunes media/music/garth brooks/gunslinger/05 he really loves you.m4a
+d:/itunes media/music/garth brooks/gunslinger/06 pure adernaline.m4a
+d:/itunes media/music/garth brooks/gunslinger/07 whiskey to wine.m4a
+d:/itunes media/music/garth brooks/gunslinger/08 bang! bang!.m4a
+d:/itunes media/music/garth brooks/gunslinger/09 cowboys and friends.m4a
+d:/itunes media/music/garth brooks/gunslinger/10 8teen.m4a
 d:/itunes media/music/garth brooks/in pieces/01 standing outside the fire.mp3
+d:/itunes media/music/garth brooks/man against machine/01 man against machine.m4a
+d:/itunes media/music/garth brooks/man against machine/02 she's tired of boys.m4a
+d:/itunes media/music/garth brooks/man against machine/03 cold like that.m4a
+d:/itunes media/music/garth brooks/man against machine/04 all-american kid.m4a
+d:/itunes media/music/garth brooks/man against machine/05 mom.m4a
+d:/itunes media/music/garth brooks/man against machine/06 wrong about you.m4a
+d:/itunes media/music/garth brooks/man against machine/07 rodeo and juliet.m4a
+d:/itunes media/music/garth brooks/man against machine/08 midnight train.m4a
+d:/itunes media/music/garth brooks/man against machine/09 cowboys forever.m4a
+d:/itunes media/music/garth brooks/man against machine/10 people loving people.m4a
+d:/itunes media/music/garth brooks/man against machine/11 send 'em on down the road.m4a
+d:/itunes media/music/garth brooks/man against machine/12 fish.m4a
+d:/itunes media/music/garth brooks/man against machine/13 (blank).m4a
+d:/itunes media/music/garth brooks/man against machine/14 you wreck me.m4a
+d:/itunes media/music/garth brooks/man against machine/15 tacoma.m4a
 d:/itunes media/music/garth brooks/sevens/03 she's gonna make it.mp3
 d:/itunes media/music/garth brooks/sevens/04 i don't have to wonder.mp3
 d:/itunes media/music/garth brooks/sevens/05 two piña coladas.mp3
@@ -2123,6 +2160,42 @@ d:/itunes media/music/garth brooks/the limited series/6-08 to make you feel my l
 d:/itunes media/music/garth brooks/the limited series/6-09 it's midnight cinderella.mp3
 d:/itunes media/music/garth brooks/the limited series/6-10 she's every woman.mp3
 d:/itunes media/music/garth brooks/the limited series/6-11 ireland.mp3
+d:/itunes media/music/garth brooks/time traveler/01 me without you.m4a
+d:/itunes media/music/garth brooks/time traveler/02 rodeo man (with ronnie dunn).m4a
+d:/itunes media/music/garth brooks/time traveler/03 only country music.m4a
+d:/itunes media/music/garth brooks/time traveler/04 st. paul _ minneapolis (a true st.m4a
+d:/itunes media/music/garth brooks/time traveler/05 neon neighborhood.m4a
+d:/itunes media/music/garth brooks/time traveler/06 the ship and the bottle (with kel.m4a
+d:/itunes media/music/garth brooks/time traveler/07 pleasure in the pain.m4a
+d:/itunes media/music/garth brooks/time traveler/08 the ride.m4a
+d:/itunes media/music/garth brooks/time traveler/09 another man's sky.m4a
+d:/itunes media/music/garth brooks/time traveler/10 we belong to each other.m4a
+d:/itunes media/music/garth brooks/triple live/1-01 the thunder rolls [the extended.m4a
+d:/itunes media/music/garth brooks/triple live/1-02 that summer [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-03 ask me how i know [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-04 fishin' in the dark [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-05 in another's eyes [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-06 rodeo [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-07 mom [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-08 papa loved mama [live].m4a
+d:/itunes media/music/garth brooks/triple live/1-09 guy goin' nowhere [live].m4a
+d:/itunes media/music/garth brooks/triple live/2-01 friends in low places [the exte.m4a
+d:/itunes media/music/garth brooks/triple live/2-02 two of a kind, workin' on a ful.m4a
+d:/itunes media/music/garth brooks/triple live/2-03 unanswered prayers [live].m4a
+d:/itunes media/music/garth brooks/triple live/2-04 people loving people [live].m4a
+d:/itunes media/music/garth brooks/triple live/2-05 shameless [live].m4a
+d:/itunes media/music/garth brooks/triple live/2-06 ain't goin down ('til the sun c.m4a
+d:/itunes media/music/garth brooks/triple live/2-07 tacoma [live].m4a
+d:/itunes media/music/garth brooks/triple live/2-08 standing outside the fire [live.m4a
+d:/itunes media/music/garth brooks/triple live/3-01 callin' baton rouge [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-02 the river [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-03 the beaches of cheyenne [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-04 the fireman [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-05 more than a memory [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-06 two piña coladas [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-07 whiskey to wine [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-08 we shall be free [live].m4a
+d:/itunes media/music/garth brooks/triple live/3-09 the dance [live].m4a
 d:/itunes media/music/gene autry/christmas with gene autry/01 jingle bells _ silver bells.m4a
 d:/itunes media/music/gene autry/christmas with gene autry/02 here comes santa claus _ up on th.m4a
 d:/itunes media/music/gene autry/christmas with gene autry/03 o little town of bethlehem.m4a
@@ -2605,7 +2678,6 @@ d:/itunes media/music/iphone/voice memos/primary program 9-13-2015.m4a
 d:/itunes media/music/iphone/voice memos/sarah menet 2.m4a
 d:/itunes media/music/iphone/voice memos/sarah menet.m4a
 d:/itunes media/music/iphone/voice memos/song.m4a
-d:/itunes media/music/iphone/voice memos/the mission of elija.m4a
 d:/itunes media/music/james conlee/sunday/01 abide with me _ pachelbel's canon.mp3
 d:/itunes media/music/james conlee/sunday/02 more holiness give me.mp3
 d:/itunes media/music/james conlee/sunday/03 in humility, our savior.mp3
@@ -5723,7 +5795,6 @@ d:/itunes media/music/the testimony of st. john/the testimony of st. john/09 cha
 d:/itunes media/music/the testimony of st. john/the testimony of st. john/10 chapter 10.mp3
 d:/itunes media/music/the testimony of st. john/the testimony of st. john/11 chapter 11.mp3
 d:/itunes media/music/the testimony of st. john/the testimony of st. john/12 chapter 12.mp3
-d:/itunes media/music/the warriors/warriors (the original  motion picture s/06 in the city.mp3
 d:/itunes media/music/thomas newman/skyfall/01 grand bazaar, istanbul.mp3
 d:/itunes media/music/thomas newman/skyfall/02 voluntary retirement.mp3
 d:/itunes media/music/thomas newman/skyfall/03 new digs.mp3

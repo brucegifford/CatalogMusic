@@ -1,0 +1,47 @@
+{
+    "album": "St. George DOC Conference",
+    "songs": [
+        {
+            "album": "St. George DOC Conference",
+            "album_artist": "Doctrine of Christ Conference",
+            "artist": "Denver Snuffer Jr.",
+            "bitrate": 192,
+            "date_added": "2023-12-31T03:53:19",
+            "date_modified": "2017-03-22T01:25:54",
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Doctrine of Christ Conference/St. George DOC Conference/Questions & Answers.mp3",
+            "name": "Questions & Answers",
+            "persistent_id": "90BE9E42939F6856",
+            "sample_rate": 44100,
+            "size": 91973508,
+            "total_time": 3832058,
+            "track_id": 36772,
+            "track_type": "File",
+            "year": 2017
+        },
+        {
+            "album": "St. George DOC Conference",
+            "album_artist": "Doctrine of Christ Conference",
+            "artist": "Denver Snuffer Jr.",
+            "bitrate": 192,
+            "date_added": "2023-12-31T03:53:19",
+            "date_modified": "2017-03-22T01:25:55",
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Doctrine of Christ Conference/St. George DOC Conference/Things to Keep You Up at Night.mp3",
+            "name": "Things to Keep You Up at Night",
+            "persistent_id": "65981F83942D4F8A",
+            "sample_rate": 44100,
+            "size": 153199722,
+            "total_time": 6383151,
+            "track_id": 36774,
+            "track_type": "File",
+            "year": 2017
+        }
+    ]
+}

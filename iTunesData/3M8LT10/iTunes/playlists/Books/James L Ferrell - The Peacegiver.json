@@ -3,7 +3,7 @@
     "display_path": "/Books/James L Ferrell - The Peacegiver",
     "name": "James L Ferrell - The Peacegiver",
     "parent_persistent_id": "63724C021295ED09",
-    "playlist_id": 68172,
+    "playlist_id": 77917,
     "playlist_persistent_id": "06E3A4DFB3DF17F5",
     "tracks": [
         {
@@ -29,7 +29,7 @@
             "sort_album": "Peacegiver",
             "total_time": 199888,
             "track_count": 13,
-            "track_id": 17443,
+            "track_id": 17484,
             "track_number": 1,
             "track_type": "File",
             "year": 2005
@@ -57,7 +57,7 @@
             "sort_album": "Peacegiver",
             "total_time": 355657,
             "track_count": 13,
-            "track_id": 17445,
+            "track_id": 17486,
             "track_number": 2,
             "track_type": "File",
             "year": 2005
@@ -85,7 +85,7 @@
             "sort_album": "Peacegiver",
             "total_time": 271986,
             "track_count": 13,
-            "track_id": 17447,
+            "track_id": 17488,
             "track_number": 3,
             "track_type": "File",
             "year": 2005
@@ -113,7 +113,7 @@
             "sort_album": "Peacegiver",
             "total_time": 358948,
             "track_count": 13,
-            "track_id": 17449,
+            "track_id": 17490,
             "track_number": 4,
             "track_type": "File",
             "year": 2005
@@ -141,7 +141,7 @@
             "sort_album": "Peacegiver",
             "total_time": 380264,
             "track_count": 13,
-            "track_id": 17451,
+            "track_id": 17492,
             "track_number": 5,
             "track_type": "File",
             "year": 2005
@@ -169,7 +169,7 @@
             "sort_album": "Peacegiver",
             "total_time": 542354,
             "track_count": 13,
-            "track_id": 17453,
+            "track_id": 17494,
             "track_number": 6,
             "track_type": "File",
             "year": 2005
@@ -197,7 +197,7 @@
             "sort_album": "Peacegiver",
             "total_time": 299493,
             "track_count": 13,
-            "track_id": 17455,
+            "track_id": 17496,
             "track_number": 7,
             "track_type": "File",
             "year": 2005
@@ -225,7 +225,7 @@
             "sort_album": "Peacegiver",
             "total_time": 316421,
             "track_count": 13,
-            "track_id": 17457,
+            "track_id": 17498,
             "track_number": 8,
             "track_type": "File",
             "year": 2005
@@ -253,7 +253,7 @@
             "sort_album": "Peacegiver",
             "total_time": 439222,
             "track_count": 13,
-            "track_id": 17459,
+            "track_id": 17500,
             "track_number": 9,
             "track_type": "File",
             "year": 2005
@@ -281,7 +281,7 @@
             "sort_album": "Peacegiver",
             "total_time": 283010,
             "track_count": 13,
-            "track_id": 17461,
+            "track_id": 17502,
             "track_number": 10,
             "track_type": "File",
             "year": 2005
@@ -309,7 +309,7 @@
             "sort_album": "Peacegiver",
             "total_time": 355996,
             "track_count": 13,
-            "track_id": 17463,
+            "track_id": 17504,
             "track_number": 11,
             "track_type": "File",
             "year": 2005
@@ -337,7 +337,7 @@
             "sort_album": "Peacegiver",
             "total_time": 335177,
             "track_count": 13,
-            "track_id": 17465,
+            "track_id": 17506,
             "track_number": 12,
             "track_type": "File",
             "year": 2005
@@ -365,7 +365,7 @@
             "sort_album": "Peacegiver",
             "total_time": 344920,
             "track_count": 13,
-            "track_id": 17467,
+            "track_id": 17508,
             "track_number": 13,
             "track_type": "File",
             "year": 2005
@@ -384,16 +384,18 @@
             "genre": "Book: Religious",
             "kind": "MPEG audio file",
             "library_folder_count": -1,
-            "location": "file://localhost/D:/iTunes Media/Music/James L Ferrell/The Peacegiver/2-01 Chapter 7A_ Forgiveness.mp3",
+            "location": "file://localhost/D:/iTunes Media/Music/James L Ferrell/The Peacegiver/2-01 Chapter 7_ Forgiveness.mp3",
             "name": "Chapter 7A: Forgiveness",
             "normalization": 861,
             "persistent_id": "3A001A0C6C991361",
             "sample_rate": 44100,
             "size": 6551006,
+            "skip_count": 1,
+            "skip_date": "2023-12-31T04:47:07",
             "sort_album": "Peacegiver",
             "total_time": 322612,
             "track_count": 13,
-            "track_id": 17469,
+            "track_id": 17510,
             "track_number": 1,
             "track_type": "File",
             "year": 2005
@@ -421,7 +423,7 @@
             "sort_album": "Peacegiver",
             "total_time": 342648,
             "track_count": 13,
-            "track_id": 17471,
+            "track_id": 17512,
             "track_number": 2,
             "track_type": "File",
             "year": 2005
@@ -449,7 +451,7 @@
             "sort_album": "Peacegiver",
             "total_time": 444604,
             "track_count": 13,
-            "track_id": 17473,
+            "track_id": 17514,
             "track_number": 3,
             "track_type": "File",
             "year": 2005
@@ -477,7 +479,7 @@
             "sort_album": "Peacegiver",
             "total_time": 298657,
             "track_count": 13,
-            "track_id": 17475,
+            "track_id": 17516,
             "track_number": 4,
             "track_type": "File",
             "year": 2005
@@ -505,7 +507,7 @@
             "sort_album": "Peacegiver",
             "total_time": 382850,
             "track_count": 13,
-            "track_id": 17477,
+            "track_id": 17518,
             "track_number": 5,
             "track_type": "File",
             "year": 2005
@@ -533,7 +535,7 @@
             "sort_album": "Peacegiver",
             "total_time": 425822,
             "track_count": 13,
-            "track_id": 17479,
+            "track_id": 17520,
             "track_number": 6,
             "track_type": "File",
             "year": 2005
@@ -561,7 +563,7 @@
             "sort_album": "Peacegiver",
             "total_time": 410279,
             "track_count": 13,
-            "track_id": 17481,
+            "track_id": 17522,
             "track_number": 7,
             "track_type": "File",
             "year": 2005
@@ -589,7 +591,7 @@
             "sort_album": "Peacegiver",
             "total_time": 268329,
             "track_count": 13,
-            "track_id": 17483,
+            "track_id": 17524,
             "track_number": 8,
             "track_type": "File",
             "year": 2005
@@ -617,7 +619,7 @@
             "sort_album": "Peacegiver",
             "total_time": 487653,
             "track_count": 13,
-            "track_id": 17485,
+            "track_id": 17526,
             "track_number": 9,
             "track_type": "File",
             "year": 2005
@@ -645,7 +647,7 @@
             "sort_album": "Peacegiver",
             "total_time": 355369,
             "track_count": 13,
-            "track_id": 17487,
+            "track_id": 17528,
             "track_number": 10,
             "track_type": "File",
             "year": 2005
@@ -673,7 +675,7 @@
             "sort_album": "Peacegiver",
             "total_time": 257645,
             "track_count": 13,
-            "track_id": 17489,
+            "track_id": 17530,
             "track_number": 11,
             "track_type": "File",
             "year": 2005
@@ -701,7 +703,7 @@
             "sort_album": "Peacegiver",
             "total_time": 307565,
             "track_count": 13,
-            "track_id": 17491,
+            "track_id": 17532,
             "track_number": 12,
             "track_type": "File",
             "year": 2005
@@ -729,7 +731,7 @@
             "sort_album": "Peacegiver",
             "total_time": 266997,
             "track_count": 13,
-            "track_id": 17493,
+            "track_id": 17534,
             "track_number": 13,
             "track_type": "File",
             "year": 2005
@@ -757,7 +759,7 @@
             "sort_album": "Peacegiver",
             "total_time": 287085,
             "track_count": 11,
-            "track_id": 17495,
+            "track_id": 17536,
             "track_number": 1,
             "track_type": "File",
             "year": 2005
@@ -785,7 +787,7 @@
             "sort_album": "Peacegiver",
             "total_time": 377887,
             "track_count": 11,
-            "track_id": 17497,
+            "track_id": 17538,
             "track_number": 2,
             "track_type": "File",
             "year": 2005
@@ -804,7 +806,7 @@
             "genre": "Book: Religious",
             "kind": "MPEG audio file",
             "library_folder_count": -1,
-            "location": "file://localhost/D:/iTunes Media/Music/James L Ferrell/The Peacegiver/3-03 Chapter 15_ A New Day.mp3",
+            "location": "file://localhost/D:/iTunes Media/Music/James L Ferrell/The Peacegiver/3-03 Part 3_ The Chains of Sin - Cha.mp3",
             "name": "Chapter 15: A New Day",
             "normalization": 999,
             "persistent_id": "DA5719BBE19CD0E4",
@@ -813,7 +815,7 @@
             "sort_album": "Peacegiver",
             "total_time": 301557,
             "track_count": 11,
-            "track_id": 17499,
+            "track_id": 17540,
             "track_number": 3,
             "track_type": "File",
             "year": 2005
@@ -841,7 +843,7 @@
             "sort_album": "Peacegiver",
             "total_time": 298135,
             "track_count": 11,
-            "track_id": 17501,
+            "track_id": 17542,
             "track_number": 4,
             "track_type": "File",
             "year": 2005
@@ -869,7 +871,7 @@
             "sort_album": "Peacegiver",
             "total_time": 379454,
             "track_count": 11,
-            "track_id": 17503,
+            "track_id": 17544,
             "track_number": 5,
             "track_type": "File",
             "year": 2005
@@ -897,7 +899,7 @@
             "sort_album": "Peacegiver",
             "total_time": 282984,
             "track_count": 11,
-            "track_id": 17505,
+            "track_id": 17546,
             "track_number": 6,
             "track_type": "File",
             "year": 2005
@@ -925,7 +927,7 @@
             "sort_album": "Peacegiver",
             "total_time": 261328,
             "track_count": 11,
-            "track_id": 17507,
+            "track_id": 17548,
             "track_number": 7,
             "track_type": "File",
             "year": 2005
@@ -953,7 +955,7 @@
             "sort_album": "Peacegiver",
             "total_time": 301139,
             "track_count": 11,
-            "track_id": 17509,
+            "track_id": 17550,
             "track_number": 8,
             "track_type": "File",
             "year": 2005
@@ -981,7 +983,7 @@
             "sort_album": "Peacegiver",
             "total_time": 335856,
             "track_count": 11,
-            "track_id": 17511,
+            "track_id": 17552,
             "track_number": 9,
             "track_type": "File",
             "year": 2005
@@ -1009,7 +1011,7 @@
             "sort_album": "Peacegiver",
             "total_time": 456960,
             "track_count": 11,
-            "track_id": 17513,
+            "track_id": 17554,
             "track_number": 10,
             "track_type": "File",
             "year": 2005
@@ -1037,7 +1039,7 @@
             "sort_album": "Peacegiver",
             "total_time": 412107,
             "track_count": 11,
-            "track_id": 17515,
+            "track_id": 17556,
             "track_number": 11,
             "track_type": "File",
             "year": 2005
@@ -1065,7 +1067,7 @@
             "sort_album": "Peacegiver",
             "total_time": 266422,
             "track_count": 9,
-            "track_id": 17517,
+            "track_id": 17558,
             "track_number": 1,
             "track_type": "File",
             "year": 2005
@@ -1093,7 +1095,7 @@
             "sort_album": "Peacegiver",
             "total_time": 312999,
             "track_count": 9,
-            "track_id": 17519,
+            "track_id": 17560,
             "track_number": 2,
             "track_type": "File",
             "year": 2005
@@ -1121,7 +1123,7 @@
             "sort_album": "Peacegiver",
             "total_time": 237087,
             "track_count": 9,
-            "track_id": 17521,
+            "track_id": 17562,
             "track_number": 3,
             "track_type": "File",
             "year": 2005
@@ -1149,7 +1151,7 @@
             "sort_album": "Peacegiver",
             "total_time": 437681,
             "track_count": 9,
-            "track_id": 17523,
+            "track_id": 17564,
             "track_number": 4,
             "track_type": "File",
             "year": 2005
@@ -1177,7 +1179,7 @@
             "sort_album": "Peacegiver",
             "total_time": 300173,
             "track_count": 9,
-            "track_id": 17525,
+            "track_id": 17566,
             "track_number": 5,
             "track_type": "File",
             "year": 2005
@@ -1205,7 +1207,7 @@
             "sort_album": "Peacegiver",
             "total_time": 398968,
             "track_count": 9,
-            "track_id": 17527,
+            "track_id": 17568,
             "track_number": 6,
             "track_type": "File",
             "year": 2005
@@ -1233,7 +1235,7 @@
             "sort_album": "Peacegiver",
             "total_time": 310726,
             "track_count": 9,
-            "track_id": 17529,
+            "track_id": 17570,
             "track_number": 7,
             "track_type": "File",
             "year": 2005
@@ -1261,7 +1263,7 @@
             "sort_album": "Peacegiver",
             "total_time": 301662,
             "track_count": 9,
-            "track_id": 17531,
+            "track_id": 17572,
             "track_number": 8,
             "track_type": "File",
             "year": 2005
@@ -1289,7 +1291,7 @@
             "sort_album": "Peacegiver",
             "total_time": 274390,
             "track_count": 9,
-            "track_id": 17533,
+            "track_id": 17574,
             "track_number": 9,
             "track_type": "File",
             "year": 2005

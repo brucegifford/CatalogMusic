@@ -22273,40 +22273,6 @@
         "tracknumber": "17"
     },
     {
-        "album": "Mormon History",
-        "artist": "Denver Snuffer",
-        "date": "2015",
-        "discnumber": "1/1",
-        "full_path": "D:/iTunes Media/Music/Denver Snuffer/Mormon History/Mormon_History.mp3",
-        "genre": "Talk: Religious",
-        "rel_path": "Denver Snuffer/Mormon History/Mormon_History.mp3",
-        "tracknumber": "1/1"
-    },
-    {
-        "album": "Temples & Zion",
-        "artist": "Denver Snuffer",
-        "date": "2012",
-        "discnumber": "1/1",
-        "full_path": "D:/iTunes Media/Music/Denver Snuffer/Temples & Zion/01 Temples & Zion.mp3",
-        "genre": "Talk: Religious",
-        "media": "DIG",
-        "rel_path": "Denver Snuffer/Temples & Zion/01 Temples & Zion.mp3",
-        "title": "Temples & Zion",
-        "tracknumber": "1/1"
-    },
-    {
-        "album": "The Mission of Elijah",
-        "artist": "Denver Snuffer",
-        "date": "2011",
-        "discnumber": "1/1",
-        "encodedby": "SONY IC RECORDER MP3 3.1.2",
-        "full_path": "D:/iTunes Media/Music/Denver Snuffer/The Mission of Elijah/01 The Mission of Elijah.MP3",
-        "genre": "Talk: Religious",
-        "rel_path": "Denver Snuffer/The Mission of Elijah/01 The Mission of Elijah.MP3",
-        "title": "The Mission of Elijah",
-        "tracknumber": "1/1"
-    },
-    {
         "album": "Constitutional Apostacy",
         "artist": "Denver Snuffer, Jr.",
         "date": "2013",
@@ -26026,6 +25992,16 @@
         "tracknumber": "1/1"
     },
     {
+        "album": "Mormon History",
+        "artist": "Denver Snuffer, Jr.",
+        "date": "2015",
+        "discnumber": "1/1",
+        "full_path": "D:/iTunes Media/Music/Denver Snuffer, Jr_/Mormon History/Mormon_History.mp3",
+        "genre": "Talk: Religious",
+        "rel_path": "Denver Snuffer, Jr_/Mormon History/Mormon_History.mp3",
+        "tracknumber": "1/1"
+    },
+    {
         "album": "Plural Marriage",
         "artist": "Denver Snuffer, Jr.",
         "date": "2015",
@@ -26065,18 +26041,6 @@
         "©day": "2011",
         "©gen": "Talk: Religious",
         "©nam": "The Mission of Elija"
-    },
-    {
-        "album": "The Mission of Elija",
-        "artist": "Denver Snuffer, Jr.",
-        "date": "2011",
-        "discnumber": "1/1",
-        "encodedby": "iTunes 10.6.3.25",
-        "full_path": "D:/iTunes Media/Music/Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.mp3",
-        "genre": "Talk: Religious",
-        "rel_path": "Denver Snuffer, Jr_/The Mission of Elija/01 The Mission of Elija.mp3",
-        "title": "The Mission of Elija",
-        "tracknumber": "1/1"
     },
     {
         "album": "The Road to Emmaus",
@@ -27500,6 +27464,566 @@
         "tracknumber": "14/14"
     },
     {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/01 The Road I'm On.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/01 The Road I'm On.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The Road I'm On",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/02 That's What Cowboys Do.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/02 That's What Cowboys Do.m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "That's What Cowboys Do",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/03 All Day Long.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/03 All Day Long.m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "All Day Long",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/04 Shallow.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/04 Shallow.m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            15
+        ],
+        "©ART": "Garth Brooks & Trisha Yearwood",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "Shallow",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/05 Dive Bar.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/05 Dive Bar.m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            15
+        ],
+        "©ART": "Garth Brooks & Blake Shelton",
+        "©alb": "Fun",
+        "©day": "2019",
+        "©gen": "Country",
+        "©nam": "Dive Bar",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/06 Amen.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/06 Amen.m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "Amen",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/07 The Courage Of Love.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/07 The Courage Of Love.m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2019",
+        "©gen": "Country",
+        "©nam": "The Courage Of Love",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/08 I Can Be Me With You.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/08 I Can Be Me With You.m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "I Can Be Me With You",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/09 Message In A Bottle.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/09 Message In A Bottle.m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "Message In A Bottle",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/10 Stronger Than Me.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/10 Stronger Than Me.m4a",
+        "tmpo": 0,
+        "trkn": [
+            10,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Stronger Than Me",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/11 (A Hard Way To Make An) Easy Livi.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/11 (A Hard Way To Make An) Easy Livi.m4a",
+        "tmpo": 0,
+        "trkn": [
+            11,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "(A Hard Way To Make An) Easy Livin'",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/12 Where The Cross Don't Burn.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/12 Where The Cross Don't Burn.m4a",
+        "tmpo": 0,
+        "trkn": [
+            12,
+            15
+        ],
+        "©ART": "Garth Brooks Feat. Charley Pride",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "Where The Cross Don't Burn",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/13 -.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/13 -.m4a",
+        "tmpo": 0,
+        "trkn": [
+            13,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "-",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/14 Party Gras (The Mardi Gras Song).m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/14 Party Gras (The Mardi Gras Song).m4a",
+        "tmpo": 0,
+        "trkn": [
+            14,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "Party Gras (The Mardi Gras Song)",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Fun/15 (Sometimes You've Got To Die To).m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Fun/15 (Sometimes You've Got To Die To).m4a",
+        "tmpo": 0,
+        "trkn": [
+            15,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Fun",
+        "©day": "2020",
+        "©gen": "Country",
+        "©nam": "(Sometimes You've Got To Die To) Live Again",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/01 Honky-Tonk Somewhere.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/01 Honky-Tonk Somewhere.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Honky-Tonk Somewhere",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Bryan Kennedy/Kent Blazy/Kim Williams"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/02 Weekend.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/02 Weekend.m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Weekend",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Benita Hill/Brooks, Garth"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/03 Ask Me How I Know.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/03 Ask Me How I Know.m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Ask Me How I Know",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Mitch Rossell Feat. Cara Madaris"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/04 Baby, Let's Lay Down And Dance.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/04 Baby, Let's Lay Down And Dance.m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Baby, Let's Lay Down And Dance",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Victoria Shaw/Kim Williams/Kent Blazy/Steve Dorff/Brooks, Garth"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/05 He Really Loves You.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/05 He Really Loves You.m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "He Really Loves You",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Bobby Wood/Brooks, Garth"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/06 Pure Adernaline.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/06 Pure Adernaline.m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Pure Adernaline",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Gordon Kennedy"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/07 Whiskey To Wine.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/07 Whiskey To Wine.m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            10
+        ],
+        "©ART": "Garth Brooks & Trisha Yearwood",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Whiskey To Wine",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Bryan Kennedy/Wynn Varble"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/08 Bang! Bang!.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/08 Bang! Bang!.m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Bang! Bang!",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Bryan Kennedy/David Ashmore"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/09 Cowboys And Friends.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/09 Cowboys And Friends.m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "Cowboys And Friends",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Matthew Rossi"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Gunslinger/10 8teen.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Gunslinger/10 8teen.m4a",
+        "tmpo": 0,
+        "trkn": [
+            10,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Gunslinger",
+        "©day": "2016",
+        "©gen": "Country",
+        "©nam": "8teen",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Brooks, Garth/Jenny Yates"
+    },
+    {
         "album": "In Pieces",
         "artist": "Garth Brooks",
         "composer": "Garth Brooks, Jenny Yates",
@@ -27510,6 +28034,351 @@
         "rel_path": "Garth Brooks/In Pieces/01 Standing Outside the Fire.mp3",
         "title": "Standing Outside the Fire",
         "tracknumber": "1"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/01 Man Against Machine.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/01 Man Against Machine.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Man Against Machine",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Larry Bastian/Jenny Yates/Garth Brooks"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/02 She's Tired Of Boys.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/02 She's Tired Of Boys.m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "She's Tired Of Boys",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Amanda Colleen Williams/Garth Brooks"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/03 Cold Like That.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/03 Cold Like That.m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Cold Like That",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Steven Lee Olsen/Chris Wallin/Melissa Pierce"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/04 All-American Kid.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/04 All-American Kid.m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "All-American Kid",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Terry McBride/Brice Long/Justin Campbell"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/05 Mom.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/05 Mom.m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Mom",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Don Sampson/Wynn Varble"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/06 Wrong About You.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/06 Wrong About You.m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Wrong About You",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Adam Wright"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/07 Rodeo And Juliet.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/07 Rodeo And Juliet.m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Rodeo And Juliet",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Garth Brooks/Bryan Kennedy"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/08 Midnight Train.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/08 Midnight Train.m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Midnight Train",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Melissa Pierce/Matt Rossi"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/09 Cowboys Forever.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/09 Cowboys Forever.m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Cowboys Forever",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Wynn Varble/Dean Dillon/John Martin"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/10 People Loving People.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/10 People Loving People.m4a",
+        "tmpo": 0,
+        "trkn": [
+            10,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "People Loving People",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Chris Wallin/Busbee/Lee Miller"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/11 Send 'Em On Down The Road.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/11 Send 'Em On Down The Road.m4a",
+        "tmpo": 0,
+        "trkn": [
+            11,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Send 'Em On Down The Road",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Marc Beeson/Allen Shamblin"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/12 Fish.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/12 Fish.m4a",
+        "tmpo": 0,
+        "trkn": [
+            12,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Fish",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Wynn Varble/Chris Wallin"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/13 (Blank).m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/13 (Blank).m4a",
+        "tmpo": 0,
+        "trkn": [
+            13,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "(Blank)",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Not Applicable"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/14 You Wreck Me.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/14 You Wreck Me.m4a",
+        "tmpo": 0,
+        "trkn": [
+            14,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "You Wreck Me",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Dan Muckala/Stephanie Bentley/Kevin Kadish"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Man Against Machine/15 Tacoma.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Man Against Machine/15 Tacoma.m4a",
+        "tmpo": 0,
+        "trkn": [
+            15,
+            15
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Man Against Machine",
+        "©day": "2014",
+        "©gen": "Country",
+        "©nam": "Tacoma",
+        "©too": "iTunes 12.10.11.2",
+        "©wrt": "Bob DiPiero/Caitlyn Smith"
     },
     {
         "album": "Sevens",
@@ -28448,6 +29317,788 @@
         "rel_path": "Garth Brooks/The Limited Series/6-11 Ireland.mp3",
         "title": "Ireland",
         "tracknumber": "11"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/01 Me Without You.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/01 Me Without You.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Me Without You",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/02 Rodeo Man (With Ronnie Dunn).m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/02 Rodeo Man (With Ronnie Dunn).m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Rodeo Man (With Ronnie Dunn)",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/03 Only Country Music.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/03 Only Country Music.m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Only Country Music",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/04 St. Paul _ Minneapolis (A True St.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/04 St. Paul _ Minneapolis (A True St.m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "St. Paul / Minneapolis (A True Story)",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/05 Neon Neighborhood.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/05 Neon Neighborhood.m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Neon Neighborhood",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/06 The Ship And The Bottle (With Kel.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/06 The Ship And The Bottle (With Kel.m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "The Ship And The Bottle (With Kelly Clarkson)",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/07 Pleasure In The Pain.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/07 Pleasure In The Pain.m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Pleasure In The Pain",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/08 The Ride.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/08 The Ride.m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "The Ride",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/09 Another Man's Sky.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/09 Another Man's Sky.m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "Another Man's Sky",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "cpil": false,
+        "disk": [
+            1,
+            1
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Time Traveler/10 We Belong To Each Other.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Time Traveler/10 We Belong To Each Other.m4a",
+        "tmpo": 0,
+        "trkn": [
+            10,
+            10
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Time Traveler",
+        "©day": "2023",
+        "©gen": "Country",
+        "©nam": "We Belong To Each Other",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-01 The Thunder Rolls [The Extended.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-01 The Thunder Rolls [The Extended.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The Thunder Rolls [The Extended Concert Version] [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-02 That Summer [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-02 That Summer [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "That Summer [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-03 Ask Me How I Know [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-03 Ask Me How I Know [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Ask Me How I Know [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-04 Fishin' In The Dark [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-04 Fishin' In The Dark [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Fishin' In The Dark [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-05 In Another's Eyes [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-05 In Another's Eyes [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "In Another's Eyes [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-06 Rodeo [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-06 Rodeo [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Rodeo [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-07 Mom [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-07 Mom [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Mom [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-08 Papa Loved Mama [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-08 Papa Loved Mama [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Papa Loved Mama [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            1,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/1-09 Guy Goin' Nowhere [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/1-09 Guy Goin' Nowhere [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Guy Goin' Nowhere [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-01 Friends In Low Places [The Exte.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-01 Friends In Low Places [The Exte.m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Friends In Low Places [The Extended Concert Version] [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-02 Two Of A Kind, Workin' On A Ful.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-02 Two Of A Kind, Workin' On A Ful.m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Two Of A Kind, Workin' On A Full House [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-03 Unanswered Prayers [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-03 Unanswered Prayers [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Unanswered Prayers [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-04 People Loving People [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-04 People Loving People [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "People Loving People [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-05 Shameless [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-05 Shameless [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Shameless [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-06 Ain't Goin Down ('Til The Sun C.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-06 Ain't Goin Down ('Til The Sun C.m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Ain't Goin Down ('Til The Sun Comes Up) [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-07 Tacoma [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-07 Tacoma [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Tacoma [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            2,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/2-08 Standing Outside The Fire [Live.m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/2-08 Standing Outside The Fire [Live.m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            8
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Standing Outside The Fire [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-01 Callin' Baton Rouge [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-01 Callin' Baton Rouge [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            1,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Callin' Baton Rouge [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-02 The River [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-02 The River [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            2,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The River [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-03 The Beaches Of Cheyenne [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-03 The Beaches Of Cheyenne [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            3,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The Beaches Of Cheyenne [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-04 The Fireman [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-04 The Fireman [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            4,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The Fireman [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-05 More Than A Memory [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-05 More Than A Memory [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            5,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "More Than A Memory [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-06 Two Piña Coladas [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-06 Two Piña Coladas [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            6,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Two Piña Coladas [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-07 Whiskey To Wine [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-07 Whiskey To Wine [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            7,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "Whiskey To Wine [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-08 We Shall Be Free [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-08 We Shall Be Free [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            8,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "We Shall Be Free [Live]",
+        "©too": "iTunes 12.10.11.2"
+    },
+    {
+        "aART": "Garth Brooks",
+        "cpil": false,
+        "disk": [
+            3,
+            3
+        ],
+        "full_path": "D:/iTunes Media/Music/Garth Brooks/Triple Live/3-09 The Dance [Live].m4a",
+        "pgap": false,
+        "rel_path": "Garth Brooks/Triple Live/3-09 The Dance [Live].m4a",
+        "tmpo": 0,
+        "trkn": [
+            9,
+            9
+        ],
+        "©ART": "Garth Brooks",
+        "©alb": "Triple Live",
+        "©day": "2018",
+        "©gen": "Country",
+        "©nam": "The Dance [Live]",
+        "©too": "iTunes 12.10.11.2"
     },
     {
         "cpil": false,
@@ -35036,6 +36687,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/10-11-2015.m4a",
         "rel_path": "iPhone/Voice Memos/10-11-2015.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "10-11-2015",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35044,6 +36696,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/10_14_11.m4a",
         "rel_path": "iPhone/Voice Memos/10_14_11.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "10/14/11",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35052,6 +36705,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/2016-11-20 Stake Conference Partial.m4a",
         "rel_path": "iPhone/Voice Memos/2016-11-20 Stake Conference Partial.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "2016-11-20 Stake Conference Partial",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35060,6 +36714,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/9_10_13.m4a",
         "rel_path": "iPhone/Voice Memos/9_10_13.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "9/10/13",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35068,6 +36723,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/Andrew Ehat fireside.m4a",
         "rel_path": "iPhone/Voice Memos/Andrew Ehat fireside.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "Andrew Ehat fireside",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35082,6 +36738,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/John Wayne ....m4a",
         "rel_path": "iPhone/Voice Memos/John Wayne ....m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "John Wayne ...",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35098,6 +36755,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/New Recording.m4a",
         "rel_path": "iPhone/Voice Memos/New Recording.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "New Recording",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35112,6 +36770,7 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/Primary Program 9-13-2015.m4a",
         "rel_path": "iPhone/Voice Memos/Primary Program 9-13-2015.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "Primary Program 9-13-2015",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35121,13 +36780,14 @@
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/Sarah Menet 2.m4a",
         "rel_path": "iPhone/Voice Memos/Sarah Menet 2.m4a",
         "©alb": "Voice Memos",
-        "©nam": "Sarah Menet",
+        "©nam": "Sarah Menet2",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
     },
     {
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/Sarah Menet.m4a",
         "rel_path": "iPhone/Voice Memos/Sarah Menet.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "Sarah Menet",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
@@ -35136,16 +36796,9 @@
         "aART": "iPhone",
         "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/Song.m4a",
         "rel_path": "iPhone/Voice Memos/Song.m4a",
+        "©ART": "iPhone",
         "©alb": "Voice Memos",
         "©nam": "Song",
-        "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
-    },
-    {
-        "aART": "iPhone",
-        "full_path": "D:/iTunes Media/Music/iPhone/Voice Memos/The Mission of Elija.m4a",
-        "rel_path": "iPhone/Voice Memos/The Mission of Elija.m4a",
-        "©alb": "Voice Memos",
-        "©nam": "The Mission of Elija",
         "©too": "com.apple.VoiceMemos (iOS 13.2.2)"
     },
     {
@@ -75618,16 +77271,6 @@
         "rel_path": "The Testimony of St. John/The Testimony of St. John/12 Chapter 12.mp3",
         "title": "Chapter 12",
         "tracknumber": "12/12"
-    },
-    {
-        "album": "Warriors (The Original  Motion Picture Soundtrack)",
-        "artist": "The Warriors",
-        "date": "1979",
-        "full_path": "D:/iTunes Media/Music/The Warriors/Warriors (The Original  Motion Picture S/06 In The City.mp3",
-        "genre": "Soundtrack",
-        "rel_path": "The Warriors/Warriors (The Original  Motion Picture S/06 In The City.mp3",
-        "title": "In The City",
-        "tracknumber": "6"
     },
     {
         "album": "Skyfall",

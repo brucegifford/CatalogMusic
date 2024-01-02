@@ -15,7 +15,7 @@
             "size": 2816864,
             "sort_album": "Letter",
             "total_time": 172000,
-            "track_id": 27701,
+            "track_id": 27704,
             "track_type": "URL",
             "unplayed": true
         },
@@ -36,7 +36,7 @@
             "size": 33925110,
             "sort_album": "Letter",
             "total_time": 2116000,
-            "track_id": 27703,
+            "track_id": 27706,
             "track_type": "URL"
         },
         {
@@ -57,7 +57,7 @@
             "sort_album": "Letter",
             "sort_name": "Survivor",
             "total_time": 2306000,
-            "track_id": 27705,
+            "track_id": 27708,
             "track_type": "URL"
         },
         {
@@ -78,7 +78,7 @@
             "sort_album": "Letter",
             "sort_name": "Gun and a Death Wish",
             "total_time": 2329000,
-            "track_id": 27707,
+            "track_id": 27710,
             "track_type": "URL"
         },
         {
@@ -98,7 +98,7 @@
             "size": 19905111,
             "sort_album": "Letter",
             "total_time": 1240000,
-            "track_id": 27709,
+            "track_id": 27712,
             "track_type": "URL"
         },
         {
@@ -119,7 +119,7 @@
             "sort_album": "Letter",
             "sort_name": "Death Sentence Waiting to Happen",
             "total_time": 2689000,
-            "track_id": 27711,
+            "track_id": 27714,
             "track_type": "URL"
         },
         {
@@ -139,7 +139,7 @@
             "size": 32234463,
             "sort_album": "Letter",
             "total_time": 2011000,
-            "track_id": 27713,
+            "track_id": 27716,
             "track_type": "URL"
         },
         {
@@ -159,7 +159,7 @@
             "size": 44846388,
             "sort_album": "Letter",
             "total_time": 2799000,
-            "track_id": 27715,
+            "track_id": 27718,
             "track_type": "URL"
         },
         {
@@ -185,7 +185,7 @@
             "size": 42984360,
             "sort_album": "Letter",
             "total_time": 2683000,
-            "track_id": 27755,
+            "track_id": 27758,
             "track_type": "URL",
             "year": 2022
         },
@@ -212,7 +212,7 @@
             "size": 70250021,
             "sort_album": "Letter",
             "total_time": 4385880,
-            "track_id": 27761,
+            "track_id": 27764,
             "track_type": "URL",
             "year": 2022
         },
@@ -225,11 +225,9 @@
             "clean": true,
             "date_added": "2022-12-14T00:34:21",
             "date_modified": "2022-12-14T00:34:21",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/C:/Users/a4n1czz/Music/iTunes/iTunes Media/Podcasts/The Letter/Season One Bonus_ Embracing Grief.mp3",
+            "location": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/verifi.podscribe.com/rss/p/mgln.ai/e/491/pfx.vpixl.com/wOd2X/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/6f354702-c838-4f82-8468-aeef00e9972a/ea0b1fba-84ca-4fea-aa22-af620148bb5b/audio.mp3?utm_source=Podcast&in_playlist=c71a902d-d26d-4849-a2bd-aeef00e9ff12",
             "name": "Season One Bonus: Embracing Grief",
             "persistent_id": "C04DF4321DCA9338",
             "play_count": 1,
@@ -241,8 +239,8 @@
             "size": 30688072,
             "sort_album": "Letter",
             "total_time": 1913469,
-            "track_id": 30013,
-            "track_type": "File",
+            "track_id": 30012,
+            "track_type": "URL",
             "year": 2022
         },
         {
@@ -267,7 +265,7 @@
             "size": 53746258,
             "sort_album": "Letter",
             "total_time": 3354462,
-            "track_id": 30383,
+            "track_id": 30382,
             "track_type": "File",
             "unplayed": true,
             "year": 2023
@@ -281,11 +279,9 @@
             "clean": true,
             "date_added": "2023-02-27T22:34:12",
             "date_modified": "2023-02-27T22:34:12",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/C:/Users/a4n1czz/Music/iTunes/iTunes Media/Podcasts/The Letter/Introducing COLD Season 3_ The Searc.mp3",
+            "location": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/verifi.podscribe.com/rss/p/mgln.ai/e/491/pfx.vpixl.com/wOd2X/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/6f354702-c838-4f82-8468-aeef00e9972a/fdef2499-479c-44f8-9ef7-afaa018a4a2b/audio.mp3?utm_source=Podcast&in_playlist=c71a902d-d26d-4849-a2bd-aeef00e9ff12",
             "name": "Introducing COLD Season 3: The Search for Sheree",
             "persistent_id": "FF2997F3562FE9C5",
             "play_count": 2,
@@ -297,8 +293,8 @@
             "size": 10384407,
             "sort_album": "Letter",
             "total_time": 644310,
-            "track_id": 30395,
-            "track_type": "File",
+            "track_id": 30394,
+            "track_type": "URL",
             "year": 2023
         }
     ]

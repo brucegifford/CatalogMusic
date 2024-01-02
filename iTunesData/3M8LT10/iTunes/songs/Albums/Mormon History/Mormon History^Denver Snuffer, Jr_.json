@@ -1,0 +1,30 @@
+{
+    "album": "Mormon History",
+    "songs": [
+        {
+            "album": "Mormon History",
+            "artist": "Denver Snuffer, Jr.",
+            "bitrate": 96,
+            "comments": "(C) All Rights Reserved",
+            "date_added": "2023-12-31T03:47:29",
+            "date_modified": "2023-12-31T03:48:19",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": -1,
+            "genre": "Talk: Religious",
+            "kind": "MPEG audio file",
+            "library_folder_count": -1,
+            "location": "file://localhost/D:/iTunes Media/Music/Denver Snuffer, Jr_/Mormon History/Mormon_History.mp3",
+            "name": "Mormon_History",
+            "persistent_id": "23FD85D1363BBF39",
+            "sample_rate": 44100,
+            "size": 42417542,
+            "total_time": 3533923,
+            "track_count": 1,
+            "track_id": 36770,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2015
+        }
+    ]
+}

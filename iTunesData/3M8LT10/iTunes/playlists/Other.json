@@ -3,7 +3,7 @@
     "display_path": "/Other",
     "folder": true,
     "name": "Other",
-    "playlist_id": 72415,
+    "playlist_id": 82135,
     "playlist_persistent_id": "B58B17492B32FDB2",
     "tracks": [
         {
@@ -30,7 +30,7 @@
             "size": 3878240,
             "total_time": 193802,
             "track_count": 10,
-            "track_id": 15225,
+            "track_id": 15268,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -59,7 +59,7 @@
             "size": 5641744,
             "total_time": 275069,
             "track_count": 9,
-            "track_id": 17029,
+            "track_id": 17070,
             "track_number": 1,
             "track_type": "File"
         },
@@ -89,7 +89,7 @@
             "skip_date": "2021-10-08T18:19:28",
             "total_time": 202135,
             "track_count": 9,
-            "track_id": 17031,
+            "track_id": 17072,
             "track_number": 2,
             "track_type": "File"
         },
@@ -118,7 +118,7 @@
             "size": 4160391,
             "total_time": 200986,
             "track_count": 9,
-            "track_id": 17033,
+            "track_id": 17074,
             "track_number": 3,
             "track_type": "File"
         },
@@ -147,7 +147,7 @@
             "size": 4567146,
             "total_time": 221309,
             "track_count": 9,
-            "track_id": 17035,
+            "track_id": 17076,
             "track_number": 4,
             "track_type": "File"
         },
@@ -175,7 +175,7 @@
             "size": 3987144,
             "total_time": 192339,
             "track_count": 9,
-            "track_id": 17037,
+            "track_id": 17078,
             "track_number": 5,
             "track_type": "File"
         },
@@ -203,7 +203,7 @@
             "size": 3916626,
             "total_time": 188813,
             "track_count": 9,
-            "track_id": 17039,
+            "track_id": 17080,
             "track_number": 6,
             "track_type": "File"
         },
@@ -232,7 +232,7 @@
             "size": 3689020,
             "total_time": 177397,
             "track_count": 9,
-            "track_id": 17041,
+            "track_id": 17082,
             "track_number": 7,
             "track_type": "File"
         },
@@ -261,7 +261,7 @@
             "size": 4532320,
             "total_time": 219585,
             "track_count": 9,
-            "track_id": 17043,
+            "track_id": 17084,
             "track_number": 8,
             "track_type": "File"
         },
@@ -290,7 +290,7 @@
             "size": 4687801,
             "total_time": 227343,
             "track_count": 9,
-            "track_id": 17045,
+            "track_id": 17086,
             "track_number": 9,
             "track_type": "File"
         },
@@ -320,7 +320,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 166504,
             "track_count": 24,
-            "track_id": 17663,
+            "track_id": 17704,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -351,7 +351,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 116636,
             "track_count": 24,
-            "track_id": 17665,
+            "track_id": 17706,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -382,7 +382,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 111621,
             "track_count": 24,
-            "track_id": 17667,
+            "track_id": 17708,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -413,7 +413,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 108460,
             "track_count": 24,
-            "track_id": 17669,
+            "track_id": 17710,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -444,7 +444,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 169325,
             "track_count": 24,
-            "track_id": 17671,
+            "track_id": 17712,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -475,7 +475,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 120006,
             "track_count": 24,
-            "track_id": 17673,
+            "track_id": 17714,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -506,7 +506,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 164780,
             "track_count": 24,
-            "track_id": 17675,
+            "track_id": 17716,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -538,7 +538,7 @@
             "sort_name": "Migrant Worker [#]",
             "total_time": 114677,
             "track_count": 24,
-            "track_id": 17677,
+            "track_id": 17718,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -569,7 +569,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 170866,
             "track_count": 24,
-            "track_id": 17679,
+            "track_id": 17720,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -600,7 +600,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 178938,
             "track_count": 24,
-            "track_id": 17681,
+            "track_id": 17722,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -631,7 +631,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 203337,
             "track_count": 24,
-            "track_id": 17683,
+            "track_id": 17724,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
@@ -662,7 +662,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 236016,
             "track_count": 24,
-            "track_id": 17685,
+            "track_id": 17726,
             "track_number": 12,
             "track_type": "File",
             "year": 1992
@@ -693,7 +693,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 139337,
             "track_count": 24,
-            "track_id": 17687,
+            "track_id": 17728,
             "track_number": 13,
             "track_type": "File",
             "year": 1992
@@ -724,7 +724,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 165616,
             "track_count": 24,
-            "track_id": 17689,
+            "track_id": 17730,
             "track_number": 14,
             "track_type": "File",
             "year": 1992
@@ -755,7 +755,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 184659,
             "track_count": 24,
-            "track_id": 17691,
+            "track_id": 17732,
             "track_number": 15,
             "track_type": "File",
             "year": 1992
@@ -786,7 +786,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 173374,
             "track_count": 24,
-            "track_id": 17693,
+            "track_id": 17734,
             "track_number": 16,
             "track_type": "File",
             "year": 1992
@@ -817,7 +817,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 188839,
             "track_count": 24,
-            "track_id": 17695,
+            "track_id": 17736,
             "track_number": 17,
             "track_type": "File",
             "year": 1992
@@ -848,7 +848,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 149185,
             "track_count": 24,
-            "track_id": 17697,
+            "track_id": 17738,
             "track_number": 18,
             "track_type": "File",
             "year": 1992
@@ -879,7 +879,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 127869,
             "track_count": 24,
-            "track_id": 17699,
+            "track_id": 17740,
             "track_number": 19,
             "track_type": "File",
             "year": 1992
@@ -910,7 +910,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 172826,
             "track_count": 24,
-            "track_id": 17701,
+            "track_id": 17742,
             "track_number": 20,
             "track_type": "File",
             "year": 1992
@@ -941,7 +941,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 229929,
             "track_count": 24,
-            "track_id": 17703,
+            "track_id": 17744,
             "track_number": 21,
             "track_type": "File",
             "year": 1992
@@ -972,7 +972,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 148401,
             "track_count": 24,
-            "track_id": 17705,
+            "track_id": 17746,
             "track_number": 22,
             "track_type": "File",
             "year": 1992
@@ -1003,7 +1003,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147226,
             "track_count": 24,
-            "track_id": 17707,
+            "track_id": 17748,
             "track_number": 23,
             "track_type": "File",
             "year": 1992
@@ -1035,7 +1035,7 @@
             "sort_name": "Long Time Ago",
             "total_time": 139624,
             "track_count": 24,
-            "track_id": 17709,
+            "track_id": 17750,
             "track_number": 24,
             "track_type": "File",
             "year": 1992
@@ -1066,7 +1066,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 165773,
             "track_count": 26,
-            "track_id": 17711,
+            "track_id": 17752,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -1097,7 +1097,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 281155,
             "track_count": 26,
-            "track_id": 17713,
+            "track_id": 17754,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -1128,7 +1128,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 149054,
             "track_count": 26,
-            "track_id": 17715,
+            "track_id": 17756,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -1159,7 +1159,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 144117,
             "track_count": 26,
-            "track_id": 17717,
+            "track_id": 17758,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -1190,7 +1190,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 193436,
             "track_count": 26,
-            "track_id": 17719,
+            "track_id": 17760,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -1221,7 +1221,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 156342,
             "track_count": 26,
-            "track_id": 17721,
+            "track_id": 17762,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -1252,7 +1252,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 161619,
             "track_count": 26,
-            "track_id": 17723,
+            "track_id": 17764,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -1283,7 +1283,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 134269,
             "track_count": 26,
-            "track_id": 17725,
+            "track_id": 17766,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -1315,7 +1315,7 @@
             "sort_name": "Good Time Man Like Me Ain't Got No Business (Singin' the Blues)",
             "total_time": 127111,
             "track_count": 26,
-            "track_id": 17727,
+            "track_id": 17768,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -1346,7 +1346,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 174628,
             "track_count": 26,
-            "track_id": 17729,
+            "track_id": 17770,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -1377,7 +1377,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 182622,
             "track_count": 26,
-            "track_id": 17731,
+            "track_id": 17772,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
@@ -1408,7 +1408,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 169325,
             "track_count": 26,
-            "track_id": 17733,
+            "track_id": 17774,
             "track_number": 12,
             "track_type": "File",
             "year": 1992
@@ -1439,7 +1439,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 210808,
             "track_count": 26,
-            "track_id": 17735,
+            "track_id": 17776,
             "track_number": 13,
             "track_type": "File",
             "year": 1992
@@ -1470,7 +1470,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147748,
             "track_count": 26,
-            "track_id": 17737,
+            "track_id": 17778,
             "track_number": 14,
             "track_type": "File",
             "year": 1992
@@ -1501,7 +1501,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 153782,
             "track_count": 26,
-            "track_id": 17739,
+            "track_id": 17780,
             "track_number": 15,
             "track_type": "File",
             "year": 1992
@@ -1532,7 +1532,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 193488,
             "track_count": 26,
-            "track_id": 17741,
+            "track_id": 17782,
             "track_number": 16,
             "track_type": "File",
             "year": 1992
@@ -1563,7 +1563,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 154488,
             "track_count": 26,
-            "track_id": 17743,
+            "track_id": 17784,
             "track_number": 17,
             "track_type": "File",
             "year": 1992
@@ -1594,7 +1594,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 209684,
             "track_count": 26,
-            "track_id": 17745,
+            "track_id": 17786,
             "track_number": 18,
             "track_type": "File",
             "year": 1992
@@ -1625,7 +1625,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147748,
             "track_count": 26,
-            "track_id": 17747,
+            "track_id": 17788,
             "track_number": 19,
             "track_type": "File",
             "year": 1992
@@ -1657,7 +1657,7 @@
             "sort_name": "Hard Way Every Time",
             "total_time": 149551,
             "track_count": 26,
-            "track_id": 17749,
+            "track_id": 17790,
             "track_number": 20,
             "track_type": "File",
             "year": 1992
@@ -1688,7 +1688,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 225306,
             "track_count": 26,
-            "track_id": 17751,
+            "track_id": 17792,
             "track_number": 21,
             "track_type": "File",
             "year": 1992
@@ -1719,7 +1719,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 155219,
             "track_count": 26,
-            "track_id": 17753,
+            "track_id": 17794,
             "track_number": 22,
             "track_type": "File",
             "year": 1992
@@ -1750,7 +1750,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 184790,
             "track_count": 26,
-            "track_id": 17755,
+            "track_id": 17796,
             "track_number": 23,
             "track_type": "File",
             "year": 1992
@@ -1781,7 +1781,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 151222,
             "track_count": 26,
-            "track_id": 17757,
+            "track_id": 17798,
             "track_number": 24,
             "track_type": "File",
             "year": 1992
@@ -1812,7 +1812,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 166870,
             "track_count": 26,
-            "track_id": 17759,
+            "track_id": 17800,
             "track_number": 25,
             "track_type": "File",
             "year": 1992
@@ -1842,7 +1842,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 63869,
             "track_count": 26,
-            "track_id": 17761,
+            "track_id": 17802,
             "track_number": 26,
             "track_type": "File",
             "year": 1992
@@ -1871,7 +1871,7 @@
             "size": 3857916,
             "total_time": 192783,
             "track_count": 18,
-            "track_id": 18985,
+            "track_id": 19026,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -1901,7 +1901,7 @@
             "sort_name": "Christmas Song",
             "total_time": 171389,
             "track_count": 18,
-            "track_id": 18987,
+            "track_id": 19028,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -1930,7 +1930,7 @@
             "size": 3271200,
             "total_time": 163448,
             "track_count": 18,
-            "track_id": 18989,
+            "track_id": 19030,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -1959,7 +1959,7 @@
             "size": 3562700,
             "total_time": 178024,
             "track_count": 18,
-            "track_id": 18991,
+            "track_id": 19032,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -1988,7 +1988,7 @@
             "size": 2342291,
             "total_time": 117002,
             "track_count": 18,
-            "track_id": 18993,
+            "track_id": 19034,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -2017,7 +2017,7 @@
             "size": 4229374,
             "total_time": 211356,
             "track_count": 18,
-            "track_id": 18995,
+            "track_id": 19036,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -2046,7 +2046,7 @@
             "size": 3455113,
             "total_time": 172643,
             "track_count": 18,
-            "track_id": 18997,
+            "track_id": 19038,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -2075,7 +2075,7 @@
             "size": 2460360,
             "total_time": 122906,
             "track_count": 18,
-            "track_id": 18999,
+            "track_id": 19040,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -2104,7 +2104,7 @@
             "size": 2888262,
             "total_time": 144300,
             "track_count": 18,
-            "track_id": 19001,
+            "track_id": 19042,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -2133,7 +2133,7 @@
             "size": 2699634,
             "total_time": 134870,
             "track_count": 18,
-            "track_id": 19003,
+            "track_id": 19044,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -2162,7 +2162,7 @@
             "size": 2625470,
             "total_time": 131160,
             "track_count": 18,
-            "track_id": 19005,
+            "track_id": 19046,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -2192,7 +2192,7 @@
             "sort_name": "Ballerina Song",
             "total_time": 223059,
             "track_count": 18,
-            "track_id": 19007,
+            "track_id": 19048,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -2221,7 +2221,7 @@
             "size": 2527770,
             "total_time": 126275,
             "track_count": 18,
-            "track_id": 19009,
+            "track_id": 19050,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -2250,7 +2250,7 @@
             "size": 4525089,
             "total_time": 226142,
             "track_count": 18,
-            "track_id": 19011,
+            "track_id": 19052,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -2279,7 +2279,7 @@
             "size": 2963479,
             "total_time": 148062,
             "track_count": 18,
-            "track_id": 19013,
+            "track_id": 19054,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -2308,7 +2308,7 @@
             "size": 4253927,
             "total_time": 212584,
             "track_count": 18,
-            "track_id": 19015,
+            "track_id": 19056,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -2338,7 +2338,7 @@
             "sort_name": "Toy Shoppe",
             "total_time": 175098,
             "track_count": 18,
-            "track_id": 19017,
+            "track_id": 19058,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -2367,7 +2367,7 @@
             "size": 4692797,
             "total_time": 234527,
             "track_count": 18,
-            "track_id": 19019,
+            "track_id": 19060,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -2396,7 +2396,7 @@
             "size": 4875085,
             "total_time": 243644,
             "track_count": 11,
-            "track_id": 19125,
+            "track_id": 19166,
             "track_number": 1,
             "track_type": "File",
             "year": 1997
@@ -2425,7 +2425,7 @@
             "size": 4846347,
             "total_time": 242207,
             "track_count": 11,
-            "track_id": 19127,
+            "track_id": 19168,
             "track_number": 2,
             "track_type": "File",
             "year": 1997
@@ -2454,7 +2454,7 @@
             "size": 4373541,
             "total_time": 218566,
             "track_count": 11,
-            "track_id": 19129,
+            "track_id": 19170,
             "track_number": 3,
             "track_type": "File",
             "year": 1997
@@ -2483,7 +2483,7 @@
             "size": 4924184,
             "total_time": 246099,
             "track_count": 11,
-            "track_id": 19131,
+            "track_id": 19172,
             "track_number": 4,
             "track_type": "File",
             "year": 1997
@@ -2512,7 +2512,7 @@
             "size": 4166113,
             "total_time": 208195,
             "track_count": 11,
-            "track_id": 19133,
+            "track_id": 19174,
             "track_number": 5,
             "track_type": "File",
             "year": 1997
@@ -2541,7 +2541,7 @@
             "size": 5080406,
             "total_time": 253910,
             "track_count": 11,
-            "track_id": 19135,
+            "track_id": 19176,
             "track_number": 6,
             "track_type": "File",
             "year": 1997
@@ -2570,7 +2570,7 @@
             "size": 4709474,
             "total_time": 235363,
             "track_count": 11,
-            "track_id": 19137,
+            "track_id": 19178,
             "track_number": 7,
             "track_type": "File",
             "year": 1997
@@ -2600,7 +2600,7 @@
             "sort_name": "Lost Carols: While by My Sheep I Watched at Night/Twenty-Fifth",
             "total_time": 235755,
             "track_count": 11,
-            "track_id": 19139,
+            "track_id": 19180,
             "track_number": 8,
             "track_type": "File",
             "year": 1997
@@ -2629,7 +2629,7 @@
             "size": 4138441,
             "total_time": 206811,
             "track_count": 11,
-            "track_id": 19141,
+            "track_id": 19182,
             "track_number": 9,
             "track_type": "File",
             "year": 1997
@@ -2658,7 +2658,7 @@
             "size": 4285246,
             "total_time": 214151,
             "track_count": 11,
-            "track_id": 19143,
+            "track_id": 19184,
             "track_number": 10,
             "track_type": "File",
             "year": 1997
@@ -2687,7 +2687,7 @@
             "size": 3572097,
             "total_time": 178494,
             "track_count": 11,
-            "track_id": 19145,
+            "track_id": 19186,
             "track_number": 11,
             "track_type": "File",
             "year": 1997
@@ -2716,7 +2716,7 @@
             "size": 5847375,
             "total_time": 292257,
             "track_count": 11,
-            "track_id": 19147,
+            "track_id": 19188,
             "track_number": 1,
             "track_type": "File",
             "year": 1997
@@ -2744,7 +2744,7 @@
             "size": 5359892,
             "total_time": 267885,
             "track_count": 11,
-            "track_id": 19149,
+            "track_id": 19190,
             "track_number": 2,
             "track_type": "File",
             "year": 1997
@@ -2772,7 +2772,7 @@
             "size": 5215188,
             "total_time": 260649,
             "track_count": 11,
-            "track_id": 19151,
+            "track_id": 19192,
             "track_number": 3,
             "track_type": "File",
             "year": 1997
@@ -2800,7 +2800,7 @@
             "size": 5893859,
             "total_time": 294582,
             "track_count": 11,
-            "track_id": 19153,
+            "track_id": 19194,
             "track_number": 4,
             "track_type": "File",
             "year": 1997
@@ -2828,7 +2828,7 @@
             "size": 3174501,
             "total_time": 158615,
             "track_count": 11,
-            "track_id": 19155,
+            "track_id": 19196,
             "track_number": 5,
             "track_type": "File",
             "year": 1997
@@ -2857,7 +2857,7 @@
             "size": 4607597,
             "total_time": 230269,
             "track_count": 11,
-            "track_id": 19157,
+            "track_id": 19198,
             "track_number": 6,
             "track_type": "File",
             "year": 1997
@@ -2885,7 +2885,7 @@
             "size": 7352049,
             "total_time": 367490,
             "track_count": 11,
-            "track_id": 19159,
+            "track_id": 19200,
             "track_number": 7,
             "track_type": "File",
             "year": 1997
@@ -2914,7 +2914,7 @@
             "size": 4688571,
             "total_time": 234318,
             "track_count": 11,
-            "track_id": 19161,
+            "track_id": 19202,
             "track_number": 8,
             "track_type": "File",
             "year": 1997
@@ -2943,7 +2943,7 @@
             "size": 4863080,
             "total_time": 243043,
             "track_count": 11,
-            "track_id": 19163,
+            "track_id": 19204,
             "track_number": 9,
             "track_type": "File",
             "year": 1997
@@ -2972,7 +2972,7 @@
             "size": 5079390,
             "total_time": 253857,
             "track_count": 11,
-            "track_id": 19165,
+            "track_id": 19206,
             "track_number": 10,
             "track_type": "File",
             "year": 1997
@@ -3002,7 +3002,7 @@
             "sort_name": "Holly & The Ivy",
             "total_time": 264489,
             "track_count": 11,
-            "track_id": 19167,
+            "track_id": 19208,
             "track_number": 11,
             "track_type": "File",
             "year": 1997
@@ -3031,7 +3031,7 @@
             "size": 5672878,
             "total_time": 283533,
             "track_count": 12,
-            "track_id": 19423,
+            "track_id": 19464,
             "track_number": 1,
             "track_type": "File",
             "year": 2001
@@ -3060,7 +3060,7 @@
             "size": 4306676,
             "total_time": 215222,
             "track_count": 12,
-            "track_id": 19425,
+            "track_id": 19466,
             "track_number": 2,
             "track_type": "File",
             "year": 2001
@@ -3089,7 +3089,7 @@
             "size": 4073667,
             "total_time": 203572,
             "track_count": 12,
-            "track_id": 19427,
+            "track_id": 19468,
             "track_number": 3,
             "track_type": "File",
             "year": 2001
@@ -3118,7 +3118,7 @@
             "size": 2995855,
             "total_time": 149681,
             "track_count": 12,
-            "track_id": 19429,
+            "track_id": 19470,
             "track_number": 4,
             "track_type": "File",
             "year": 2001
@@ -3147,7 +3147,7 @@
             "size": 4934704,
             "total_time": 246622,
             "track_count": 12,
-            "track_id": 19431,
+            "track_id": 19472,
             "track_number": 5,
             "track_type": "File",
             "year": 2001
@@ -3177,7 +3177,7 @@
             "sort_name": "First Noel",
             "total_time": 219036,
             "track_count": 12,
-            "track_id": 19433,
+            "track_id": 19474,
             "track_number": 6,
             "track_type": "File",
             "year": 2001
@@ -3206,7 +3206,7 @@
             "size": 5373014,
             "total_time": 268538,
             "track_count": 12,
-            "track_id": 19435,
+            "track_id": 19476,
             "track_number": 7,
             "track_type": "File",
             "year": 2001
@@ -3235,7 +3235,7 @@
             "size": 5841105,
             "total_time": 291944,
             "track_count": 12,
-            "track_id": 19437,
+            "track_id": 19478,
             "track_number": 8,
             "track_type": "File",
             "year": 2001
@@ -3264,7 +3264,7 @@
             "size": 4285260,
             "total_time": 214151,
             "track_count": 12,
-            "track_id": 19439,
+            "track_id": 19480,
             "track_number": 9,
             "track_type": "File",
             "year": 2001
@@ -3293,7 +3293,7 @@
             "size": 4447758,
             "total_time": 222275,
             "track_count": 12,
-            "track_id": 19441,
+            "track_id": 19482,
             "track_number": 10,
             "track_type": "File",
             "year": 2001
@@ -3323,7 +3323,7 @@
             "size": 3635356,
             "total_time": 181655,
             "track_count": 12,
-            "track_id": 19443,
+            "track_id": 19484,
             "track_number": 11,
             "track_type": "File",
             "year": 2001
@@ -3352,7 +3352,7 @@
             "size": 4456095,
             "total_time": 222693,
             "track_count": 12,
-            "track_id": 19445,
+            "track_id": 19486,
             "track_number": 12,
             "track_type": "File",
             "year": 2001
@@ -3381,7 +3381,7 @@
             "size": 4399681,
             "total_time": 219872,
             "track_count": 12,
-            "track_id": 19447,
+            "track_id": 19488,
             "track_number": 1,
             "track_type": "File",
             "year": 1995
@@ -3409,7 +3409,7 @@
             "size": 3823399,
             "total_time": 191059,
             "track_count": 12,
-            "track_id": 19449,
+            "track_id": 19490,
             "track_number": 2,
             "track_type": "File",
             "year": 1995
@@ -3438,7 +3438,7 @@
             "size": 3914850,
             "total_time": 195631,
             "track_count": 12,
-            "track_id": 19451,
+            "track_id": 19492,
             "track_number": 3,
             "track_type": "File",
             "year": 1995
@@ -3466,7 +3466,7 @@
             "size": 4293625,
             "total_time": 214569,
             "track_count": 12,
-            "track_id": 19453,
+            "track_id": 19494,
             "track_number": 4,
             "track_type": "File",
             "year": 1995
@@ -3494,7 +3494,7 @@
             "size": 5804507,
             "total_time": 290115,
             "track_count": 12,
-            "track_id": 19455,
+            "track_id": 19496,
             "track_number": 5,
             "track_type": "File",
             "year": 1995
@@ -3523,7 +3523,7 @@
             "size": 4749738,
             "total_time": 237374,
             "track_count": 12,
-            "track_id": 19457,
+            "track_id": 19498,
             "track_number": 6,
             "track_type": "File",
             "year": 1995
@@ -3552,7 +3552,7 @@
             "size": 4742929,
             "total_time": 237035,
             "track_count": 12,
-            "track_id": 19459,
+            "track_id": 19500,
             "track_number": 7,
             "track_type": "File",
             "year": 1995
@@ -3581,7 +3581,7 @@
             "size": 3644210,
             "total_time": 182099,
             "track_count": 12,
-            "track_id": 19461,
+            "track_id": 19502,
             "track_number": 8,
             "track_type": "File",
             "year": 1995
@@ -3609,7 +3609,7 @@
             "size": 4653040,
             "total_time": 232542,
             "track_count": 12,
-            "track_id": 19463,
+            "track_id": 19504,
             "track_number": 9,
             "track_type": "File",
             "year": 1995
@@ -3638,7 +3638,7 @@
             "size": 4969661,
             "total_time": 248372,
             "track_count": 12,
-            "track_id": 19465,
+            "track_id": 19506,
             "track_number": 10,
             "track_type": "File",
             "year": 1995
@@ -3666,7 +3666,7 @@
             "size": 2183421,
             "total_time": 109061,
             "track_count": 12,
-            "track_id": 19467,
+            "track_id": 19508,
             "track_number": 11,
             "track_type": "File",
             "year": 1995
@@ -3695,7 +3695,7 @@
             "size": 5411128,
             "total_time": 270445,
             "track_count": 12,
-            "track_id": 19469,
+            "track_id": 19510,
             "track_number": 12,
             "track_type": "File",
             "year": 1995
@@ -3724,7 +3724,7 @@
             "size": 4464437,
             "total_time": 223111,
             "track_count": 11,
-            "track_id": 19579,
+            "track_id": 19620,
             "track_number": 1,
             "track_type": "File",
             "year": 1984
@@ -3753,7 +3753,7 @@
             "size": 4489526,
             "total_time": 224365,
             "track_count": 11,
-            "track_id": 19581,
+            "track_id": 19622,
             "track_number": 2,
             "track_type": "File",
             "year": 1984
@@ -3781,7 +3781,7 @@
             "size": 3154659,
             "total_time": 157622,
             "track_count": 11,
-            "track_id": 19583,
+            "track_id": 19624,
             "track_number": 3,
             "track_type": "File",
             "year": 1984
@@ -3809,7 +3809,7 @@
             "size": 3287864,
             "total_time": 164284,
             "track_count": 11,
-            "track_id": 19585,
+            "track_id": 19626,
             "track_number": 4,
             "track_type": "File",
             "year": 1984
@@ -3838,7 +3838,7 @@
             "size": 4319724,
             "total_time": 215875,
             "track_count": 11,
-            "track_id": 19587,
+            "track_id": 19628,
             "track_number": 5,
             "track_type": "File",
             "year": 1984
@@ -3866,7 +3866,7 @@
             "size": 2897613,
             "total_time": 144770,
             "track_count": 11,
-            "track_id": 19589,
+            "track_id": 19630,
             "track_number": 6,
             "track_type": "File",
             "year": 1984
@@ -3895,7 +3895,7 @@
             "size": 2551250,
             "total_time": 127451,
             "track_count": 11,
-            "track_id": 19591,
+            "track_id": 19632,
             "track_number": 7,
             "track_type": "File",
             "year": 1984
@@ -3923,7 +3923,7 @@
             "size": 1795247,
             "total_time": 89652,
             "track_count": 11,
-            "track_id": 19593,
+            "track_id": 19634,
             "track_number": 8,
             "track_type": "File",
             "year": 1984
@@ -3951,7 +3951,7 @@
             "size": 2046033,
             "total_time": 102191,
             "track_count": 11,
-            "track_id": 19595,
+            "track_id": 19636,
             "track_number": 9,
             "track_type": "File",
             "year": 1984
@@ -3980,7 +3980,7 @@
             "size": 5306117,
             "total_time": 265195,
             "track_count": 11,
-            "track_id": 19597,
+            "track_id": 19638,
             "track_number": 10,
             "track_type": "File",
             "year": 1984
@@ -4009,7 +4009,7 @@
             "size": 6569391,
             "total_time": 328359,
             "track_count": 11,
-            "track_id": 19599,
+            "track_id": 19640,
             "track_number": 11,
             "track_type": "File",
             "year": 1984
@@ -4040,7 +4040,7 @@
             "sort_name": "Dance",
             "total_time": 109191,
             "track_count": 17,
-            "track_id": 15559,
+            "track_id": 15602,
             "track_number": 4,
             "track_type": "File",
             "year": 1999
@@ -4070,7 +4070,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 253257,
             "track_count": 17,
-            "track_id": 15585,
+            "track_id": 15628,
             "track_number": 17,
             "track_type": "File",
             "year": 1999
@@ -4101,7 +4101,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 391183,
             "track_count": 10,
-            "track_id": 20203,
+            "track_id": 20244,
             "track_number": 1,
             "track_type": "File",
             "year": 1991
@@ -4132,7 +4132,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 203650,
             "track_count": 10,
-            "track_id": 20205,
+            "track_id": 20246,
             "track_number": 2,
             "track_type": "File",
             "year": 1991
@@ -4163,7 +4163,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 252551,
             "track_count": 10,
-            "track_id": 20207,
+            "track_id": 20248,
             "track_number": 3,
             "track_type": "File",
             "year": 1991
@@ -4194,7 +4194,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 310047,
             "track_count": 10,
-            "track_id": 20209,
+            "track_id": 20250,
             "track_number": 4,
             "track_type": "File",
             "year": 1991
@@ -4225,7 +4225,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 259004,
             "track_count": 10,
-            "track_id": 20211,
+            "track_id": 20252,
             "track_number": 5,
             "track_type": "File",
             "year": 1991
@@ -4256,7 +4256,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 109479,
             "track_count": 10,
-            "track_id": 20213,
+            "track_id": 20254,
             "track_number": 6,
             "track_type": "File",
             "year": 1991
@@ -4287,7 +4287,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 291526,
             "track_count": 10,
-            "track_id": 20215,
+            "track_id": 20256,
             "track_number": 7,
             "track_type": "File",
             "year": 1991
@@ -4318,7 +4318,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 295941,
             "track_count": 10,
-            "track_id": 20217,
+            "track_id": 20258,
             "track_number": 8,
             "track_type": "File",
             "year": 1991
@@ -4349,7 +4349,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 270288,
             "track_count": 10,
-            "track_id": 20219,
+            "track_id": 20260,
             "track_number": 9,
             "track_type": "File",
             "year": 1991
@@ -4380,7 +4380,7 @@
             "sort_album": "Forgotten Carols",
             "total_time": 113554,
             "track_count": 10,
-            "track_id": 20221,
+            "track_id": 20262,
             "track_number": 10,
             "track_type": "File",
             "year": 1991
@@ -4412,7 +4412,7 @@
             "skip_date": "2023-11-09T22:42:38",
             "total_time": 162560,
             "track_count": 18,
-            "track_id": 20271,
+            "track_id": 20312,
             "track_number": 1,
             "track_type": "File"
         },
@@ -4440,7 +4440,7 @@
             "size": 5933478,
             "total_time": 261250,
             "track_count": 13,
-            "track_id": 20289,
+            "track_id": 20330,
             "track_number": 1,
             "track_type": "File",
             "year": 1996
@@ -4469,7 +4469,7 @@
             "size": 6195231,
             "total_time": 274337,
             "track_count": 13,
-            "track_id": 20291,
+            "track_id": 20332,
             "track_number": 2,
             "track_type": "File",
             "year": 1996
@@ -4498,7 +4498,7 @@
             "size": 6421970,
             "total_time": 285675,
             "track_count": 13,
-            "track_id": 20293,
+            "track_id": 20334,
             "track_number": 3,
             "track_type": "File",
             "year": 1996
@@ -4527,7 +4527,7 @@
             "size": 4999869,
             "total_time": 214569,
             "track_count": 13,
-            "track_id": 20295,
+            "track_id": 20336,
             "track_number": 4,
             "track_type": "File",
             "year": 1996
@@ -4556,7 +4556,7 @@
             "size": 4919926,
             "total_time": 210573,
             "track_count": 13,
-            "track_id": 20297,
+            "track_id": 20338,
             "track_number": 5,
             "track_type": "File",
             "year": 1996
@@ -4585,7 +4585,7 @@
             "size": 5081363,
             "total_time": 218644,
             "track_count": 13,
-            "track_id": 20299,
+            "track_id": 20340,
             "track_number": 6,
             "track_type": "File",
             "year": 1996
@@ -4615,7 +4615,7 @@
             "sort_name": "Flue Song",
             "total_time": 301871,
             "track_count": 13,
-            "track_id": 20301,
+            "track_id": 20342,
             "track_number": 7,
             "track_type": "File",
             "year": 1996
@@ -4644,7 +4644,7 @@
             "size": 7009723,
             "total_time": 315062,
             "track_count": 13,
-            "track_id": 20303,
+            "track_id": 20344,
             "track_number": 8,
             "track_type": "File",
             "year": 1996
@@ -4673,7 +4673,7 @@
             "size": 5269451,
             "total_time": 228048,
             "track_count": 13,
-            "track_id": 20305,
+            "track_id": 20346,
             "track_number": 9,
             "track_type": "File",
             "year": 1996
@@ -4702,7 +4702,7 @@
             "size": 5011886,
             "total_time": 215170,
             "track_count": 13,
-            "track_id": 20307,
+            "track_id": 20348,
             "track_number": 10,
             "track_type": "File",
             "year": 1996
@@ -4731,7 +4731,7 @@
             "size": 5110617,
             "total_time": 220107,
             "track_count": 13,
-            "track_id": 20309,
+            "track_id": 20350,
             "track_number": 11,
             "track_type": "File",
             "year": 1996
@@ -4760,7 +4760,7 @@
             "size": 5530148,
             "total_time": 241084,
             "track_count": 13,
-            "track_id": 20311,
+            "track_id": 20352,
             "track_number": 12,
             "track_type": "File",
             "year": 1996
@@ -4789,7 +4789,7 @@
             "size": 6136707,
             "total_time": 271412,
             "track_count": 13,
-            "track_id": 20313,
+            "track_id": 20354,
             "track_number": 13,
             "track_type": "File",
             "year": 1996
@@ -4820,7 +4820,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 340244,
             "track_count": 17,
-            "track_id": 15553,
+            "track_id": 15596,
             "track_number": 1,
             "track_type": "File",
             "year": 1999
@@ -4851,7 +4851,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 384862,
             "track_count": 17,
-            "track_id": 15555,
+            "track_id": 15598,
             "track_number": 2,
             "track_type": "File",
             "year": 1999
@@ -4883,7 +4883,7 @@
             "sort_name": "Littlest Shepherd",
             "total_time": 307226,
             "track_count": 17,
-            "track_id": 15557,
+            "track_id": 15600,
             "track_number": 3,
             "track_type": "File",
             "year": 1999
@@ -4914,7 +4914,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 180950,
             "track_count": 17,
-            "track_id": 15561,
+            "track_id": 15604,
             "track_number": 5,
             "track_type": "File",
             "year": 1999
@@ -4945,7 +4945,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 73482,
             "track_count": 17,
-            "track_id": 15563,
+            "track_id": 15606,
             "track_number": 6,
             "track_type": "File",
             "year": 1999
@@ -4977,7 +4977,7 @@
             "sort_name": "Christmas Wish",
             "total_time": 280973,
             "track_count": 17,
-            "track_id": 15565,
+            "track_id": 15608,
             "track_number": 7,
             "track_type": "File",
             "year": 1999
@@ -5007,7 +5007,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 238080,
             "track_count": 17,
-            "track_id": 15567,
+            "track_id": 15610,
             "track_number": 8,
             "track_type": "File",
             "year": 1999
@@ -5038,7 +5038,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 244793,
             "track_count": 17,
-            "track_id": 15569,
+            "track_id": 15612,
             "track_number": 9,
             "track_type": "File",
             "year": 1999
@@ -5069,7 +5069,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 249155,
             "track_count": 17,
-            "track_id": 15571,
+            "track_id": 15614,
             "track_number": 10,
             "track_type": "File",
             "year": 1999
@@ -5099,7 +5099,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 170031,
             "track_count": 17,
-            "track_id": 15573,
+            "track_id": 15616,
             "track_number": 11,
             "track_type": "File",
             "year": 1999
@@ -5129,7 +5129,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 314644,
             "track_count": 17,
-            "track_id": 15575,
+            "track_id": 15618,
             "track_number": 12,
             "track_type": "File",
             "year": 1999
@@ -5160,7 +5160,7 @@
             "sort_name": "Best Time of the Year",
             "total_time": 260414,
             "track_count": 17,
-            "track_id": 15577,
+            "track_id": 15620,
             "track_number": 13,
             "track_type": "File",
             "year": 1999
@@ -5190,7 +5190,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 277812,
             "track_count": 17,
-            "track_id": 15579,
+            "track_id": 15622,
             "track_number": 14,
             "track_type": "File",
             "year": 1999
@@ -5220,7 +5220,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 335177,
             "track_count": 17,
-            "track_id": 15581,
+            "track_id": 15624,
             "track_number": 15,
             "track_type": "File",
             "year": 1999
@@ -5251,7 +5251,7 @@
             "sort_album": "Best Of Christmas",
             "total_time": 247771,
             "track_count": 17,
-            "track_id": 15583,
+            "track_id": 15626,
             "track_number": 16,
             "track_type": "File",
             "year": 1999
@@ -5280,7 +5280,7 @@
             "size": 3695382,
             "total_time": 184659,
             "track_count": 10,
-            "track_id": 15213,
+            "track_id": 15256,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -5310,7 +5310,7 @@
             "sort_name": "First Noel",
             "total_time": 204303,
             "track_count": 10,
-            "track_id": 15215,
+            "track_id": 15258,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -5340,7 +5340,7 @@
             "sort_name": "Night Before Christmas",
             "total_time": 223216,
             "track_count": 10,
-            "track_id": 15217,
+            "track_id": 15260,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -5369,7 +5369,7 @@
             "size": 4109695,
             "total_time": 205374,
             "track_count": 10,
-            "track_id": 15219,
+            "track_id": 15262,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -5398,7 +5398,7 @@
             "size": 4222017,
             "total_time": 210991,
             "track_count": 10,
-            "track_id": 15221,
+            "track_id": 15264,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -5427,7 +5427,7 @@
             "size": 4528692,
             "total_time": 226324,
             "track_count": 10,
-            "track_id": 15223,
+            "track_id": 15266,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -5456,7 +5456,7 @@
             "size": 3554331,
             "total_time": 177606,
             "track_count": 10,
-            "track_id": 15227,
+            "track_id": 15270,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -5487,7 +5487,7 @@
             "skip_date": "2020-11-23T18:08:45",
             "total_time": 222275,
             "track_count": 10,
-            "track_id": 15229,
+            "track_id": 15272,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -5516,7 +5516,7 @@
             "size": 4771125,
             "total_time": 238445,
             "track_count": 10,
-            "track_id": 15231,
+            "track_id": 15274,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -5544,7 +5544,7 @@
             "size": 3884032,
             "total_time": 194089,
             "track_count": 27,
-            "track_id": 14957,
+            "track_id": 15000,
             "track_number": 1,
             "track_type": "File"
         },
@@ -5571,7 +5571,7 @@
             "size": 3267545,
             "total_time": 163265,
             "track_count": 27,
-            "track_id": 14959,
+            "track_id": 15002,
             "track_number": 2,
             "track_type": "File"
         },
@@ -5598,7 +5598,7 @@
             "size": 3065870,
             "total_time": 153182,
             "track_count": 27,
-            "track_id": 14961,
+            "track_id": 15004,
             "track_number": 3,
             "track_type": "File"
         },
@@ -5625,7 +5625,7 @@
             "size": 4262287,
             "total_time": 213002,
             "track_count": 27,
-            "track_id": 14963,
+            "track_id": 15006,
             "track_number": 4,
             "track_type": "File"
         },
@@ -5652,7 +5652,7 @@
             "size": 3747680,
             "total_time": 187271,
             "track_count": 27,
-            "track_id": 14965,
+            "track_id": 15008,
             "track_number": 5,
             "track_type": "File"
         },
@@ -5679,7 +5679,7 @@
             "size": 2489088,
             "total_time": 124342,
             "track_count": 27,
-            "track_id": 14967,
+            "track_id": 15010,
             "track_number": 6,
             "track_type": "File"
         },
@@ -5706,7 +5706,7 @@
             "size": 3086261,
             "total_time": 154200,
             "track_count": 27,
-            "track_id": 14969,
+            "track_id": 15012,
             "track_number": 7,
             "track_type": "File"
         },
@@ -5734,7 +5734,7 @@
             "sort_name": "Froggie Went A-Courtin'",
             "total_time": 185208,
             "track_count": 27,
-            "track_id": 14971,
+            "track_id": 15014,
             "track_number": 8,
             "track_type": "File"
         },
@@ -5761,7 +5761,7 @@
             "size": 2412816,
             "total_time": 120528,
             "track_count": 27,
-            "track_id": 14973,
+            "track_id": 15016,
             "track_number": 9,
             "track_type": "File"
         },
@@ -5789,7 +5789,7 @@
             "sort_name": "Ugly Bug Ball",
             "total_time": 181420,
             "track_count": 27,
-            "track_id": 14975,
+            "track_id": 15018,
             "track_number": 10,
             "track_type": "File"
         },
@@ -5816,7 +5816,7 @@
             "size": 2672997,
             "total_time": 133537,
             "track_count": 27,
-            "track_id": 14977,
+            "track_id": 15020,
             "track_number": 11,
             "track_type": "File"
         },
@@ -5843,7 +5843,7 @@
             "size": 3192314,
             "total_time": 159503,
             "track_count": 27,
-            "track_id": 14979,
+            "track_id": 15022,
             "track_number": 12,
             "track_type": "File"
         },
@@ -5870,7 +5870,7 @@
             "size": 2581042,
             "total_time": 128940,
             "track_count": 27,
-            "track_id": 14981,
+            "track_id": 15024,
             "track_number": 13,
             "track_type": "File"
         },
@@ -5897,7 +5897,7 @@
             "size": 3619144,
             "total_time": 180845,
             "track_count": 27,
-            "track_id": 14983,
+            "track_id": 15026,
             "track_number": 14,
             "track_type": "File"
         },
@@ -5924,7 +5924,7 @@
             "size": 3421658,
             "total_time": 170971,
             "track_count": 27,
-            "track_id": 14985,
+            "track_id": 15028,
             "track_number": 15,
             "track_type": "File"
         },
@@ -5952,7 +5952,7 @@
             "sort_name": "Cry Of The Wild Goose",
             "total_time": 174994,
             "track_count": 27,
-            "track_id": 14987,
+            "track_id": 15030,
             "track_number": 16,
             "track_type": "File"
         },
@@ -5979,7 +5979,7 @@
             "size": 2769663,
             "total_time": 138370,
             "track_count": 27,
-            "track_id": 14989,
+            "track_id": 15032,
             "track_number": 17,
             "track_type": "File"
         },
@@ -6006,7 +6006,7 @@
             "size": 3817158,
             "total_time": 190746,
             "track_count": 27,
-            "track_id": 14991,
+            "track_id": 15034,
             "track_number": 18,
             "track_type": "File"
         },
@@ -6033,7 +6033,7 @@
             "size": 4103460,
             "total_time": 205061,
             "track_count": 27,
-            "track_id": 14993,
+            "track_id": 15036,
             "track_number": 19,
             "track_type": "File"
         },
@@ -6060,7 +6060,7 @@
             "size": 2642175,
             "total_time": 131996,
             "track_count": 27,
-            "track_id": 14995,
+            "track_id": 15038,
             "track_number": 20,
             "track_type": "File"
         },
@@ -6088,7 +6088,7 @@
             "sort_name": "Hanging Tree",
             "total_time": 136881,
             "track_count": 27,
-            "track_id": 14997,
+            "track_id": 15040,
             "track_number": 21,
             "track_type": "File"
         },
@@ -6115,7 +6115,7 @@
             "size": 3293157,
             "total_time": 164545,
             "track_count": 27,
-            "track_id": 14999,
+            "track_id": 15042,
             "track_number": 22,
             "track_type": "File"
         },
@@ -6142,7 +6142,7 @@
             "size": 2973918,
             "total_time": 148584,
             "track_count": 27,
-            "track_id": 15001,
+            "track_id": 15044,
             "track_number": 23,
             "track_type": "File"
         },
@@ -6169,7 +6169,7 @@
             "size": 3142670,
             "total_time": 157022,
             "track_count": 27,
-            "track_id": 15003,
+            "track_id": 15046,
             "track_number": 24,
             "track_type": "File"
         },
@@ -6196,7 +6196,7 @@
             "size": 2481769,
             "total_time": 123977,
             "track_count": 27,
-            "track_id": 15005,
+            "track_id": 15048,
             "track_number": 25,
             "track_type": "File"
         },
@@ -6224,7 +6224,7 @@
             "sort_name": "Hanging Tree",
             "total_time": 139885,
             "track_count": 27,
-            "track_id": 15007,
+            "track_id": 15050,
             "track_number": 26,
             "track_type": "File"
         },
@@ -6251,7 +6251,7 @@
             "size": 3972334,
             "total_time": 198504,
             "track_count": 27,
-            "track_id": 15009,
+            "track_id": 15052,
             "track_number": 27,
             "track_type": "File"
         },
@@ -6283,7 +6283,7 @@
             "skip_date": "2020-04-14T16:29:42",
             "total_time": 173714,
             "track_count": 24,
-            "track_id": 15233,
+            "track_id": 15276,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -6314,7 +6314,7 @@
             "size": 4147428,
             "total_time": 186148,
             "track_count": 24,
-            "track_id": 15235,
+            "track_id": 15278,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -6345,7 +6345,7 @@
             "size": 4569046,
             "total_time": 207229,
             "track_count": 24,
-            "track_id": 15237,
+            "track_id": 15280,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -6377,7 +6377,7 @@
             "sort_artist": "Guess Who",
             "total_time": 233900,
             "track_count": 24,
-            "track_id": 15239,
+            "track_id": 15282,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -6408,7 +6408,7 @@
             "size": 4831869,
             "total_time": 220368,
             "track_count": 24,
-            "track_id": 15241,
+            "track_id": 15284,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -6440,7 +6440,7 @@
             "sort_artist": "Ides of March",
             "total_time": 176222,
             "track_count": 24,
-            "track_id": 15243,
+            "track_id": 15286,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -6471,7 +6471,7 @@
             "size": 4512653,
             "total_time": 204408,
             "track_count": 24,
-            "track_id": 15245,
+            "track_id": 15288,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -6503,7 +6503,7 @@
             "sort_artist": "Blues Image",
             "total_time": 189309,
             "track_count": 24,
-            "track_id": 15247,
+            "track_id": 15290,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -6534,7 +6534,7 @@
             "size": 5278547,
             "total_time": 242703,
             "track_count": 24,
-            "track_id": 15249,
+            "track_id": 15292,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -6565,7 +6565,7 @@
             "size": 5679266,
             "total_time": 262739,
             "track_count": 24,
-            "track_id": 15251,
+            "track_id": 15294,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -6596,7 +6596,7 @@
             "size": 3651670,
             "total_time": 161358,
             "track_count": 24,
-            "track_id": 15253,
+            "track_id": 15296,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -6628,7 +6628,7 @@
             "sort_artist": "Delfonics",
             "total_time": 203180,
             "track_count": 24,
-            "track_id": 15255,
+            "track_id": 15298,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -6660,7 +6660,7 @@
             "sort_artist": "Five Stairsteps",
             "total_time": 196127,
             "track_count": 24,
-            "track_id": 15257,
+            "track_id": 15300,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -6692,7 +6692,7 @@
             "sort_artist": "Jackson 5",
             "total_time": 163526,
             "track_count": 24,
-            "track_id": 15259,
+            "track_id": 15302,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -6723,7 +6723,7 @@
             "size": 3944732,
             "total_time": 176013,
             "track_count": 24,
-            "track_id": 15261,
+            "track_id": 15304,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -6754,7 +6754,7 @@
             "size": 5116055,
             "total_time": 234579,
             "track_count": 24,
-            "track_id": 15263,
+            "track_id": 15306,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -6785,7 +6785,7 @@
             "size": 4566492,
             "total_time": 207098,
             "track_count": 24,
-            "track_id": 15265,
+            "track_id": 15308,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -6816,7 +6816,7 @@
             "size": 3971898,
             "total_time": 177371,
             "track_count": 24,
-            "track_id": 15267,
+            "track_id": 15310,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -6847,7 +6847,7 @@
             "size": 4449437,
             "total_time": 201247,
             "track_count": 24,
-            "track_id": 15269,
+            "track_id": 15312,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -6878,7 +6878,7 @@
             "size": 4582117,
             "total_time": 207882,
             "track_count": 24,
-            "track_id": 15271,
+            "track_id": 15314,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -6909,7 +6909,7 @@
             "size": 3692420,
             "total_time": 163395,
             "track_count": 24,
-            "track_id": 15273,
+            "track_id": 15316,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -6940,7 +6940,7 @@
             "size": 3966153,
             "total_time": 177084,
             "track_count": 24,
-            "track_id": 15275,
+            "track_id": 15318,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -6971,7 +6971,7 @@
             "size": 4431642,
             "total_time": 200359,
             "track_count": 24,
-            "track_id": 15277,
+            "track_id": 15320,
             "track_number": 23,
             "track_type": "File",
             "year": 1998
@@ -7002,7 +7002,7 @@
             "size": 4327683,
             "total_time": 195160,
             "track_count": 24,
-            "track_id": 15279,
+            "track_id": 15322,
             "track_number": 24,
             "track_type": "File",
             "year": 1998
@@ -7033,7 +7033,7 @@
             "size": 4384104,
             "total_time": 197982,
             "track_count": 24,
-            "track_id": 15281,
+            "track_id": 15324,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -7064,7 +7064,7 @@
             "size": 4155820,
             "total_time": 186566,
             "track_count": 24,
-            "track_id": 15283,
+            "track_id": 15326,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -7096,7 +7096,7 @@
             "sort_artist": "Dramatics",
             "total_time": 213551,
             "track_count": 24,
-            "track_id": 15285,
+            "track_id": 15328,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -7127,7 +7127,7 @@
             "size": 3752493,
             "total_time": 166400,
             "track_count": 24,
-            "track_id": 15287,
+            "track_id": 15330,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -7159,7 +7159,7 @@
             "sort_artist": "Chi-Lites",
             "total_time": 289280,
             "track_count": 24,
-            "track_id": 15289,
+            "track_id": 15332,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -7190,7 +7190,7 @@
             "size": 3777561,
             "total_time": 167653,
             "track_count": 24,
-            "track_id": 15291,
+            "track_id": 15334,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -7221,7 +7221,7 @@
             "size": 4395627,
             "total_time": 198556,
             "track_count": 24,
-            "track_id": 15293,
+            "track_id": 15336,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -7252,7 +7252,7 @@
             "size": 4320374,
             "total_time": 194795,
             "track_count": 24,
-            "track_id": 15295,
+            "track_id": 15338,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -7283,7 +7283,7 @@
             "size": 6809324,
             "total_time": 319242,
             "track_count": 24,
-            "track_id": 15297,
+            "track_id": 15340,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -7314,7 +7314,7 @@
             "size": 3441641,
             "total_time": 150857,
             "track_count": 24,
-            "track_id": 15299,
+            "track_id": 15342,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -7345,7 +7345,7 @@
             "size": 3860646,
             "total_time": 171807,
             "track_count": 24,
-            "track_id": 15301,
+            "track_id": 15344,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -7376,7 +7376,7 @@
             "size": 3350690,
             "total_time": 146311,
             "track_count": 24,
-            "track_id": 15303,
+            "track_id": 15346,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -7407,7 +7407,7 @@
             "size": 4791128,
             "total_time": 218331,
             "track_count": 24,
-            "track_id": 15305,
+            "track_id": 15348,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -7438,7 +7438,7 @@
             "size": 4632318,
             "total_time": 210390,
             "track_count": 24,
-            "track_id": 15307,
+            "track_id": 15350,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -7469,7 +7469,7 @@
             "size": 3497504,
             "total_time": 153652,
             "track_count": 24,
-            "track_id": 15309,
+            "track_id": 15352,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -7500,7 +7500,7 @@
             "size": 3760308,
             "total_time": 166791,
             "track_count": 24,
-            "track_id": 15311,
+            "track_id": 15354,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -7531,7 +7531,7 @@
             "size": 4359032,
             "total_time": 196728,
             "track_count": 24,
-            "track_id": 15313,
+            "track_id": 15356,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -7563,7 +7563,7 @@
             "sort_name": "Horse With No Name",
             "total_time": 230739,
             "track_count": 24,
-            "track_id": 15315,
+            "track_id": 15358,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -7595,7 +7595,7 @@
             "sort_artist": "Staple Singers",
             "total_time": 203389,
             "track_count": 24,
-            "track_id": 15317,
+            "track_id": 15360,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -7627,7 +7627,7 @@
             "sort_artist": "Main Ingredient",
             "total_time": 219480,
             "track_count": 24,
-            "track_id": 15319,
+            "track_id": 15362,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -7660,7 +7660,7 @@
             "skip_date": "2023-12-30T03:14:53",
             "total_time": 149315,
             "track_count": 24,
-            "track_id": 15321,
+            "track_id": 15364,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -7692,7 +7692,7 @@
             "sort_artist": "Spinners",
             "total_time": 192548,
             "track_count": 24,
-            "track_id": 15323,
+            "track_id": 15366,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -7723,7 +7723,7 @@
             "size": 4872068,
             "total_time": 222380,
             "track_count": 24,
-            "track_id": 15325,
+            "track_id": 15368,
             "track_number": 23,
             "track_type": "File",
             "year": 1998
@@ -7754,7 +7754,7 @@
             "size": 4321929,
             "total_time": 194873,
             "track_count": 24,
-            "track_id": 15327,
+            "track_id": 15370,
             "track_number": 24,
             "track_type": "File",
             "year": 1998
@@ -7784,7 +7784,7 @@
             "sample_rate": 44100,
             "size": 4806783,
             "total_time": 219115,
-            "track_id": 15329,
+            "track_id": 15372,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -7814,7 +7814,7 @@
             "sample_rate": 44100,
             "size": 3773353,
             "total_time": 167444,
-            "track_id": 15331,
+            "track_id": 15374,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -7844,7 +7844,7 @@
             "sample_rate": 44100,
             "size": 4136996,
             "total_time": 185626,
-            "track_id": 15333,
+            "track_id": 15376,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -7874,7 +7874,7 @@
             "sample_rate": 44100,
             "size": 3860618,
             "total_time": 171807,
-            "track_id": 15335,
+            "track_id": 15378,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -7904,7 +7904,7 @@
             "sample_rate": 44100,
             "size": 3599378,
             "total_time": 158746,
-            "track_id": 15337,
+            "track_id": 15380,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -7935,7 +7935,7 @@
             "size": 4233679,
             "sort_name": "Candy Man",
             "total_time": 190458,
-            "track_id": 15339,
+            "track_id": 15382,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -7965,7 +7965,7 @@
             "sample_rate": 44100,
             "size": 4510565,
             "total_time": 204303,
-            "track_id": 15341,
+            "track_id": 15384,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -7995,7 +7995,7 @@
             "sample_rate": 44100,
             "size": 3716454,
             "total_time": 164597,
-            "track_id": 15343,
+            "track_id": 15386,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -8025,7 +8025,7 @@
             "sample_rate": 44100,
             "size": 4073261,
             "total_time": 182439,
-            "track_id": 15345,
+            "track_id": 15388,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -8056,7 +8056,7 @@
             "size": 3924383,
             "sort_name": "Cover of the Rolling Stone",
             "total_time": 174994,
-            "track_id": 15347,
+            "track_id": 15390,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -8086,7 +8086,7 @@
             "sample_rate": 44100,
             "size": 5625961,
             "total_time": 260075,
-            "track_id": 15349,
+            "track_id": 15392,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -8116,7 +8116,7 @@
             "sample_rate": 44100,
             "size": 6179785,
             "total_time": 287764,
-            "track_id": 15351,
+            "track_id": 15394,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -8146,7 +8146,7 @@
             "sample_rate": 44100,
             "size": 4567509,
             "total_time": 207151,
-            "track_id": 15353,
+            "track_id": 15396,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -8177,7 +8177,7 @@
             "size": 3292725,
             "sort_name": "Morning After",
             "total_time": 143412,
-            "track_id": 15355,
+            "track_id": 15398,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -8208,7 +8208,7 @@
             "size": 5016820,
             "sort_artist": "Isley Brothers",
             "total_time": 229616,
-            "track_id": 15357,
+            "track_id": 15400,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -8238,7 +8238,7 @@
             "sample_rate": 44100,
             "size": 5430072,
             "total_time": 250279,
-            "track_id": 15359,
+            "track_id": 15402,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -8268,7 +8268,7 @@
             "sample_rate": 44100,
             "size": 4727882,
             "total_time": 215170,
-            "track_id": 15361,
+            "track_id": 15404,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -8298,7 +8298,7 @@
             "sample_rate": 44100,
             "size": 4158533,
             "total_time": 186697,
-            "track_id": 15363,
+            "track_id": 15406,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -8328,7 +8328,7 @@
             "sample_rate": 44100,
             "size": 4325593,
             "total_time": 195056,
-            "track_id": 15365,
+            "track_id": 15408,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -8358,7 +8358,7 @@
             "sample_rate": 44100,
             "size": 4546610,
             "total_time": 206106,
-            "track_id": 15367,
+            "track_id": 15410,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -8388,7 +8388,7 @@
             "sample_rate": 44100,
             "size": 4549768,
             "total_time": 206262,
-            "track_id": 15369,
+            "track_id": 15412,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -8418,7 +8418,7 @@
             "sample_rate": 44100,
             "size": 4002741,
             "total_time": 178912,
-            "track_id": 15371,
+            "track_id": 15414,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -8448,7 +8448,7 @@
             "sample_rate": 44100,
             "size": 4582108,
             "total_time": 207882,
-            "track_id": 15373,
+            "track_id": 15416,
             "track_number": 23,
             "track_type": "File",
             "year": 1998
@@ -8478,7 +8478,7 @@
             "sample_rate": 44100,
             "size": 3182487,
             "total_time": 137900,
-            "track_id": 15375,
+            "track_id": 15418,
             "track_number": 24,
             "track_type": "File",
             "year": 1998
@@ -8509,7 +8509,7 @@
             "size": 4005331,
             "sort_artist": "O'Jays",
             "total_time": 179043,
-            "track_id": 15377,
+            "track_id": 15420,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -8539,7 +8539,7 @@
             "sample_rate": 44100,
             "size": 5188696,
             "total_time": 238210,
-            "track_id": 15379,
+            "track_id": 15422,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -8570,7 +8570,7 @@
             "size": 4731558,
             "sort_name": "Night the Lights Went Out in Georgia",
             "total_time": 215353,
-            "track_id": 15381,
+            "track_id": 15424,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -8601,7 +8601,7 @@
             "size": 4579508,
             "sort_artist": "Doobie Brothers",
             "total_time": 207751,
-            "track_id": 15383,
+            "track_id": 15426,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -8631,7 +8631,7 @@
             "sample_rate": 44100,
             "size": 5153154,
             "total_time": 236434,
-            "track_id": 15385,
+            "track_id": 15428,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -8661,7 +8661,7 @@
             "sample_rate": 44100,
             "size": 4638534,
             "total_time": 210703,
-            "track_id": 15387,
+            "track_id": 15430,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -8691,7 +8691,7 @@
             "sample_rate": 44100,
             "size": 4912833,
             "total_time": 224417,
-            "track_id": 15389,
+            "track_id": 15432,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -8723,7 +8723,7 @@
             "sort_artist": "Hollies",
             "sort_name": "Air That I Breathe",
             "total_time": 227474,
-            "track_id": 15391,
+            "track_id": 15434,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -8753,7 +8753,7 @@
             "sample_rate": 44100,
             "size": 4809915,
             "total_time": 219271,
-            "track_id": 15393,
+            "track_id": 15436,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -8784,7 +8784,7 @@
             "size": 4661025,
             "sort_name": "Night Chicago Died",
             "total_time": 211826,
-            "track_id": 15395,
+            "track_id": 15438,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -8814,7 +8814,7 @@
             "sample_rate": 44100,
             "size": 4676153,
             "total_time": 212584,
-            "track_id": 15397,
+            "track_id": 15440,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -8844,7 +8844,7 @@
             "sample_rate": 44100,
             "size": 4830312,
             "total_time": 220290,
-            "track_id": 15399,
+            "track_id": 15442,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -8874,7 +8874,7 @@
             "sample_rate": 44100,
             "size": 4657327,
             "total_time": 211644,
-            "track_id": 15401,
+            "track_id": 15444,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -8905,7 +8905,7 @@
             "size": 5359540,
             "sort_name": "Payback, Pt. 1",
             "total_time": 246752,
-            "track_id": 15403,
+            "track_id": 15446,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -8935,7 +8935,7 @@
             "sample_rate": 44100,
             "size": 4796843,
             "total_time": 218618,
-            "track_id": 15405,
+            "track_id": 15448,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -8966,7 +8966,7 @@
             "size": 4132808,
             "sort_name": "Entertainer",
             "total_time": 185417,
-            "track_id": 15407,
+            "track_id": 15450,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -8996,7 +8996,7 @@
             "sample_rate": 44100,
             "size": 4205950,
             "total_time": 189074,
-            "track_id": 15409,
+            "track_id": 15452,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -9026,7 +9026,7 @@
             "sample_rate": 44100,
             "size": 4341785,
             "total_time": 195866,
-            "track_id": 15411,
+            "track_id": 15454,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -9056,7 +9056,7 @@
             "sample_rate": 44100,
             "size": 4930593,
             "total_time": 225306,
-            "track_id": 15413,
+            "track_id": 15456,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -9087,7 +9087,7 @@
             "size": 4356406,
             "sort_name": "Streak",
             "total_time": 196597,
-            "track_id": 15415,
+            "track_id": 15458,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -9117,7 +9117,7 @@
             "sample_rate": 44100,
             "size": 4284852,
             "total_time": 193018,
-            "track_id": 15417,
+            "track_id": 15460,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -9147,7 +9147,7 @@
             "sample_rate": 44100,
             "size": 6512047,
             "total_time": 304378,
-            "track_id": 15419,
+            "track_id": 15462,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -9178,7 +9178,7 @@
             "size": 6536086,
             "sort_artist": "First Class",
             "total_time": 305580,
-            "track_id": 15421,
+            "track_id": 15464,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -9208,7 +9208,7 @@
             "sample_rate": 44100,
             "size": 5457737,
             "total_time": 251663,
-            "track_id": 15423,
+            "track_id": 15466,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -9238,7 +9238,7 @@
             "sample_rate": 44100,
             "size": 4595195,
             "total_time": 208535,
-            "track_id": 15425,
+            "track_id": 15468,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -9268,7 +9268,7 @@
             "sample_rate": 44100,
             "size": 5204355,
             "total_time": 238994,
-            "track_id": 15427,
+            "track_id": 15470,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -9300,7 +9300,7 @@
             "sort_artist": "Jimmy Castor Bunch",
             "sort_name": "Bertha Butt Boogie, Pt. 1",
             "total_time": 216137,
-            "track_id": 15429,
+            "track_id": 15472,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -9330,7 +9330,7 @@
             "sample_rate": 44100,
             "size": 4751924,
             "total_time": 216372,
-            "track_id": 15431,
+            "track_id": 15474,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -9360,7 +9360,7 @@
             "sample_rate": 44100,
             "size": 4777000,
             "total_time": 217626,
-            "track_id": 15433,
+            "track_id": 15476,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -9390,7 +9390,7 @@
             "sample_rate": 44100,
             "size": 3998004,
             "total_time": 178677,
-            "track_id": 15435,
+            "track_id": 15478,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -9420,7 +9420,7 @@
             "sample_rate": 44100,
             "size": 3902432,
             "total_time": 173897,
-            "track_id": 15437,
+            "track_id": 15480,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -9450,7 +9450,7 @@
             "sample_rate": 44100,
             "size": 5035696,
             "total_time": 230556,
-            "track_id": 15439,
+            "track_id": 15482,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -9480,7 +9480,7 @@
             "sample_rate": 44100,
             "size": 4511614,
             "total_time": 204355,
-            "track_id": 15441,
+            "track_id": 15484,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -9510,7 +9510,7 @@
             "sample_rate": 44100,
             "size": 5156800,
             "total_time": 236617,
-            "track_id": 15443,
+            "track_id": 15486,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -9540,7 +9540,7 @@
             "sample_rate": 44100,
             "size": 4612933,
             "total_time": 209423,
-            "track_id": 15445,
+            "track_id": 15488,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -9570,7 +9570,7 @@
             "sample_rate": 44100,
             "size": 4124964,
             "total_time": 185025,
-            "track_id": 15447,
+            "track_id": 15490,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -9601,7 +9601,7 @@
             "size": 4005352,
             "sort_artist": "Miracles",
             "total_time": 179043,
-            "track_id": 15449,
+            "track_id": 15492,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -9631,7 +9631,7 @@
             "sample_rate": 44100,
             "size": 4646383,
             "total_time": 211095,
-            "track_id": 15451,
+            "track_id": 15494,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -9661,7 +9661,7 @@
             "sample_rate": 44100,
             "size": 4431649,
             "total_time": 200359,
-            "track_id": 15453,
+            "track_id": 15496,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -9691,7 +9691,7 @@
             "sample_rate": 44100,
             "size": 4971348,
             "total_time": 227343,
-            "track_id": 15455,
+            "track_id": 15498,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -9721,7 +9721,7 @@
             "sample_rate": 44100,
             "size": 3835526,
             "total_time": 170553,
-            "track_id": 15457,
+            "track_id": 15500,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -9751,7 +9751,7 @@
             "sample_rate": 44100,
             "size": 5462960,
             "total_time": 251924,
-            "track_id": 15459,
+            "track_id": 15502,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -9781,7 +9781,7 @@
             "sample_rate": 44100,
             "size": 4368954,
             "total_time": 197224,
-            "track_id": 15461,
+            "track_id": 15504,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -9811,7 +9811,7 @@
             "sample_rate": 44100,
             "size": 5156803,
             "total_time": 236617,
-            "track_id": 15463,
+            "track_id": 15506,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -9841,7 +9841,7 @@
             "sample_rate": 44100,
             "size": 4292188,
             "total_time": 193384,
-            "track_id": 15465,
+            "track_id": 15508,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -9872,7 +9872,7 @@
             "size": 3907774,
             "sort_artist": "Ohio Players",
             "total_time": 174158,
-            "track_id": 15467,
+            "track_id": 15510,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -9903,7 +9903,7 @@
             "size": 4681407,
             "sort_artist": "Four Seasons",
             "total_time": 212845,
-            "track_id": 15469,
+            "track_id": 15512,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -9933,7 +9933,7 @@
             "sample_rate": 44100,
             "size": 3932201,
             "total_time": 175386,
-            "track_id": 15471,
+            "track_id": 15514,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -9964,7 +9964,7 @@
             "size": 4282236,
             "sort_name": "Rockford Files",
             "total_time": 192888,
-            "track_id": 15473,
+            "track_id": 15516,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -9994,7 +9994,7 @@
             "sample_rate": 44100,
             "size": 4320887,
             "total_time": 194821,
-            "track_id": 15475,
+            "track_id": 15518,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -10024,7 +10024,7 @@
             "sample_rate": 44100,
             "size": 4796859,
             "total_time": 218618,
-            "track_id": 15477,
+            "track_id": 15520,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -10054,7 +10054,7 @@
             "sample_rate": 44100,
             "size": 4425903,
             "total_time": 200071,
-            "track_id": 15479,
+            "track_id": 15522,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -10084,7 +10084,7 @@
             "sample_rate": 44100,
             "size": 4514245,
             "total_time": 204486,
-            "track_id": 15481,
+            "track_id": 15524,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -10114,7 +10114,7 @@
             "sample_rate": 44100,
             "size": 4328747,
             "total_time": 195213,
-            "track_id": 15483,
+            "track_id": 15526,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -10144,7 +10144,7 @@
             "sample_rate": 44100,
             "size": 3447377,
             "total_time": 151144,
-            "track_id": 15485,
+            "track_id": 15528,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -10175,7 +10175,7 @@
             "size": 4376801,
             "sort_artist": "Bellamy Brothers",
             "total_time": 197616,
-            "track_id": 15487,
+            "track_id": 15530,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -10205,7 +10205,7 @@
             "sample_rate": 44100,
             "size": 5411822,
             "total_time": 249364,
-            "track_id": 15489,
+            "track_id": 15532,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -10235,7 +10235,7 @@
             "sample_rate": 44100,
             "size": 4349138,
             "total_time": 196231,
-            "track_id": 15491,
+            "track_id": 15534,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -10265,7 +10265,7 @@
             "sample_rate": 44100,
             "size": 3996983,
             "total_time": 178625,
-            "track_id": 15493,
+            "track_id": 15536,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -10295,7 +10295,7 @@
             "sample_rate": 44100,
             "size": 5016796,
             "total_time": 229616,
-            "track_id": 15495,
+            "track_id": 15538,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -10325,7 +10325,7 @@
             "sample_rate": 44100,
             "size": 4554939,
             "total_time": 206524,
-            "track_id": 15497,
+            "track_id": 15540,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -10355,7 +10355,7 @@
             "sample_rate": 44100,
             "size": 3586359,
             "total_time": 158093,
-            "track_id": 15499,
+            "track_id": 15542,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -10385,7 +10385,7 @@
             "sample_rate": 44100,
             "size": 4899777,
             "total_time": 223764,
-            "track_id": 15501,
+            "track_id": 15544,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -10415,7 +10415,7 @@
             "sample_rate": 44100,
             "size": 5035623,
             "total_time": 230556,
-            "track_id": 15503,
+            "track_id": 15546,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -10445,7 +10445,7 @@
             "sample_rate": 44100,
             "size": 5388245,
             "total_time": 248189,
-            "track_id": 15505,
+            "track_id": 15548,
             "track_number": 21,
             "track_type": "File",
             "year": 1998
@@ -10475,7 +10475,7 @@
             "sample_rate": 44100,
             "size": 4060191,
             "total_time": 181786,
-            "track_id": 15507,
+            "track_id": 15550,
             "track_number": 22,
             "track_type": "File",
             "year": 1998
@@ -10505,7 +10505,7 @@
             "sample_rate": 44100,
             "size": 3912852,
             "total_time": 174419,
-            "track_id": 15509,
+            "track_id": 15552,
             "track_number": 23,
             "track_type": "File",
             "year": 1998
@@ -10535,7 +10535,7 @@
             "sample_rate": 44100,
             "size": 4051828,
             "total_time": 181368,
-            "track_id": 15511,
+            "track_id": 15554,
             "track_number": 24,
             "track_type": "File",
             "year": 1998
@@ -10565,7 +10565,7 @@
             "sample_rate": 44100,
             "size": 9752836,
             "total_time": 466416,
-            "track_id": 15513,
+            "track_id": 15556,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -10595,7 +10595,7 @@
             "sample_rate": 44100,
             "size": 6375696,
             "total_time": 297560,
-            "track_id": 15515,
+            "track_id": 15558,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -10627,7 +10627,7 @@
             "skip_count": 1,
             "skip_date": "2020-04-15T16:14:54",
             "total_time": 184476,
-            "track_id": 15517,
+            "track_id": 15560,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -10657,7 +10657,7 @@
             "sample_rate": 44100,
             "size": 5233087,
             "total_time": 240431,
-            "track_id": 15519,
+            "track_id": 15562,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -10688,7 +10688,7 @@
             "size": 4745643,
             "sort_artist": "Trammps",
             "total_time": 216058,
-            "track_id": 15521,
+            "track_id": 15564,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -10719,7 +10719,7 @@
             "size": 5187699,
             "sort_artist": "Commodores",
             "total_time": 238158,
-            "track_id": 15523,
+            "track_id": 15566,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -10749,7 +10749,7 @@
             "sample_rate": 44100,
             "size": 5471840,
             "total_time": 252368,
-            "track_id": 15525,
+            "track_id": 15568,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -10779,7 +10779,7 @@
             "sample_rate": 44100,
             "size": 4479715,
             "total_time": 202762,
-            "track_id": 15527,
+            "track_id": 15570,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -10809,7 +10809,7 @@
             "sample_rate": 44100,
             "size": 4783778,
             "total_time": 217965,
-            "track_id": 15529,
+            "track_id": 15572,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -10839,7 +10839,7 @@
             "sample_rate": 44100,
             "size": 4685044,
             "total_time": 213028,
-            "track_id": 15531,
+            "track_id": 15574,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -10869,7 +10869,7 @@
             "sample_rate": 44100,
             "size": 5136424,
             "total_time": 235598,
-            "track_id": 15533,
+            "track_id": 15576,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -10899,7 +10899,7 @@
             "sample_rate": 44100,
             "size": 4712216,
             "total_time": 214386,
-            "track_id": 15535,
+            "track_id": 15578,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -10929,7 +10929,7 @@
             "sample_rate": 44100,
             "size": 4049775,
             "total_time": 181263,
-            "track_id": 15537,
+            "track_id": 15580,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -10959,7 +10959,7 @@
             "sample_rate": 44100,
             "size": 4824547,
             "total_time": 220003,
-            "track_id": 15539,
+            "track_id": 15582,
             "track_number": 14,
             "track_type": "File",
             "year": 1998
@@ -10989,7 +10989,7 @@
             "sample_rate": 44100,
             "size": 4120271,
             "total_time": 184790,
-            "track_id": 15541,
+            "track_id": 15584,
             "track_number": 15,
             "track_type": "File",
             "year": 1998
@@ -11019,7 +11019,7 @@
             "sample_rate": 44100,
             "size": 4577443,
             "total_time": 207647,
-            "track_id": 15543,
+            "track_id": 15586,
             "track_number": 16,
             "track_type": "File",
             "year": 1998
@@ -11049,7 +11049,7 @@
             "sample_rate": 44100,
             "size": 4665710,
             "total_time": 212062,
-            "track_id": 15545,
+            "track_id": 15588,
             "track_number": 17,
             "track_type": "File",
             "year": 1998
@@ -11079,7 +11079,7 @@
             "sample_rate": 44100,
             "size": 4666757,
             "total_time": 212114,
-            "track_id": 15547,
+            "track_id": 15590,
             "track_number": 18,
             "track_type": "File",
             "year": 1998
@@ -11109,7 +11109,7 @@
             "sample_rate": 44100,
             "size": 5387220,
             "total_time": 248137,
-            "track_id": 15549,
+            "track_id": 15592,
             "track_number": 19,
             "track_type": "File",
             "year": 1998
@@ -11139,7 +11139,7 @@
             "sample_rate": 44100,
             "size": 4856964,
             "total_time": 221622,
-            "track_id": 15551,
+            "track_id": 15594,
             "track_number": 20,
             "track_type": "File",
             "year": 1998
@@ -11172,7 +11172,7 @@
             "skip_date": "2023-08-31T14:50:20",
             "total_time": 414667,
             "track_count": 14,
-            "track_id": 16347,
+            "track_id": 16388,
             "track_number": 1,
             "track_type": "File",
             "year": 1964
@@ -11203,7 +11203,7 @@
             "size": 4564976,
             "total_time": 222615,
             "track_count": 14,
-            "track_id": 16349,
+            "track_id": 16390,
             "track_number": 2,
             "track_type": "File",
             "year": 1964
@@ -11234,7 +11234,7 @@
             "size": 6049739,
             "total_time": 296855,
             "track_count": 14,
-            "track_id": 16351,
+            "track_id": 16392,
             "track_number": 3,
             "track_type": "File",
             "year": 1964
@@ -11265,7 +11265,7 @@
             "size": 3047244,
             "total_time": 146729,
             "track_count": 14,
-            "track_id": 16353,
+            "track_id": 16394,
             "track_number": 4,
             "track_type": "File",
             "year": 1964
@@ -11296,7 +11296,7 @@
             "size": 5146970,
             "total_time": 251715,
             "track_count": 14,
-            "track_id": 16355,
+            "track_id": 16396,
             "track_number": 5,
             "track_type": "File",
             "year": 1964
@@ -11327,7 +11327,7 @@
             "size": 2556649,
             "total_time": 122200,
             "track_count": 14,
-            "track_id": 16357,
+            "track_id": 16398,
             "track_number": 6,
             "track_type": "File",
             "year": 1964
@@ -11359,7 +11359,7 @@
             "sort_name": "Dream",
             "total_time": 368483,
             "track_count": 14,
-            "track_id": 16359,
+            "track_id": 16400,
             "track_number": 7,
             "track_type": "File",
             "year": 1964
@@ -11390,7 +11390,7 @@
             "size": 4387361,
             "total_time": 213733,
             "track_count": 14,
-            "track_id": 16361,
+            "track_id": 16402,
             "track_number": 8,
             "track_type": "File",
             "year": 1964
@@ -11421,7 +11421,7 @@
             "size": 2758302,
             "total_time": 132284,
             "track_count": 14,
-            "track_id": 16363,
+            "track_id": 16404,
             "track_number": 9,
             "track_type": "File",
             "year": 1964
@@ -11452,7 +11452,7 @@
             "size": 2603167,
             "total_time": 124525,
             "track_count": 14,
-            "track_id": 16365,
+            "track_id": 16406,
             "track_number": 10,
             "track_type": "File",
             "year": 1964
@@ -11483,7 +11483,7 @@
             "size": 3891514,
             "total_time": 188943,
             "track_count": 14,
-            "track_id": 16367,
+            "track_id": 16408,
             "track_number": 11,
             "track_type": "File",
             "year": 1964
@@ -11515,7 +11515,7 @@
             "sort_name": "Rumor",
             "total_time": 112404,
             "track_count": 14,
-            "track_id": 16369,
+            "track_id": 16410,
             "track_number": 12,
             "track_type": "File",
             "year": 1964
@@ -11546,7 +11546,7 @@
             "size": 4316804,
             "total_time": 210207,
             "track_count": 14,
-            "track_id": 16371,
+            "track_id": 16412,
             "track_number": 13,
             "track_type": "File",
             "year": 1964
@@ -11577,7 +11577,7 @@
             "size": 3908818,
             "total_time": 189805,
             "track_count": 14,
-            "track_id": 16373,
+            "track_id": 16414,
             "track_number": 14,
             "track_type": "File",
             "year": 1964
@@ -11608,7 +11608,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 175908,
             "track_count": 12,
-            "track_id": 22485,
+            "track_id": 22526,
             "track_number": 1,
             "track_type": "File",
             "year": 1972
@@ -11639,7 +11639,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 241815,
             "track_count": 12,
-            "track_id": 22487,
+            "track_id": 22528,
             "track_number": 2,
             "track_type": "File",
             "year": 1972
@@ -11670,7 +11670,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 109191,
             "track_count": 12,
-            "track_id": 22489,
+            "track_id": 22530,
             "track_number": 3,
             "track_type": "File",
             "year": 1973
@@ -11701,7 +11701,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 181603,
             "track_count": 12,
-            "track_id": 22491,
+            "track_id": 22532,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -11732,7 +11732,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 180114,
             "track_count": 12,
-            "track_id": 22493,
+            "track_id": 22534,
             "track_number": 5,
             "track_type": "File",
             "year": 1973
@@ -11763,7 +11763,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 147644,
             "track_count": 12,
-            "track_id": 22495,
+            "track_id": 22536,
             "track_number": 6,
             "track_type": "File",
             "year": 1972
@@ -11794,7 +11794,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 167888,
             "track_count": 12,
-            "track_id": 22497,
+            "track_id": 22538,
             "track_number": 7,
             "track_type": "File",
             "year": 1973
@@ -11825,7 +11825,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 155794,
             "track_count": 12,
-            "track_id": 22499,
+            "track_id": 22540,
             "track_number": 8,
             "track_type": "File",
             "year": 2013
@@ -11856,7 +11856,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 161906,
             "track_count": 12,
-            "track_id": 22501,
+            "track_id": 22542,
             "track_number": 9,
             "track_type": "File",
             "year": 2013
@@ -11887,7 +11887,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 153756,
             "track_count": 12,
-            "track_id": 22503,
+            "track_id": 22544,
             "track_number": 10,
             "track_type": "File",
             "year": 2013
@@ -11918,7 +11918,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 170161,
             "track_count": 12,
-            "track_id": 22505,
+            "track_id": 22546,
             "track_number": 11,
             "track_type": "File",
             "year": 2013
@@ -11949,7 +11949,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 142445,
             "track_count": 12,
-            "track_id": 22507,
+            "track_id": 22548,
             "track_number": 12,
             "track_type": "File",
             "year": 2013
@@ -11975,12 +11975,12 @@
             "play_date_utc": "2023-11-03T00:19:19",
             "sample_rate": 44100,
             "size": 7246782,
-            "skip_count": 1,
-            "skip_date": "2023-12-30T04:48:25",
+            "skip_count": 2,
+            "skip_date": "2023-12-30T05:45:36",
             "sort_album": "Best Of Bread",
             "total_time": 194426,
             "track_count": 20,
-            "track_id": 24639,
+            "track_id": 24642,
             "track_number": 1,
             "track_type": "File",
             "year": 1970
@@ -12009,7 +12009,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 187973,
             "track_count": 20,
-            "track_id": 24641,
+            "track_id": 24644,
             "track_number": 2,
             "track_type": "File",
             "year": 1972
@@ -12038,7 +12038,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 187826,
             "track_count": 20,
-            "track_id": 24643,
+            "track_id": 24646,
             "track_number": 3,
             "track_type": "File",
             "year": 1972
@@ -12067,7 +12067,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 148973,
             "track_count": 20,
-            "track_id": 24645,
+            "track_id": 24648,
             "track_number": 4,
             "track_type": "File",
             "year": 1972
@@ -12096,7 +12096,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 169293,
             "track_count": 20,
-            "track_id": 24647,
+            "track_id": 24650,
             "track_number": 5,
             "track_type": "File",
             "year": 1970
@@ -12125,7 +12125,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 155466,
             "track_count": 20,
-            "track_id": 24649,
+            "track_id": 24652,
             "track_number": 6,
             "track_type": "File",
             "year": 1971
@@ -12154,7 +12154,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 154973,
             "track_count": 20,
-            "track_id": 24651,
+            "track_id": 24654,
             "track_number": 7,
             "track_type": "File",
             "year": 1972
@@ -12183,7 +12183,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 164866,
             "track_count": 20,
-            "track_id": 24653,
+            "track_id": 24656,
             "track_number": 8,
             "track_type": "File",
             "year": 1972
@@ -12212,7 +12212,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 167226,
             "track_count": 20,
-            "track_id": 24655,
+            "track_id": 24658,
             "track_number": 9,
             "track_type": "File",
             "year": 1970
@@ -12241,7 +12241,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 143306,
             "track_count": 20,
-            "track_id": 24657,
+            "track_id": 24660,
             "track_number": 10,
             "track_type": "File",
             "year": 1970
@@ -12270,7 +12270,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 191960,
             "track_count": 20,
-            "track_id": 24659,
+            "track_id": 24662,
             "track_number": 11,
             "track_type": "File",
             "year": 1970
@@ -12299,7 +12299,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 152053,
             "track_count": 20,
-            "track_id": 24661,
+            "track_id": 24664,
             "track_number": 12,
             "track_type": "File",
             "year": 1971
@@ -12329,7 +12329,7 @@
             "sort_name": "Guitar Man",
             "total_time": 225880,
             "track_count": 20,
-            "track_id": 24663,
+            "track_id": 24666,
             "track_number": 13,
             "track_type": "File",
             "year": 1972
@@ -12358,7 +12358,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 218906,
             "track_count": 20,
-            "track_id": 24665,
+            "track_id": 24668,
             "track_number": 14,
             "track_type": "File",
             "year": 1973
@@ -12388,7 +12388,7 @@
             "sort_name": "Last Time",
             "total_time": 249800,
             "track_count": 20,
-            "track_id": 24667,
+            "track_id": 24670,
             "track_number": 15,
             "track_type": "File",
             "year": 1969
@@ -12417,7 +12417,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 156640,
             "track_count": 20,
-            "track_id": 24669,
+            "track_id": 24672,
             "track_number": 16,
             "track_type": "File",
             "year": 1972
@@ -12446,7 +12446,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 176773,
             "track_count": 20,
-            "track_id": 24671,
+            "track_id": 24674,
             "track_number": 17,
             "track_type": "File",
             "year": 1971
@@ -12475,7 +12475,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 201453,
             "track_count": 20,
-            "track_id": 24673,
+            "track_id": 24676,
             "track_number": 18,
             "track_type": "File",
             "year": 1972
@@ -12504,7 +12504,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 233626,
             "track_count": 20,
-            "track_id": 24675,
+            "track_id": 24678,
             "track_number": 19,
             "track_type": "File",
             "year": 1969
@@ -12533,7 +12533,7 @@
             "sort_album": "Best Of Bread",
             "total_time": 174493,
             "track_count": 20,
-            "track_id": 24677,
+            "track_id": 24680,
             "track_number": 20,
             "track_type": "File",
             "year": 1977
@@ -12563,7 +12563,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 336093,
             "track_count": 17,
-            "track_id": 24679,
+            "track_id": 24682,
             "track_number": 1,
             "track_type": "File",
             "year": 1977
@@ -12593,7 +12593,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 200040,
             "track_count": 17,
-            "track_id": 24681,
+            "track_id": 24684,
             "track_number": 2,
             "track_type": "File",
             "year": 1974
@@ -12623,7 +12623,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 256133,
             "track_count": 17,
-            "track_id": 24683,
+            "track_id": 24686,
             "track_number": 3,
             "track_type": "File",
             "year": 1979
@@ -12653,7 +12653,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 197160,
             "track_count": 17,
-            "track_id": 24685,
+            "track_id": 24688,
             "track_number": 4,
             "track_type": "File",
             "year": 1979
@@ -12683,7 +12683,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 240840,
             "track_count": 17,
-            "track_id": 24687,
+            "track_id": 24690,
             "track_number": 5,
             "track_type": "File",
             "year": 1981
@@ -12713,7 +12713,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 260626,
             "track_count": 17,
-            "track_id": 24689,
+            "track_id": 24692,
             "track_number": 6,
             "track_type": "File",
             "year": 1981
@@ -12743,7 +12743,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 321000,
             "track_count": 17,
-            "track_id": 24691,
+            "track_id": 24694,
             "track_number": 7,
             "track_type": "File",
             "year": 1980
@@ -12773,7 +12773,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 260600,
             "track_count": 17,
-            "track_id": 24693,
+            "track_id": 24696,
             "track_number": 8,
             "track_type": "File",
             "year": 1981
@@ -12803,7 +12803,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 274573,
             "track_count": 17,
-            "track_id": 24695,
+            "track_id": 24698,
             "track_number": 9,
             "track_type": "File",
             "year": 1982
@@ -12833,7 +12833,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 247333,
             "track_count": 17,
-            "track_id": 24697,
+            "track_id": 24700,
             "track_number": 10,
             "track_type": "File",
             "year": 1982
@@ -12864,7 +12864,7 @@
             "sort_name": "Language Of Love",
             "total_time": 224626,
             "track_count": 17,
-            "track_id": 24699,
+            "track_id": 24702,
             "track_number": 11,
             "track_type": "File",
             "year": 1984
@@ -12896,7 +12896,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 278040,
             "track_count": 17,
-            "track_id": 24701,
+            "track_id": 24704,
             "track_number": 12,
             "track_type": "File",
             "year": 1984
@@ -12926,7 +12926,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 330093,
             "track_count": 17,
-            "track_id": 24703,
+            "track_id": 24706,
             "track_number": 13,
             "track_type": "File",
             "year": 1987
@@ -12956,7 +12956,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 287400,
             "track_count": 17,
-            "track_id": 24705,
+            "track_id": 24708,
             "track_number": 14,
             "track_type": "File",
             "year": 1987
@@ -12986,7 +12986,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 264266,
             "track_count": 17,
-            "track_id": 24707,
+            "track_id": 24710,
             "track_number": 15,
             "track_type": "File",
             "year": 1990
@@ -13016,7 +13016,7 @@
             "sort_album": "Very Best Of Dan Fogelberg",
             "total_time": 263733,
             "track_count": 17,
-            "track_id": 24709,
+            "track_id": 24712,
             "track_number": 16,
             "track_type": "File",
             "year": 1993
@@ -13047,7 +13047,7 @@
             "sort_name": "Love Like This",
             "total_time": 236573,
             "track_count": 17,
-            "track_id": 24711,
+            "track_id": 24714,
             "track_number": 17,
             "track_type": "File",
             "year": 1993
@@ -13080,7 +13080,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 167209,
             "track_count": 16,
-            "track_id": 20317,
+            "track_id": 20358,
             "track_number": 1,
             "track_type": "File",
             "year": 1965
@@ -13113,7 +13113,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 197146,
             "track_count": 16,
-            "track_id": 20319,
+            "track_id": 20360,
             "track_number": 2,
             "track_type": "File",
             "year": 1965
@@ -13146,7 +13146,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 124995,
             "track_count": 16,
-            "track_id": 20321,
+            "track_id": 20362,
             "track_number": 3,
             "track_type": "File",
             "year": 1965
@@ -13179,7 +13179,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 199706,
             "track_count": 16,
-            "track_id": 20323,
+            "track_id": 20364,
             "track_number": 4,
             "track_type": "File",
             "year": 1965
@@ -13212,7 +13212,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 209240,
             "track_count": 16,
-            "track_id": 20325,
+            "track_id": 20366,
             "track_number": 5,
             "track_type": "File",
             "year": 1965
@@ -13245,7 +13245,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 201090,
             "track_count": 16,
-            "track_id": 20327,
+            "track_id": 20368,
             "track_number": 6,
             "track_type": "File",
             "year": 1965
@@ -13278,7 +13278,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 141139,
             "track_count": 16,
-            "track_id": 20329,
+            "track_id": 20370,
             "track_number": 7,
             "track_type": "File",
             "year": 1965
@@ -13311,7 +13311,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 336326,
             "track_count": 16,
-            "track_id": 20331,
+            "track_id": 20372,
             "track_number": 8,
             "track_type": "File",
             "year": 1965
@@ -13345,7 +13345,7 @@
             "sort_name": "Sound of Music",
             "total_time": 133120,
             "track_count": 16,
-            "track_id": 20333,
+            "track_id": 20374,
             "track_number": 9,
             "track_type": "File",
             "year": 1965
@@ -13379,7 +13379,7 @@
             "sort_name": "Lonely Goatherd",
             "total_time": 193776,
             "track_count": 16,
-            "track_id": 20335,
+            "track_id": 20376,
             "track_number": 10,
             "track_type": "File",
             "year": 1965
@@ -13412,7 +13412,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 177084,
             "track_count": 16,
-            "track_id": 20337,
+            "track_id": 20378,
             "track_number": 11,
             "track_type": "File",
             "year": 1965
@@ -13445,7 +13445,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 139206,
             "track_count": 16,
-            "track_id": 20339,
+            "track_id": 20380,
             "track_number": 12,
             "track_type": "File",
             "year": 1965
@@ -13478,7 +13478,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 199340,
             "track_count": 16,
-            "track_id": 20341,
+            "track_id": 20382,
             "track_number": 13,
             "track_type": "File",
             "year": 1965
@@ -13511,7 +13511,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 150308,
             "track_count": 16,
-            "track_id": 20343,
+            "track_id": 20384,
             "track_number": 14,
             "track_type": "File",
             "year": 1965
@@ -13544,7 +13544,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 113136,
             "track_count": 16,
-            "track_id": 20345,
+            "track_id": 20386,
             "track_number": 15,
             "track_type": "File",
             "year": 1965
@@ -13577,7 +13577,7 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 81475,
             "track_count": 16,
-            "track_id": 20347,
+            "track_id": 20388,
             "track_number": 16,
             "track_type": "File",
             "year": 1965
@@ -13610,7 +13610,7 @@
             "size": 8401855,
             "total_time": 236737,
             "track_count": 23,
-            "track_id": 28681,
+            "track_id": 28684,
             "track_number": 1,
             "track_type": "File",
             "year": 2015
@@ -13645,7 +13645,7 @@
             "skip_date": "2022-11-29T00:00:00",
             "total_time": 156630,
             "track_count": 23,
-            "track_id": 28683,
+            "track_id": 28686,
             "track_number": 2,
             "track_type": "File",
             "year": 2015
@@ -13682,7 +13682,7 @@
             "sort_name": "My Shot",
             "total_time": 333154,
             "track_count": 23,
-            "track_id": 28685,
+            "track_id": 28688,
             "track_number": 3,
             "track_type": "File",
             "year": 2015
@@ -13718,7 +13718,7 @@
             "sort_name": "Story of Tonight",
             "total_time": 91980,
             "track_count": 23,
-            "track_id": 28687,
+            "track_id": 28690,
             "track_number": 4,
             "track_type": "File",
             "year": 2015
@@ -13754,7 +13754,7 @@
             "sort_name": "Schuyler Sisters",
             "total_time": 186542,
             "track_count": 23,
-            "track_id": 28689,
+            "track_id": 28692,
             "track_number": 5,
             "track_type": "File",
             "year": 2015
@@ -13790,7 +13790,7 @@
             "sort_name": "Farmer Refuted",
             "total_time": 112742,
             "track_count": 23,
-            "track_id": 28691,
+            "track_id": 28694,
             "track_number": 6,
             "track_type": "File",
             "year": 2015
@@ -13826,7 +13826,7 @@
             "sort_name": "You'll Be Back",
             "total_time": 208321,
             "track_count": 23,
-            "track_id": 28693,
+            "track_id": 28696,
             "track_number": 7,
             "track_type": "File",
             "year": 2015
@@ -13863,7 +13863,7 @@
             "sort_name": "Right Hand Man",
             "total_time": 321696,
             "track_count": 23,
-            "track_id": 28695,
+            "track_id": 28698,
             "track_number": 8,
             "track_type": "File",
             "year": 2015
@@ -13899,7 +13899,7 @@
             "sort_name": "Winter's Ball",
             "total_time": 69900,
             "track_count": 23,
-            "track_id": 28697,
+            "track_id": 28700,
             "track_number": 9,
             "track_type": "File",
             "year": 2015
@@ -13935,7 +13935,7 @@
             "sort_name": "Helpless",
             "total_time": 249770,
             "track_count": 23,
-            "track_id": 28699,
+            "track_id": 28702,
             "track_number": 10,
             "track_type": "File",
             "year": 2015
@@ -13971,7 +13971,7 @@
             "sort_name": "Satisfied",
             "total_time": 329228,
             "track_count": 23,
-            "track_id": 28701,
+            "track_id": 28704,
             "track_number": 11,
             "track_type": "File",
             "year": 2015
@@ -14008,7 +14008,7 @@
             "sort_name": "Story of Tonight (Reprise)",
             "total_time": 115880,
             "track_count": 23,
-            "track_id": 28703,
+            "track_id": 28706,
             "track_number": 12,
             "track_type": "File",
             "year": 2015
@@ -14044,7 +14044,7 @@
             "sort_name": "Wait For It",
             "total_time": 193749,
             "track_count": 23,
-            "track_id": 28705,
+            "track_id": 28708,
             "track_number": 13,
             "track_type": "File",
             "year": 2015
@@ -14081,7 +14081,7 @@
             "sort_name": "Stay Alive",
             "total_time": 159102,
             "track_count": 23,
-            "track_id": 28707,
+            "track_id": 28710,
             "track_number": 14,
             "track_type": "File",
             "year": 2015
@@ -14117,7 +14117,7 @@
             "sort_name": "Ten Duel Commandments",
             "total_time": 106646,
             "track_count": 23,
-            "track_id": 28709,
+            "track_id": 28712,
             "track_number": 15,
             "track_type": "File",
             "year": 2015
@@ -14153,7 +14153,7 @@
             "sort_name": "Meet Me Inside",
             "total_time": 83632,
             "track_count": 23,
-            "track_id": 28711,
+            "track_id": 28714,
             "track_number": 16,
             "track_type": "File",
             "year": 2015
@@ -14189,7 +14189,7 @@
             "sort_name": "That Would Be Enough",
             "total_time": 178445,
             "track_count": 23,
-            "track_id": 28713,
+            "track_id": 28716,
             "track_number": 17,
             "track_type": "File",
             "year": 2015
@@ -14225,7 +14225,7 @@
             "sort_name": "Guns and Ships",
             "total_time": 127578,
             "track_count": 23,
-            "track_id": 28715,
+            "track_id": 28718,
             "track_number": 18,
             "track_type": "File",
             "year": 2015
@@ -14261,7 +14261,7 @@
             "sort_name": "History Has Its Eyes On You",
             "total_time": 97050,
             "track_count": 23,
-            "track_id": 28717,
+            "track_id": 28720,
             "track_number": 19,
             "track_type": "File",
             "year": 2015
@@ -14298,7 +14298,7 @@
             "sort_name": "Yorktown (The World Turned Upside Down)",
             "total_time": 242587,
             "track_count": 23,
-            "track_id": 28719,
+            "track_id": 28722,
             "track_number": 20,
             "track_type": "File",
             "year": 2015
@@ -14334,7 +14334,7 @@
             "sort_name": "What Comes Next?",
             "total_time": 99343,
             "track_count": 23,
-            "track_id": 28721,
+            "track_id": 28724,
             "track_number": 21,
             "track_type": "File",
             "year": 2015
@@ -14370,7 +14370,7 @@
             "sort_name": "Dear Theodosia",
             "total_time": 184004,
             "track_count": 23,
-            "track_id": 28723,
+            "track_id": 28726,
             "track_number": 22,
             "track_type": "File",
             "year": 2015
@@ -14406,7 +14406,7 @@
             "sort_name": "Non-Stop",
             "total_time": 385438,
             "track_count": 23,
-            "track_id": 28725,
+            "track_id": 28728,
             "track_number": 23,
             "track_type": "File",
             "year": 2015
@@ -14442,7 +14442,7 @@
             "sort_name": "What'd I Miss",
             "total_time": 236701,
             "track_count": 23,
-            "track_id": 28727,
+            "track_id": 28730,
             "track_number": 1,
             "track_type": "File",
             "year": 2015
@@ -14479,7 +14479,7 @@
             "sort_name": "Cabinet Battle #1",
             "total_time": 215226,
             "track_count": 23,
-            "track_id": 28729,
+            "track_id": 28732,
             "track_number": 2,
             "track_type": "File",
             "year": 2015
@@ -14515,7 +14515,7 @@
             "sort_name": "Take a Break",
             "total_time": 286485,
             "track_count": 23,
-            "track_id": 28731,
+            "track_id": 28734,
             "track_number": 3,
             "track_type": "File",
             "year": 2015
@@ -14551,7 +14551,7 @@
             "sort_name": "Say No To This",
             "total_time": 242017,
             "track_count": 23,
-            "track_id": 28733,
+            "track_id": 28736,
             "track_number": 4,
             "track_type": "File",
             "year": 2015
@@ -14587,7 +14587,7 @@
             "sort_name": "Room Where It Happens",
             "total_time": 318214,
             "track_count": 23,
-            "track_id": 28735,
+            "track_id": 28738,
             "track_number": 5,
             "track_type": "File",
             "year": 2015
@@ -14623,7 +14623,7 @@
             "sort_name": "Schuyler Defeated",
             "total_time": 63558,
             "track_count": 23,
-            "track_id": 28737,
+            "track_id": 28740,
             "track_number": 6,
             "track_type": "File",
             "year": 2015
@@ -14659,7 +14659,7 @@
             "sort_name": "Cabinet Battle #2",
             "total_time": 142639,
             "track_count": 23,
-            "track_id": 28739,
+            "track_id": 28742,
             "track_number": 7,
             "track_type": "File",
             "year": 2015
@@ -14696,7 +14696,7 @@
             "sort_name": "Washington On Your Side",
             "total_time": 181477,
             "track_count": 23,
-            "track_id": 28741,
+            "track_id": 28744,
             "track_number": 8,
             "track_type": "File",
             "year": 2015
@@ -14732,7 +14732,7 @@
             "sort_name": "One Last Time",
             "total_time": 296387,
             "track_count": 23,
-            "track_id": 28743,
+            "track_id": 28746,
             "track_number": 9,
             "track_type": "File",
             "year": 2015
@@ -14768,7 +14768,7 @@
             "sort_name": "I Know Him",
             "total_time": 97979,
             "track_count": 23,
-            "track_id": 28745,
+            "track_id": 28748,
             "track_number": 10,
             "track_type": "File",
             "year": 2015
@@ -14804,7 +14804,7 @@
             "sort_name": "Adams Administration",
             "total_time": 54840,
             "track_count": 23,
-            "track_id": 28747,
+            "track_id": 28750,
             "track_number": 11,
             "track_type": "File",
             "year": 2015
@@ -14840,7 +14840,7 @@
             "sort_name": "We Know",
             "total_time": 142044,
             "track_count": 23,
-            "track_id": 28749,
+            "track_id": 28752,
             "track_number": 12,
             "track_type": "File",
             "year": 2015
@@ -14876,7 +14876,7 @@
             "sort_name": "Hurricane",
             "total_time": 143551,
             "track_count": 23,
-            "track_id": 28751,
+            "track_id": 28754,
             "track_number": 13,
             "track_type": "File",
             "year": 2015
@@ -14912,7 +14912,7 @@
             "sort_name": "Reynolds Pamphlet",
             "total_time": 128470,
             "track_count": 23,
-            "track_id": 28753,
+            "track_id": 28756,
             "track_number": 14,
             "track_type": "File",
             "year": 2015
@@ -14948,7 +14948,7 @@
             "sort_name": "Burn",
             "total_time": 225240,
             "track_count": 23,
-            "track_id": 28755,
+            "track_id": 28758,
             "track_number": 15,
             "track_type": "File",
             "year": 2015
@@ -14985,7 +14985,7 @@
             "sort_name": "Blow Us All Away",
             "total_time": 173594,
             "track_count": 23,
-            "track_id": 28757,
+            "track_id": 28760,
             "track_number": 16,
             "track_type": "File",
             "year": 2015
@@ -15018,7 +15018,7 @@
             "size": 4185806,
             "total_time": 111553,
             "track_count": 23,
-            "track_id": 28759,
+            "track_id": 28762,
             "track_number": 17,
             "track_type": "File",
             "year": 2015
@@ -15054,7 +15054,7 @@
             "sort_name": "It's Quiet Uptown",
             "total_time": 270171,
             "track_count": 23,
-            "track_id": 28761,
+            "track_id": 28764,
             "track_number": 18,
             "track_type": "File",
             "year": 2015
@@ -15089,7 +15089,7 @@
             "sort_name": "Election Of 1800",
             "total_time": 237982,
             "track_count": 23,
-            "track_id": 28763,
+            "track_id": 28766,
             "track_number": 19,
             "track_type": "File",
             "year": 2015
@@ -15122,7 +15122,7 @@
             "size": 5485738,
             "total_time": 150063,
             "track_count": 23,
-            "track_id": 28765,
+            "track_id": 28768,
             "track_number": 20,
             "track_type": "File",
             "year": 2015
@@ -15155,7 +15155,7 @@
             "size": 2098384,
             "total_time": 47943,
             "track_count": 23,
-            "track_id": 28767,
+            "track_id": 28770,
             "track_number": 21,
             "track_type": "File",
             "year": 2015
@@ -15191,7 +15191,7 @@
             "sort_name": "World Was Wide Enough",
             "total_time": 302191,
             "track_count": 23,
-            "track_id": 28769,
+            "track_id": 28772,
             "track_number": 22,
             "track_type": "File",
             "year": 2015
@@ -15224,7 +15224,7 @@
             "size": 7602309,
             "total_time": 217229,
             "track_count": 23,
-            "track_id": 28771,
+            "track_id": 28774,
             "track_number": 23,
             "track_type": "File",
             "year": 2015
@@ -15256,7 +15256,7 @@
             "sort_name": "Rumor in St. Petersburg",
             "total_time": 207542,
             "track_count": 17,
-            "track_id": 32483,
+            "track_id": 32482,
             "track_number": 1,
             "track_type": "File",
             "year": 1997
@@ -15287,7 +15287,7 @@
             "size": 3657755,
             "total_time": 177632,
             "track_count": 17,
-            "track_id": 32485,
+            "track_id": 32484,
             "track_number": 2,
             "track_type": "File",
             "year": 1997
@@ -15318,7 +15318,7 @@
             "size": 3514086,
             "total_time": 170448,
             "track_count": 17,
-            "track_id": 32487,
+            "track_id": 32486,
             "track_number": 3,
             "track_type": "File",
             "year": 1997
@@ -15349,7 +15349,7 @@
             "size": 4171847,
             "total_time": 203337,
             "track_count": 17,
-            "track_id": 32489,
+            "track_id": 32488,
             "track_number": 4,
             "track_type": "File",
             "year": 1997
@@ -15380,7 +15380,7 @@
             "size": 3273787,
             "total_time": 158432,
             "track_count": 17,
-            "track_id": 32491,
+            "track_id": 32490,
             "track_number": 5,
             "track_type": "File",
             "year": 1997
@@ -15411,7 +15411,7 @@
             "size": 2251373,
             "total_time": 107311,
             "track_count": 17,
-            "track_id": 32493,
+            "track_id": 32492,
             "track_number": 6,
             "track_type": "File",
             "year": 1997
@@ -15442,7 +15442,7 @@
             "size": 3807217,
             "total_time": 185103,
             "track_count": 17,
-            "track_id": 32495,
+            "track_id": 32494,
             "track_number": 7,
             "track_type": "File",
             "year": 1997
@@ -15473,7 +15473,7 @@
             "size": 4566325,
             "total_time": 223059,
             "track_count": 17,
-            "track_id": 32497,
+            "track_id": 32496,
             "track_number": 8,
             "track_type": "File",
             "year": 1997
@@ -15504,7 +15504,7 @@
             "size": 5043825,
             "total_time": 246935,
             "track_count": 17,
-            "track_id": 32499,
+            "track_id": 32498,
             "track_number": 9,
             "track_type": "File",
             "year": 1997
@@ -15535,7 +15535,7 @@
             "size": 4443021,
             "total_time": 216894,
             "track_count": 17,
-            "track_id": 32501,
+            "track_id": 32500,
             "track_number": 10,
             "track_type": "File",
             "year": 1997
@@ -15566,7 +15566,7 @@
             "size": 7810688,
             "total_time": 385280,
             "track_count": 17,
-            "track_id": 32503,
+            "track_id": 32502,
             "track_number": 11,
             "track_type": "File",
             "year": 1997
@@ -15597,7 +15597,7 @@
             "size": 3275321,
             "total_time": 158511,
             "track_count": 17,
-            "track_id": 32505,
+            "track_id": 32504,
             "track_number": 12,
             "track_type": "File",
             "year": 1997
@@ -15629,7 +15629,7 @@
             "sort_name": "Nightmare",
             "total_time": 187611,
             "track_count": 17,
-            "track_id": 32507,
+            "track_id": 32506,
             "track_number": 13,
             "track_type": "File",
             "year": 1997
@@ -15660,7 +15660,7 @@
             "size": 5533343,
             "total_time": 271412,
             "track_count": 17,
-            "track_id": 32509,
+            "track_id": 32508,
             "track_number": 14,
             "track_type": "File",
             "year": 1997
@@ -15691,7 +15691,7 @@
             "size": 4091915,
             "total_time": 199340,
             "track_count": 17,
-            "track_id": 32511,
+            "track_id": 32510,
             "track_number": 15,
             "track_type": "File",
             "year": 1997
@@ -15722,7 +15722,7 @@
             "size": 3740811,
             "total_time": 181786,
             "track_count": 17,
-            "track_id": 32513,
+            "track_id": 32512,
             "track_number": 16,
             "track_type": "File",
             "year": 1997
@@ -15753,7 +15753,7 @@
             "size": 3858940,
             "total_time": 187689,
             "track_count": 17,
-            "track_id": 32515,
+            "track_id": 32514,
             "track_number": 17,
             "track_type": "File",
             "year": 1997
@@ -15789,7 +15789,7 @@
             "sort_name": "Always and Forever",
             "total_time": 373906,
             "track_count": 13,
-            "track_id": 4775,
+            "track_id": 4826,
             "track_number": 4,
             "track_type": "File",
             "year": 1976
@@ -15822,7 +15822,7 @@
             "sort_name": "Take It to the Limit",
             "total_time": 287081,
             "track_count": 17,
-            "track_id": 32711,
+            "track_id": 32710,
             "track_number": 15,
             "track_type": "File",
             "year": 1975
@@ -15855,7 +15855,7 @@
             "sort_name": "After the Thrill Is Gone",
             "total_time": 236663,
             "track_count": 17,
-            "track_id": 32713,
+            "track_id": 32712,
             "track_number": 16,
             "track_type": "File",
             "year": 1975
@@ -15888,7 +15888,7 @@
             "sort_name": "Midnight Flyer",
             "total_time": 238136,
             "track_count": 17,
-            "track_id": 32715,
+            "track_id": 32714,
             "track_number": 11,
             "track_type": "File",
             "year": 1974
@@ -15921,7 +15921,7 @@
             "sort_name": "Ol' 55",
             "total_time": 261249,
             "track_count": 17,
-            "track_id": 32717,
+            "track_id": 32716,
             "track_number": 10,
             "track_type": "File",
             "year": 1974
@@ -15954,7 +15954,7 @@
             "sort_name": "Lyin' Eyes",
             "total_time": 381896,
             "track_count": 17,
-            "track_id": 32719,
+            "track_id": 32718,
             "track_number": 13,
             "track_type": "File",
             "year": 1975
@@ -15987,7 +15987,7 @@
             "sort_name": "On the Border",
             "total_time": 263469,
             "track_count": 17,
-            "track_id": 32721,
+            "track_id": 32720,
             "track_number": 12,
             "track_type": "File",
             "year": 1974
@@ -16020,7 +16020,7 @@
             "sort_name": "Best of My Love",
             "total_time": 274905,
             "track_count": 17,
-            "track_id": 32723,
+            "track_id": 32722,
             "track_number": 8,
             "track_type": "File",
             "year": 1974
@@ -16053,7 +16053,7 @@
             "sort_name": "Already Gone",
             "total_time": 255106,
             "track_count": 17,
-            "track_id": 32725,
+            "track_id": 32724,
             "track_number": 7,
             "track_type": "File",
             "year": 1974
@@ -16086,7 +16086,7 @@
             "sort_name": "James Dean",
             "total_time": 218282,
             "track_count": 17,
-            "track_id": 32727,
+            "track_id": 32726,
             "track_number": 9,
             "track_type": "File",
             "year": 1974
@@ -16119,7 +16119,7 @@
             "sort_name": "One of These Nights",
             "total_time": 291409,
             "track_count": 17,
-            "track_id": 32731,
+            "track_id": 32730,
             "track_number": 14,
             "track_type": "File",
             "year": 1975
@@ -16152,7 +16152,7 @@
             "sort_name": "Desperado",
             "total_time": 213712,
             "track_count": 17,
-            "track_id": 32739,
+            "track_id": 32738,
             "track_number": 4,
             "track_type": "File",
             "year": 1973
@@ -16185,7 +16185,7 @@
             "sort_name": "Peaceful Easy Feeling",
             "total_time": 257957,
             "track_count": 17,
-            "track_id": 32741,
+            "track_id": 32740,
             "track_number": 3,
             "track_type": "File",
             "year": 1972
@@ -16218,7 +16218,7 @@
             "sort_name": "Doolin-Dalton",
             "total_time": 207059,
             "track_count": 17,
-            "track_id": 32743,
+            "track_id": 32742,
             "track_number": 6,
             "track_type": "File",
             "year": 1973
@@ -16251,7 +16251,7 @@
             "sort_name": "Tequila Sunrise",
             "total_time": 173056,
             "track_count": 17,
-            "track_id": 32745,
+            "track_id": 32744,
             "track_number": 5,
             "track_type": "File",
             "year": 1973
@@ -16284,7 +16284,7 @@
             "sort_name": "Take It Easy",
             "total_time": 211578,
             "track_count": 17,
-            "track_id": 32749,
+            "track_id": 32748,
             "track_number": 1,
             "track_type": "File",
             "year": 1972
@@ -16317,7 +16317,7 @@
             "sort_name": "Witchy Woman",
             "total_time": 250889,
             "track_count": 17,
-            "track_id": 32751,
+            "track_id": 32750,
             "track_number": 2,
             "track_type": "File",
             "year": 1972
@@ -16350,7 +16350,7 @@
             "sort_name": "Get Over It",
             "total_time": 209833,
             "track_count": 16,
-            "track_id": 32761,
+            "track_id": 32760,
             "track_number": 15,
             "track_type": "File",
             "year": 2000
@@ -16383,7 +16383,7 @@
             "sort_name": "Hole In the World",
             "total_time": 256939,
             "track_count": 16,
-            "track_id": 32763,
+            "track_id": 32762,
             "track_number": 16,
             "track_type": "File",
             "year": 2003
@@ -16416,7 +16416,7 @@
             "sort_name": "Love Will Keep Us Alive",
             "total_time": 242154,
             "track_count": 16,
-            "track_id": 32831,
+            "track_id": 32830,
             "track_number": 14,
             "track_type": "File",
             "year": 1994
@@ -16449,7 +16449,7 @@
             "sort_name": "Last Resort",
             "total_time": 444365,
             "track_count": 16,
-            "track_id": 32845,
+            "track_id": 32844,
             "track_number": 4,
             "track_type": "File",
             "year": 1976
@@ -16482,7 +16482,7 @@
             "sort_name": "Please Come Home for Christmas",
             "total_time": 177943,
             "track_count": 16,
-            "track_id": 32847,
+            "track_id": 32846,
             "track_number": 6,
             "track_type": "File",
             "year": 1978
@@ -16515,7 +16515,7 @@
             "sort_name": "New Kid In Town",
             "total_time": 304933,
             "track_count": 16,
-            "track_id": 32851,
+            "track_id": 32850,
             "track_number": 5,
             "track_type": "File",
             "year": 1976
@@ -16548,7 +16548,7 @@
             "sort_name": "Life In the Fast Lane",
             "total_time": 286218,
             "track_count": 16,
-            "track_id": 32853,
+            "track_id": 32852,
             "track_number": 1,
             "track_type": "File",
             "year": 1976
@@ -16581,7 +16581,7 @@
             "sort_name": "Hotel California",
             "total_time": 391356,
             "track_count": 17,
-            "track_id": 32855,
+            "track_id": 32854,
             "track_number": 17,
             "track_type": "File",
             "year": 1976
@@ -16614,7 +16614,7 @@
             "sort_name": "Victim of Love",
             "total_time": 250071,
             "track_count": 16,
-            "track_id": 32857,
+            "track_id": 32856,
             "track_number": 3,
             "track_type": "File",
             "year": 1976
@@ -16647,7 +16647,7 @@
             "sort_name": "Wasted Time",
             "total_time": 296165,
             "track_count": 16,
-            "track_id": 32861,
+            "track_id": 32860,
             "track_number": 2,
             "track_type": "File",
             "year": 1976
@@ -16680,7 +16680,7 @@
             "sort_name": "In the City",
             "total_time": 224821,
             "track_count": 16,
-            "track_id": 32865,
+            "track_id": 32864,
             "track_number": 11,
             "track_type": "File",
             "year": 1979
@@ -16713,7 +16713,7 @@
             "sort_name": "Seven Bridges Road (Live)",
             "total_time": 184659,
             "track_count": 16,
-            "track_id": 32867,
+            "track_id": 32866,
             "track_number": 13,
             "track_type": "File",
             "year": 1980
@@ -16746,7 +16746,7 @@
             "sort_name": "Those Shoes",
             "total_time": 294802,
             "track_count": 16,
-            "track_id": 32869,
+            "track_id": 32868,
             "track_number": 12,
             "track_type": "File",
             "year": 1979
@@ -16779,7 +16779,7 @@
             "sort_name": "Sad Cafe",
             "total_time": 332921,
             "track_count": 16,
-            "track_id": 32871,
+            "track_id": 32870,
             "track_number": 8,
             "track_type": "File",
             "year": 1979
@@ -16812,7 +16812,7 @@
             "sort_name": "Heartache Tonight",
             "total_time": 265638,
             "track_count": 16,
-            "track_id": 32873,
+            "track_id": 32872,
             "track_number": 7,
             "track_type": "File",
             "year": 1979
@@ -16845,7 +16845,7 @@
             "sort_name": "Long Run",
             "total_time": 221060,
             "track_count": 16,
-            "track_id": 32877,
+            "track_id": 32876,
             "track_number": 10,
             "track_type": "File",
             "year": 1979
@@ -16878,7 +16878,7 @@
             "sort_name": "I Can't Tell You Why",
             "total_time": 294692,
             "track_count": 16,
-            "track_id": 32879,
+            "track_id": 32878,
             "track_number": 9,
             "track_type": "File",
             "year": 1979
