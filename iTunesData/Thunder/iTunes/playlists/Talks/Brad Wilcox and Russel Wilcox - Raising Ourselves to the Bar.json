@@ -3,7 +3,7 @@
     "display_path": "/Talks/Brad Wilcox and Russel Wilcox - Raising Ourselves to the Bar",
     "name": "Brad Wilcox and Russel Wilcox - Raising Ourselves to the Bar",
     "parent_persistent_id": "5EA2C9CCFE391E48",
-    "playlist_id": 84646,
+    "playlist_id": 84790,
     "playlist_persistent_id": "60E4003110BAF9A9",
     "tracks": [
         {
@@ -27,7 +27,7 @@
             "size": 5289803,
             "total_time": 257933,
             "track_count": 12,
-            "track_id": 18398,
+            "track_id": 18412,
             "track_number": 1,
             "track_type": "File",
             "year": 2007
@@ -53,7 +53,7 @@
             "size": 7787689,
             "total_time": 382824,
             "track_count": 12,
-            "track_id": 18400,
+            "track_id": 18414,
             "track_number": 2,
             "track_type": "File",
             "year": 2007
@@ -79,7 +79,7 @@
             "size": 7238595,
             "total_time": 355369,
             "track_count": 12,
-            "track_id": 18402,
+            "track_id": 18416,
             "track_number": 3,
             "track_type": "File",
             "year": 2007
@@ -105,7 +105,7 @@
             "size": 9722305,
             "total_time": 479555,
             "track_count": 12,
-            "track_id": 18404,
+            "track_id": 18418,
             "track_number": 4,
             "track_type": "File",
             "year": 2007
@@ -131,7 +131,7 @@
             "size": 10906697,
             "total_time": 538775,
             "track_count": 12,
-            "track_id": 18406,
+            "track_id": 18420,
             "track_number": 5,
             "track_type": "File",
             "year": 2007
@@ -157,7 +157,7 @@
             "size": 9282926,
             "total_time": 457586,
             "track_count": 12,
-            "track_id": 18408,
+            "track_id": 18422,
             "track_number": 6,
             "track_type": "File",
             "year": 2007
@@ -183,7 +183,7 @@
             "size": 7585518,
             "total_time": 372715,
             "track_count": 12,
-            "track_id": 18410,
+            "track_id": 18424,
             "track_number": 7,
             "track_type": "File",
             "year": 2007
@@ -209,7 +209,7 @@
             "size": 7573502,
             "total_time": 372114,
             "track_count": 12,
-            "track_id": 18412,
+            "track_id": 18426,
             "track_number": 8,
             "track_type": "File",
             "year": 2007
@@ -235,7 +235,7 @@
             "size": 8130955,
             "total_time": 399986,
             "track_count": 12,
-            "track_id": 18414,
+            "track_id": 18428,
             "track_number": 9,
             "track_type": "File",
             "year": 2007
@@ -261,7 +261,7 @@
             "size": 7968475,
             "total_time": 391862,
             "track_count": 12,
-            "track_id": 18416,
+            "track_id": 18430,
             "track_number": 10,
             "track_type": "File",
             "year": 2007
@@ -287,7 +287,7 @@
             "size": 8698859,
             "total_time": 428382,
             "track_count": 12,
-            "track_id": 18418,
+            "track_id": 18432,
             "track_number": 11,
             "track_type": "File",
             "year": 2007
@@ -313,7 +313,7 @@
             "size": 7194206,
             "total_time": 353149,
             "track_count": 12,
-            "track_id": 18420,
+            "track_id": 18434,
             "track_number": 12,
             "track_type": "File",
             "year": 2007
@@ -339,7 +339,7 @@
             "size": 2997364,
             "total_time": 143307,
             "track_count": 11,
-            "track_id": 18422,
+            "track_id": 18436,
             "track_number": 1,
             "track_type": "File",
             "year": 2007
@@ -365,7 +365,7 @@
             "size": 6696258,
             "total_time": 328254,
             "track_count": 11,
-            "track_id": 18424,
+            "track_id": 18438,
             "track_number": 2,
             "track_type": "File",
             "year": 2007
@@ -391,7 +391,7 @@
             "size": 9045711,
             "total_time": 445727,
             "track_count": 11,
-            "track_id": 18426,
+            "track_id": 18440,
             "track_number": 3,
             "track_type": "File",
             "year": 2007
@@ -417,7 +417,7 @@
             "size": 9524797,
             "total_time": 469681,
             "track_count": 11,
-            "track_id": 18428,
+            "track_id": 18442,
             "track_number": 4,
             "track_type": "File",
             "year": 2007
@@ -443,7 +443,7 @@
             "size": 10488715,
             "total_time": 517877,
             "track_count": 11,
-            "track_id": 18430,
+            "track_id": 18444,
             "track_number": 5,
             "track_type": "File",
             "year": 2007
@@ -469,7 +469,7 @@
             "size": 5655552,
             "total_time": 276218,
             "track_count": 11,
-            "track_id": 18432,
+            "track_id": 18446,
             "track_number": 6,
             "track_type": "File",
             "year": 2007
@@ -495,7 +495,7 @@
             "size": 9693561,
             "total_time": 478119,
             "track_count": 11,
-            "track_id": 18434,
+            "track_id": 18448,
             "track_number": 7,
             "track_type": "File",
             "year": 2007
@@ -521,7 +521,7 @@
             "size": 11817838,
             "total_time": 584333,
             "track_count": 11,
-            "track_id": 18436,
+            "track_id": 18450,
             "track_number": 8,
             "track_type": "File",
             "year": 2007
@@ -547,7 +547,7 @@
             "size": 10201373,
             "total_time": 503510,
             "track_count": 11,
-            "track_id": 18438,
+            "track_id": 18452,
             "track_number": 9,
             "track_type": "File",
             "year": 2007
@@ -573,7 +573,7 @@
             "size": 11078044,
             "total_time": 547343,
             "track_count": 11,
-            "track_id": 18440,
+            "track_id": 18454,
             "track_number": 10,
             "track_type": "File",
             "year": 2007
@@ -599,7 +599,7 @@
             "size": 10213391,
             "total_time": 504111,
             "track_count": 11,
-            "track_id": 18442,
+            "track_id": 18456,
             "track_number": 11,
             "track_type": "File",
             "year": 2007
@@ -625,7 +625,7 @@
             "size": 11985008,
             "total_time": 592692,
             "track_count": 10,
-            "track_id": 18444,
+            "track_id": 18458,
             "track_number": 1,
             "track_type": "File",
             "year": 2007
@@ -651,7 +651,7 @@
             "size": 11555552,
             "total_time": 571219,
             "track_count": 10,
-            "track_id": 18446,
+            "track_id": 18460,
             "track_number": 2,
             "track_type": "File",
             "year": 2007
@@ -677,7 +677,7 @@
             "size": 7363944,
             "total_time": 361639,
             "track_count": 10,
-            "track_id": 18448,
+            "track_id": 18462,
             "track_number": 3,
             "track_type": "File",
             "year": 2007
@@ -703,7 +703,7 @@
             "size": 8123584,
             "total_time": 399621,
             "track_count": 10,
-            "track_id": 18450,
+            "track_id": 18464,
             "track_number": 4,
             "track_type": "File",
             "year": 2007
@@ -729,7 +729,7 @@
             "size": 9899911,
             "total_time": 488437,
             "track_count": 10,
-            "track_id": 18452,
+            "track_id": 18466,
             "track_number": 5,
             "track_type": "File",
             "year": 2007
@@ -755,7 +755,7 @@
             "size": 10308976,
             "total_time": 508891,
             "track_count": 10,
-            "track_id": 18454,
+            "track_id": 18468,
             "track_number": 6,
             "track_type": "File",
             "year": 2007
@@ -781,7 +781,7 @@
             "size": 10245760,
             "total_time": 505730,
             "track_count": 10,
-            "track_id": 18456,
+            "track_id": 18470,
             "track_number": 7,
             "track_type": "File",
             "year": 2007
@@ -807,7 +807,7 @@
             "size": 9482985,
             "total_time": 467591,
             "track_count": 10,
-            "track_id": 18458,
+            "track_id": 18472,
             "track_number": 8,
             "track_type": "File",
             "year": 2007
@@ -833,7 +833,7 @@
             "size": 6256340,
             "total_time": 306259,
             "track_count": 10,
-            "track_id": 18460,
+            "track_id": 18474,
             "track_number": 9,
             "track_type": "File",
             "year": 2007
@@ -859,7 +859,7 @@
             "size": 12048211,
             "total_time": 595853,
             "track_count": 10,
-            "track_id": 18462,
+            "track_id": 18476,
             "track_number": 10,
             "track_type": "File",
             "year": 2007
@@ -885,7 +885,7 @@
             "size": 5734423,
             "total_time": 280163,
             "track_count": 11,
-            "track_id": 18464,
+            "track_id": 18478,
             "track_number": 1,
             "track_type": "File",
             "year": 2007
@@ -911,7 +911,7 @@
             "size": 7423501,
             "total_time": 364617,
             "track_count": 11,
-            "track_id": 18466,
+            "track_id": 18480,
             "track_number": 2,
             "track_type": "File",
             "year": 2007
@@ -937,7 +937,7 @@
             "size": 7289231,
             "total_time": 357903,
             "track_count": 11,
-            "track_id": 18468,
+            "track_id": 18482,
             "track_number": 3,
             "track_type": "File",
             "year": 2007
@@ -963,7 +963,7 @@
             "size": 8027992,
             "total_time": 394840,
             "track_count": 11,
-            "track_id": 18470,
+            "track_id": 18484,
             "track_number": 4,
             "track_type": "File",
             "year": 2007
@@ -989,7 +989,7 @@
             "size": 10562392,
             "total_time": 521560,
             "track_count": 11,
-            "track_id": 18472,
+            "track_id": 18486,
             "track_number": 5,
             "track_type": "File",
             "year": 2007
@@ -1015,7 +1015,7 @@
             "size": 10870115,
             "total_time": 536946,
             "track_count": 11,
-            "track_id": 18474,
+            "track_id": 18488,
             "track_number": 6,
             "track_type": "File",
             "year": 2007
@@ -1041,7 +1041,7 @@
             "size": 8124645,
             "total_time": 399673,
             "track_count": 11,
-            "track_id": 18476,
+            "track_id": 18490,
             "track_number": 7,
             "track_type": "File",
             "year": 2007
@@ -1067,7 +1067,7 @@
             "size": 10070230,
             "total_time": 496953,
             "track_count": 11,
-            "track_id": 18478,
+            "track_id": 18492,
             "track_number": 8,
             "track_type": "File",
             "year": 2007
@@ -1093,7 +1093,7 @@
             "size": 11580108,
             "total_time": 572447,
             "track_count": 11,
-            "track_id": 18480,
+            "track_id": 18494,
             "track_number": 9,
             "track_type": "File",
             "year": 2007
@@ -1119,7 +1119,7 @@
             "size": 6880174,
             "total_time": 337449,
             "track_count": 11,
-            "track_id": 18482,
+            "track_id": 18496,
             "track_number": 10,
             "track_type": "File",
             "year": 2007
@@ -1145,7 +1145,7 @@
             "size": 8075537,
             "total_time": 397217,
             "track_count": 11,
-            "track_id": 18484,
+            "track_id": 18498,
             "track_number": 11,
             "track_type": "File",
             "year": 2007

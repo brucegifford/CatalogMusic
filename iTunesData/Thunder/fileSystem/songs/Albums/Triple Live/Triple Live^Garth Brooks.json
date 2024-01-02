@@ -1,0 +1,577 @@
+{
+    "album": "Triple Live",
+    "songs": [
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-01 The Thunder Rolls [The Extended.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-01 The Thunder Rolls [The Extended.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The Thunder Rolls [The Extended Concert Version] [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-02 That Summer [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-02 That Summer [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "That Summer [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-03 Ask Me How I Know [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-03 Ask Me How I Know [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Ask Me How I Know [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-04 Fishin' In The Dark [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-04 Fishin' In The Dark [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Fishin' In The Dark [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-05 In Another's Eyes [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-05 In Another's Eyes [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "In Another's Eyes [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-06 Rodeo [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-06 Rodeo [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Rodeo [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-07 Mom [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-07 Mom [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Mom [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-08 Papa Loved Mama [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-08 Papa Loved Mama [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Papa Loved Mama [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/1-09 Guy Goin' Nowhere [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/1-09 Guy Goin' Nowhere [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Guy Goin' Nowhere [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-01 Friends In Low Places [The Exte.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-01 Friends In Low Places [The Exte.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Friends In Low Places [The Extended Concert Version] [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-02 Two Of A Kind, Workin' On A Ful.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-02 Two Of A Kind, Workin' On A Ful.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Two Of A Kind, Workin' On A Full House [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-03 Unanswered Prayers [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-03 Unanswered Prayers [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Unanswered Prayers [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-04 People Loving People [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-04 People Loving People [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "People Loving People [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-05 Shameless [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-05 Shameless [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Shameless [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-06 Ain't Goin Down ('Til The Sun C.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-06 Ain't Goin Down ('Til The Sun C.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Ain't Goin Down ('Til The Sun Comes Up) [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-07 Tacoma [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-07 Tacoma [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Tacoma [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                2,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/2-08 Standing Outside The Fire [Live.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/2-08 Standing Outside The Fire [Live.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                8
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Standing Outside The Fire [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-01 Callin' Baton Rouge [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-01 Callin' Baton Rouge [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Callin' Baton Rouge [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-02 The River [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-02 The River [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The River [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-03 The Beaches Of Cheyenne [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-03 The Beaches Of Cheyenne [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The Beaches Of Cheyenne [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-04 The Fireman [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-04 The Fireman [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The Fireman [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-05 More Than A Memory [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-05 More Than A Memory [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "More Than A Memory [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-06 Two Piña Coladas [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-06 Two Piña Coladas [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Two Piña Coladas [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-07 Whiskey To Wine [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-07 Whiskey To Wine [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Whiskey To Wine [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-08 We Shall Be Free [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-08 We Shall Be Free [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "We Shall Be Free [Live]",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                3,
+                3
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Triple Live/3-09 The Dance [Live].m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Triple Live/3-09 The Dance [Live].m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                9
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Triple Live",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The Dance [Live]",
+            "©too": "iTunes 12.10.11.2"
+        }
+    ]
+}

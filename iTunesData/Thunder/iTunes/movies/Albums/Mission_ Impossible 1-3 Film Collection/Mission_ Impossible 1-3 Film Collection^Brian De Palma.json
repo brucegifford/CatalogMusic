@@ -1,0 +1,35 @@
+{
+    "album": "Mission: Impossible 1-3 Film Collection",
+    "songs": [
+        {
+            "album": "Mission: Impossible 1-3 Film Collection",
+            "artist": "Brian De Palma",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG-13|300|for some intense action violence.",
+            "date_added": "2019-01-12T22:06:31",
+            "date_modified": "2019-02-13T04:28:57",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Action & Adventure",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Mission: Impossible",
+            "persistent_id": "0ECF6A569DD10F11",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "1996-05-22T07:00:00",
+            "size": 4499684023,
+            "sort_album": "Mission: Impossible 1-3 Film Collection",
+            "sort_artist": "Brian De Palma",
+            "sort_name": "Mission: Impossible",
+            "total_time": 6622955,
+            "track_count": 3,
+            "track_id": 4502,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 1996
+        }
+    ]
+}

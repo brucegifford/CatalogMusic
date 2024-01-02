@@ -1,0 +1,35 @@
+{
+    "album": "Kung Fu Panda Colección de 3 Películas",
+    "songs": [
+        {
+            "album": "Kung Fu Panda Colección de 3 Películas",
+            "artist": "Mark Osborne & John Stevenson",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2015-12-28T03:01:34",
+            "date_modified": "2015-12-28T03:01:34",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Kung Fu Panda",
+            "persistent_id": "8F308116110528C3",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2008-06-06T07:00:00",
+            "size": 3661934540,
+            "sort_album": "Kung Fu Panda Colección de 3 Películas",
+            "sort_artist": "Mark Osborne & John Stevenson",
+            "sort_name": "Kung Fu Panda",
+            "total_time": 5551675,
+            "track_count": 3,
+            "track_id": 4548,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2008
+        }
+    ]
+}

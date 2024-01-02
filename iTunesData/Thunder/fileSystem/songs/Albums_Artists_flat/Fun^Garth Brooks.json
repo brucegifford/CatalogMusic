@@ -1,0 +1,335 @@
+{
+    "album": "Fun",
+    "songs": [
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/01 The Road I'm On.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/01 The Road I'm On.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "The Road I'm On",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/02 That's What Cowboys Do.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/02 That's What Cowboys Do.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "That's What Cowboys Do",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/03 All Day Long.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/03 All Day Long.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "All Day Long",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/04 Shallow.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/04 Shallow.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                15
+            ],
+            "©ART": "Garth Brooks & Trisha Yearwood",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "Shallow",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/05 Dive Bar.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/05 Dive Bar.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                15
+            ],
+            "©ART": "Garth Brooks & Blake Shelton",
+            "©alb": "Fun",
+            "©day": "2019",
+            "©gen": "Country",
+            "©nam": "Dive Bar",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/06 Amen.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/06 Amen.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "Amen",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/07 The Courage Of Love.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/07 The Courage Of Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2019",
+            "©gen": "Country",
+            "©nam": "The Courage Of Love",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/08 I Can Be Me With You.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/08 I Can Be Me With You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "I Can Be Me With You",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/09 Message In A Bottle.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/09 Message In A Bottle.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "Message In A Bottle",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/10 Stronger Than Me.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/10 Stronger Than Me.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2018",
+            "©gen": "Country",
+            "©nam": "Stronger Than Me",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/11 (A Hard Way To Make An) Easy Livi.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/11 (A Hard Way To Make An) Easy Livi.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "(A Hard Way To Make An) Easy Livin'",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/12 Where The Cross Don't Burn.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/12 Where The Cross Don't Burn.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                15
+            ],
+            "©ART": "Garth Brooks Feat. Charley Pride",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "Where The Cross Don't Burn",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/13 -.m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/13 -.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "-",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/14 Party Gras (The Mardi Gras Song).m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/14 Party Gras (The Mardi Gras Song).m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "Party Gras (The Mardi Gras Song)",
+            "©too": "iTunes 12.10.11.2"
+        },
+        {
+            "aART": "Garth Brooks",
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Garth Brooks/Fun/15 (Sometimes You've Got To Die To).m4a",
+            "pgap": false,
+            "rel_path": "Garth Brooks/Fun/15 (Sometimes You've Got To Die To).m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                15
+            ],
+            "©ART": "Garth Brooks",
+            "©alb": "Fun",
+            "©day": "2020",
+            "©gen": "Country",
+            "©nam": "(Sometimes You've Got To Die To) Live Again",
+            "©too": "iTunes 12.10.11.2"
+        }
+    ]
+}
