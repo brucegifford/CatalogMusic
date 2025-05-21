@@ -1,0 +1,10 @@
+--albums_file
+iTunesData/3MH1LT/iTunes/songs/Albums_list.json
+--playlists_file
+iTunesData/3MH1LT/iTunes/playlists/iTunesPlaylists.json
+--outputdir
+DiffResults/3MH1LT
+--ignores_file
+argFiles/DiffAlbumsAndPlaylists_Ignores.json
+--dump_album_keys
+--dont_show_fully_covered
