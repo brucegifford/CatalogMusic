@@ -4,10 +4,15 @@ Run CatalogMusic.py with this args to look at the file system
 @argFiles/3M7DT10_fs.args
 #--media_files_input=iTunesSongs.json
 
----current ones args
+---current args 3M8LT
 #@argFiles/3M8LT10_fs.args 
 #--media_files_input=iTunesSongs.json 
 @argFiles/3M8LT10_iTunes.args 
+@argFiles/podcasts_sort_episodes_reversed.args
+-- current args 3M7DT
+#@argFiles/3M7DT10_fs.args
+#--media_files_input=iTunesSongs.json
+@argFiles/3M7DT10_iTunes.args
 @argFiles/podcasts_sort_episodes_reversed.args
 
 ==============================================================
@@ -28,8 +33,10 @@ Run DiffFilesAndiTunes.py with these args to compare filesystem files with iTune
 ==============================================================
 @argFiles/3M7DT10_DiffFilesAndiTunes.args
 
---current args
+--current args 3M8LT
 @argFiles/3M8LT10_DiffFilesAndiTunes.args
+--current args 3M7DT
+@argFiles/3M7DT10_DiffFilesAndiTunes.args
 
 ==============================================================
 Run DiffFAlbumsAndPlaylists.py with these args to compare iTunes Albums with iTunes Playlists
@@ -38,3 +45,5 @@ Run DiffFAlbumsAndPlaylists.py with these args to compare iTunes Albums with iTu
 
 ---current args
 @argFiles/3M8LT10_DiffAlbumsAndPlaylists.args
+--current args 3M7DT
+@argFiles/3M7DT10_DiffAlbumsAndPlaylists.args
