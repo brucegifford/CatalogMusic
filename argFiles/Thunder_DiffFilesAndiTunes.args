@@ -3,5 +3,5 @@ iTunesData/Thunder/fileSystem/songs/iTunesSongs.json
 --iTunes_Library_songs
 iTunesData/Thunder/iTunes/songs/iTunesSongs.json
 --outputdir
-DiffResults/Thunder
+DiffFilesAndiTunes/Thunder
 --dump_song_keys
