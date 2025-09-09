@@ -1,0 +1,423 @@
+{
+    "album": "Number Ones",
+    "songs": [
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/01 Massachusetts.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/01 Massachusetts.m4a",
+            "tmpo": 0,
+            "trkn": [
+                1,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1967",
+            "©gen": "Rock",
+            "©nam": "Massachusetts",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/02 World.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/02 World.m4a",
+            "tmpo": 0,
+            "trkn": [
+                2,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1967",
+            "©gen": "Rock",
+            "©nam": "World",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/03 Words.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/03 Words.m4a",
+            "tmpo": 0,
+            "trkn": [
+                3,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1968",
+            "©gen": "Rock",
+            "©nam": "Words",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/04 I've Gotta Get A Message To You.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/04 I've Gotta Get A Message To You.m4a",
+            "tmpo": 0,
+            "trkn": [
+                4,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1968",
+            "©gen": "Rock",
+            "©nam": "I've Gotta Get A Message To You",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/05 I Started A Joke.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/05 I Started A Joke.m4a",
+            "tmpo": 0,
+            "trkn": [
+                5,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1968",
+            "©gen": "Rock",
+            "©nam": "I Started A Joke",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/06 Don't Forget To Remember.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/06 Don't Forget To Remember.m4a",
+            "tmpo": 0,
+            "trkn": [
+                6,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1969",
+            "©gen": "Rock",
+            "©nam": "Don't Forget To Remember",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/07 Lonely Days.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/07 Lonely Days.m4a",
+            "tmpo": 0,
+            "trkn": [
+                7,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1970",
+            "©gen": "Rock",
+            "©nam": "Lonely Days",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/08 How Can You Mend A Broken Heart.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/08 How Can You Mend A Broken Heart.m4a",
+            "tmpo": 0,
+            "trkn": [
+                8,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1971",
+            "©gen": "Rock",
+            "©nam": "How Can You Mend A Broken Heart",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/09 Jive Talkin'.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/09 Jive Talkin'.m4a",
+            "tmpo": 0,
+            "trkn": [
+                9,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1975",
+            "©gen": "Rock",
+            "©nam": "Jive Talkin'",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/10 You Should Be Dancing.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/10 You Should Be Dancing.m4a",
+            "tmpo": 0,
+            "trkn": [
+                10,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1976",
+            "©gen": "Rock",
+            "©nam": "You Should Be Dancing",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/11 Love So Right.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/11 Love So Right.m4a",
+            "tmpo": 0,
+            "trkn": [
+                11,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1976",
+            "©gen": "Rock",
+            "©nam": "Love So Right",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/12 How Deep Is Your Love.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/12 How Deep Is Your Love.m4a",
+            "tmpo": 0,
+            "trkn": [
+                12,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1977",
+            "©gen": "Rock",
+            "©nam": "How Deep Is Your Love",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/13 Stayin' Alive.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/13 Stayin' Alive.m4a",
+            "tmpo": 0,
+            "trkn": [
+                13,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1977",
+            "©gen": "Rock",
+            "©nam": "Stayin' Alive",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/14 Night Fever.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/14 Night Fever.m4a",
+            "tmpo": 0,
+            "trkn": [
+                14,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1977",
+            "©gen": "Rock",
+            "©nam": "Night Fever",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/15 Too Much Heaven.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/15 Too Much Heaven.m4a",
+            "tmpo": 0,
+            "trkn": [
+                15,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1978",
+            "©gen": "Rock",
+            "©nam": "Too Much Heaven",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/16 Tragedy.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/16 Tragedy.m4a",
+            "tmpo": 0,
+            "trkn": [
+                16,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1978",
+            "©gen": "Rock",
+            "©nam": "Tragedy",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/17 Love You Inside Out.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/17 Love You Inside Out.m4a",
+            "tmpo": 0,
+            "trkn": [
+                17,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1979",
+            "©gen": "Rock",
+            "©nam": "Love You Inside Out",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/18 You Win Again.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/18 You Win Again.m4a",
+            "tmpo": 0,
+            "trkn": [
+                18,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "1987",
+            "©gen": "Rock",
+            "©nam": "You Win Again",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        },
+        {
+            "cpil": false,
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Bee Gees/Number Ones/19 Man In The Middle.m4a",
+            "pgap": false,
+            "rel_path": "Bee Gees/Number Ones/19 Man In The Middle.m4a",
+            "tmpo": 0,
+            "trkn": [
+                19,
+                19
+            ],
+            "©ART": "Bee Gees",
+            "©alb": "Number Ones",
+            "©day": "2004",
+            "©gen": "Rock",
+            "©nam": "Man In The Middle",
+            "©too": "Music 1.5.1.24",
+            "©wrt": "Barry Gibb"
+        }
+    ]
+}

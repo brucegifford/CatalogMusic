@@ -1,0 +1,35 @@
+{
+    "album": "The Lion King 3-Movie Collection",
+    "songs": [
+        {
+            "album": "The Lion King 3-Movie Collection",
+            "artist": "Jon Favreau",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for sequences of violence and peril, and some thematic elements.",
+            "date_added": "2019-10-29T23:43:26",
+            "date_modified": "2025-05-16T22:52:08",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Lion King (2019)",
+            "persistent_id": "C1BB140DBF3ABCCD",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2019-07-19T07:00:00",
+            "size": 5465522950,
+            "sort_album": "Lion King 3-Movie Collection",
+            "sort_artist": "Jon Favreau",
+            "sort_name": "Lion King (2019)",
+            "total_time": 7161862,
+            "track_count": 3,
+            "track_id": 4612,
+            "track_number": 2,
+            "track_type": "Remote",
+            "year": 2019
+        }
+    ]
+}

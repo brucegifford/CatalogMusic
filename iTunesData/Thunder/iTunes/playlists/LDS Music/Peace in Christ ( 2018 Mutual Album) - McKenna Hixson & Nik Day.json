@@ -1,0 +1,39 @@
+{
+    "all_items": true,
+    "display_path": "/LDS Music/Peace in Christ ( 2018 Mutual Album) - McKenna Hixson & Nik Day",
+    "name": "Peace in Christ ( 2018 Mutual Album) - McKenna Hixson & Nik Day",
+    "parent_persistent_id": "FAA0E43E3C73A45B",
+    "playlist_id": 95013,
+    "playlist_persistent_id": "6866F21125BFC949",
+    "tracks": [
+        {
+            "album": "Peace in Christ ( 2018 Mutual Album)",
+            "album_artist": "The Church of Jesus Christ of Latter-day Saints",
+            "artist": "McKenna Hixson & Nik Day",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "comments": "©2017 by Intellectual Reserve, Inc. All rights reserved.",
+            "composer": "The Church of Jesus Christ of Latter-day Saints",
+            "date_added": "2025-07-21T03:52:28",
+            "date_modified": "2025-07-21T03:51:17",
+            "file_folder_count": 5,
+            "genre": "Youth",
+            "grouping": "Peace in Christ ( 2018 Mutual Album)",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/bruce/Music/iTunes/iTunes Media/Music/The Church of Jesus Christ of Latter-day/Peace in Christ ( 2018 Mutual Album)/01 Peace in Christ.mp3",
+            "name": "Peace in Christ",
+            "persistent_id": "B96EF7FB7EB76A57",
+            "sample_rate": 44100,
+            "size": 6976275,
+            "sort_album_artist": "Church of Jesus Christ of Latter-day Saints",
+            "sort_composer": "Church of Jesus Christ of Latter-day Saints",
+            "total_time": 216293,
+            "track_count": 12,
+            "track_id": 42324,
+            "track_number": 1,
+            "track_type": "File",
+            "year": 2017
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "album": "The Mission of Elijah",
+    "songs": [
+        {
+            "disk": [
+                1,
+                1
+            ],
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Denver Snuffer, Jr_/The Mission of Elijah/01 The Mission of Elijah - Bruce Rec.m4a",
+            "rel_path": "Denver Snuffer, Jr_/The Mission of Elijah/01 The Mission of Elijah - Bruce Rec.m4a",
+            "trkn": [
+                1,
+                1
+            ],
+            "©ART": "Denver Snuffer, Jr.",
+            "©alb": "The Mission of Elijah",
+            "©cmt": "Lecture in Spanish Fork at confetti books on Friday October 14th, 2011. Recorded on iPhone",
+            "©day": "2011",
+            "©gen": "Talk: Religious",
+            "©nam": "The Mission of Elijah - Bruce Recording"
+        },
+        {
+            "album": "The Mission of Elijah",
+            "artist": "Denver Snuffer, Jr.",
+            "date": "2011",
+            "discnumber": "1/1",
+            "encodedby": "SONY IC RECORDER MP3 3.1.2",
+            "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Denver Snuffer, Jr_/The Mission of Elijah/01 The Mission of Elijah.MP3",
+            "genre": "Talk: Religious",
+            "rel_path": "Denver Snuffer, Jr_/The Mission of Elijah/01 The Mission of Elijah.MP3",
+            "title": "The Mission of Elijah",
+            "tracknumber": "1/1"
+        }
+    ]
+}
