@@ -288,6 +288,25 @@ c:/users/bruce/music/itunes/itunes media/music/barry manilow/ultimate manilow/17
 c:/users/bruce/music/itunes/itunes media/music/barry manilow/ultimate manilow/18 the old songs.mp3
 c:/users/bruce/music/itunes/itunes media/music/barry manilow/ultimate manilow/19 when october goes.mp3
 c:/users/bruce/music/itunes/itunes media/music/barry manilow/ultimate manilow/20 somewhere down the road.mp3
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/01 massachusetts.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/02 world.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/03 words.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/04 i've gotta get a message to you.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/05 i started a joke.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/06 don't forget to remember.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/07 lonely days.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/08 how can you mend a broken heart.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/09 jive talkin'.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/10 you should be dancing.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/11 love so right.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/12 how deep is your love.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/13 stayin' alive.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/14 night fever.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/15 too much heaven.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/16 tragedy.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/17 love you inside out.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/18 you win again.m4a
+c:/users/bruce/music/itunes/itunes media/music/bee gees/number ones/19 man in the middle.m4a
 c:/users/bruce/music/itunes/itunes media/music/blake shelton/reloaded_ 20 #1 hits/01 sangria.mp3
 c:/users/bruce/music/itunes/itunes media/music/blake shelton/reloaded_ 20 #1 hits/02 lonely tonight.mp3
 c:/users/bruce/music/itunes/itunes media/music/blake shelton/reloaded_ 20 #1 hits/03 neon light.mp3
@@ -578,33 +597,33 @@ c:/users/bruce/music/itunes/itunes media/music/bruce r. mcconkie/the mortal mess
 c:/users/bruce/music/itunes/itunes media/music/bruce r. mcconkie/the mortal messiah vol. 1/9-14 9n.mp3
 c:/users/bruce/music/itunes/itunes media/music/bruce r. mcconkie/the mortal messiah vol. 1/9-15 9o.mp3
 c:/users/bruce/music/itunes/itunes media/music/bruce r. mcconkie/the mortal messiah vol. 1/9-16 9p.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/01 down in the valley.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/02 funny way of laughing.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/03 goober peas.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/04 grandfather's clock.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/05 green green grass of home.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/06 blue tail fly.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/07 lavender blue (dilly dilly).mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/08 a froggie went a-courtin'.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/09 polly wolly doodle.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/10 the ugly bug ball.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/11 you are my sunshine.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/12 along the navajo trail.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/13 blazing saddles.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/14 bowie knife.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/15 cool water.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/16 the cry of the wild goose.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/17 do not forsake me, oh my darling.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/18 don't fence me in.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/19 riders in the sky.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/20 gunfight at ok corral.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/21 the hanging tree.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/22 do not forsake me, oh my darling.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/23 i believe.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/24 mule train.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/25 rawhide.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/26 the hanging tree.mp3
-c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/burl ives and frankie lane- music to eat/27 they call the wind mariah.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/01 down in the valley.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/02 funny way of laughing.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/03 goober peas.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/04 grandfather's clock.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/05 green green grass of home.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/06 blue tail fly.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/07 lavender blue (dilly dilly).mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/08 a froggie went a-courtin'.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/09 polly wolly doodle.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/10 the ugly bug ball.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/11 you are my sunshine.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/12 along the navajo trail.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/13 blazing saddles.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/14 bowie knife.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/15 cool water.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/16 the cry of the wild goose.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/17 do not forsake me, oh my darling.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/18 don't fence me in.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/19 riders in the sky.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/20 gunfight at ok corral.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/21 the hanging tree.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/22 do not forsake me, oh my darling.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/23 i believe.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/24 mule train.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/25 rawhide.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/26 the hanging tree.mp3
+c:/users/bruce/music/itunes/itunes media/music/burl ives and frankie lane/music to eat ice cream by (from steven)/27 they call the wind mariah.mp3
 c:/users/bruce/music/itunes/itunes media/music/byu men's chorus/set apart/01 let zion in her beauty rise.mp3
 c:/users/bruce/music/itunes/itunes media/music/byu men's chorus/set apart/02 i'll go where you want me to go.mp3
 c:/users/bruce/music/itunes/itunes media/music/byu men's chorus/set apart/03 choose the right.mp3
@@ -2112,10 +2131,11 @@ c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/forty years i
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/forty years in mormonism-talk10/3-08 track 35.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/forty years in mormonism-talk10/3-09 track 36.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/kutv interview - june 2015/01 kutv interview - june 2015.mp3
+c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/mormon history/mormon_history.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/plural marriage/01 plural marriage.mp3
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/temples & zion/01 temples & zion.mp3
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the mission of elija/01 the mission of elija.m4a
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the mission of elija/01 the mission of elija.mp3
+c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/temples & zion/01 temples & zion 2.mp3
+c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the mission of elijah/01 the mission of elijah - bruce rec.m4a
+c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the mission of elijah/01 the mission of elijah.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the road to emmaus/1-01 track 01.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the road to emmaus/1-02 track 02.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the road to emmaus/1-03 track 03.mp3
@@ -2165,9 +2185,6 @@ c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the zion symp
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the zion symposium/13 track 13.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the zion symposium/14 track 14.mp3
 c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/tim malone-denver snuffer q&a/01 tim malone-denver snuffer q&a.mp3
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer/mormon history/mormon_history.mp3
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer/temples & zion/01 temples & zion.mp3
-c:/users/bruce/music/itunes/itunes media/music/denver snuffer/the mission of elijah/01 the mission of elijah.mp3
 c:/users/bruce/music/itunes/itunes media/music/dierks bentley/the mountain/01 burning man (feat. brothers osbor.m4a
 c:/users/bruce/music/itunes/itunes media/music/dierks bentley/the mountain/02 the mountain.m4a
 c:/users/bruce/music/itunes/itunes media/music/dierks bentley/the mountain/03 living.m4a
@@ -5302,7 +5319,7 @@ c:/users/bruce/music/itunes/itunes media/music/jo dee messina/i'm alright/07 sil
 c:/users/bruce/music/itunes/itunes media/music/jo dee messina/i'm alright/08 i know a heartache.mp3
 c:/users/bruce/music/itunes/itunes media/music/jo dee messina/i'm alright/09 because you love me.mp3
 c:/users/bruce/music/itunes/itunes media/music/jo dee messina/i'm alright/10 cover me.mp3
-c:/users/bruce/music/itunes/itunes media/music/joel skousen, steven jones, jack_monnett/preps & last days/01 preps & last days.mp3
+c:/users/bruce/music/itunes/itunes media/music/joel skousen, steven jones, jack monnett/preps & last days/01 preps & last days.mp3
 c:/users/bruce/music/itunes/itunes media/music/joel skousen/astute observer/01 joel skousen speaks his opinions.mp3
 c:/users/bruce/music/itunes/itunes media/music/joel skousen/hr1 joel skousen on russian military/hr1 joel skousen on russian military.mp3
 c:/users/bruce/music/itunes/itunes media/music/joel skousen/joel skousen - highland ut 2 nov 2012/01 joel skousen speaking at highland.mp3
@@ -5318,6 +5335,30 @@ c:/users/bruce/music/itunes/itunes media/music/john canaan/carol to my king_ a c
 c:/users/bruce/music/itunes/itunes media/music/john canaan/carol to my king_ a collection of christ/09 sweet litle jesus boy.mp3
 c:/users/bruce/music/itunes/itunes media/music/john canaan/carol to my king_ a collection of christ/10 i'll be home for christmas.mp3
 c:/users/bruce/music/itunes/itunes media/music/john canaan/carol to my king_ a collection of christ/11 silent night.mp3
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-01 leaving on a jet plane.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-02 take me home, country roads.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-03 sunshine on my shoulders.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-04 poems, prayers & promises.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-05 the eagle and the hawk.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-06 rocky mountain high.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-07 farewell andromeda (welcome to.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-08 annie's song.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-09 back home again.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-10 sweet surrender.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-11 thank god i'm a country boy [li.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-12 i'm sorry.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-13 calypso.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-14 fly away.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-15 looking for space.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-16 like a sad song.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-17 my sweet lady.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-18 perhaps love.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-19 shanghai breezes.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/1-20 wild montana skies.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/2-01 leaving, on a jet plane (babe,.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/2-02 the weight.m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/2-03 annie's song [acoustic mix].m4a
+c:/users/bruce/music/itunes/itunes media/music/john denver/definitive all-time greatest hits/2-04 calypso [acoustic mix].m4a
 c:/users/bruce/music/itunes/itunes media/music/john pontius/visions of glory/1-01 track01-pages ix-26.mp3
 c:/users/bruce/music/itunes/itunes media/music/john pontius/visions of glory/2-01 track02-pages 26-61.mp3
 c:/users/bruce/music/itunes/itunes media/music/john pontius/visions of glory/3-01 track03-pages61-97.mp3
@@ -6266,16 +6307,16 @@ c:/users/bruce/music/itunes/itunes media/music/kenny rogers/there you go again/0
 c:/users/bruce/music/itunes/itunes media/music/kenny rogers/there you go again/10 what that means.mp3
 c:/users/bruce/music/itunes/itunes media/music/kenny rogers/there you go again/11 i won't forget.mp3
 c:/users/bruce/music/itunes/itunes media/music/kenny rogers/there you go again/12 all that you could be.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/01 01_measure of a man.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/02 02_nobody knows.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/04 04_there's only you.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/05 05_she's sure taking it well.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/06 06_the strength to love.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/07 07_love bomb.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/08 08_i'm already loving you too muc.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/09 09_population 4000 minus 1.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/10 10_somebody's baby.mp3
-c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/11 11_love at the end of the road.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/01 measure of a man.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/02 nobody knows.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/04 there's only you.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/05 she's sure taking it well.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/06 the strength to love.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/07 love bomb.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/08 i'm already loving you too much.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/09 population 4000 minus 1.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/10 somebody's baby.mp3
+c:/users/bruce/music/itunes/itunes media/music/kevin sharp/measure of a man/11 love at the end of the road.mp3
 c:/users/bruce/music/itunes/itunes media/music/kurt bestor/kurt bestor christmas/01 we three kings.mp3
 c:/users/bruce/music/itunes/itunes media/music/kurt bestor/kurt bestor christmas/02 come, all ye shepherds.mp3
 c:/users/bruce/music/itunes/itunes media/music/kurt bestor/kurt bestor christmas/03 sheep may safely graze.mp3
@@ -6677,16 +6718,16 @@ c:/users/bruce/music/itunes/itunes media/music/martina mcbride/greatest hits/16 
 c:/users/bruce/music/itunes/itunes media/music/martina mcbride/greatest hits/17 where would you be.m4a
 c:/users/bruce/music/itunes/itunes media/music/martina mcbride/greatest hits/18 concrete angel.m4a
 c:/users/bruce/music/itunes/itunes media/music/martina mcbride/greatest hits/19 blessed.m4a
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/01_heart trouble.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/02_my baby loves me.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/03_that wasn't me.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/04_independence day.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/05_where i used to have a heart.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/06_going to work.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/07_she ain't seen nothing yet.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/08_life #9.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/09_strangers.mp3
-c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/10_ashes.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/01 heart trouble.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/02 my baby loves me.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/03 that wasn't me.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/04 independence day.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/05 where i used to have a heart.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/06 going to work.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/07 she ain't seen nothing yet.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/08 life #9.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/09 strangers.mp3
+c:/users/bruce/music/itunes/itunes media/music/martina mcbride/the way that i am/10 ashes.mp3
 c:/users/bruce/music/itunes/itunes media/music/marvin goldstein/hymns of praise/02 a mighty fortress is our god.mp3
 c:/users/bruce/music/itunes/itunes media/music/marvin goldstein/hymns of praise/03 all creatures of our god and king.mp3
 c:/users/bruce/music/itunes/itunes media/music/marvin goldstein/hymns of praise/04 medley_ come, rejoice_rejoice, th.mp3
@@ -7165,7 +7206,7 @@ c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/09 th
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/10 remote location.mp3
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/11 a place to honor.mp3
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/12 hard to say good-bye.mp3
-c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/13 track 13.mp3
+c:/users/bruce/music/itunes/itunes media/music/michael mclean/father & son/13 father & son.mp3
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/hold on, the light will come/01 what i need.mp3
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/hold on, the light will come/02 you're not alone.mp3
 c:/users/bruce/music/itunes/itunes media/music/michael mclean/hold on, the light will come/03 i don't understand.mp3
@@ -9012,6 +9053,7 @@ c:/users/bruce/music/itunes/itunes media/music/steve wariner/two teardrops/13 fo
 c:/users/bruce/music/itunes/itunes media/music/steve wariner/two teardrops/14 tattoos of life.mp3
 c:/users/bruce/music/itunes/itunes media/music/steve wariner/two teardrops/15 the harry shuffle [instrumental].mp3
 c:/users/bruce/music/itunes/itunes media/music/steven jones/alternative_free energy research/01 alternative_free energy research.mp3
+c:/users/bruce/music/itunes/itunes media/music/the church of jesus christ of latter-day/peace in christ ( 2018 mutual album)/01 peace in christ.mp3
 c:/users/bruce/music/itunes/itunes media/music/the drums & pipes & the cape town highla/scotland the brave/01 scotland the brave.m4a
 c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest showman_ original motion pi/01 the greatest show.mp3
 c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest showman_ original motion pi/02 a million dreams.mp3
@@ -9024,6 +9066,27 @@ c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest
 c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest showman_ original motion pi/09 tightrope.mp3
 c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest showman_ original motion pi/10 never enough (reprise).mp3
 c:/users/bruce/music/itunes/itunes media/music/the greatest showman/the greatest showman_ original motion pi/11 from now on.mp3
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/01 mama he's crazy.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/02 why not me.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/03 girls' night out.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/04 love is alive.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/05 have mercy.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/06 grandpa (tell me 'bout the good o.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/07 rockin' with the rhythm of the ra.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/08 cry myself to sleep.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/09 don't be cruel.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/10 i know where i'm going.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/11 maybe your baby's got the blues.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/12 turn it loose.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/13 give a little love.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/14 change of heart.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/15 young love.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/16 let me tell you about love.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/17 one man woman.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/18 born to be blue [single version].m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/19 love can build a bridge [single v.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/20 one hundred and two.m4a
+c:/users/bruce/music/itunes/itunes media/music/the judds/all-time greatest hits/21 flies on the butter (you can't go.m4a
 c:/users/bruce/music/itunes/itunes media/music/the lion king cast/the lion king_ 1997 broadway cast/01 circle of life.mp3
 c:/users/bruce/music/itunes/itunes media/music/the lion king cast/the lion king_ 1997 broadway cast/02 grasslands chant.mp3
 c:/users/bruce/music/itunes/itunes media/music/the lion king cast/the lion king_ 1997 broadway cast/03 the morning report.mp3
@@ -9614,17 +9677,17 @@ c:/users/bruce/music/itunes/itunes media/music/tracy byrd/tracy bryd/talk to me 
 c:/users/bruce/music/itunes/itunes media/music/tracy byrd/tracy bryd/that's the thing about a memor.mp3
 c:/users/bruce/music/itunes/itunes media/music/tracy byrd/tracy bryd/why don't that telephone ring.mp3
 c:/users/bruce/music/itunes/itunes media/music/tracy byrd/tracy bryd/why.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/01_there goes my baby.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/02_never let you go again.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/03_that ain't the way i heard it.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/04_powerful thing.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/05_love wouldn't lie to me.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/06_wouldn't any woman.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/07_i'll still love you more.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/08_heart like a sad song.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/09_i don't want to be the one.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/10_bring me all your lovin'.mp3
-c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/11_where the road leads (duet with g.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/01 there goes my baby.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/02 never let you go again.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/03 that ain't the way i heard it.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/04 powerful thing.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/05 love wouldn't lie to me.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/06 wouldn't any woman.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/07 i'll still love you more.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/08 heart like a sad song.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/09 i don't want to be the one.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/10 bring me all your lovin'.mp3
+c:/users/bruce/music/itunes/itunes media/music/trisha yearwood/where your road leads/11 where the road leads (duet with g.mp3
 c:/users/bruce/music/itunes/itunes media/music/truman g. madsen/joseph smith the prophet/1-01 lecture 1_ first vision and aft.mp3
 c:/users/bruce/music/itunes/itunes media/music/truman g. madsen/joseph smith the prophet/1-02 lecture 1_ first vision and aft.mp3
 c:/users/bruce/music/itunes/itunes media/music/truman g. madsen/joseph smith the prophet/1-03 lecture 1_ first vision and aft.mp3
@@ -9938,13 +10001,23 @@ c:/users/bruce/music/itunes/itunes media/music/wicked cast/wicked_ original broa
 c:/users/bruce/music/itunes/itunes media/music/wicked cast/wicked_ original broadway cast/18 for good.mp3
 c:/users/bruce/music/itunes/itunes media/music/wicked cast/wicked_ original broadway cast/19 finale.mp3
 c:/users/bruce/music/itunes/itunes media/music/wilbert smith/wilbert smith speech 1958/wilbertsmithspeech1958.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/01 what it takes.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/02 she is his only need.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/03 i saw the light.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/04 my strongest weakness.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/05 when i reach the place i'm goi.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/06 no one else on earth.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/07 it's never easy to say goodbye.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/08 a little bit of love (goes a l.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/09 all of that love from here.mp3
-c:/users/bruce/music/itunes/itunes media/music/wynnona judd/wynnona/10 live with jesus.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/01 tell me why.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/02 rock bottom.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/03 only love.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/04 let's make a baby king.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/05 is it over yet.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/06 father sun.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/07 girls with guitars.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/08 just like new.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/09 i just drove by.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/tell me why/10 that was yesterday.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/01 what it takes.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/02 she is his only need.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/03 i saw the light.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/04 my strongest weakness.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/05 when i reach the place i'm goi.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/06 no one else on earth.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/07 it's never easy to say goodbye.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/08 a little bit of love (goes a l.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/09 all of that love from here.mp3
+c:/users/bruce/music/itunes/itunes media/music/wynonna judd/wynonna/10 live with jesus.mp3

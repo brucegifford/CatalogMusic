@@ -1,0 +1,38 @@
+Playlist 'Jim Brickman - Christmas Collection' is missing 9 songs from album 'Christmas Collection|Compilations'
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/01 feliz navidad.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/02 the first noel.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/03 the night before christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/04 it came upon a midnight clear.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/05 i'll be home for christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/06 my favorite things.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/08 hark! the herald angels sing.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/09 tennessee christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/10 do you hear what i hear.mp3
+Playlist 'Jim Brickman - All' is missing 9 songs from album 'Christmas Collection|Compilations'
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/01 feliz navidad.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/02 the first noel.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/03 the night before christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/04 it came upon a midnight clear.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/05 i'll be home for christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/06 my favorite things.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/08 hark! the herald angels sing.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/09 tennessee christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/christmas collection/10 do you hear what i hear.mp3
+Playlist 'Michael McLean - All' is missing 15 songs from album 'The Best Of Christmas|Compilations'
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/01 oh, come all ye faithful _ hark!.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/02 sheep may safely graze.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/03 the littlest shepherd.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/05 any other child.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/06 winter work.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/07 a christmas wish.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/08 nora's christmas gift.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/09 when i think of christmastime.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/10 christmas tonight.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/11 white winter.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/12 what mary felt.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/13 the best time of the year.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/14 what child is this.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/15 put christ back into christmas.mp3
+	c:/users/bruce/music/itunes/itunes media/music/compilations/the best of christmas/16 my child, my love.mp3
+Playlist 'DS - The Mission of Elijah' is missing 1 songs from album 'The Mission of Elijah|Denver Snuffer, Jr.'
+	c:/users/bruce/music/itunes/itunes media/music/denver snuffer, jr_/the mission of elijah/01 the mission of elijah - bruce rec.m4a

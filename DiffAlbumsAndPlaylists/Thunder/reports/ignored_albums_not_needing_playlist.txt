@@ -1,0 +1,3 @@
+Ignoring album 'vitalis|SacredScience' which does not need a playlist
+
+Found 1 albums which we are ignoring for playlists
