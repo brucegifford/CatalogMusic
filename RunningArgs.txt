@@ -1,5 +1,34 @@
 ==============================================================
-Run CatalogMusic.py with this args to look at the file system
+there are several batch files to help with this environment
+==============================================================
+
+==============================================================
+create_venv.bat - creates the virtual environment
+update_pip.bat - updates the pip command in this enviroment
+apply_requirements_txt.bat - installs needed modules defined in requirements.txt in this environment
+create_exes.bat - builds app into an executable
+do_activate.bat - run this in a cmd window to activate the virutal environemnt
+pip.bat - runs pip command in this environment
+update_requirements_txt.bat - updates the requirements.txt file with current list of modules loaded in this environment
+update_readITunes.bat - updates enviroment with the latest commit from master branch of IReadiTunes and updates reqirements.txt
+==============================================================
+See UsingVenv.txt for information on setting up and using this virtual environment
+
+==============================================================
+Run CatalogMusic.py with these args to look at the file system
+
+relative filenames are often mapped into the folder specified by --outputdir
+
+if you specify filesystem input files with --media_files_dirs and the output directory exists,
+    it is removed to make things clean
+Current args files are set up to with the output directory as C:\dev\CatalogMusic\iTunesData\Thunder\fileSystem\songs
+log files are put in the logs directory inside the output directory
+it will run through all the music files it finds listed in the directories specified by --media_files_dirs
+json files are then written to the songs directory including
+    Albums, Artists folder with individual json files for each album or artist
+    Artists_list.json, Albums_list.json contain the entire library organized by artist or album in a single file
+    Albums_Artists_flat & Artists_Albums_flat contain a single file per album organized as the name implies
+    iTunesSongs.json - this file contains flat list with a single entry for each song file found
 ==============================================================
 @argFiles/3M7DT10_fs.args
 #--media_files_input=iTunesSongs.json
@@ -9,34 +38,67 @@ Run CatalogMusic.py with this args to look at the file system
 #--media_files_input=iTunesSongs.json 
 @argFiles/3M8LT10_iTunes.args 
 @argFiles/podcasts_sort_episodes_reversed.args
+
 -- current args 3M7DT
 #@argFiles/3M7DT10_fs.args
 #--media_files_input=iTunesSongs.json
 @argFiles/3M7DT10_iTunes.args
 @argFiles/podcasts_sort_episodes_reversed.args
 
+-- current args Thunder
+@argFiles\Thunder_fs_clean.args
+
+argFiles\Thunder_fs.args currently contains
+    --outputdir=iTunesData\Thunder\fileSystem\songs
+    --media_files_dirs
+    "C:\Users\bruce\Music\iTunes\iTunes Media\Music"
+
+
 ==============================================================
-To re-run with same media files json use these args
+To re-run with same filesystem media files and use the stored
+    json file with the song list and just generate new
+    reports because you changed the report writing code use these args
+In this case the --media_files_dirs arg is ignored and the song
+    data is all loaded from the json file specified by --media_files_input
 ==============================================================
-#@argFiles/3M7DT10_fs.args
+@argFiles\Thunder_fs_redo_reports.args
+
+argFiles\Thunder_fs_redo_reports.args currently contains
+--outputdir=iTunesData\Thunder\fileSystem\songs
 --media_files_input=iTunesSongs.json
+
+
 
 ==============================================================
 Run CatalogMusic.py with these args to look at the iTunes file
 Be sure the iTunes file has been freshly exported so it is current
+
+To have iTunes export its data to an xml file:
+    To share your iTunes library's XML file with other applications on Windows,
+        open iTunes preferences,
+        go to the Advanced tab,
+        and check the box for "Share iTunes Library XML with other applications"
+   This will write the xml file on start and exit of iTunes. The file it writes is:
+        "C:\Users\bruce\Music\iTunes\iTunes Music Library.xml"
+   If you want to control when your xml file gets updated, you can use the menu,
+        "File\Library\Export Library" and save it to a seperate file. I am currently saving to
+        "C:\Users\bruce\Music\iTunes\Library.xml"
 ==============================================================
-@argFiles/3M7DT10_iTunes.args
-@argFiles/podcasts_sort_episodes_reversed.args
+@argFiles/Thunder_iTunes.args
 
 ==============================================================
 Run DiffFilesAndiTunes.py with these args to compare filesystem files with iTunes files
 ==============================================================
-@argFiles/3M7DT10_DiffFilesAndiTunes.args
+@argFiles/Thunder_DiffFilesAndiTunes.args
 
---current args 3M8LT
-@argFiles/3M8LT10_DiffFilesAndiTunes.args
---current args 3M7DT
-@argFiles/3M7DT10_DiffFilesAndiTunes.args
+--current args Thunder
+--file_system_songs
+iTunesData/Thunder/fileSystem/songs/iTunesSongs.json
+--iTunes_Library_songs
+iTunesData/Thunder/iTunes/songs/iTunesSongs.json
+--outputdir
+DiffResults/Thunder
+--dump_song_keys
 
 ==============================================================
 Run DiffFAlbumsAndPlaylists.py with these args to compare iTunes Albums with iTunes Playlists
