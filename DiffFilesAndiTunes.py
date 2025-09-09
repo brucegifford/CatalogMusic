@@ -43,7 +43,7 @@ def load_itunes_library_songs(iTunes_Library_songs, no_location_report, no_local
             open(file_system_used_multiple_times_report, "w", encoding='utf-8') as file_system_used_multiple_times_file:
         no_location_file.write("The following iTunes songs have no location entry\n\n")
         no_local_location_file.write("The following iTunes songs have no local location entry\n\n")
-        file_system_used_multiple_times_file.write("The following iTunes songs refer to the same local file system song more then once \n\n")
+        file_system_used_multiple_times_file.write("The following iTunes songs refer to the same local file system song more than once \n\n")
 
         for track in itunes_libary_songs:
             if not "location" in track:
