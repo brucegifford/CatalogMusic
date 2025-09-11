@@ -146,8 +146,8 @@ def match_playlist_to_albums(playlist, album_map):
         album_checklist.mark_song(track["location"])
 
 def match_playlists_to_albums(itunes_playlists, album_map, playlist_missing_songs_report, playlist_no_tracks_report):
-    with (open(playlist_missing_songs_report, "w", encoding='utf-8') as report_file_pl_missing_songs,
-          open(playlist_no_tracks_report, "w", encoding='utf-8') as report_file_pl_no_tracks):
+    with open(playlist_missing_songs_report, "w", encoding='utf-8') as report_file_pl_missing_songs,\
+          open(playlist_no_tracks_report, "w", encoding='utf-8') as report_file_pl_no_tracks:
 
         ignore_partial_albums_in_playlists = ignores_data.get("ignore_partial_albums_in_playlists",{})
         for playlist in itunes_playlists:
@@ -179,12 +179,12 @@ def find_albums_with_no_playlists(args, album_map, no_playlist_for_albums_report
                                   playlist_only_partially_covers_album_report, albums_with_multiple_playlists_report,
                                   albums_fully_covered_by_playlist_report, ignored_albums_not_needing_playlist_report,
                                   albums_partially_covered_by_playlist_report):
-    with (open(no_playlist_for_albums_report, "w", encoding='utf-8') as report_file_no_pl_for_album,
-          open(playlist_only_partially_covers_album_report, "w", encoding='utf-8') as report_file_pl_partially_covers_album,
-          open(albums_with_multiple_playlists_report, "w", encoding='utf-8') as report_file_album_with_multiple_playlists,
-          open(albums_fully_covered_by_playlist_report, "w", encoding='utf-8') as report_file_albums_fully_covered_by_playlists,
-          open(ignored_albums_not_needing_playlist_report, "w", encoding='utf-8') as report_file_ignored_albums_not_needing_playlists,
-          open(albums_partially_covered_by_playlist_report, "w", encoding='utf-8') as report_file_albums_partially_covered_by_playlists):
+    with open(no_playlist_for_albums_report, "w", encoding='utf-8') as report_file_no_pl_for_album,\
+          open(playlist_only_partially_covers_album_report, "w", encoding='utf-8') as report_file_pl_partially_covers_album,\
+          open(albums_with_multiple_playlists_report, "w", encoding='utf-8') as report_file_album_with_multiple_playlists,\
+          open(albums_fully_covered_by_playlist_report, "w", encoding='utf-8') as report_file_albums_fully_covered_by_playlists,\
+          open(ignored_albums_not_needing_playlist_report, "w", encoding='utf-8') as report_file_ignored_albums_not_needing_playlists,\
+          open(albums_partially_covered_by_playlist_report, "w", encoding='utf-8') as report_file_albums_partially_covered_by_playlists:
 
         albums_not_needing_playlists = ignores_data.get("albums_not_needing_playlists",{})
         num_ignored = 0
