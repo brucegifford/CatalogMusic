@@ -1,0 +1,35 @@
+{
+    "album": "The Incredibles / Incredibles 2 Movie Bundle",
+    "songs": [
+        {
+            "album": "The Incredibles / Incredibles 2 Movie Bundle",
+            "artist": "Pixar",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|For action violence.",
+            "date_added": "2014-03-30T02:52:39",
+            "date_modified": "2014-03-30T03:52:39",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "The Incredibles",
+            "persistent_id": "E476F916486EA576",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2004-11-05T08:00:00",
+            "size": 4634485184,
+            "sort_album": "Incredibles / Incredibles 2 Movie Bundle",
+            "sort_artist": "Pixar",
+            "sort_name": "Incredibles",
+            "total_time": 6947858,
+            "track_count": 2,
+            "track_id": 402,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2004
+        }
+    ]
+}

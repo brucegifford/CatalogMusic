@@ -1,0 +1,39 @@
+{
+    "album": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+    "songs": [
+        {
+            "album": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+            "album_artist": "Various Artists",
+            "artist": "Audrey Bandley",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "compilation": true,
+            "composer": "Audrey Bandley & Russ Dixon",
+            "date_added": "2015-11-14T05:04:35",
+            "date_modified": "2025-05-21T17:12:15",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "Christian",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/A4N1CZZ/Music/iTunes/iTunes Media/Music/Compilations/EFY 2011_ Especially for Youth (Believe_/03 The One.m4a",
+            "name": "The One",
+            "normalization": 1111,
+            "persistent_id": "D04BAE5EEE638F42",
+            "purchased": true,
+            "release_date": "2011-04-01T12:00:00",
+            "sample_rate": 44100,
+            "size": 8260042,
+            "sort_album": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+            "sort_artist": "Audrey Bandley",
+            "sort_name": "One",
+            "total_time": 233666,
+            "track_count": 13,
+            "track_id": 450,
+            "track_number": 3,
+            "track_type": "File",
+            "year": 2011
+        }
+    ]
+}

@@ -1,0 +1,1673 @@
+[
+    {
+        "albums": [
+            {
+                "album": "Something in the Water - Single",
+                "songs": [
+                    {
+                        "aART": "Carrie Underwood",
+                        "atID": 63399334,
+                        "cmID": 1467170800,
+                        "cnID": 921612175,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Carrie Underwood/Something in the Water - Single/01 Something in the Water.m4a",
+                        "geID": 6,
+                        "plID": 921612174,
+                        "purd": "2014-10-01 06:30:31",
+                        "rel_path": "Carrie Underwood/Something in the Water - Single/01 Something in the Water.m4a",
+                        "soal": "Something in the Water - Single",
+                        "soar": "Carrie Underwood",
+                        "sonm": "Something in the Water",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            1
+                        ],
+                        "©ART": "Carrie Underwood",
+                        "©alb": "Something in the Water - Single",
+                        "©day": "2014-09-29T07:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Something in the Water",
+                        "©wrt": "Carrie Underwood, Chris DeStefano & Brett James"
+                    }
+                ]
+            }
+        ],
+        "artist": "Carrie Underwood"
+    },
+    {
+        "albums": [
+            {
+                "album": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+                "songs": [
+                    {
+                        "aART": "Various Artists",
+                        "atID": 449081552,
+                        "cmID": 67971805,
+                        "cnID": 467727901,
+                        "cpil": true,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Compilations/EFY 2011_ Especially for Youth (Believe_/03 The One.m4a",
+                        "geID": 22,
+                        "plID": 467727868,
+                        "purd": "2015-11-14 05:04:35",
+                        "rel_path": "Compilations/EFY 2011_ Especially for Youth (Believe_/03 The One.m4a",
+                        "soal": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+                        "soar": "Audrey Bandley",
+                        "sonm": "One",
+                        "stik": 1,
+                        "trkn": [
+                            3,
+                            13
+                        ],
+                        "©ART": "Audrey Bandley",
+                        "©alb": "EFY 2011: Especially for Youth (Believe. Hope. Endure.)",
+                        "©day": "2011-04-01T12:00:00Z",
+                        "©gen": "Christian",
+                        "©nam": "The One",
+                        "©wrt": "Audrey Bandley & Russ Dixon"
+                    }
+                ]
+            },
+            {
+                "album": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+                "songs": [
+                    {
+                        "aART": "Various Artists",
+                        "atID": 285577044,
+                        "cnID": 304843037,
+                        "cpil": true,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Compilations/Praise to the Man - A Collection of Song/01 Fantasy On a Scottish Tune.m4a",
+                        "geID": 22,
+                        "plID": 304843034,
+                        "purd": "2011-05-07 22:53:26",
+                        "rel_path": "Compilations/Praise to the Man - A Collection of Song/01 Fantasy On a Scottish Tune.m4a",
+                        "soal": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+                        "soar": "Millennium Choir",
+                        "sonm": "Fantasy On a Scottish Tune",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            12
+                        ],
+                        "©ART": "The Millennium Choir",
+                        "©alb": "Praise to the Man - A Collection of Songs Celebrating the Prophet Joseph",
+                        "©day": "2007-01-01T00:00:00Z",
+                        "©gen": "Christian",
+                        "©nam": "Fantasy On a Scottish Tune"
+                    }
+                ]
+            }
+        ],
+        "artist": "Compilations"
+    },
+    {
+        "albums": [
+            {
+                "album": "The Mountain",
+                "songs": [
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 373913605,
+                        "cnID": 1369348544,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/01 Burning Man (feat. Brothers Osbor.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/01 Burning Man (feat. Brothers Osbor.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Burning Man (feat. Brothers Osborne)",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-05-25T07:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Burning Man (feat. Brothers Osborne)",
+                        "©wrt": "Bobby Pinson & Luke Dick"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 48845149,
+                        "cnID": 1369348556,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/02 The Mountain.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/02 The Mountain.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Mountain",
+                        "stik": 1,
+                        "trkn": [
+                            2,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-04-13T07:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "The Mountain",
+                        "©wrt": "Dierks Bentley, Jon Randall, Luke Dick & Natalie Hemby"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 27570981,
+                        "cnID": 1369348557,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/03 Living.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/03 Living.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Living",
+                        "stik": 1,
+                        "trkn": [
+                            3,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-04-27T07:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Living",
+                        "©wrt": "Dierks Bentley, Ross Copperman, Jon Nite & Ashley Gorley"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 80883591,
+                        "cnID": 1369348558,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/04 Woman, Amen.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/04 Woman, Amen.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Woman, Amen",
+                        "stik": 1,
+                        "trkn": [
+                            4,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-01-17T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Woman, Amen",
+                        "©wrt": "Dierks Bentley, Ross Copperman & Josh Kear"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 42281917,
+                        "cnID": 1369348559,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/05 You Can't Bring Me Down.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/05 You Can't Bring Me Down.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "You Can't Bring Me Down",
+                        "stik": 1,
+                        "trkn": [
+                            5,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-05-11T07:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "You Can't Bring Me Down",
+                        "©wrt": "Dierks Bentley, Hillary Lindsey & Luke Laird"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 284588371,
+                        "cnID": 1369348563,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/06 Nothing On But the Stars.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/06 Nothing On But the Stars.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Nothing On But the Stars",
+                        "stik": 1,
+                        "trkn": [
+                            6,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Nothing On But the Stars",
+                        "©wrt": "Dierks Bentley, Jon Randall, Ross Copperman & Jon Nite"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 27570981,
+                        "cnID": 1369348564,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/07 Goodbye in Telluride.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/07 Goodbye in Telluride.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Goodbye in Telluride",
+                        "stik": 1,
+                        "trkn": [
+                            7,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Goodbye in Telluride",
+                        "©wrt": "Dierks Bentley, Ross Copperman, Scooter Carusoe & Ashley Gorley"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 689473663,
+                        "cnID": 1369348565,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/08 My Religion.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/08 My Religion.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "My Religion",
+                        "stik": 1,
+                        "trkn": [
+                            8,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "My Religion",
+                        "©wrt": "Ben Burgess, Jamie Kenney, Michael Pollack & Rick Markowitz"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 437527769,
+                        "cnID": 1369348566,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/09 One Way.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/09 One Way.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "One Way",
+                        "stik": 1,
+                        "trkn": [
+                            9,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "One Way",
+                        "©wrt": "Dierks Bentley, Jeff Hyde & Laura Veltz"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 284588371,
+                        "cnID": 1369348567,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/10 Son of the Sun.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/10 Son of the Sun.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Son of the Sun",
+                        "stik": 1,
+                        "trkn": [
+                            10,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Son of the Sun",
+                        "©wrt": "Dierks Bentley, Jon Randall, Ross Copperman & Jon Nite"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 15899742,
+                        "cnID": 1369348568,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/11 Stranger to Myself.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/11 Stranger to Myself.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Stranger to Myself",
+                        "stik": 1,
+                        "trkn": [
+                            11,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Stranger to Myself",
+                        "©wrt": "Dierks Bentley, Heather Morgan & Ross Copperman"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 27570981,
+                        "cnID": 1369348569,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/12 Travelin' Light (feat. Brandi Car.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/12 Travelin' Light (feat. Brandi Car.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "Travelin' Light (feat. Brandi Carlile)",
+                        "stik": 1,
+                        "trkn": [
+                            12,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Travelin' Light (feat. Brandi Carlile)",
+                        "©wrt": "Dierks Bentley, Jon Nite & Ashley Gorley"
+                    },
+                    {
+                        "aART": "Dierks Bentley",
+                        "atID": 3088872,
+                        "cmID": 1752115,
+                        "cnID": 1369348631,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Dierks Bentley/The Mountain/13 How I'm Going Out.m4a",
+                        "geID": 6,
+                        "plID": 1369348197,
+                        "purd": "2020-11-08 02:41:34",
+                        "rel_path": "Dierks Bentley/The Mountain/13 How I'm Going Out.m4a",
+                        "soal": "Mountain",
+                        "soar": "Dierks Bentley",
+                        "sonm": "How I'm Going Out",
+                        "stik": 1,
+                        "trkn": [
+                            13,
+                            13
+                        ],
+                        "©ART": "Dierks Bentley",
+                        "©alb": "The Mountain",
+                        "©day": "2018-06-08T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "How I'm Going Out",
+                        "©wrt": "Jessi Alexander & Jon Randall"
+                    }
+                ]
+            }
+        ],
+        "artist": "Dierks Bentley"
+    },
+    {
+        "albums": [
+            {
+                "album": "The Very Best of Eagles",
+                "songs": [
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 388900,
+                        "cnID": 636867032,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-01 Take It Easy.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-01 Take It Easy.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Take It Easy",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1972-05-01T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Take It Easy",
+                        "©wrt": "Glenn Frey & Jackson Browne"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173831,
+                        "cnID": 636867034,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-02 Witchy Woman.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-02 Witchy Woman.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Witchy Woman",
+                        "stik": 1,
+                        "trkn": [
+                            2,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1972-06-01T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Witchy Woman",
+                        "©wrt": "Bernie Leadon & Don Henley"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 5102109,
+                        "cnID": 636867036,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-03 Peaceful Easy Feeling.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-03 Peaceful Easy Feeling.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Peaceful Easy Feeling",
+                        "stik": 1,
+                        "trkn": [
+                            3,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1972-06-01T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Peaceful Easy Feeling",
+                        "©wrt": "Jack Tempchin"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867037,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-04 Desperado.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-04 Desperado.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Desperado",
+                        "stik": 1,
+                        "trkn": [
+                            4,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1973-04-17T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Desperado",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867038,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-05 Tequila Sunrise.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-05 Tequila Sunrise.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Tequila Sunrise",
+                        "stik": 1,
+                        "trkn": [
+                            5,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1973-04-17T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Tequila Sunrise",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867039,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-06 Doolin-Dalton.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-06 Doolin-Dalton.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Doolin-Dalton",
+                        "stik": 1,
+                        "trkn": [
+                            6,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1973-04-17T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Doolin-Dalton",
+                        "©wrt": "Don Henley, Glenn Frey, Jackson Browne, Jim Ed Norman & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 6368856,
+                        "cnID": 636867040,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-07 Already Gone.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-07 Already Gone.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Already Gone",
+                        "stik": 1,
+                        "trkn": [
+                            7,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Already Gone",
+                        "©wrt": "Jack Tempchin & Robb Strandlund"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867041,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-08 The Best of My Love.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-08 The Best of My Love.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Best of My Love",
+                        "stik": 1,
+                        "trkn": [
+                            8,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "The Best of My Love",
+                        "©wrt": "Don Henley, Glenn Frey & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867043,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-09 James Dean.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-09 James Dean.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "James Dean",
+                        "stik": 1,
+                        "trkn": [
+                            9,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "James Dean",
+                        "©wrt": "Don Henley, Glenn Frey, Jackson Browne & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 83964,
+                        "cnID": 636867044,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-10 Ol' 55.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-10 Ol' 55.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Ol' 55",
+                        "stik": 1,
+                        "trkn": [
+                            10,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Ol' 55",
+                        "©wrt": "Tom Waits"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 487817,
+                        "cnID": 636867045,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-11 Midnight Flyer.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-11 Midnight Flyer.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Midnight Flyer",
+                        "stik": 1,
+                        "trkn": [
+                            11,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Midnight Flyer",
+                        "©wrt": "Paul Craft"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867046,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-12 On the Border.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-12 On the Border.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "On the Border",
+                        "stik": 1,
+                        "trkn": [
+                            12,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1974-03-22T12:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "On the Border",
+                        "©wrt": "Bernie Leadon, Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867047,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-13 Lyin' Eyes.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-13 Lyin' Eyes.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Lyin' Eyes",
+                        "stik": 1,
+                        "trkn": [
+                            13,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1975-06-10T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Lyin' Eyes",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867048,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-14 One of These Nights.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-14 One of These Nights.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "One of These Nights",
+                        "stik": 1,
+                        "trkn": [
+                            14,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1975-05-19T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "One of These Nights",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 28950169,
+                        "cnID": 636867069,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-15 Take It to the Limit.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-15 Take It to the Limit.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Take It to the Limit",
+                        "stik": 1,
+                        "trkn": [
+                            15,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1975-06-10T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Take It to the Limit",
+                        "©wrt": "Don Henley, Glenn Frey & Randy Meisner"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867071,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-16 After the Thrill Is Gone.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-16 After the Thrill Is Gone.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "After the Thrill Is Gone",
+                        "stik": 1,
+                        "trkn": [
+                            16,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1975-06-10T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "After the Thrill Is Gone",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867072,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/1-17 Hotel California.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/1-17 Hotel California.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Hotel California",
+                        "stik": 1,
+                        "trkn": [
+                            17,
+                            17
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-08T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Hotel California",
+                        "©wrt": "Don Felder, Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 34507,
+                        "cnID": 636867073,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-01 Life In the Fast Lane.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-01 Life In the Fast Lane.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Life In the Fast Lane",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-08T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Life In the Fast Lane",
+                        "©wrt": "Don Henley, Glenn Frey & Joe Walsh"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867074,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-02 Wasted Time.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-02 Wasted Time.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Wasted Time",
+                        "stik": 1,
+                        "trkn": [
+                            2,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-08T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Wasted Time",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867075,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-03 Victim of Love.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-03 Victim of Love.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Victim of Love",
+                        "stik": 1,
+                        "trkn": [
+                            3,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-08T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Victim of Love",
+                        "©wrt": "Don Felder, Don Henley, Glenn Frey & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867076,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-04 The Last Resort.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-04 The Last Resort.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Last Resort",
+                        "stik": 1,
+                        "trkn": [
+                            4,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-08T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "The Last Resort",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867078,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-05 New Kid In Town.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-05 New Kid In Town.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "New Kid In Town",
+                        "stik": 1,
+                        "trkn": [
+                            5,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1976-12-02T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "New Kid In Town",
+                        "©wrt": "Don Henley, Glenn Frey & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 217348,
+                        "cnID": 636867079,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-06 Please Come Home for Christmas.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-06 Please Come Home for Christmas.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Please Come Home for Christmas",
+                        "stik": 1,
+                        "trkn": [
+                            6,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1978-11-27T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Please Come Home for Christmas",
+                        "©wrt": "Charles Brown & Gene Redd"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 257316,
+                        "cnID": 636867080,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-07 Heartache Tonight.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-07 Heartache Tonight.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Heartache Tonight",
+                        "stik": 1,
+                        "trkn": [
+                            7,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-18T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Heartache Tonight",
+                        "©wrt": "Bob Seger, Don Henley, Glenn Frey & JD Souther"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 34507,
+                        "cnID": 636867081,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-08 The Sad Cafe.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-08 The Sad Cafe.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Sad Cafe",
+                        "stik": 1,
+                        "trkn": [
+                            8,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-24T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "The Sad Cafe",
+                        "©wrt": "Don Henley, Glenn Frey, JD Souther & Joe Walsh"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 827504,
+                        "cnID": 636867082,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-09 I Can't Tell You Why.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-09 I Can't Tell You Why.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "I Can't Tell You Why",
+                        "stik": 1,
+                        "trkn": [
+                            9,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-24T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "I Can't Tell You Why",
+                        "©wrt": "Don Henley, Glenn Frey & Timothy B. Schmit"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867083,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-10 The Long Run.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-10 The Long Run.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Long Run",
+                        "stik": 1,
+                        "trkn": [
+                            10,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-24T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "The Long Run",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 34507,
+                        "cnID": 636867084,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-11 In the City.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-11 In the City.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "In the City",
+                        "stik": 1,
+                        "trkn": [
+                            11,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-24T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "In the City",
+                        "©wrt": "Barry De Vorzon & Joe Walsh"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867086,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-12 Those Shoes.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-12 Those Shoes.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Those Shoes",
+                        "stik": 1,
+                        "trkn": [
+                            12,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1979-09-24T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Those Shoes",
+                        "©wrt": "Don Felder, Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 1193142,
+                        "cnID": 636867087,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-13 Seven Bridges Road (Live).m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-13 Seven Bridges Road (Live).m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Seven Bridges Road (Live)",
+                        "stik": 1,
+                        "trkn": [
+                            13,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1980-11-07T08:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Seven Bridges Road (Live)",
+                        "©wrt": "Steve Young"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 26235624,
+                        "cnID": 636867088,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-14 Love Will Keep Us Alive.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-14 Love Will Keep Us Alive.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Love Will Keep Us Alive",
+                        "stik": 1,
+                        "trkn": [
+                            14,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "1994-11-08T12:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Love Will Keep Us Alive",
+                        "©wrt": "Jim Capaldi, Paul Carrack & Pete Vale"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867249,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-15 Get Over It.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-15 Get Over It.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Get Over It",
+                        "stik": 1,
+                        "trkn": [
+                            15,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "2000-11-14T12:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Get Over It",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    },
+                    {
+                        "aART": "Eagles",
+                        "atID": 1053549,
+                        "cmID": 173835,
+                        "cnID": 636867250,
+                        "cpil": false,
+                        "disk": [
+                            2,
+                            2
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Eagles/The Very Best of Eagles/2-16 Hole In the World.m4a",
+                        "geID": 21,
+                        "plID": 636866317,
+                        "purd": "2020-11-08 02:46:53",
+                        "rel_path": "Eagles/The Very Best of Eagles/2-16 Hole In the World.m4a",
+                        "soal": "Very Best of Eagles",
+                        "soar": "Eagles",
+                        "sonm": "Hole In the World",
+                        "stik": 1,
+                        "trkn": [
+                            16,
+                            16
+                        ],
+                        "©ART": "Eagles",
+                        "©alb": "The Very Best of Eagles",
+                        "©day": "2003-07-15T07:00:00Z",
+                        "©gen": "Rock",
+                        "©nam": "Hole In the World",
+                        "©wrt": "Don Henley & Glenn Frey"
+                    }
+                ]
+            }
+        ],
+        "artist": "Eagles"
+    },
+    {
+        "albums": [
+            {
+                "album": "Islands In the Stream (The Voice Performance) - Single",
+                "songs": [
+                    {
+                        "aART": "Emily Ann Roberts & Blake Shelton",
+                        "atID": 1040553354,
+                        "cmID": 801217,
+                        "cnID": 1067658103,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Emily Ann Roberts & Blake Shelton/Islands In the Stream (The Voice Perform/01 Islands In the Stream (The Voice.m4a",
+                        "geID": 6,
+                        "plID": 1067658101,
+                        "purd": "2015-12-22 04:00:44",
+                        "rel_path": "Emily Ann Roberts & Blake Shelton/Islands In the Stream (The Voice Perform/01 Islands In the Stream (The Voice.m4a",
+                        "soal": "Islands In the Stream (The Voice Performance) - Single",
+                        "soar": "Emily Ann Roberts & Blake Shelton",
+                        "sonm": "Islands In the Stream (The Voice Performance)",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            1
+                        ],
+                        "©ART": "Emily Ann Roberts & Blake Shelton",
+                        "©alb": "Islands In the Stream (The Voice Performance) - Single",
+                        "©day": "2015-12-14T12:00:00Z",
+                        "©gen": "Country",
+                        "©nam": "Islands In the Stream (The Voice Performance)",
+                        "©wrt": "Barry Alan Gibb, Maurice Ernest Gibb & Robin Hugh Gibb"
+                    }
+                ]
+            }
+        ],
+        "artist": "Emily Ann Roberts & Blake Shelton"
+    },
+    {
+        "albums": [
+            {
+                "album": "Christmas Cookies",
+                "songs": [
+                    {
+                        "aART": "George Strait",
+                        "atID": 96353,
+                        "cmID": 1534575741,
+                        "cnID": 1443835316,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/George Strait/Christmas Cookies/01 Christmas Cookies.m4a",
+                        "geID": 8,
+                        "plID": 1443835107,
+                        "purd": "2020-12-09 05:51:47",
+                        "rel_path": "George Strait/Christmas Cookies/01 Christmas Cookies.m4a",
+                        "soal": "Christmas Cookies",
+                        "soar": "George Strait",
+                        "sonm": "Christmas Cookies",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            15
+                        ],
+                        "©ART": "George Strait",
+                        "©alb": "Christmas Cookies",
+                        "©day": "2001-01-01T12:00:00Z",
+                        "©gen": "Holiday",
+                        "©nam": "Christmas Cookies",
+                        "©wrt": "Aaron Barker"
+                    }
+                ]
+            }
+        ],
+        "artist": "George Strait"
+    },
+    {
+        "albums": [
+            {
+                "album": "The Best of Heatwave: Always and Forever",
+                "songs": [
+                    {
+                        "aART": "Heatwave",
+                        "atID": 868364,
+                        "cmID": 461185,
+                        "cnID": 153422067,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/Heatwave/The Best of Heatwave_ Always and Forever/04 Always and Forever.m4a",
+                        "geID": 15,
+                        "plID": 153421868,
+                        "purd": "2015-04-22 02:08:39",
+                        "rel_path": "Heatwave/The Best of Heatwave_ Always and Forever/04 Always and Forever.m4a",
+                        "soal": "Best of Heatwave: Always and Forever",
+                        "soar": "Heatwave",
+                        "sonm": "Always and Forever",
+                        "stik": 1,
+                        "trkn": [
+                            4,
+                            13
+                        ],
+                        "©ART": "Heatwave",
+                        "©alb": "The Best of Heatwave: Always and Forever",
+                        "©day": "1976-01-01T08:00:00Z",
+                        "©gen": "R&B/Soul",
+                        "©nam": "Always and Forever",
+                        "©wrt": "Rod Temperton"
+                    }
+                ]
+            }
+        ],
+        "artist": "Heatwave"
+    },
+    {
+        "albums": [
+            {
+                "album": "Scotland the Brave",
+                "songs": [
+                    {
+                        "aART": "The Drums & Pipes & The Cape Town Highlanders",
+                        "atID": 289533737,
+                        "cnID": 289533759,
+                        "cpil": false,
+                        "disk": [
+                            1,
+                            1
+                        ],
+                        "full_path": "C:/Users/a4n1czz/Music/iTunes/iTunes Media/Music/The Drums & Pipes & The Cape Town Highla/Scotland the Brave/01 Scotland the Brave.m4a",
+                        "geID": 19,
+                        "plID": 289533707,
+                        "purd": "2016-05-18 00:37:05",
+                        "rel_path": "The Drums & Pipes & The Cape Town Highla/Scotland the Brave/01 Scotland the Brave.m4a",
+                        "soal": "Scotland the Brave",
+                        "soar": "Drums & Pipes & The Cape Town Highlanders",
+                        "sonm": "Scotland the Brave",
+                        "stik": 1,
+                        "trkn": [
+                            1,
+                            30
+                        ],
+                        "©ART": "The Drums & Pipes & The Cape Town Highlanders",
+                        "©alb": "Scotland the Brave",
+                        "©day": "2008-08-26T12:00:00Z",
+                        "©gen": "Worldwide",
+                        "©nam": "Scotland the Brave"
+                    }
+                ]
+            }
+        ],
+        "artist": "The Drums & Pipes & The Cape Town Highlanders"
+    }
+]

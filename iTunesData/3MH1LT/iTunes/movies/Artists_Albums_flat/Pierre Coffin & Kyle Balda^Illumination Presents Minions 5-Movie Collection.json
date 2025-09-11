@@ -1,0 +1,35 @@
+{
+    "album": "Illumination Presents Minions 5-Movie Collection",
+    "songs": [
+        {
+            "album": "Illumination Presents Minions 5-Movie Collection",
+            "artist": "Pierre Coffin & Kyle Balda",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|",
+            "date_added": "2018-07-28T00:17:38",
+            "date_modified": "2018-07-28T01:17:38",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Despicable Me 3",
+            "persistent_id": "97749C05B284FC3E",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2017-06-30T07:00:00",
+            "size": 3772352529,
+            "sort_album": "Illumination Presents Minions 5-Movie Collection",
+            "sort_artist": "Pierre Coffin & Kyle Balda",
+            "sort_name": "Despicable Me 3",
+            "total_time": 5381718,
+            "track_count": 5,
+            "track_id": 286,
+            "track_number": 3,
+            "track_type": "Remote",
+            "year": 2017
+        }
+    ]
+}

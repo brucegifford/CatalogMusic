@@ -1,0 +1,33 @@
+{
+    "album": "Family Movies Trio",
+    "songs": [
+        {
+            "album": "Family Movies Trio",
+            "artist": "Will Speck & Josh Gordon",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for mild peril and thematic elements.",
+            "date_added": "2023-08-02T15:29:02",
+            "date_modified": "2023-08-02T16:29:02",
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Lyle, Lyle, Crocodile",
+            "persistent_id": "28649B044012AC4E",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2022-10-07T07:00:00",
+            "size": 4481737441,
+            "sort_album": "Family Movies Trio",
+            "sort_artist": "Will Speck & Josh Gordon",
+            "sort_name": "Lyle, Lyle, Crocodile",
+            "total_time": 6407151,
+            "track_count": 3,
+            "track_id": 368,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2022
+        }
+    ]
+}

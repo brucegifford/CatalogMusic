@@ -1,0 +1,35 @@
+{
+    "album": "Moana-Collection de 2 films",
+    "songs": [
+        {
+            "album": "Moana-Collection de 2 films",
+            "artist": "John Musker & Ron Clements",
+            "artwork_count": 1,
+            "content_rating": "mpaa|PG|200|for peril, some scary images and brief thematic elements.",
+            "date_added": "2017-07-09T22:44:24",
+            "date_modified": "2017-07-09T23:44:24",
+            "disc_count": 1,
+            "disc_number": 1,
+            "genre": "Kids & Family",
+            "has_video": true,
+            "hd": true,
+            "kind": "Purchased MPEG-4 video file",
+            "movie": true,
+            "name": "Moana (2016)",
+            "persistent_id": "30727DDBDC2A7B0D",
+            "play_count": 1,
+            "purchased": true,
+            "release_date": "2016-11-23T08:00:00",
+            "size": 4442169847,
+            "sort_album": "Moana-Collection de 2 films",
+            "sort_artist": "John Musker & Ron Clements",
+            "sort_name": "Moana (2016)",
+            "total_time": 6505041,
+            "track_count": 2,
+            "track_id": 398,
+            "track_number": 1,
+            "track_type": "Remote",
+            "year": 2016
+        }
+    ]
+}

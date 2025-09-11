@@ -1,0 +1,39 @@
+{
+    "album": "The Best of Heatwave: Always and Forever",
+    "songs": [
+        {
+            "album": "The Best of Heatwave: Always and Forever",
+            "album_artist": "Heatwave",
+            "artist": "Heatwave",
+            "artwork_count": 1,
+            "bitrate": 256,
+            "compilation": true,
+            "composer": "Rod Temperton",
+            "date_added": "2015-04-22T01:08:39",
+            "date_modified": "2025-05-21T17:12:16",
+            "disc_count": 1,
+            "disc_number": 1,
+            "file_folder_count": 5,
+            "genre": "R&B/Soul",
+            "kind": "Purchased AAC audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/C:/Users/A4N1CZZ/Music/iTunes/iTunes Media/Music/Compilations/The Best of Heatwave_ Always and Forever/04 Always and Forever.m4a",
+            "name": "Always and Forever",
+            "normalization": 1082,
+            "persistent_id": "77C7D2EA7142B6B4",
+            "purchased": true,
+            "release_date": "1976-01-01T08:00:00",
+            "sample_rate": 44100,
+            "size": 13041029,
+            "sort_album": "Best of Heatwave: Always and Forever",
+            "sort_artist": "Heatwave",
+            "sort_name": "Always and Forever",
+            "total_time": 373906,
+            "track_count": 13,
+            "track_id": 388,
+            "track_number": 4,
+            "track_type": "File",
+            "year": 1976
+        }
+    ]
+}
