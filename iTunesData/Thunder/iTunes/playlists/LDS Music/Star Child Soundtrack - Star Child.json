@@ -3,7 +3,7 @@
     "display_path": "/LDS Music/Star Child Soundtrack - Star Child",
     "name": "Star Child Soundtrack - Star Child",
     "parent_persistent_id": "FAA0E43E3C73A45B",
-    "playlist_id": 95038,
+    "playlist_id": 95081,
     "playlist_persistent_id": "0689B493820F0D71",
     "tracks": [
         {
@@ -27,7 +27,7 @@
             "size": 4737887,
             "total_time": 129400,
             "track_count": 23,
-            "track_id": 36096,
+            "track_id": 36100,
             "track_number": 1,
             "track_type": "File",
             "year": 1981
@@ -53,7 +53,7 @@
             "size": 7182662,
             "total_time": 194933,
             "track_count": 23,
-            "track_id": 36098,
+            "track_id": 36102,
             "track_number": 2,
             "track_type": "File",
             "year": 1981
@@ -80,7 +80,7 @@
             "sort_name": "Hunt",
             "total_time": 128800,
             "track_count": 23,
-            "track_id": 36100,
+            "track_id": 36104,
             "track_number": 3,
             "track_type": "File",
             "year": 1981
@@ -106,7 +106,7 @@
             "size": 5255592,
             "total_time": 143293,
             "track_count": 23,
-            "track_id": 36102,
+            "track_id": 36106,
             "track_number": 4,
             "track_type": "File",
             "year": 1981
@@ -132,7 +132,7 @@
             "size": 6327354,
             "total_time": 173400,
             "track_count": 23,
-            "track_id": 36104,
+            "track_id": 36108,
             "track_number": 6,
             "track_type": "File",
             "year": 1981
@@ -158,7 +158,7 @@
             "size": 1750079,
             "total_time": 49600,
             "track_count": 23,
-            "track_id": 36106,
+            "track_id": 36110,
             "track_number": 7,
             "track_type": "File",
             "year": 1981
@@ -184,7 +184,7 @@
             "size": 5612023,
             "total_time": 148573,
             "track_count": 23,
-            "track_id": 36108,
+            "track_id": 36112,
             "track_number": 8,
             "track_type": "File",
             "year": 1981
@@ -211,7 +211,7 @@
             "sort_name": "Real You",
             "total_time": 145933,
             "track_count": 23,
-            "track_id": 36110,
+            "track_id": 36114,
             "track_number": 9,
             "track_type": "File",
             "year": 1981
@@ -237,7 +237,7 @@
             "size": 6269470,
             "total_time": 173493,
             "track_count": 23,
-            "track_id": 36112,
+            "track_id": 36116,
             "track_number": 10,
             "track_type": "File",
             "year": 1981
@@ -263,7 +263,7 @@
             "size": 4966518,
             "total_time": 136466,
             "track_count": 23,
-            "track_id": 36114,
+            "track_id": 36118,
             "track_number": 11,
             "track_type": "File",
             "year": 1981
@@ -289,7 +289,7 @@
             "size": 6738954,
             "total_time": 181733,
             "track_count": 23,
-            "track_id": 36116,
+            "track_id": 36120,
             "track_number": 12,
             "track_type": "File",
             "year": 1981
@@ -315,7 +315,7 @@
             "size": 2027572,
             "total_time": 56933,
             "track_count": 23,
-            "track_id": 36118,
+            "track_id": 36122,
             "track_number": 13,
             "track_type": "File",
             "year": 1981
@@ -341,7 +341,7 @@
             "size": 6681164,
             "total_time": 175106,
             "track_count": 23,
-            "track_id": 36120,
+            "track_id": 36124,
             "track_number": 14,
             "track_type": "File",
             "year": 1981
@@ -367,7 +367,7 @@
             "size": 8774337,
             "total_time": 235733,
             "track_count": 23,
-            "track_id": 36122,
+            "track_id": 36126,
             "track_number": 15,
             "track_type": "File",
             "year": 1981
@@ -393,7 +393,7 @@
             "size": 7023374,
             "total_time": 192426,
             "track_count": 23,
-            "track_id": 36124,
+            "track_id": 36128,
             "track_number": 16,
             "track_type": "File",
             "year": 1981
@@ -419,7 +419,7 @@
             "size": 9669280,
             "total_time": 259200,
             "track_count": 23,
-            "track_id": 36126,
+            "track_id": 36130,
             "track_number": 17,
             "track_type": "File",
             "year": 1981
@@ -445,7 +445,7 @@
             "size": 7472090,
             "total_time": 206173,
             "track_count": 23,
-            "track_id": 36128,
+            "track_id": 36132,
             "track_number": 18,
             "track_type": "File",
             "year": 1981
@@ -472,7 +472,7 @@
             "sort_name": "Royal Army",
             "total_time": 183866,
             "track_count": 23,
-            "track_id": 36130,
+            "track_id": 36134,
             "track_number": 19,
             "track_type": "File",
             "year": 1981
@@ -498,7 +498,7 @@
             "size": 6387373,
             "total_time": 171533,
             "track_count": 23,
-            "track_id": 36132,
+            "track_id": 36136,
             "track_number": 20,
             "track_type": "File",
             "year": 1981
@@ -525,7 +525,7 @@
             "sort_name": "Promise / Star Child",
             "total_time": 86800,
             "track_count": 23,
-            "track_id": 36134,
+            "track_id": 36138,
             "track_number": 21,
             "track_type": "File",
             "year": 1981
@@ -551,7 +551,7 @@
             "size": 9369758,
             "total_time": 263666,
             "track_count": 23,
-            "track_id": 36136,
+            "track_id": 36140,
             "track_number": 22,
             "track_type": "File",
             "year": 1981
@@ -577,7 +577,7 @@
             "size": 3472971,
             "total_time": 92426,
             "track_count": 23,
-            "track_id": 36138,
+            "track_id": 36142,
             "track_number": 23,
             "track_type": "File",
             "year": 1981

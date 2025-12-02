@@ -21,7 +21,7 @@
             "sample_rate": 44100,
             "size": 19065715,
             "total_time": 1188388,
-            "track_id": 4994,
+            "track_id": 4998,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -47,7 +47,7 @@
             "size": 30067294,
             "sort_name": "Book of Mormon: Man-Made or God-Given? | Tad R. Callster, Nov 2016",
             "total_time": 1875983,
-            "track_id": 4998,
+            "track_id": 5002,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -73,81 +73,10 @@
             "size": 8708744,
             "sort_name": "Importance of Asking Questions (Excerpted) | Cecil O. Samuelson , Nov 2001",
             "total_time": 541074,
-            "track_id": 5000,
+            "track_id": 5004,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
-        },
-        {
-            "album": "Joseph Smith: BYU Speeches",
-            "artist": "BYU Speeches",
-            "clean": true,
-            "date_added": "2022-01-04T02:36:34",
-            "genre": "Podcast",
-            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/14554c41-327f-473c-adf6-ab6e0189b370/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1582898689",
-            "name": "Unlocking the Doors | M. Russell Ballard | November 1989",
-            "persistent_id": "25D31A4D09AD635E",
-            "podcast": true,
-            "release_date": "2022-10-21T11:00:00",
-            "size": 40328625,
-            "total_time": 2518000,
-            "track_id": 13056,
-            "track_type": "URL",
-            "unplayed": true
-        },
-        {
-            "album": "Joseph Smith: BYU Speeches",
-            "artist": "BYU Speeches",
-            "clean": true,
-            "date_added": "2022-01-04T02:36:34",
-            "genre": "Podcast",
-            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/3fff1496-aad2-4f5e-84e6-aa7100f90acd/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1614960211",
-            "name": "Stand by My Servant Joseph | Cecil O. Samuelson | January 2005",
-            "persistent_id": "616510D95A96F50C",
-            "play_count": 1,
-            "play_date": 3703922484,
-            "play_date_utc": "2021-05-15T17:21:24",
-            "podcast": true,
-            "release_date": "2023-12-15T11:00:00",
-            "size": 20055103,
-            "total_time": 1251000,
-            "track_id": 13080,
-            "track_type": "URL"
-        },
-        {
-            "album": "Joseph Smith: BYU Speeches",
-            "artist": "BYU Speeches",
-            "clean": true,
-            "date_added": "2022-01-04T02:36:34",
-            "genre": "Podcast",
-            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/76d53026-1691-43cf-9bcd-aa7100f78f78/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1561063036",
-            "name": "The Profile of a Prophet | Hugh B. Brown | October 1955",
-            "persistent_id": "E1375693FC6EA3BD",
-            "podcast": true,
-            "release_date": "2024-01-12T11:00:00",
-            "size": 26721127,
-            "sort_name": "Profile of a Prophet | Hugh B. Brown | October 1955",
-            "total_time": 1667000,
-            "track_id": 13078,
-            "track_type": "URL",
-            "unplayed": true
-        },
-        {
-            "album": "Joseph Smith: BYU Speeches",
-            "artist": "BYU Speeches",
-            "date_added": "2022-01-04T02:36:34",
-            "genre": "Podcast",
-            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/f3b91e5e-34bd-4c8e-9e77-ab250140045b/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1576524805",
-            "name": "The Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
-            "persistent_id": "E1FFCD46C38F329C",
-            "podcast": true,
-            "release_date": "2024-02-09T11:00:00",
-            "size": 26007267,
-            "sort_name": "Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
-            "total_time": 1623000,
-            "track_id": 13090,
-            "track_type": "URL",
-            "unplayed": true
         },
         {
             "album": "Joseph Smith: BYU Speeches",
@@ -162,7 +91,7 @@
             "release_date": "2024-02-23T11:00:00",
             "size": 29101845,
             "total_time": 1816000,
-            "track_id": 13094,
+            "track_id": 13098,
             "track_type": "URL",
             "unplayed": true
         },
@@ -179,7 +108,7 @@
             "release_date": "2024-03-08T11:00:00",
             "size": 33760408,
             "total_time": 2107000,
-            "track_id": 13036,
+            "track_id": 13040,
             "track_type": "URL",
             "unplayed": true
         },
@@ -196,7 +125,7 @@
             "release_date": "2024-03-22T10:00:00",
             "size": 32082322,
             "total_time": 2003000,
-            "track_id": 41584,
+            "track_id": 41588,
             "track_type": "URL",
             "unplayed": true
         },
@@ -213,7 +142,7 @@
             "release_date": "2024-04-05T10:00:00",
             "size": 31270226,
             "total_time": 1952000,
-            "track_id": 13096,
+            "track_id": 13100,
             "track_type": "URL",
             "unplayed": true
         },
@@ -230,7 +159,7 @@
             "size": 39001194,
             "sort_name": "Lord God of Joseph Smith | Bruce R. McConkie | January 1972",
             "total_time": 2435000,
-            "track_id": 13058,
+            "track_id": 13062,
             "track_type": "URL",
             "unplayed": true
         },
@@ -247,7 +176,7 @@
             "release_date": "2024-05-03T10:00:00",
             "size": 30479019,
             "total_time": 1902000,
-            "track_id": 13084,
+            "track_id": 13088,
             "track_type": "URL",
             "unplayed": true
         },
@@ -264,7 +193,7 @@
             "release_date": "2024-05-17T10:00:00",
             "size": 40119760,
             "total_time": 2505000,
-            "track_id": 13088,
+            "track_id": 13092,
             "track_type": "URL",
             "unplayed": true
         },
@@ -281,7 +210,7 @@
             "release_date": "2024-05-31T10:00:00",
             "size": 43604241,
             "total_time": 2723000,
-            "track_id": 38898,
+            "track_id": 38902,
             "track_type": "URL",
             "unplayed": true
         },
@@ -298,7 +227,7 @@
             "size": 31064622,
             "sort_name": "Value of a Good Name | L. Tom Perry | February 1997",
             "total_time": 1939000,
-            "track_id": 13060,
+            "track_id": 13064,
             "track_type": "URL",
             "unplayed": true
         },
@@ -315,7 +244,7 @@
             "release_date": "2024-07-12T10:00:00",
             "size": 46301751,
             "total_time": 2891000,
-            "track_id": 13082,
+            "track_id": 13086,
             "track_type": "URL",
             "unplayed": true
         },
@@ -335,7 +264,7 @@
             "release_date": "2024-07-26T10:00:00",
             "size": 45255596,
             "total_time": 2826000,
-            "track_id": 40880,
+            "track_id": 40884,
             "track_type": "URL"
         },
         {
@@ -351,7 +280,7 @@
             "size": 35382985,
             "sort_name": "Restoration of the Priesthood | A. William Lund | March 1951",
             "total_time": 2209000,
-            "track_id": 13070,
+            "track_id": 13074,
             "track_type": "URL",
             "unplayed": true
         },
@@ -367,7 +296,7 @@
             "release_date": "2024-08-23T10:00:00",
             "size": 36884720,
             "total_time": 2303000,
-            "track_id": 13064,
+            "track_id": 13068,
             "track_type": "URL",
             "unplayed": true
         },
@@ -383,7 +312,7 @@
             "release_date": "2024-09-06T10:00:00",
             "size": 40475778,
             "total_time": 2527000,
-            "track_id": 13066,
+            "track_id": 13070,
             "track_type": "URL",
             "unplayed": true
         },
@@ -401,7 +330,7 @@
             "size": 33048640,
             "sort_name": "Life and Character of the Prophet Joseph Smith | William E. Berrett | April 1964",
             "total_time": 2063000,
-            "track_id": 38900,
+            "track_id": 38904,
             "track_type": "URL",
             "unplayed": true
         },
@@ -418,7 +347,7 @@
             "size": 29343826,
             "sort_name": "Book of Mormon Manuscripts | Preston Nibley | April 1957",
             "total_time": 1831000,
-            "track_id": 40882,
+            "track_id": 40886,
             "track_type": "URL",
             "unplayed": true
         },
@@ -435,7 +364,7 @@
             "size": 34580852,
             "sort_name": "Choice Seer and Prophet | LeGrand Richards | March 1956",
             "total_time": 2159000,
-            "track_id": 16842,
+            "track_id": 16846,
             "track_type": "URL",
             "unplayed": true
         },
@@ -453,7 +382,7 @@
             "release_date": "2024-11-01T10:00:00",
             "size": 30926634,
             "total_time": 1930000,
-            "track_id": 13068,
+            "track_id": 13072,
             "track_type": "URL",
             "unplayed": true
         },
@@ -473,7 +402,7 @@
             "release_date": "2024-11-15T11:00:00",
             "size": 23510853,
             "total_time": 1467000,
-            "track_id": 13072,
+            "track_id": 13076,
             "track_type": "URL"
         },
         {
@@ -489,7 +418,7 @@
             "size": 39272515,
             "sort_name": "Authorship of the Book of Mormon | Noel B. Reynolds | May 1997",
             "total_time": 2452000,
-            "track_id": 42172,
+            "track_id": 42176,
             "track_type": "URL",
             "unplayed": true
         },
@@ -506,7 +435,7 @@
             "release_date": "2025-01-10T11:00:00",
             "size": 40081296,
             "total_time": 2502000,
-            "track_id": 42176,
+            "track_id": 42180,
             "track_type": "URL",
             "unplayed": true
         },
@@ -523,7 +452,7 @@
             "release_date": "2025-01-24T11:00:00",
             "size": 42451527,
             "total_time": 2651000,
-            "track_id": 13038,
+            "track_id": 13042,
             "track_type": "URL",
             "unplayed": true
         },
@@ -541,7 +470,7 @@
             "size": 15669551,
             "sort_name": "Legacy of Learning (Excerpted) | Cecil O. Samuelson | August 2005",
             "total_time": 977000,
-            "track_id": 13074,
+            "track_id": 13078,
             "track_type": "URL",
             "unplayed": true
         },
@@ -558,7 +487,7 @@
             "release_date": "2025-02-21T16:15:00",
             "size": 38731694,
             "total_time": 2418000,
-            "track_id": 13034,
+            "track_id": 13038,
             "track_type": "URL",
             "unplayed": true
         },
@@ -579,7 +508,7 @@
             "release_date": "2025-03-07T16:35:00",
             "size": 22962524,
             "total_time": 1433000,
-            "track_id": 13076,
+            "track_id": 13080,
             "track_type": "URL"
         },
         {
@@ -595,7 +524,7 @@
             "release_date": "2025-03-21T10:00:00",
             "size": 29373602,
             "total_time": 1833000,
-            "track_id": 13086,
+            "track_id": 13090,
             "track_type": "URL",
             "unplayed": true
         },
@@ -613,7 +542,7 @@
             "size": 31030793,
             "sort_name": "Prophet Joseph Smith | Preston Nibley | December 1958",
             "total_time": 1937000,
-            "track_id": 41608,
+            "track_id": 41612,
             "track_type": "URL",
             "unplayed": true
         },
@@ -630,7 +559,7 @@
             "release_date": "2025-04-18T10:00:00",
             "size": 26613812,
             "total_time": 1661000,
-            "track_id": 13040,
+            "track_id": 13044,
             "track_type": "URL",
             "unplayed": true
         },
@@ -647,7 +576,7 @@
             "release_date": "2025-05-02T10:00:00",
             "size": 47531018,
             "total_time": 2968000,
-            "track_id": 13042,
+            "track_id": 13046,
             "track_type": "URL",
             "unplayed": true
         },
@@ -664,7 +593,7 @@
             "release_date": "2025-05-16T10:00:00",
             "size": 46780363,
             "total_time": 2921000,
-            "track_id": 13044,
+            "track_id": 13048,
             "track_type": "URL",
             "unplayed": true
         },
@@ -681,7 +610,7 @@
             "release_date": "2025-05-30T10:00:00",
             "size": 43260727,
             "total_time": 2701000,
-            "track_id": 13046,
+            "track_id": 13050,
             "track_type": "URL",
             "unplayed": true
         },
@@ -698,7 +627,7 @@
             "release_date": "2025-06-13T10:00:00",
             "size": 44866102,
             "total_time": 2801000,
-            "track_id": 13048,
+            "track_id": 13052,
             "track_type": "URL",
             "unplayed": true
         },
@@ -715,7 +644,7 @@
             "release_date": "2025-06-27T10:00:00",
             "size": 46354047,
             "total_time": 2894000,
-            "track_id": 13050,
+            "track_id": 13054,
             "track_type": "URL",
             "unplayed": true
         },
@@ -732,7 +661,7 @@
             "release_date": "2025-07-11T10:00:00",
             "size": 44729032,
             "total_time": 2793000,
-            "track_id": 13052,
+            "track_id": 13056,
             "track_type": "URL",
             "unplayed": true
         },
@@ -749,7 +678,7 @@
             "release_date": "2025-07-25T10:00:00",
             "size": 39140074,
             "total_time": 2444000,
-            "track_id": 13054,
+            "track_id": 13058,
             "track_type": "URL",
             "unplayed": true
         },
@@ -766,7 +695,7 @@
             "release_date": "2025-08-08T10:00:00",
             "size": 46114970,
             "total_time": 2880000,
-            "track_id": 13092,
+            "track_id": 13096,
             "track_type": "URL",
             "unplayed": true
         },
@@ -783,7 +712,7 @@
             "release_date": "2025-08-22T10:00:00",
             "size": 32272961,
             "total_time": 2014000,
-            "track_id": 41610,
+            "track_id": 41614,
             "track_type": "URL",
             "unplayed": true
         },
@@ -799,7 +728,78 @@
             "release_date": "2025-09-05T10:00:00",
             "size": 28948935,
             "total_time": 1807000,
-            "track_id": 13062,
+            "track_id": 13066,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Joseph Smith: BYU Speeches",
+            "artist": "BYU Speeches",
+            "date_added": "2022-01-04T02:36:34",
+            "genre": "Podcast",
+            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/f3b91e5e-34bd-4c8e-9e77-ab250140045b/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1576524805",
+            "name": "The Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
+            "persistent_id": "E1FFCD46C38F329C",
+            "podcast": true,
+            "release_date": "2025-09-19T10:00:00",
+            "size": 26006937,
+            "sort_name": "Ongoing Restoration (Excerpted) | Gary E. Stevenson | August 2019",
+            "total_time": 1623000,
+            "track_id": 13094,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Joseph Smith: BYU Speeches",
+            "artist": "BYU Speeches",
+            "clean": true,
+            "date_added": "2022-01-04T02:36:34",
+            "genre": "Podcast",
+            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/3fff1496-aad2-4f5e-84e6-aa7100f90acd/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1614960211",
+            "name": "Stand by My Servant Joseph | Cecil O. Samuelson | January 2005",
+            "persistent_id": "616510D95A96F50C",
+            "play_count": 1,
+            "play_date": 3703922484,
+            "play_date_utc": "2021-05-15T17:21:24",
+            "podcast": true,
+            "release_date": "2025-10-03T10:00:00",
+            "size": 20054773,
+            "total_time": 1251000,
+            "track_id": 13084,
+            "track_type": "URL"
+        },
+        {
+            "album": "Joseph Smith: BYU Speeches",
+            "artist": "BYU Speeches",
+            "clean": true,
+            "date_added": "2022-01-04T02:36:34",
+            "genre": "Podcast",
+            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/14554c41-327f-473c-adf6-ab6e0189b370/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1582898689",
+            "name": "Unlocking the Doors | M. Russell Ballard | November 1989",
+            "persistent_id": "25D31A4D09AD635E",
+            "podcast": true,
+            "release_date": "2025-10-17T10:00:00",
+            "size": 40327041,
+            "total_time": 2518000,
+            "track_id": 13060,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Joseph Smith: BYU Speeches",
+            "artist": "BYU Speeches",
+            "clean": true,
+            "date_added": "2022-01-04T02:36:34",
+            "genre": "Podcast",
+            "location": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/4a3d3a8e-92bb-4e77-a871-aa7100f69d0b/76d53026-1691-43cf-9bcd-aa7100f78f78/audio.mp3?utm_source=Podcast&in_playlist=2631a465-5eed-48c6-abff-aa7100f69d0f&t=1561063036",
+            "name": "The Profile of a Prophet | Hugh B. Brown | October 1955",
+            "persistent_id": "E1375693FC6EA3BD",
+            "podcast": true,
+            "release_date": "2025-10-31T10:00:00",
+            "size": 26719543,
+            "sort_name": "Profile of a Prophet | Hugh B. Brown | October 1955",
+            "total_time": 1667000,
+            "track_id": 13082,
             "track_type": "URL",
             "unplayed": true
         }

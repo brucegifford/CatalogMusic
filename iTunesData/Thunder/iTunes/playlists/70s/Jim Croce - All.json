@@ -3,7 +3,7 @@
     "display_path": "/70s/Jim Croce - All",
     "name": "Jim Croce - All",
     "parent_persistent_id": "AE58D7E52FA3B520",
-    "playlist_id": 83236,
+    "playlist_id": 83279,
     "playlist_persistent_id": "F5FAA35BF3F6921A",
     "tracks": [
         {
@@ -29,7 +29,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 175908,
             "track_count": 12,
-            "track_id": 28998,
+            "track_id": 29002,
             "track_number": 1,
             "track_type": "File",
             "year": 1972
@@ -57,7 +57,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 241815,
             "track_count": 12,
-            "track_id": 29000,
+            "track_id": 29004,
             "track_number": 2,
             "track_type": "File",
             "year": 1972
@@ -85,7 +85,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 109191,
             "track_count": 12,
-            "track_id": 29002,
+            "track_id": 29006,
             "track_number": 3,
             "track_type": "File",
             "year": 1973
@@ -113,7 +113,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 181603,
             "track_count": 12,
-            "track_id": 29004,
+            "track_id": 29008,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -141,7 +141,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 180114,
             "track_count": 12,
-            "track_id": 29006,
+            "track_id": 29010,
             "track_number": 5,
             "track_type": "File",
             "year": 1973
@@ -169,7 +169,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 147644,
             "track_count": 12,
-            "track_id": 29008,
+            "track_id": 29012,
             "track_number": 6,
             "track_type": "File",
             "year": 1972
@@ -197,7 +197,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 167888,
             "track_count": 12,
-            "track_id": 29010,
+            "track_id": 29014,
             "track_number": 7,
             "track_type": "File",
             "year": 1973
@@ -225,7 +225,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 155794,
             "track_count": 12,
-            "track_id": 29012,
+            "track_id": 29016,
             "track_number": 8,
             "track_type": "File",
             "year": 2013
@@ -253,7 +253,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 161906,
             "track_count": 12,
-            "track_id": 29014,
+            "track_id": 29018,
             "track_number": 9,
             "track_type": "File",
             "year": 2013
@@ -281,7 +281,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 153756,
             "track_count": 12,
-            "track_id": 29016,
+            "track_id": 29020,
             "track_number": 10,
             "track_type": "File",
             "year": 2013
@@ -309,7 +309,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 170161,
             "track_count": 12,
-            "track_id": 29018,
+            "track_id": 29022,
             "track_number": 11,
             "track_type": "File",
             "year": 2013
@@ -337,7 +337,7 @@
             "sort_album": "Lost Recordings",
             "total_time": 142445,
             "track_count": 12,
-            "track_id": 29020,
+            "track_id": 29024,
             "track_number": 12,
             "track_type": "File",
             "year": 2013
@@ -365,7 +365,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 166504,
             "track_count": 24,
-            "track_id": 28898,
+            "track_id": 28902,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -393,7 +393,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 116636,
             "track_count": 24,
-            "track_id": 28900,
+            "track_id": 28904,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -421,7 +421,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 111621,
             "track_count": 24,
-            "track_id": 28902,
+            "track_id": 28906,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -449,7 +449,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 108460,
             "track_count": 24,
-            "track_id": 28904,
+            "track_id": 28908,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -477,7 +477,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 169325,
             "track_count": 24,
-            "track_id": 28906,
+            "track_id": 28910,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -505,7 +505,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 120006,
             "track_count": 24,
-            "track_id": 28908,
+            "track_id": 28912,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -533,7 +533,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 164780,
             "track_count": 24,
-            "track_id": 28910,
+            "track_id": 28914,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -562,7 +562,7 @@
             "sort_name": "Migrant Worker [#]",
             "total_time": 114677,
             "track_count": 24,
-            "track_id": 28912,
+            "track_id": 28916,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -590,7 +590,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 170866,
             "track_count": 24,
-            "track_id": 28914,
+            "track_id": 28918,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -618,7 +618,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 178938,
             "track_count": 24,
-            "track_id": 28916,
+            "track_id": 28920,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -646,7 +646,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 203337,
             "track_count": 24,
-            "track_id": 28918,
+            "track_id": 28922,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
@@ -674,7 +674,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 236016,
             "track_count": 24,
-            "track_id": 28920,
+            "track_id": 28924,
             "track_number": 12,
             "track_type": "File",
             "year": 1992
@@ -702,7 +702,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 139337,
             "track_count": 24,
-            "track_id": 28922,
+            "track_id": 28926,
             "track_number": 13,
             "track_type": "File",
             "year": 1992
@@ -730,7 +730,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 165616,
             "track_count": 24,
-            "track_id": 28924,
+            "track_id": 28928,
             "track_number": 14,
             "track_type": "File",
             "year": 1992
@@ -758,7 +758,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 184659,
             "track_count": 24,
-            "track_id": 28926,
+            "track_id": 28930,
             "track_number": 15,
             "track_type": "File",
             "year": 1992
@@ -786,7 +786,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 173374,
             "track_count": 24,
-            "track_id": 28928,
+            "track_id": 28932,
             "track_number": 16,
             "track_type": "File",
             "year": 1992
@@ -814,7 +814,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 188839,
             "track_count": 24,
-            "track_id": 28930,
+            "track_id": 28934,
             "track_number": 17,
             "track_type": "File",
             "year": 1992
@@ -842,7 +842,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 149185,
             "track_count": 24,
-            "track_id": 28932,
+            "track_id": 28936,
             "track_number": 18,
             "track_type": "File",
             "year": 1992
@@ -870,7 +870,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 127869,
             "track_count": 24,
-            "track_id": 28934,
+            "track_id": 28938,
             "track_number": 19,
             "track_type": "File",
             "year": 1992
@@ -898,7 +898,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 172826,
             "track_count": 24,
-            "track_id": 28936,
+            "track_id": 28940,
             "track_number": 20,
             "track_type": "File",
             "year": 1992
@@ -926,7 +926,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 229929,
             "track_count": 24,
-            "track_id": 28938,
+            "track_id": 28942,
             "track_number": 21,
             "track_type": "File",
             "year": 1992
@@ -954,7 +954,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 148401,
             "track_count": 24,
-            "track_id": 28940,
+            "track_id": 28944,
             "track_number": 22,
             "track_type": "File",
             "year": 1992
@@ -982,7 +982,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147226,
             "track_count": 24,
-            "track_id": 28942,
+            "track_id": 28946,
             "track_number": 23,
             "track_type": "File",
             "year": 1992
@@ -1011,7 +1011,7 @@
             "sort_name": "Long Time Ago",
             "total_time": 139624,
             "track_count": 24,
-            "track_id": 28944,
+            "track_id": 28948,
             "track_number": 24,
             "track_type": "File",
             "year": 1992
@@ -1039,7 +1039,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 165773,
             "track_count": 26,
-            "track_id": 28946,
+            "track_id": 28950,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -1067,7 +1067,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 281155,
             "track_count": 26,
-            "track_id": 28948,
+            "track_id": 28952,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -1095,7 +1095,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 149054,
             "track_count": 26,
-            "track_id": 28950,
+            "track_id": 28954,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -1123,7 +1123,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 144117,
             "track_count": 26,
-            "track_id": 28952,
+            "track_id": 28956,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -1151,7 +1151,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 193436,
             "track_count": 26,
-            "track_id": 28954,
+            "track_id": 28958,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -1179,7 +1179,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 156342,
             "track_count": 26,
-            "track_id": 28956,
+            "track_id": 28960,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -1207,7 +1207,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 161619,
             "track_count": 26,
-            "track_id": 28958,
+            "track_id": 28962,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -1235,7 +1235,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 134269,
             "track_count": 26,
-            "track_id": 28960,
+            "track_id": 28964,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -1264,7 +1264,7 @@
             "sort_name": "Good Time Man Like Me Ain't Got No Business (Singin' the Blues)",
             "total_time": 127111,
             "track_count": 26,
-            "track_id": 28962,
+            "track_id": 28966,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -1292,7 +1292,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 174628,
             "track_count": 26,
-            "track_id": 28964,
+            "track_id": 28968,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -1320,7 +1320,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 182622,
             "track_count": 26,
-            "track_id": 28966,
+            "track_id": 28970,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
@@ -1348,7 +1348,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 169325,
             "track_count": 26,
-            "track_id": 28968,
+            "track_id": 28972,
             "track_number": 12,
             "track_type": "File",
             "year": 1992
@@ -1376,7 +1376,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 210808,
             "track_count": 26,
-            "track_id": 28970,
+            "track_id": 28974,
             "track_number": 13,
             "track_type": "File",
             "year": 1992
@@ -1404,7 +1404,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147748,
             "track_count": 26,
-            "track_id": 28972,
+            "track_id": 28976,
             "track_number": 14,
             "track_type": "File",
             "year": 1992
@@ -1432,7 +1432,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 153782,
             "track_count": 26,
-            "track_id": 28974,
+            "track_id": 28978,
             "track_number": 15,
             "track_type": "File",
             "year": 1992
@@ -1460,7 +1460,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 193488,
             "track_count": 26,
-            "track_id": 28976,
+            "track_id": 28980,
             "track_number": 16,
             "track_type": "File",
             "year": 1992
@@ -1488,7 +1488,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 154488,
             "track_count": 26,
-            "track_id": 28978,
+            "track_id": 28982,
             "track_number": 17,
             "track_type": "File",
             "year": 1992
@@ -1516,7 +1516,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 209684,
             "track_count": 26,
-            "track_id": 28980,
+            "track_id": 28984,
             "track_number": 18,
             "track_type": "File",
             "year": 1992
@@ -1544,7 +1544,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 147748,
             "track_count": 26,
-            "track_id": 28982,
+            "track_id": 28986,
             "track_number": 19,
             "track_type": "File",
             "year": 1992
@@ -1573,7 +1573,7 @@
             "sort_name": "Hard Way Every Time",
             "total_time": 149551,
             "track_count": 26,
-            "track_id": 28984,
+            "track_id": 28988,
             "track_number": 20,
             "track_type": "File",
             "year": 1992
@@ -1601,7 +1601,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 225306,
             "track_count": 26,
-            "track_id": 28986,
+            "track_id": 28990,
             "track_number": 21,
             "track_type": "File",
             "year": 1992
@@ -1629,7 +1629,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 155219,
             "track_count": 26,
-            "track_id": 28988,
+            "track_id": 28992,
             "track_number": 22,
             "track_type": "File",
             "year": 1992
@@ -1657,7 +1657,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 184790,
             "track_count": 26,
-            "track_id": 28990,
+            "track_id": 28994,
             "track_number": 23,
             "track_type": "File",
             "year": 1992
@@ -1685,7 +1685,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 151222,
             "track_count": 26,
-            "track_id": 28992,
+            "track_id": 28996,
             "track_number": 24,
             "track_type": "File",
             "year": 1992
@@ -1713,7 +1713,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 166870,
             "track_count": 26,
-            "track_id": 28994,
+            "track_id": 28998,
             "track_number": 25,
             "track_type": "File",
             "year": 1992
@@ -1740,7 +1740,7 @@
             "sort_album": "50th Anniversary Collection",
             "total_time": 63869,
             "track_count": 26,
-            "track_id": 28996,
+            "track_id": 29000,
             "track_number": 26,
             "track_type": "File",
             "year": 1992

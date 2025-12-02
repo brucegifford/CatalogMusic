@@ -3,7 +3,7 @@
     "display_path": "/Country/George Strait - All",
     "name": "George Strait - All",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 91195,
+    "playlist_id": 91238,
     "playlist_persistent_id": "5B6447292CBB038E",
     "tracks": [
         {
@@ -28,7 +28,7 @@
             "size": 4352908,
             "total_time": 211748,
             "track_count": 10,
-            "track_id": 23958,
+            "track_id": 23962,
             "track_number": 1,
             "track_type": "File",
             "year": 1999
@@ -55,7 +55,7 @@
             "size": 4511733,
             "total_time": 219689,
             "track_count": 10,
-            "track_id": 23960,
+            "track_id": 23964,
             "track_number": 2,
             "track_type": "File",
             "year": 1999
@@ -82,7 +82,7 @@
             "size": 4109452,
             "total_time": 199575,
             "track_count": 10,
-            "track_id": 23962,
+            "track_id": 23966,
             "track_number": 3,
             "track_type": "File",
             "year": 1999
@@ -109,7 +109,7 @@
             "size": 3719192,
             "total_time": 180062,
             "track_count": 10,
-            "track_id": 23964,
+            "track_id": 23968,
             "track_number": 4,
             "track_type": "File",
             "year": 1999
@@ -136,7 +136,7 @@
             "size": 3989282,
             "total_time": 193567,
             "track_count": 10,
-            "track_id": 23966,
+            "track_id": 23970,
             "track_number": 5,
             "track_type": "File",
             "year": 1999
@@ -163,7 +163,7 @@
             "size": 4013858,
             "total_time": 194795,
             "track_count": 10,
-            "track_id": 23968,
+            "track_id": 23972,
             "track_number": 6,
             "track_type": "File",
             "year": 1999
@@ -190,7 +190,7 @@
             "size": 3694105,
             "total_time": 178808,
             "track_count": 10,
-            "track_id": 23970,
+            "track_id": 23974,
             "track_number": 7,
             "track_type": "File",
             "year": 1999
@@ -217,7 +217,7 @@
             "size": 3126712,
             "total_time": 150439,
             "track_count": 10,
-            "track_id": 23972,
+            "track_id": 23976,
             "track_number": 8,
             "track_type": "File",
             "year": 1999
@@ -244,7 +244,7 @@
             "size": 4298571,
             "total_time": 209031,
             "track_count": 10,
-            "track_id": 23974,
+            "track_id": 23978,
             "track_number": 9,
             "track_type": "File",
             "year": 1999
@@ -271,7 +271,7 @@
             "size": 3838815,
             "total_time": 186044,
             "track_count": 10,
-            "track_id": 23976,
+            "track_id": 23980,
             "track_number": 10,
             "track_type": "File",
             "year": 1999
@@ -298,7 +298,7 @@
             "size": 3826095,
             "total_time": 185835,
             "track_count": 10,
-            "track_id": 23978,
+            "track_id": 23982,
             "track_number": 1,
             "track_type": "File",
             "year": 1997
@@ -325,7 +325,7 @@
             "size": 4759198,
             "total_time": 232489,
             "track_count": 10,
-            "track_id": 23980,
+            "track_id": 23984,
             "track_number": 2,
             "track_type": "File",
             "year": 1997
@@ -352,7 +352,7 @@
             "size": 4729427,
             "total_time": 231000,
             "track_count": 10,
-            "track_id": 23982,
+            "track_id": 23986,
             "track_number": 3,
             "track_type": "File",
             "year": 1997
@@ -379,7 +379,7 @@
             "size": 3872069,
             "total_time": 188133,
             "track_count": 10,
-            "track_id": 23984,
+            "track_id": 23988,
             "track_number": 4,
             "track_type": "File",
             "year": 1997
@@ -406,7 +406,7 @@
             "size": 3540850,
             "total_time": 171572,
             "track_count": 10,
-            "track_id": 23986,
+            "track_id": 23990,
             "track_number": 5,
             "track_type": "File",
             "year": 1997
@@ -433,7 +433,7 @@
             "size": 4005826,
             "total_time": 194821,
             "track_count": 10,
-            "track_id": 23988,
+            "track_id": 23992,
             "track_number": 6,
             "track_type": "File",
             "year": 1997
@@ -460,7 +460,7 @@
             "size": 3774904,
             "total_time": 183275,
             "track_count": 10,
-            "track_id": 23990,
+            "track_id": 23994,
             "track_number": 7,
             "track_type": "File",
             "year": 1997
@@ -488,7 +488,7 @@
             "sort_name": "Nerve",
             "total_time": 248320,
             "track_count": 10,
-            "track_id": 23992,
+            "track_id": 23996,
             "track_number": 8,
             "track_type": "File",
             "year": 1997
@@ -515,7 +515,7 @@
             "size": 2893536,
             "total_time": 139206,
             "track_count": 10,
-            "track_id": 23994,
+            "track_id": 23998,
             "track_number": 9,
             "track_type": "File",
             "year": 1997
@@ -543,7 +543,7 @@
             "sort_name": "Real Good Place to Start",
             "total_time": 235337,
             "track_count": 10,
-            "track_id": 23996,
+            "track_id": 24000,
             "track_number": 10,
             "track_type": "File",
             "year": 1997
@@ -568,7 +568,7 @@
             "size": 4085692,
             "sort_name": "Best Day",
             "total_time": 204173,
-            "track_id": 23998,
+            "track_id": 24002,
             "track_number": 1,
             "track_type": "File",
             "year": 2000
@@ -593,7 +593,7 @@
             "sample_rate": 44100,
             "size": 5252859,
             "total_time": 262530,
-            "track_id": 24000,
+            "track_id": 24004,
             "track_number": 2,
             "track_type": "File",
             "year": 2000
@@ -617,7 +617,7 @@
             "sample_rate": 44100,
             "size": 4641064,
             "total_time": 231941,
-            "track_id": 24002,
+            "track_id": 24006,
             "track_number": 3,
             "track_type": "File",
             "year": 2000
@@ -641,7 +641,7 @@
             "sample_rate": 44100,
             "size": 4321324,
             "total_time": 215954,
-            "track_id": 24004,
+            "track_id": 24008,
             "track_number": 4,
             "track_type": "File",
             "year": 2000
@@ -665,7 +665,7 @@
             "sample_rate": 44100,
             "size": 4136882,
             "total_time": 206733,
-            "track_id": 24006,
+            "track_id": 24010,
             "track_number": 5,
             "track_type": "File",
             "year": 2000
@@ -689,7 +689,7 @@
             "sample_rate": 44100,
             "size": 4024038,
             "total_time": 201090,
-            "track_id": 24008,
+            "track_id": 24012,
             "track_number": 6,
             "track_type": "File",
             "year": 2000
@@ -713,7 +713,7 @@
             "sample_rate": 44100,
             "size": 3472351,
             "total_time": 173505,
-            "track_id": 24010,
+            "track_id": 24014,
             "track_number": 7,
             "track_type": "File",
             "year": 2000
@@ -737,7 +737,7 @@
             "sample_rate": 44100,
             "size": 3018334,
             "total_time": 150804,
-            "track_id": 24012,
+            "track_id": 24016,
             "track_number": 8,
             "track_type": "File",
             "year": 2000
@@ -761,7 +761,7 @@
             "sample_rate": 44100,
             "size": 5111790,
             "total_time": 255477,
-            "track_id": 24014,
+            "track_id": 24018,
             "track_number": 9,
             "track_type": "File",
             "year": 2000
@@ -785,7 +785,7 @@
             "sample_rate": 44100,
             "size": 4329141,
             "total_time": 216346,
-            "track_id": 24016,
+            "track_id": 24020,
             "track_number": 10,
             "track_type": "File",
             "year": 2000
@@ -809,7 +809,7 @@
             "sample_rate": 44100,
             "size": 4199067,
             "total_time": 209841,
-            "track_id": 24018,
+            "track_id": 24022,
             "track_number": 11,
             "track_type": "File",
             "year": 2000
@@ -833,7 +833,7 @@
             "sample_rate": 44100,
             "size": 3664077,
             "total_time": 183092,
-            "track_id": 24020,
+            "track_id": 24024,
             "track_number": 12,
             "track_type": "File",
             "year": 2000
@@ -857,7 +857,7 @@
             "sample_rate": 44100,
             "size": 4007346,
             "total_time": 200254,
-            "track_id": 24022,
+            "track_id": 24026,
             "track_number": 13,
             "track_type": "File",
             "year": 2000
@@ -881,7 +881,7 @@
             "sample_rate": 44100,
             "size": 4614952,
             "total_time": 230635,
-            "track_id": 24024,
+            "track_id": 24028,
             "track_number": 14,
             "track_type": "File",
             "year": 2000
@@ -905,7 +905,7 @@
             "sample_rate": 44100,
             "size": 3896053,
             "total_time": 194690,
-            "track_id": 24026,
+            "track_id": 24030,
             "track_number": 15,
             "track_type": "File",
             "year": 2000
@@ -931,7 +931,7 @@
             "sample_rate": 44100,
             "size": 2855918,
             "total_time": 138266,
-            "track_id": 24028,
+            "track_id": 24032,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -957,7 +957,7 @@
             "sample_rate": 44100,
             "size": 3374192,
             "total_time": 164179,
-            "track_id": 24030,
+            "track_id": 24034,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -983,7 +983,7 @@
             "sample_rate": 44100,
             "size": 4333931,
             "total_time": 212166,
-            "track_id": 24032,
+            "track_id": 24036,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -1009,7 +1009,7 @@
             "sample_rate": 44100,
             "size": 3495936,
             "total_time": 170266,
-            "track_id": 24034,
+            "track_id": 24038,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -1035,7 +1035,7 @@
             "sample_rate": 44100,
             "size": 3139091,
             "total_time": 152424,
-            "track_id": 24036,
+            "track_id": 24040,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -1061,7 +1061,7 @@
             "sample_rate": 44100,
             "size": 3229489,
             "total_time": 156943,
-            "track_id": 24038,
+            "track_id": 24042,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -1087,7 +1087,7 @@
             "sample_rate": 44100,
             "size": 4438419,
             "total_time": 217391,
-            "track_id": 24040,
+            "track_id": 24044,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -1113,7 +1113,7 @@
             "sample_rate": 44100,
             "size": 2777038,
             "total_time": 134321,
-            "track_id": 24042,
+            "track_id": 24046,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -1140,7 +1140,7 @@
             "size": 3888806,
             "sort_name": "King of Broken Hearts",
             "total_time": 189910,
-            "track_id": 24044,
+            "track_id": 24048,
             "track_number": 9,
             "track_type": "File",
             "year": 1992
@@ -1166,7 +1166,7 @@
             "sample_rate": 44100,
             "size": 3898225,
             "total_time": 190380,
-            "track_id": 24046,
+            "track_id": 24050,
             "track_number": 10,
             "track_type": "File",
             "year": 1992
@@ -1192,7 +1192,7 @@
             "sample_rate": 44100,
             "size": 3342864,
             "total_time": 162612,
-            "track_id": 24048,
+            "track_id": 24052,
             "track_number": 11,
             "track_type": "File",
             "year": 1992
