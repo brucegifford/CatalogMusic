@@ -14,20 +14,44 @@ def json_serial(obj):
         return obj.isoformat()
     raise TypeError ("Type %s not serializable" % type(obj))
 
+def remove_unwanted_keys(input_data):
+    if type(input_data) is str:
+        return input_data
+    elif type(input_data) is list:
+        new_list = []
+        for n in input_data:
+            new_list.append(remove_unwanted_keys(n))
+        return new_list
+    elif type(input_data) is dict:
+        new_dict = {}
+        for key, value in input_data.items():
+            if not key in ["track_id", "playlist_id"]:
+                new_key = remove_unwanted_keys(key)
+                new_value = remove_unwanted_keys(value)
+                new_dict[new_key] = new_value
+        return new_dict
+    else:
+        return input_data
+
+
+
 def write_json_file(json_data, file_path, encoding='utf-8'):
     with open(file_path, "w", encoding=encoding) as data_file:
         data_file.write(json.dumps(json_data, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False, default=json_serial))
 
 def write_flat_songs_list(media_files, flat_songs_path):
-    write_json_file(media_files, flat_songs_path)
+    media_files_output = remove_unwanted_keys(media_files)
+    write_json_file(media_files_output, flat_songs_path)
 
 def write_flat_albums_list(media_files, flat_albums_path):
     albums_list_flat = make_albums_list(media_files)
-    write_json_file(albums_list_flat, flat_albums_path)
+    albums_list_flat_modified = remove_unwanted_keys(albums_list_flat)
+    write_json_file(albums_list_flat_modified, flat_albums_path)
 
 def write_flat_artists_list(media_files, flat_artists_path):
     artists_list_flat = make_artists_list(media_files)
-    write_json_file(artists_list_flat, flat_artists_path)
+    artists_list_flat_modified = remove_unwanted_keys(artists_list_flat)
+    write_json_file(artists_list_flat_modified, flat_artists_path)
 
 def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_path):
     if os.path.exists(flat_albums_artists_folder_path):
@@ -42,7 +66,8 @@ def write_flat_albums_artists_folder(media_files, flat_albums_artists_folder_pat
             album_name = make_legal_filename(album_name)
             filename = "%s^%s.json" % (album_name, artist_name)
             filepath = os.path.join(flat_albums_artists_folder_path, filename)
-            write_json_file(album, filepath)
+            album_modified = remove_unwanted_keys(album)
+            write_json_file(album_modified, filepath)
 
 def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_path):
     if os.path.exists(flat_artists_albums_folder_path):
@@ -57,7 +82,8 @@ def write_flat_artists_albums_folder(media_files, flat_artists_albums_folder_pat
             album_name = make_legal_filename(album_name)
             filename = "%s^%s.json" % (artist_name, album_name)
             filepath = os.path.join(flat_artists_albums_folder_path, filename)
-            write_json_file(album, filepath)
+            album_modified = remove_unwanted_keys(album)
+            write_json_file(album_modified, filepath)
 
 def write_nested_albums_folders(media_files, nested_albums_folder_path):
     if os.path.exists(nested_albums_folder_path):
@@ -76,7 +102,8 @@ def write_nested_albums_folders(media_files, nested_albums_folder_path):
             os.makedirs(album_path, exist_ok=True)
             filename = "%s^%s.json" % (album_name, artist_name)
             filepath = os.path.join(album_path, filename)
-            write_json_file(album, filepath)
+            album_modified = remove_unwanted_keys(album)
+            write_json_file(album_modified, filepath)
 
 def write_nested_artists_folders(media_files, nested_artists_folder_path):
     if os.path.exists(nested_artists_folder_path):
@@ -102,11 +129,13 @@ def write_nested_artists_folders(media_files, nested_artists_folder_path):
             filepath = os.path.join(album_path, filename)
             """
             filepath = os.path.join(artist_path, filename)
-            write_json_file(album, filepath)
+            album_modified = remove_unwanted_keys(album)
+            write_json_file(album_modified, filepath)
 
 def write_flat_podcast_list(media_files, flat_podcasts_path, podcast_sort_episodes_reversed):
     podcasts_list_flat = make_podcast_list(media_files, podcast_sort_episodes_reversed)
-    write_json_file(podcasts_list_flat, flat_podcasts_path)
+    podcasts_list_flat_modified = remove_unwanted_keys(podcasts_list_flat)
+    write_json_file(podcasts_list_flat_modified, flat_podcasts_path)
 
 def write_podcasts_folder(media_files, nested_podcasts_folder_path, write_podcast_folder_csvs, podcast_sort_episodes_reversed):
     if os.path.exists(nested_podcasts_folder_path):
@@ -119,16 +148,17 @@ def write_podcasts_folder(media_files, nested_podcasts_folder_path, write_podcas
         album_name = make_legal_filename(album_name)
         filename = "%s.json" % (album_name)
         podcast_path = os.path.join(nested_podcasts_folder_path, filename)
-        write_json_file(podcast_dict, podcast_path)
+        podcast_dict_modified = remove_unwanted_keys(podcast_dict)
+        write_json_file(podcast_dict_modified, podcast_path)
 
         # now write a csv versoin of the file
         csv_filename = "%s.csv" % (album_name)
         csv_podcast_path = os.path.join(nested_podcasts_folder_path, csv_filename)
 
         if write_podcast_folder_csvs:
-            keys = set().union(*(d.keys() for d in podcast_dict["episodes"]))
+            keys = set().union(*(d.keys() for d in podcast_dict_modified["episodes"]))
             with open(csv_podcast_path, 'w', encoding='utf8', newline='') as output_file:
                 fc = csv.DictWriter(output_file, fieldnames=keys,)
                 fc.writeheader()
-                fc.writerows(podcast_dict["episodes"])
+                fc.writerows(podcast_dict_modified["episodes"])
 
