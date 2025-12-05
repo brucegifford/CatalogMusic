@@ -3069,6 +3069,232 @@
         ]
     },
     {
+        "album": "A Country Christmas '98",
+        "album_artist": "Compilations",
+        "songs": [
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/01 This Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/01 This Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    10
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "This Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Sammy Cahn/Jule Styne"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/02 It Came Upon A Midnight Clear.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/02 It Came Upon A Midnight Clear.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    10
+                ],
+                "©ART": "Vince Gill",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "It Came Upon A Midnight Clear",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Traditional - Arr.: Vince Gill"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/03 Let It Snow, Let It Snow, Let It.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/03 Let It Snow, Let It Snow, Let It.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    10
+                ],
+                "©ART": "Steve Wariner",
+                "©alb": "A Country Christmas '98",
+                "©day": "1990",
+                "©gen": "Holiday",
+                "©nam": "Let It Snow, Let It Snow, Let It Snow",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Sammy Cahn/Jule Styne"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/04 Where My Heart Lives.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/04 Where My Heart Lives.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    10
+                ],
+                "©ART": "Randy Travis",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "Where My Heart Lives",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Ron Avis/Randy Travis"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/05 Light Of The World.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/05 Light Of The World.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    10
+                ],
+                "©ART": "Mark Chesnutt",
+                "©alb": "A Country Christmas '98",
+                "©day": "1997",
+                "©gen": "Holiday",
+                "©nam": "Light Of The World",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Richard Lee/Gary Nicholson"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/06 It Must Have Been Ol' Santa Claus.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/06 It Must Have Been Ol' Santa Claus.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    10
+                ],
+                "©ART": "Gary Allan",
+                "©alb": "A Country Christmas '98",
+                "©day": "1997",
+                "©gen": "Holiday",
+                "©nam": "It Must Have Been Ol' Santa Clause",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Harry Connick Jr."
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/07 No Room.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/07 No Room.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    10
+                ],
+                "©ART": "Tracy Byrd",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "No Room",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Tony Martin/Mark Nesler"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/08 His Will Was Done.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/08 His Will Was Done.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    10
+                ],
+                "©ART": "Lee Ann Womack",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "His Will Was Done",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Ron Peterson"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/09 I'll Be Home For Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/09 I'll Be Home For Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    10
+                ],
+                "©ART": "Collin Raye",
+                "©alb": "A Country Christmas '98",
+                "©day": "1996",
+                "©gen": "Holiday",
+                "©nam": "I'll Be Home For Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Buck Ram/Walter Kent/Kim Gannon"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/A Country Christmas '98/10 Have Yourself A Merry Little Chri.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/A Country Christmas '98/10 Have Yourself A Merry Little Chri.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    10
+                ],
+                "©ART": "Trisha Yearwood",
+                "©alb": "A Country Christmas '98",
+                "©day": "1998",
+                "©gen": "Holiday",
+                "©nam": "Have Yourself A Merry Little Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Ralph Blane/Hugh Martin"
+            }
+        ]
+    },
+    {
         "album": "A New Kind of Love Song",
         "album_artist": "Michael McLean",
         "songs": [
@@ -3192,6 +3418,352 @@
                 "rel_path": "Michael McLean/A New Kind of Love Song/11 Hold On, the Light Will Come.mp3",
                 "title": "Hold On, the Light Will Come",
                 "tracknumber": "11/11"
+            }
+        ]
+    },
+    {
+        "album": "A Romantic Christmas",
+        "album_artist": "John Tesh",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/01 O Little Town Of Bethlehem.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/01 O Little Town Of Bethlehem.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "O Little Town Of Bethlehem",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/02 Gesu Bambino.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/02 Gesu Bambino.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Gesu Bambino",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/03 It Came Upon A Midnight Clear.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/03 It Came Upon A Midnight Clear.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "It Came Upon A Midnight Clear",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Richard Storrs Willis"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/04 The First Noël.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/04 The First Noël.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "The First Noël",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/05 Panis Angelicus.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/05 Panis Angelicus.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Panis Angelicus",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "César Franck"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/06 O Holy Night.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/06 O Holy Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "O Holy Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/07 Bring A Torch, Jeannette, Isabell.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/07 Bring A Torch, Jeannette, Isabell.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Bring A Torch, Jeannette, Isabella",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/08 O Come, All Ye Faithful.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/08 O Come, All Ye Faithful.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "O Come, All Ye Faithful",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/09 Jesu, Joy Of Man's Desiring (From.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/09 Jesu, Joy Of Man's Desiring (From.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Jesu, Joy Of Man's Desiring (From Cantata 147A)",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Johann Sebastian Bach"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/10 The Coventry Carol.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/10 The Coventry Carol.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "The Coventry Carol",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/11 We Three Kings Of Orient Are.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/11 We Three Kings Of Orient Are.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "We Three Kings Of Orient Are",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/12 Silent Night, Holy Night.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/12 Silent Night, Holy Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Silent Night, Holy Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/13 Gloria In Excelsis Deo.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/13 Gloria In Excelsis Deo.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "Gloria In Excelsis Deo",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/14 The Homecoming.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/14 The Homecoming.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "The Homecoming",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/15 In A Child's Eyes.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/15 In A Child's Eyes.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "In A Child's Eyes",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "John Tesh"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/John Tesh/A Romantic Christmas/16 The Christmas Song (Chestnuts Roa.m4a",
+                "pgap": false,
+                "rel_path": "John Tesh/A Romantic Christmas/16 The Christmas Song (Chestnuts Roa.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    16,
+                    16
+                ],
+                "©ART": "John Tesh",
+                "©alb": "A Romantic Christmas",
+                "©day": "1992",
+                "©gen": "New Age",
+                "©nam": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+                "©too": "Music 1.5.6.11"
             }
         ]
     },
@@ -74360,6 +74932,232 @@
         ]
     },
     {
+        "album": "Looking For Christmas",
+        "album_artist": "Clint Black",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/01 The Finest Gift.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/01 The Finest Gift.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "The Finest Gift",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/02 Under The Mistletoe.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/02 Under The Mistletoe.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Under The Mistletoe",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/03 The Kid.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/03 The Kid.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "The Kid",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/04 The Coolest Pair.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/04 The Coolest Pair.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "The Coolest Pair",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/05 Looking For Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/05 Looking For Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Looking For Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/06 Christmas For Every Boy And Girl.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/06 Christmas For Every Boy And Girl.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Christmas For Every Boy And Girl",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/07 Til' Santa's Gone (Milk And Cooki.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/07 Til' Santa's Gone (Milk And Cooki.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Til' Santa's Gone (Milk And Cookies)",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/08 Slow As Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/08 Slow As Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Slow As Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/09 The Birth Of The King.m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/09 The Birth Of The King.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "The Birth Of The King",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Clint Black/Looking For Christmas/10 Looking For Christmas (Reprise).m4a",
+                "pgap": false,
+                "rel_path": "Clint Black/Looking For Christmas/10 Looking For Christmas (Reprise).m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    10
+                ],
+                "©ART": "Clint Black",
+                "©alb": "Looking For Christmas",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Looking For Christmas (Reprise)",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Clint Black"
+            }
+        ]
+    },
+    {
         "album": "Looking Glass",
         "album_artist": "Paul Cardall",
         "songs": [
@@ -80921,6 +81719,799 @@
         ]
     },
     {
+        "album": "Reba #1's",
+        "album_artist": "Reba McEntire",
+        "songs": [
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-01 You're Gonna Be.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-01 You're Gonna Be.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1982",
+                "©gen": "Country & Folk",
+                "©nam": "You're Gonna Be",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Danny Orton/Dennis Matkosky"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-02 Can't Even Get The Blues.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-02 Can't Even Get The Blues.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1982",
+                "©gen": "Country & Folk",
+                "©nam": "Can't Even Get The Blues",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Tom Damphier/Rick Carnes"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-03 You're The First Time I'Ve Thought About Leaving.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-03 You're The First Time I'Ve Thought About Leaving.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1983",
+                "©gen": "Country & Folk",
+                "©nam": "You're The First Time I'Ve Thought About Leaving",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Kerry Chater/Dickey Lee"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-04 How Blue.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-04 How Blue.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1985",
+                "©gen": "Country & Folk",
+                "©nam": "How Blue",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "J. Moffat"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-05 Somebody Should Leave.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-05 Somebody Should Leave.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1985",
+                "©gen": "Country & Folk",
+                "©nam": "Somebody Should Leave",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Harlan Howard/Chick Rains"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-06 Whoever's In New England.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-06 Whoever's In New England.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1986",
+                "©gen": "Country & Folk",
+                "©nam": "Whoever's In New England",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Quentin Powers/Kendal Franceschi"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-07 Little Rock.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-07 Little Rock.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1986",
+                "©gen": "Country & Folk",
+                "©nam": "Little Rock",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Bob Dipiero/Pat McManus/Gerry House"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-08 What Am I Gonna Do About You.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-08 What Am I Gonna Do About You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1986",
+                "©gen": "Country & Folk",
+                "©nam": "What Am I Gonna Do About You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Bob Simons/Doug Gilmore/Jim Allison"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-09 One Promise Too Late.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-09 One Promise Too Late.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1987",
+                "©gen": "Country & Folk",
+                "©nam": "One Promise Too Late",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Dave Loggins/Lisa Silver/Don Schlitz"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-10 The Last One To Know.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-10 The Last One To Know.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1987",
+                "©gen": "Country & Folk",
+                "©nam": "The Last One To Know",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Matraca Berg/Jane Mariash"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-11 Love Will Find Its Way To You.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-11 Love Will Find Its Way To You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1987",
+                "©gen": "Country & Folk",
+                "©nam": "Love Will Find Its Way To You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "J D Martin/Dave Loggins"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-12 I Know How He Feels.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-12 I Know How He Feels.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1988",
+                "©gen": "Country & Folk",
+                "©nam": "I Know How He Feels",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "William Robinson, Jr./Rick Bowles"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-13 New Fool At An Old Game.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-13 New Fool At An Old Game.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1988",
+                "©gen": "Country & Folk",
+                "©nam": "New Fool At An Old Game",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Sheila Stephen/Steve Bogard/Rick Giles"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-14 Cathy's Clown.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-14 Cathy's Clown.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1989",
+                "©gen": "Country & Folk",
+                "©nam": "Cathy's Clown",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Don Everly"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-15 Walk On.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-15 Walk On.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1989",
+                "©gen": "Country & Folk",
+                "©nam": "Walk On",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Lonnie Williams/Steve Dean"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-16 You Lie.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-16 You Lie.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    16,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1990",
+                "©gen": "Country & Folk",
+                "©nam": "You Lie",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Austin Roberts/Bobby Fischer/Charlie Black"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/1-17 Rumor Has It.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/1-17 Rumor Has It.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    17,
+                    17
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1990",
+                "©gen": "Country & Folk",
+                "©nam": "Rumor Has It",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Vern Dant/Larry Shell/Bruce Burch"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-01 Love Needs A Holiday.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-01 Love Needs A Holiday.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "2005",
+                "©gen": "Country & Folk",
+                "©nam": "Love Needs A Holiday",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-02 For My Broken Heart.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-02 For My Broken Heart.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "For My Broken Heart",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-03 Is There Life Out There.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-03 Is There Life Out There.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Is There Life Out There",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-04 The Greatest Man I Never Knew.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-04 The Greatest Man I Never Knew.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "The Greatest Man I Never Knew",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-05 It's Your Call.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-05 It's Your Call.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "It's Your Call",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-06 The Heart Won't Lie.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-06 The Heart Won't Lie.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "The Heart Won't Lie",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-07 Does He Love You.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-07 Does He Love You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    18
+                ],
+                "©ART": "Linda Davis",
+                "©alb": "Reba #1's",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Does He Love You",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-08 Till You Love Me.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-08 Till You Love Me.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1994",
+                "©gen": "Country & Folk",
+                "©nam": "Till You Love Me",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-09 The Heart Is A Lonely Hunter.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-09 The Heart Is A Lonely Hunter.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1994",
+                "©gen": "Country & Folk",
+                "©nam": "The Heart Is A Lonely Hunter",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-10 And Still.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-10 And Still.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1994",
+                "©gen": "Country & Folk",
+                "©nam": "And Still",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-11 Ring On Her Finger, Time On Her Hands.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-11 Ring On Her Finger, Time On Her Hands.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1995",
+                "©gen": "Country & Folk",
+                "©nam": "Ring On Her Finger, Time On Her Hands",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-12 The Fear Of Being Alone.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-12 The Fear Of Being Alone.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1996",
+                "©gen": "Country & Folk",
+                "©nam": "The Fear Of Being Alone",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-13 How Was I To Know.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-13 How Was I To Know.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1996",
+                "©gen": "Country & Folk",
+                "©nam": "How Was I To Know",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-14 If You See Him, If You See Her.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-14 If You See Him, If You See Her.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1998",
+                "©gen": "Country & Folk",
+                "©nam": "If You See Him, If You See Her",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-15 Forever Love.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-15 Forever Love.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1998",
+                "©gen": "Country & Folk",
+                "©nam": "Forever Love",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-16 What Do You Say.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-16 What Do You Say.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    16,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "1999",
+                "©gen": "Country & Folk",
+                "©nam": "What Do You Say",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-17 I'm A Survivor.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-17 I'm A Survivor.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    17,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "2001",
+                "©gen": "Country & Folk",
+                "©nam": "I'm A Survivor",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Reba #1's/2-18 Somebody.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Reba #1's/2-18 Somebody.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    18,
+                    18
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Reba #1's",
+                "©day": "2004",
+                "©gen": "Country & Folk",
+                "©nam": "Somebody",
+                "©too": "Music 1.5.6.11"
+            }
+        ]
+    },
+    {
         "album": "Receiving Gifts of the Spirit",
         "album_artist": "Matthew B. Brown",
         "songs": [
@@ -83490,6 +85081,276 @@
                 "genre": "Country",
                 "rel_path": "Alabama/Roll On/Alabama - When We Make Love.mp3",
                 "tracknumber": "7/10"
+            }
+        ]
+    },
+    {
+        "album": "Room To Breathe",
+        "album_artist": "Reba McEntire",
+        "songs": [
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/01 Secret.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/01 Secret.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Secret",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/02 If I Had Any Sense Left At All.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/02 If I Had Any Sense Left At All.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "If I Had Any Sense Left At All",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/03 My Sister.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/03 My Sister.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "My Sister",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/04 Once You've Learned To Be Lonely.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/04 Once You've Learned To Be Lonely.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Once You've Learned To Be Lonely",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/05 Moving Oleta.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/05 Moving Oleta.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Moving Oleta",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/06 Love Revival.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/06 Love Revival.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Love Revival",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/07 He Gets That From Me.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/07 He Gets That From Me.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "He Gets That From Me",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/08 I'm Gonna Take That Mountain.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/08 I'm Gonna Take That Mountain.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "I'm Gonna Take That Mountain",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/09 Room To Breathe.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/09 Room To Breathe.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Room To Breathe",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/10 Sky Full Of Angels.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/10 Sky Full Of Angels.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Sky Full Of Angels",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/11 Somebody.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/11 Somebody.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    12
+                ],
+                "©ART": "Reba McEntire",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "Somebody",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "aART": "Reba McEntire",
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Reba McEntire/Room To Breathe/12 It Just Has To Be This Way.m4a",
+                "pgap": false,
+                "rel_path": "Reba McEntire/Room To Breathe/12 It Just Has To Be This Way.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    12
+                ],
+                "©ART": "Reba McEntire & Vince Gill",
+                "©alb": "Room To Breathe",
+                "©day": "2003",
+                "©gen": "Country & Folk",
+                "©nam": "It Just Has To Be This Way",
+                "©too": "Music 1.5.6.11"
             }
         ]
     },
@@ -88057,6 +89918,642 @@
                 "rel_path": "Mary Chapin Carpenter/Stones in the Road/13 This Is Love.mp3",
                 "title": "This Is Love",
                 "tracknumber": "13/13"
+            }
+        ]
+    },
+    {
+        "album": "Strait For The Holidays",
+        "album_artist": "George Strait",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-01 Rudolph The Red-Nosed Reindeer.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-01 Rudolph The Red-Nosed Reindeer.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Rudolph The Red-Nosed Reindeer",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-02 Joy To The World.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-02 Joy To The World.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Joy To The World",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-03 Jingle Bell Rock.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-03 Jingle Bell Rock.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Jingle Bell Rock",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-04 I Know What I Want For Christma.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-04 I Know What I Want For Christma.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "I Know What I Want For Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-05 The Christmas Song.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-05 The Christmas Song.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "The Christmas Song",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-06 Silent Night.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-06 Silent Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Silent Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-07 Up On The Housetop.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-07 Up On The Housetop.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Up On The Housetop",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-08 Jingle Bells.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-08 Jingle Bells.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Jingle Bells",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-09 What A Merry Christmas This Cou.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-09 What A Merry Christmas This Cou.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "What A Merry Christmas This Could Be",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-10 When It's Christmas Time In Tex.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-10 When It's Christmas Time In Tex.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "When It's Christmas Time In Texas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-11 There's A New Kid In Town.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-11 There's A New Kid In Town.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "There's A New Kid In Town",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-12 O Come, All Ye Faithful.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-12 O Come, All Ye Faithful.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "O Come, All Ye Faithful",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-13 Old Time Christmas.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-13 Old Time Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Old Time Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-14 For Christ's Sake, It's Christm.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-14 For Christ's Sake, It's Christm.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "For Christ's Sake, It's Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/1-15 Merry Christmas Strait To You.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/1-15 Merry Christmas Strait To You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Merry Christmas Strait To You",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-01 Let It Snow, Let It Snow, Let I.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-01 Let It Snow, Let It Snow, Let I.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Let It Snow, Let It Snow, Let It Snow",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-02 We Wish You A Merry Christmas.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-02 We Wish You A Merry Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "We Wish You A Merry Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-03 Hark, The Herald Angels Sing.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-03 Hark, The Herald Angels Sing.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Hark, The Herald Angels Sing",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-04 Away In A Manger.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-04 Away In A Manger.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Away In A Manger",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-05 Winter Wonderland.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-05 Winter Wonderland.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Winter Wonderland",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-06 White Christmas.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-06 White Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "White Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-07 We Three Kings.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-07 We Three Kings.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "We Three Kings",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-08 Deck The Halls.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-08 Deck The Halls.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Deck The Halls",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-09 Santa Claus Is Coming To Town.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-09 Santa Claus Is Coming To Town.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Santa Claus Is Coming To Town",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-10 O Christmas Tree.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-10 O Christmas Tree.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "O Christmas Tree",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-11 All I Want For Christmas (Is My.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-11 All I Want For Christmas (Is My.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "All I Want For Christmas (Is My Two Front Teeth)",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-12 Frosty The Snowman.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-12 Frosty The Snowman.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Frosty The Snowman",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-13 Santa's On His Way.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-13 Santa's On His Way.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Santa's On His Way",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-14 Christmas Cookies.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-14 Christmas Cookies.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Christmas Cookies",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    2,
+                    2
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/George Strait/Strait For The Holidays/2-15 Merry Christmas (Wherever You A.m4a",
+                "pgap": false,
+                "rel_path": "George Strait/Strait For The Holidays/2-15 Merry Christmas (Wherever You A.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    15
+                ],
+                "©ART": "George Strait",
+                "©alb": "Strait For The Holidays",
+                "©day": "2016",
+                "©gen": "Country & Folk",
+                "©nam": "Merry Christmas (Wherever You Are)",
+                "©too": "Music 1.5.6.11"
             }
         ]
     },
@@ -105474,6 +107971,232 @@
         ]
     },
     {
+        "album": "The First Christmas",
+        "album_artist": "Doug Stone",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/01 The First Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/01 The First Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "The First Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Doug Stone/Phyllis Bennett/Lonnie Williams"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/02 The Warmest Winter.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/02 The Warmest Winter.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "The Warmest Winter",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Will Robinson/Bruce Burch"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/03 An Angel Like You.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/03 An Angel Like You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "An Angel Like You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Pam Belford/Angelea Kaset"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/04 All I Want For Christmas Is You.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/04 All I Want For Christmas Is You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "All I Want For Christmas Is You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Steve Dean/Russell Smith"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/05 When December Comes Around.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/05 When December Comes Around.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "When December Comes Around",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Randy Boudreaux/Stacey Slate"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/06 Just Put A Ribbon In Your Hair.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/06 Just Put A Ribbon In Your Hair.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Just Put A Ribbon In Your Hair",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Donald C. Huber/Robert Charles Burns"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/07 Santa's Flying A 747 Tonight.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/07 Santa's Flying A 747 Tonight.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Santa's Flying A 747 Tonight",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Lonnie Williams/Phyllis Bennett"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/08 Three Little Pennies.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/08 Three Little Pennies.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Three Little Pennies",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Kim Tribble/Tim Bays"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/09 Sailing Home For Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/09 Sailing Home For Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "Sailing Home For Christmas",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Lewis Anderson"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Doug Stone/The First Christmas/10 A Christmas Card.m4a",
+                "pgap": false,
+                "rel_path": "Doug Stone/The First Christmas/10 A Christmas Card.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    10
+                ],
+                "©ART": "Doug Stone",
+                "©alb": "The First Christmas",
+                "©day": "1992",
+                "©gen": "Country & Folk",
+                "©nam": "A Christmas Card",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Mike Dyche"
+            }
+        ]
+    },
+    {
         "album": "The Forgotten Carols: Anniversary Edition",
         "album_artist": "Michael McLean",
         "songs": [
@@ -105938,6 +108661,501 @@
                 "rel_path": "S. Michael Wilcox/The Fourth Watch/16 It Is Finished.mp3",
                 "title": "It Is Finished",
                 "tracknumber": "16/16"
+            }
+        ]
+    },
+    {
+        "album": "The Gift Of Christmas-Piano Favorits",
+        "album_artist": "Compilations",
+        "songs": [
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/01 North Pole Express.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/01 North Pole Express.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    12
+                ],
+                "©ART": "Jon Schmidt",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2004",
+                "©gen": "Holiday",
+                "©nam": "North Pole Express",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/02 The Holly And The Ivy.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/02 The Holly And The Ivy.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    12
+                ],
+                "©ART": "James Conlee, Craig Miner, & Ryan Shupe",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2007",
+                "©gen": "Holiday",
+                "©nam": "The Holly And The Ivy",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/03 Carol Of The Bells.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/03 Carol Of The Bells.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    12
+                ],
+                "©ART": "Tolk,David",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2007",
+                "©gen": "Holiday",
+                "©nam": "Carol Of The Bells",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/04 Stars Were Gleaming.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/04 Stars Were Gleaming.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    12
+                ],
+                "©ART": "Mark Geslison & Geoff Gorberg",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2002",
+                "©gen": "Holiday",
+                "©nam": "Stars Were Gleaming",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/05 Angels We Have Heard On High.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/05 Angels We Have Heard On High.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    12
+                ],
+                "©ART": "Todd McCabe & April Moriarty",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2005",
+                "©gen": "Holiday",
+                "©nam": "Angels We Have Heard On High",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/06 I Saw Three Ships.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/06 I Saw Three Ships.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    12
+                ],
+                "©ART": "Lisa Radulovich",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2007",
+                "©gen": "Holiday",
+                "©nam": "I Saw Three Ships",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/07 Simple Gifts.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/07 Simple Gifts.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    12
+                ],
+                "©ART": "Tolk,David",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2006",
+                "©gen": "Holiday",
+                "©nam": "Simple Gifts",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/08 Away In A Manger.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/08 Away In A Manger.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    12
+                ],
+                "©ART": "James Conlee",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2006",
+                "©gen": "Holiday",
+                "©nam": "Away In A Manger",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/09 Once In Royal David City.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/09 Once In Royal David City.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    12
+                ],
+                "©ART": "Mark Geslison & Geoff Gorberg",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2002",
+                "©gen": "Holiday",
+                "©nam": "Once In Royal David City",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/10 Wexford Carol.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/10 Wexford Carol.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    12
+                ],
+                "©ART": "Jon Schmidt",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2004",
+                "©gen": "Holiday",
+                "©nam": "Wexford Carol",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/11 O Holy Night.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/11 O Holy Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    12
+                ],
+                "©ART": "Todd McCabe & April Moriarty",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2005",
+                "©gen": "Holiday",
+                "©nam": "O Holy Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": true,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Compilations/The Gift Of Christmas-Piano Favorits/12 Silent Night.m4a",
+                "pgap": false,
+                "rel_path": "Compilations/The Gift Of Christmas-Piano Favorits/12 Silent Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    12
+                ],
+                "©ART": "Sam Cardon",
+                "©alb": "The Gift Of Christmas-Piano Favorits",
+                "©day": "2007",
+                "©gen": "Holiday",
+                "©nam": "Silent Night",
+                "©too": "Music 1.5.6.11"
+            }
+        ]
+    },
+    {
+        "album": "The Gift Of Christmas",
+        "album_artist": "Thurl Bailey",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/01 Drummer Boy.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/01 Drummer Boy.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Drummer Boy",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/02 Shepherd Boy.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/02 Shepherd Boy.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Shepherd Boy",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/03 Jolly Old Saint Nicholas.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/03 Jolly Old Saint Nicholas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Jolly Old Saint Nicholas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/04 Grown Up Christmas List.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/04 Grown Up Christmas List.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Grown Up Christmas List",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/05 Winter Wonderland.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/05 Winter Wonderland.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Winter Wonderland",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/06 Silent Night.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/06 Silent Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Silent Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/07 Merry Christmas My Baby.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/07 Merry Christmas My Baby.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Merry Christmas My Baby",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/08 The Christmas Song (Chestnuts Roa.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/08 The Christmas Song (Chestnuts Roa.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "The Christmas Song (Chestnuts Roasting . . .)",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/09 White Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/09 White Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "White Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/10 O Holy Night.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/10 O Holy Night.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "O Holy Night",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Thurl Bailey/The Gift Of Christmas/11 Merry Christmas My Baby (Dance Mi.m4a",
+                "pgap": false,
+                "rel_path": "Thurl Bailey/The Gift Of Christmas/11 Merry Christmas My Baby (Dance Mi.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    11
+                ],
+                "©ART": "Thurl Bailey",
+                "©alb": "The Gift Of Christmas",
+                "©day": "2001",
+                "©gen": "Holiday",
+                "©nam": "Merry Christmas My Baby (Dance Mix)",
+                "©too": "Music 1.5.6.11"
             }
         ]
     },
@@ -118762,6 +121980,474 @@
         ]
     },
     {
+        "album": "The Singles 1969-1981",
+        "album_artist": "Carpenters",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/01 For All We Know.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/01 For All We Know.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1971",
+                "©gen": "Rock",
+                "©nam": "For All We Know",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/02 I Believe You.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/02 I Believe You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1978",
+                "©gen": "Rock",
+                "©nam": "I Believe You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/03 It's Going To Take Some Time.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/03 It's Going To Take Some Time.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1972",
+                "©gen": "Rock",
+                "©nam": "It's Going To Take Some Time",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/04 We've Only Just Begun.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/04 We've Only Just Begun.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1970",
+                "©gen": "Rock",
+                "©nam": "We've Only Just Begun",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/05 Those Good Old Dreams.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/05 Those Good Old Dreams.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1981",
+                "©gen": "Rock",
+                "©nam": "Those Good Old Dreams",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/06 Superstar.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/06 Superstar.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1971",
+                "©gen": "Rock",
+                "©nam": "Superstar",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/07 Rainy Days And Mondays.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/07 Rainy Days And Mondays.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1971",
+                "©gen": "Rock",
+                "©nam": "Rainy Days And Mondays",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/08 Goodbye To Love.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/08 Goodbye To Love.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1972",
+                "©gen": "Rock",
+                "©nam": "Goodbye To Love",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/09 All You Get From Love Is A Love S.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/09 All You Get From Love Is A Love S.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1977",
+                "©gen": "Rock",
+                "©nam": "All You Get From Love Is A Love Song",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/10 Top Of The World.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/10 Top Of The World.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1973",
+                "©gen": "Rock",
+                "©nam": "Top Of The World",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/11 Only Yesterday.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/11 Only Yesterday.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1975",
+                "©gen": "Rock",
+                "©nam": "Only Yesterday",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/12 Ticket To Ride.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/12 Ticket To Ride.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1969",
+                "©gen": "Rock",
+                "©nam": "Ticket To Ride",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/13 Hurting Each Other.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/13 Hurting Each Other.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1972",
+                "©gen": "Rock",
+                "©nam": "Hurting Each Other",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/14 Yesterday Once More.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/14 Yesterday Once More.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1973",
+                "©gen": "Rock",
+                "©nam": "Yesterday Once More",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/15 Sing.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/15 Sing.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1973",
+                "©gen": "Rock",
+                "©nam": "Sing",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/16 Touch Me When We're Dancing.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/16 Touch Me When We're Dancing.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    16,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1981",
+                "©gen": "Rock",
+                "©nam": "Touch Me When We're Dancing",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/17 Please Mr. Postman.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/17 Please Mr. Postman.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    17,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1974",
+                "©gen": "Rock",
+                "©nam": "Please Mr. Postman",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/18 I Need To Be In Love.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/18 I Need To Be In Love.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    18,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1976",
+                "©gen": "Rock",
+                "©nam": "I Need To Be In Love",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/19 I Won't Last A Day Without You.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/19 I Won't Last A Day Without You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    19,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1974",
+                "©gen": "Rock",
+                "©nam": "I Won't Last A Day Without You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/20 (They Long To Be) Close To You.m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/20 (They Long To Be) Close To You.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    20,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1970",
+                "©gen": "Rock",
+                "©nam": "(They Long To Be) Close To You",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Carpenters/The Singles 1969-1981/21 For All We Know (Reprise).m4a",
+                "pgap": false,
+                "rel_path": "Carpenters/The Singles 1969-1981/21 For All We Know (Reprise).m4a",
+                "tmpo": 0,
+                "trkn": [
+                    21,
+                    21
+                ],
+                "©ART": "Carpenters",
+                "©alb": "The Singles 1969-1981",
+                "©day": "1971",
+                "©gen": "Rock",
+                "©nam": "For All We Know (Reprise)",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "The Hammonds"
+            }
+        ]
+    },
+    {
         "album": "The Sky of Mind",
         "album_artist": "Ray Lynch",
         "songs": [
@@ -122365,6 +126051,349 @@
                 "rel_path": "Martina McBride/The Way That I Am/10 Ashes.mp3",
                 "title": "Ashes",
                 "tracknumber": "10/10"
+            }
+        ]
+    },
+    {
+        "album": "The Wonder Of Christmas",
+        "album_artist": "Mormon Tabernacle Choir",
+        "songs": [
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/01 Joy To The World.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/01 Joy To The World.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    1,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2001",
+                "©gen": "Easy Listening",
+                "©nam": "Joy To The World",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/02 Whence Is That Goodly Fragrance F.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/02 Whence Is That Goodly Fragrance F.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    2,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2004",
+                "©gen": "Easy Listening",
+                "©nam": "Whence Is That Goodly Fragrance Flowing?",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/03 Oh, Come, All Ye Faithful.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/03 Oh, Come, All Ye Faithful.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    3,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2003",
+                "©gen": "Easy Listening",
+                "©nam": "Oh, Come, All Ye Faithful",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/04 Carol Of The Bells.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/04 Carol Of The Bells.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    4,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Carol Of The Bells",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/05 The First Noel.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/05 The First Noel.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    5,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2003",
+                "©gen": "Easy Listening",
+                "©nam": "The First Noel",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/06 Christmas Processional_ Gloria In.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/06 Christmas Processional_ Gloria In.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    6,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Christmas Processional: Gloria In Excelsis Deo!",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/07 Sweet Little Jesus Boy.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/07 Sweet Little Jesus Boy.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    7,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2004",
+                "©gen": "Easy Listening",
+                "©nam": "Sweet Little Jesus Boy",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/08 Children, Go Where I Send Thee.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/08 Children, Go Where I Send Thee.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    8,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2004",
+                "©gen": "Easy Listening",
+                "©nam": "Children, Go Where I Send Thee",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/09 Winter Wonderland.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/09 Winter Wonderland.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    9,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Winter Wonderland",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/10 We Need A Little Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/10 We Need A Little Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    10,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2001",
+                "©gen": "Easy Listening",
+                "©nam": "We Need A Little Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/11 White Christmas.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/11 White Christmas.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    11,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2002",
+                "©gen": "Easy Listening",
+                "©nam": "White Christmas",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/12 Sleigh Ride.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/12 Sleigh Ride.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    12,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Sleigh Ride",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/13 Bring A Torch, Jeannette, Isabell.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/13 Bring A Torch, Jeannette, Isabell.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    13,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Bring A Torch, Jeannette, Isabella",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/14 What Shall We Give To The Babe In.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/14 What Shall We Give To The Babe In.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    14,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2003",
+                "©gen": "Easy Listening",
+                "©nam": "What Shall We Give To The Babe In The Manger?",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/15 Angels, From The Realms Of Glory.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/15 Angels, From The Realms Of Glory.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    15,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2005",
+                "©gen": "Easy Listening",
+                "©nam": "Angels, From The Realms Of Glory",
+                "©too": "Music 1.5.6.11"
+            },
+            {
+                "cpil": false,
+                "disk": [
+                    1,
+                    1
+                ],
+                "full_path": "C:/Users/bruce/Music/iTunes/iTunes Media/Music/Mormon Tabernacle Choir/The Wonder Of Christmas/16 Hallelujah From Messiah.m4a",
+                "pgap": false,
+                "rel_path": "Mormon Tabernacle Choir/The Wonder Of Christmas/16 Hallelujah From Messiah.m4a",
+                "tmpo": 0,
+                "trkn": [
+                    16,
+                    16
+                ],
+                "©ART": "Mormon Tabernacle Choir",
+                "©alb": "The Wonder Of Christmas",
+                "©day": "2002",
+                "©gen": "Easy Listening",
+                "©nam": "Hallelujah From Messiah",
+                "©too": "Music 1.5.6.11",
+                "©wrt": "Handel, George Frideric"
             }
         ]
     },
