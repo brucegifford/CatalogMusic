@@ -3,7 +3,6 @@
     "display_path": "/LDS Music/Michael McLean - A New Kind of Love Song",
     "name": "Michael McLean - A New Kind of Love Song",
     "parent_persistent_id": "FAA0E43E3C73A45B",
-    "playlist_id": 94651,
     "playlist_persistent_id": "6E4CF4E9E7505B16",
     "tracks": [
         {
@@ -29,7 +28,6 @@
             "sort_name": "New Kind of Love Song",
             "total_time": 205008,
             "track_count": 11,
-            "track_id": 32634,
             "track_number": 1,
             "track_type": "File"
         },
@@ -55,7 +53,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 156891,
             "track_count": 11,
-            "track_id": 32636,
             "track_number": 2,
             "track_type": "File"
         },
@@ -81,7 +78,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 189309,
             "track_count": 11,
-            "track_id": 32638,
             "track_number": 3,
             "track_type": "File"
         },
@@ -107,7 +103,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 233665,
             "track_count": 11,
-            "track_id": 32640,
             "track_number": 4,
             "track_type": "File"
         },
@@ -133,7 +128,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 379010,
             "track_count": 11,
-            "track_id": 32642,
             "track_number": 5,
             "track_type": "File"
         },
@@ -159,7 +153,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 213681,
             "track_count": 11,
-            "track_id": 32644,
             "track_number": 6,
             "track_type": "File"
         },
@@ -185,7 +178,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 266631,
             "track_count": 11,
-            "track_id": 32646,
             "track_number": 7,
             "track_type": "File"
         },
@@ -211,7 +203,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 132884,
             "track_count": 11,
-            "track_id": 32648,
             "track_number": 8,
             "track_type": "File"
         },
@@ -237,7 +228,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 166034,
             "track_count": 11,
-            "track_id": 32650,
             "track_number": 9,
             "track_type": "File"
         },
@@ -263,7 +253,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 300146,
             "track_count": 11,
-            "track_id": 32652,
             "track_number": 10,
             "track_type": "File"
         },
@@ -289,7 +278,6 @@
             "sort_album": "New Kind of Love Song",
             "total_time": 218853,
             "track_count": 11,
-            "track_id": 32654,
             "track_number": 11,
             "track_type": "File"
         }

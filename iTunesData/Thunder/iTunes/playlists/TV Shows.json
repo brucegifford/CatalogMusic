@@ -4,7 +4,6 @@
     "distinguished_kind": 3,
     "distinguished_kind_label": "Music",
     "name": "TV Shows",
-    "playlist_id": 73315,
     "playlist_persistent_id": "5DA6FB618BE70CA9",
     "tracks": [
         {
@@ -33,7 +32,6 @@
             "sort_name": "Great Vibrations",
             "total_time": 3357123,
             "track_count": 1,
-            "track_id": 4614,
             "track_number": 1,
             "track_type": "Remote",
             "tv_show": true,
@@ -66,7 +64,6 @@
             "sort_name": "Champion is Crowned",
             "total_time": 5058195,
             "track_count": 13,
-            "track_id": 4708,
             "track_number": 7,
             "track_type": "Remote",
             "tv_show": true,

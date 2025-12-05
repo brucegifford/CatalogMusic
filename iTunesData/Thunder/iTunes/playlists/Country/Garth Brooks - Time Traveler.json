@@ -3,7 +3,6 @@
     "display_path": "/Country/Garth Brooks - Time Traveler",
     "name": "Garth Brooks - Time Traveler",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 91196,
     "playlist_persistent_id": "0CC979C8556736D8",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 8047821,
             "total_time": 229386,
             "track_count": 10,
-            "track_id": 41722,
             "track_number": 1,
             "track_type": "File",
             "year": 2023
@@ -53,7 +51,6 @@
             "size": 6194953,
             "total_time": 181200,
             "track_count": 10,
-            "track_id": 41724,
             "track_number": 2,
             "track_type": "File",
             "year": 2023
@@ -79,7 +76,6 @@
             "size": 7147779,
             "total_time": 213560,
             "track_count": 10,
-            "track_id": 41726,
             "track_number": 3,
             "track_type": "File",
             "year": 2023
@@ -105,7 +101,6 @@
             "size": 8201277,
             "total_time": 237933,
             "track_count": 10,
-            "track_id": 41728,
             "track_number": 4,
             "track_type": "File",
             "year": 2023
@@ -131,7 +126,6 @@
             "size": 8428740,
             "total_time": 243173,
             "track_count": 10,
-            "track_id": 41730,
             "track_number": 5,
             "track_type": "File",
             "year": 2023
@@ -158,7 +152,6 @@
             "sort_name": "Ship And The Bottle (With Kelly Clarkson)",
             "total_time": 244026,
             "track_count": 10,
-            "track_id": 41732,
             "track_number": 6,
             "track_type": "File",
             "year": 2023
@@ -184,7 +177,6 @@
             "size": 8782893,
             "total_time": 262306,
             "track_count": 10,
-            "track_id": 41734,
             "track_number": 7,
             "track_type": "File",
             "year": 2023
@@ -211,7 +203,6 @@
             "sort_name": "Ride",
             "total_time": 259346,
             "track_count": 10,
-            "track_id": 41736,
             "track_number": 8,
             "track_type": "File",
             "year": 2023
@@ -237,7 +228,6 @@
             "size": 7296928,
             "total_time": 218720,
             "track_count": 10,
-            "track_id": 41738,
             "track_number": 9,
             "track_type": "File",
             "year": 2023
@@ -263,7 +253,6 @@
             "size": 8111431,
             "total_time": 241653,
             "track_count": 10,
-            "track_id": 41740,
             "track_number": 10,
             "track_type": "File",
             "year": 2023

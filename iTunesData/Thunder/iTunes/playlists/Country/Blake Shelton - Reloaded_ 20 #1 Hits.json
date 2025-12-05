@@ -3,7 +3,6 @@
     "display_path": "/Country/Blake Shelton - Reloaded_ 20 #1 Hits",
     "name": "Blake Shelton - Reloaded: 20 #1 Hits",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 90238,
     "playlist_persistent_id": "C1B32A3EAB4122A5",
     "tracks": [
         {
@@ -28,7 +27,6 @@
             "size": 4786657,
             "total_time": 233534,
             "track_count": 21,
-            "track_id": 41396,
             "track_number": 1,
             "track_type": "File",
             "year": 2014
@@ -55,7 +53,6 @@
             "size": 4477919,
             "total_time": 218096,
             "track_count": 21,
-            "track_id": 41398,
             "track_number": 2,
             "track_type": "File",
             "year": 2014
@@ -82,7 +79,6 @@
             "size": 4568799,
             "total_time": 222641,
             "track_count": 21,
-            "track_id": 41400,
             "track_number": 3,
             "track_type": "File",
             "year": 2014
@@ -109,7 +105,6 @@
             "size": 3921505,
             "total_time": 190275,
             "track_count": 21,
-            "track_id": 41402,
             "track_number": 4,
             "track_type": "File",
             "year": 2013
@@ -136,7 +131,6 @@
             "size": 4569331,
             "total_time": 222667,
             "track_count": 21,
-            "track_id": 41404,
             "track_number": 5,
             "track_type": "File",
             "year": 2013
@@ -163,7 +157,6 @@
             "size": 4907349,
             "total_time": 239568,
             "track_count": 21,
-            "track_id": 41406,
             "track_number": 6,
             "track_type": "File",
             "year": 2013
@@ -190,7 +183,6 @@
             "size": 5892717,
             "total_time": 288835,
             "track_count": 21,
-            "track_id": 41408,
             "track_number": 7,
             "track_type": "File",
             "year": 2013
@@ -217,7 +209,6 @@
             "size": 4431927,
             "total_time": 215797,
             "track_count": 21,
-            "track_id": 41410,
             "track_number": 8,
             "track_type": "File",
             "year": 2013
@@ -244,7 +235,6 @@
             "size": 3979993,
             "total_time": 193201,
             "track_count": 21,
-            "track_id": 41412,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -271,7 +261,6 @@
             "size": 4338401,
             "total_time": 211121,
             "track_count": 21,
-            "track_id": 41414,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -298,7 +287,6 @@
             "size": 4707776,
             "total_time": 229590,
             "track_count": 21,
-            "track_id": 41416,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -325,7 +313,6 @@
             "size": 4331607,
             "total_time": 210782,
             "track_count": 21,
-            "track_id": 41418,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -352,7 +339,6 @@
             "size": 3871875,
             "total_time": 187794,
             "track_count": 21,
-            "track_id": 41420,
             "track_number": 13,
             "track_type": "File",
             "year": 2010
@@ -379,7 +365,6 @@
             "size": 4229737,
             "total_time": 205688,
             "track_count": 21,
-            "track_id": 41422,
             "track_number": 14,
             "track_type": "File",
             "year": 2010
@@ -406,7 +391,6 @@
             "size": 4598080,
             "total_time": 224104,
             "track_count": 21,
-            "track_id": 41424,
             "track_number": 15,
             "track_type": "File",
             "year": 2009
@@ -433,7 +417,6 @@
             "size": 4429316,
             "total_time": 215666,
             "track_count": 21,
-            "track_id": 41426,
             "track_number": 16,
             "track_type": "File",
             "year": 2008
@@ -460,7 +443,6 @@
             "size": 4728663,
             "total_time": 230635,
             "track_count": 21,
-            "track_id": 41428,
             "track_number": 17,
             "track_type": "File",
             "year": 2008
@@ -487,7 +469,6 @@
             "size": 4214057,
             "total_time": 204904,
             "track_count": 21,
-            "track_id": 41430,
             "track_number": 18,
             "track_type": "File",
             "year": 2004
@@ -515,7 +496,6 @@
             "sort_name": "Baby",
             "total_time": 234788,
             "track_count": 21,
-            "track_id": 41432,
             "track_number": 19,
             "track_type": "File",
             "year": 2002
@@ -542,7 +522,6 @@
             "size": 4723963,
             "total_time": 230400,
             "track_count": 21,
-            "track_id": 41434,
             "track_number": 20,
             "track_type": "File",
             "year": 2001
@@ -569,7 +548,6 @@
             "size": 3770493,
             "total_time": 182726,
             "track_count": 21,
-            "track_id": 41436,
             "track_number": 21,
             "track_type": "File",
             "year": 2014

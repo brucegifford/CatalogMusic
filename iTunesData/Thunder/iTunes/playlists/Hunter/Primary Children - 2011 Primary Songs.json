@@ -3,7 +3,6 @@
     "display_path": "/Hunter/Primary Children - 2011 Primary Songs",
     "name": "Primary Children - 2011 Primary Songs",
     "parent_persistent_id": "167344A67CF9F600",
-    "playlist_id": 92598,
     "playlist_persistent_id": "CDFE1D517C3611B8",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 2985396,
             "total_time": 149159,
             "track_count": 12,
-            "track_id": 34550,
             "track_number": 1,
             "track_type": "File"
         },
@@ -52,7 +50,6 @@
             "size": 1604041,
             "total_time": 80091,
             "track_count": 12,
-            "track_id": 34552,
             "track_number": 2,
             "track_type": "File"
         },
@@ -77,7 +74,6 @@
             "size": 1625461,
             "total_time": 81162,
             "track_count": 12,
-            "track_id": 34554,
             "track_number": 3,
             "track_type": "File"
         },
@@ -102,7 +98,6 @@
             "size": 1031959,
             "total_time": 51487,
             "track_count": 12,
-            "track_id": 34556,
             "track_number": 4,
             "track_type": "File"
         },
@@ -127,7 +122,6 @@
             "size": 4362571,
             "total_time": 218017,
             "track_count": 12,
-            "track_id": 34558,
             "track_number": 5,
             "track_type": "File"
         },
@@ -153,7 +147,6 @@
             "sort_name": "Golden Plates (CS 86)",
             "total_time": 57521,
             "track_count": 12,
-            "track_id": 34560,
             "track_number": 6,
             "track_type": "File"
         },
@@ -178,7 +171,6 @@
             "size": 1306245,
             "total_time": 65201,
             "track_count": 12,
-            "track_id": 34562,
             "track_number": 7,
             "track_type": "File"
         },
@@ -203,7 +195,6 @@
             "size": 2128579,
             "total_time": 106318,
             "track_count": 12,
-            "track_id": 34564,
             "track_number": 8,
             "track_type": "File"
         },
@@ -228,7 +219,6 @@
             "sort_name": "Lord Gave Me a Temple (CS 153)",
             "total_time": 99291,
             "track_count": 12,
-            "track_id": 34566,
             "track_number": 9,
             "track_type": "File"
         },
@@ -253,7 +243,6 @@
             "size": 1430588,
             "total_time": 71418,
             "track_count": 12,
-            "track_id": 34568,
             "track_number": 10,
             "track_type": "File"
         },
@@ -278,7 +267,6 @@
             "size": 3181315,
             "total_time": 158955,
             "track_count": 12,
-            "track_id": 34570,
             "track_number": 11,
             "track_type": "File"
         },
@@ -303,7 +291,6 @@
             "size": 2334425,
             "total_time": 116610,
             "track_count": 12,
-            "track_id": 34572,
             "track_number": 12,
             "track_type": "File"
         }

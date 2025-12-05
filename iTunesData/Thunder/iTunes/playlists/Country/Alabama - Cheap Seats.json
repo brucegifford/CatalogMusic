@@ -3,7 +3,6 @@
     "display_path": "/Country/Alabama - Cheap Seats",
     "name": "Alabama - Cheap Seats",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 90088,
     "playlist_persistent_id": "D99FCC581D813FFF",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "size": 3206687,
             "total_time": 199262,
             "track_count": 11,
-            "track_id": 17870,
             "track_number": 6,
             "track_type": "File",
             "year": 1993

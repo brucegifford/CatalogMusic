@@ -3,7 +3,6 @@
     "display_path": "/LDS Music/Shawna Edwards",
     "name": "Shawna Edwards",
     "parent_persistent_id": "FAA0E43E3C73A45B",
-    "playlist_id": 95075,
     "playlist_persistent_id": "EB1F2152C25A8C26",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "size": 8191141,
             "total_time": 204643,
             "track_count": 2,
-            "track_id": 35872,
             "track_number": 1,
             "track_type": "File"
         },
@@ -48,7 +46,6 @@
             "size": 8122250,
             "total_time": 202945,
             "track_count": 2,
-            "track_id": 35874,
             "track_number": 2,
             "track_type": "File"
         },
@@ -71,7 +68,6 @@
             "size": 7720901,
             "total_time": 241214,
             "track_count": 1,
-            "track_id": 35876,
             "track_number": 1,
             "track_type": "File",
             "year": 2019

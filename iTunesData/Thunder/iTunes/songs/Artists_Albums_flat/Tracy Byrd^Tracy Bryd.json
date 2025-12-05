@@ -18,7 +18,6 @@
             "size": 3531795,
             "sort_name": "Out Of Control Raging Fire",
             "total_time": 220473,
-            "track_id": 36596,
             "track_type": "File"
         },
         {
@@ -37,7 +36,6 @@
             "sample_rate": 44100,
             "size": 2416680,
             "total_time": 150778,
-            "track_id": 36598,
             "track_type": "File"
         },
         {
@@ -56,7 +54,6 @@
             "sample_rate": 44100,
             "size": 2982597,
             "total_time": 186148,
-            "track_id": 36600,
             "track_type": "File"
         },
         {
@@ -75,7 +72,6 @@
             "sample_rate": 44100,
             "size": 2527440,
             "total_time": 157701,
-            "track_id": 36602,
             "track_type": "File"
         },
         {
@@ -94,7 +90,6 @@
             "sample_rate": 44100,
             "size": 2427547,
             "total_time": 151457,
-            "track_id": 36604,
             "track_type": "File"
         },
         {
@@ -113,7 +108,6 @@
             "sample_rate": 44100,
             "size": 3263884,
             "total_time": 203728,
-            "track_id": 36606,
             "track_type": "File"
         },
         {
@@ -132,7 +126,6 @@
             "sample_rate": 44100,
             "size": 2907364,
             "total_time": 181446,
-            "track_id": 36608,
             "track_type": "File"
         },
         {
@@ -151,7 +144,6 @@
             "sample_rate": 44100,
             "size": 2668292,
             "total_time": 166504,
-            "track_id": 36610,
             "track_type": "File"
         },
         {
@@ -170,7 +162,6 @@
             "sample_rate": 44100,
             "size": 3149781,
             "total_time": 196597,
-            "track_id": 36612,
             "track_type": "File"
         },
         {
@@ -189,7 +180,6 @@
             "sample_rate": 44100,
             "size": 2855955,
             "total_time": 178233,
-            "track_id": 36614,
             "track_type": "File"
         }
     ]

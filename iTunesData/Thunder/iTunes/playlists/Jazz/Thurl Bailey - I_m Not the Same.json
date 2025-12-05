@@ -3,7 +3,6 @@
     "display_path": "/Jazz/Thurl Bailey - I_m Not the Same",
     "name": "Thurl Bailey - I'm Not the Same",
     "parent_persistent_id": "85BF2D68603147E0",
-    "playlist_id": 93693,
     "playlist_persistent_id": "C9F04D046E54F369",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 5652585,
             "total_time": 268538,
             "track_count": 12,
-            "track_id": 36464,
             "track_number": 1,
             "track_type": "File",
             "year": 2002
@@ -53,7 +51,6 @@
             "size": 4334457,
             "total_time": 202631,
             "track_count": 12,
-            "track_id": 36466,
             "track_number": 2,
             "track_type": "File",
             "year": 2002
@@ -79,7 +76,6 @@
             "size": 5733039,
             "total_time": 272561,
             "track_count": 12,
-            "track_id": 36468,
             "track_number": 3,
             "track_type": "File",
             "year": 2002
@@ -105,7 +101,6 @@
             "size": 5104527,
             "total_time": 241136,
             "track_count": 12,
-            "track_id": 36470,
             "track_number": 4,
             "track_type": "File",
             "year": 2002
@@ -131,7 +126,6 @@
             "size": 4915422,
             "total_time": 231680,
             "track_count": 12,
-            "track_id": 36472,
             "track_number": 5,
             "track_type": "File",
             "year": 2002
@@ -157,7 +151,6 @@
             "size": 5258661,
             "total_time": 248842,
             "track_count": 12,
-            "track_id": 36474,
             "track_number": 6,
             "track_type": "File",
             "year": 2002
@@ -183,7 +176,6 @@
             "size": 3934766,
             "total_time": 182648,
             "track_count": 12,
-            "track_id": 36476,
             "track_number": 7,
             "track_type": "File",
             "year": 2002
@@ -209,7 +201,6 @@
             "size": 4625456,
             "total_time": 217182,
             "track_count": 12,
-            "track_id": 36478,
             "track_number": 8,
             "track_type": "File",
             "year": 2002
@@ -235,7 +226,6 @@
             "size": 4369452,
             "total_time": 204382,
             "track_count": 12,
-            "track_id": 36480,
             "track_number": 9,
             "track_type": "File",
             "year": 2002
@@ -261,7 +251,6 @@
             "size": 5039223,
             "total_time": 237871,
             "track_count": 12,
-            "track_id": 36482,
             "track_number": 10,
             "track_type": "File",
             "year": 2002
@@ -287,7 +276,6 @@
             "size": 7081488,
             "total_time": 339983,
             "track_count": 12,
-            "track_id": 36484,
             "track_number": 11,
             "track_type": "File",
             "year": 2002
@@ -313,7 +301,6 @@
             "size": 3961942,
             "total_time": 184006,
             "track_count": 12,
-            "track_id": 36486,
             "track_number": 12,
             "track_type": "File",
             "year": 2002

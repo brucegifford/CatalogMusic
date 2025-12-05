@@ -3,7 +3,6 @@
     "display_path": "/Jazz/Thurl Bailey - Faith in Your Heart",
     "name": "Thurl Bailey - Faith in Your Heart",
     "parent_persistent_id": "85BF2D68603147E0",
-    "playlist_id": 93680,
     "playlist_persistent_id": "674A36D0E78F0FDD",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "sample_rate": 44100,
             "size": 5682556,
             "total_time": 272117,
-            "track_id": 36444,
             "track_number": 1,
             "track_type": "File",
             "year": 1999
@@ -53,7 +51,6 @@
             "sample_rate": 44100,
             "size": 4967337,
             "total_time": 236355,
-            "track_id": 36446,
             "track_number": 2,
             "track_type": "File",
             "year": 1999
@@ -80,7 +77,6 @@
             "size": 4753640,
             "sort_name": "Way Love Goes",
             "total_time": 225671,
-            "track_id": 36448,
             "track_number": 3,
             "track_type": "File",
             "year": 1999
@@ -106,7 +102,6 @@
             "sample_rate": 44100,
             "size": 5296997,
             "total_time": 252839,
-            "track_id": 36450,
             "track_number": 4,
             "track_type": "File",
             "year": 1999
@@ -132,7 +127,6 @@
             "sample_rate": 44100,
             "size": 5964707,
             "total_time": 286223,
-            "track_id": 36452,
             "track_number": 5,
             "track_type": "File",
             "year": 1999
@@ -158,7 +152,6 @@
             "sample_rate": 44100,
             "size": 4326292,
             "total_time": 204303,
-            "track_id": 36454,
             "track_number": 6,
             "track_type": "File",
             "year": 1999
@@ -184,7 +177,6 @@
             "sample_rate": 44100,
             "size": 6520049,
             "total_time": 313991,
-            "track_id": 36456,
             "track_number": 7,
             "track_type": "File",
             "year": 1999
@@ -210,7 +202,6 @@
             "sample_rate": 44100,
             "size": 5382165,
             "total_time": 257097,
-            "track_id": 36458,
             "track_number": 8,
             "track_type": "File",
             "year": 1999
@@ -236,7 +227,6 @@
             "sample_rate": 44100,
             "size": 6621409,
             "total_time": 319059,
-            "track_id": 36460,
             "track_number": 9,
             "track_type": "File",
             "year": 1999
@@ -262,7 +252,6 @@
             "sample_rate": 44100,
             "size": 5860729,
             "total_time": 281025,
-            "track_id": 36462,
             "track_number": 10,
             "track_type": "File",
             "year": 1999

@@ -3,7 +3,6 @@
     "display_path": "/Country/Trisha Yearwood - Where Your Road Leads",
     "name": "Trisha Yearwood - Where Your Road Leads",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 91998,
     "playlist_persistent_id": "5FB0A6E830B44FD5",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "size": 3735820,
             "total_time": 232960,
             "track_count": 11,
-            "track_id": 36616,
             "track_number": 1,
             "track_type": "File"
         },
@@ -48,7 +46,6 @@
             "size": 3233851,
             "total_time": 201586,
             "track_count": 11,
-            "track_id": 36618,
             "track_number": 2,
             "track_type": "File"
         },
@@ -71,7 +68,6 @@
             "size": 3707608,
             "total_time": 230556,
             "track_count": 11,
-            "track_id": 36620,
             "track_number": 3,
             "track_type": "File"
         },
@@ -94,7 +90,6 @@
             "size": 2863539,
             "total_time": 178442,
             "track_count": 11,
-            "track_id": 36622,
             "track_number": 4,
             "track_type": "File"
         },
@@ -117,7 +112,6 @@
             "size": 3700293,
             "total_time": 230739,
             "track_count": 11,
-            "track_id": 36624,
             "track_number": 5,
             "track_type": "File"
         },
@@ -140,7 +134,6 @@
             "size": 3329563,
             "total_time": 207568,
             "track_count": 11,
-            "track_id": 36626,
             "track_number": 6,
             "track_type": "File"
         },
@@ -163,7 +156,6 @@
             "size": 4232355,
             "total_time": 263993,
             "track_count": 11,
-            "track_id": 36628,
             "track_number": 7,
             "track_type": "File"
         },
@@ -186,7 +178,6 @@
             "size": 3241792,
             "total_time": 202083,
             "track_count": 11,
-            "track_id": 36630,
             "track_number": 8,
             "track_type": "File"
         },
@@ -209,7 +200,6 @@
             "size": 3967787,
             "total_time": 247457,
             "track_count": 11,
-            "track_id": 36632,
             "track_number": 9,
             "track_type": "File"
         },
@@ -232,7 +222,6 @@
             "size": 4968799,
             "total_time": 310021,
             "track_count": 11,
-            "track_id": 36634,
             "track_number": 10,
             "track_type": "File"
         },
@@ -255,7 +244,6 @@
             "size": 5749547,
             "total_time": 358817,
             "track_count": 11,
-            "track_id": 36636,
             "track_number": 11,
             "track_type": "File"
         }

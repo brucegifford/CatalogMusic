@@ -3,7 +3,6 @@
     "display_path": "/Jazz/Kenny G. - The Moment",
     "name": "Kenny G. - The Moment",
     "parent_persistent_id": "85BF2D68603147E0",
-    "playlist_id": 93396,
     "playlist_persistent_id": "8F166573DEA1091D",
     "tracks": [
         {
@@ -28,7 +27,6 @@
             "sort_album": "Moment",
             "total_time": 301217,
             "track_count": 12,
-            "track_id": 30830,
             "track_number": 11,
             "track_type": "File",
             "year": 1996
@@ -55,7 +53,6 @@
             "sort_album": "Moment",
             "total_time": 238706,
             "track_count": 12,
-            "track_id": 30832,
             "track_number": 12,
             "track_type": "File",
             "year": 1996

@@ -3,7 +3,6 @@
     "display_path": "/Country/Alabama - Mountain Music",
     "name": "Alabama - Mountain Music",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 90195,
     "playlist_persistent_id": "5D75D4E109C32470",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "size": 3518067,
             "total_time": 218723,
             "track_count": 10,
-            "track_id": 18022,
             "track_number": 1,
             "track_type": "File",
             "year": 1982
@@ -49,7 +47,6 @@
             "size": 3439908,
             "total_time": 213838,
             "track_count": 10,
-            "track_id": 18024,
             "track_number": 2,
             "track_type": "File",
             "year": 1982
@@ -73,7 +70,6 @@
             "size": 3600405,
             "total_time": 223869,
             "track_count": 10,
-            "track_id": 18026,
             "track_number": 6,
             "track_type": "File",
             "year": 1982

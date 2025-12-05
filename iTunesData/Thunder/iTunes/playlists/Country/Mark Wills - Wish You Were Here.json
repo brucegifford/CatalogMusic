@@ -3,7 +3,6 @@
     "display_path": "/Country/Mark Wills - Wish You Were Here",
     "name": "Mark Wills - Wish You Were Here",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 91599,
     "playlist_persistent_id": "7034B34E56363E6D",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "sample_rate": 44100,
             "size": 3037614,
             "total_time": 151771,
-            "track_id": 31634,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -49,7 +47,6 @@
             "sample_rate": 44100,
             "size": 4096611,
             "total_time": 204721,
-            "track_id": 31636,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -74,7 +71,6 @@
             "sample_rate": 44100,
             "size": 4843237,
             "total_time": 242050,
-            "track_id": 31638,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -99,7 +95,6 @@
             "sample_rate": 44100,
             "size": 5688544,
             "total_time": 284316,
-            "track_id": 31640,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -123,7 +118,6 @@
             "sample_rate": 44100,
             "size": 3428922,
             "total_time": 171337,
-            "track_id": 31642,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -148,7 +142,6 @@
             "sample_rate": 44100,
             "size": 4359443,
             "total_time": 217861,
-            "track_id": 31644,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -173,7 +166,6 @@
             "size": 4154083,
             "sort_name": "Last Memory",
             "total_time": 207595,
-            "track_id": 31646,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -197,7 +189,6 @@
             "sample_rate": 44100,
             "size": 3996300,
             "total_time": 199706,
-            "track_id": 31648,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -221,7 +212,6 @@
             "sample_rate": 44100,
             "size": 3963909,
             "total_time": 198086,
-            "track_id": 31650,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -245,7 +235,6 @@
             "sample_rate": 44100,
             "size": 4311346,
             "total_time": 215457,
-            "track_id": 31652,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -270,7 +259,6 @@
             "sample_rate": 44100,
             "size": 3998418,
             "total_time": 199810,
-            "track_id": 31654,
             "track_number": 11,
             "track_type": "File",
             "year": 1998

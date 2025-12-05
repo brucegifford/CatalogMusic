@@ -3,7 +3,6 @@
     "display_path": "/Books/Hugh W. Nibley - Excerpt from _The Last Days",
     "name": "Hugh W. Nibley - Excerpt from \"The Last Days\"",
     "parent_persistent_id": "599FFFFB95C780C4",
-    "playlist_id": 87066,
     "playlist_persistent_id": "BB2A0B06745657C0",
     "tracks": [
         {
@@ -29,7 +28,6 @@
             "size": 1835652,
             "total_time": 814184,
             "track_count": 1,
-            "track_id": 25556,
             "track_number": 1,
             "track_type": "File"
         }

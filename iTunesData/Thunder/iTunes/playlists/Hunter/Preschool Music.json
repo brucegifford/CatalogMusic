@@ -3,7 +3,6 @@
     "display_path": "/Hunter/Preschool Music",
     "name": "Preschool Music",
     "parent_persistent_id": "167344A67CF9F600",
-    "playlist_id": 92573,
     "playlist_persistent_id": "D40CE103C7752416",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 1806723,
             "total_time": 90226,
             "track_count": 23,
-            "track_id": 34506,
             "track_number": 1,
             "track_type": "File"
         },
@@ -52,7 +50,6 @@
             "size": 1408094,
             "total_time": 70295,
             "track_count": 23,
-            "track_id": 34508,
             "track_number": 2,
             "track_type": "File"
         },
@@ -77,7 +74,6 @@
             "size": 1474445,
             "total_time": 73613,
             "track_count": 23,
-            "track_id": 34510,
             "track_number": 4,
             "track_type": "File"
         },
@@ -102,7 +98,6 @@
             "size": 2530837,
             "total_time": 126432,
             "track_count": 23,
-            "track_id": 34512,
             "track_number": 5,
             "track_type": "File"
         },
@@ -127,7 +122,6 @@
             "size": 2234608,
             "total_time": 111621,
             "track_count": 23,
-            "track_id": 34514,
             "track_number": 6,
             "track_type": "File"
         },
@@ -152,7 +146,6 @@
             "size": 6056323,
             "total_time": 302706,
             "track_count": 23,
-            "track_id": 34516,
             "track_number": 7,
             "track_type": "File"
         },
@@ -177,7 +170,6 @@
             "size": 4076241,
             "total_time": 203702,
             "track_count": 23,
-            "track_id": 34518,
             "track_number": 8,
             "track_type": "File"
         },
@@ -202,7 +194,6 @@
             "size": 1490119,
             "total_time": 74396,
             "track_count": 23,
-            "track_id": 34520,
             "track_number": 9,
             "track_type": "File"
         },
@@ -227,7 +218,6 @@
             "size": 3279507,
             "total_time": 163866,
             "track_count": 23,
-            "track_id": 34522,
             "track_number": 10,
             "track_type": "File"
         },
@@ -253,7 +243,6 @@
             "sort_name": "Tootie Tah",
             "total_time": 166034,
             "track_count": 23,
-            "track_id": 34524,
             "track_number": 11,
             "track_type": "File"
         },
@@ -278,7 +267,6 @@
             "size": 1302560,
             "total_time": 65018,
             "track_count": 23,
-            "track_id": 34526,
             "track_number": 12,
             "track_type": "File"
         },
@@ -303,7 +291,6 @@
             "size": 1496911,
             "total_time": 74736,
             "track_count": 23,
-            "track_id": 34528,
             "track_number": 13,
             "track_type": "File"
         },
@@ -329,7 +316,6 @@
             "sort_name": "Wheels on the Bus",
             "total_time": 106553,
             "track_count": 23,
-            "track_id": 34530,
             "track_number": 14,
             "track_type": "File"
         },
@@ -355,7 +341,6 @@
             "sort_name": "Walking Song",
             "total_time": 156577,
             "track_count": 23,
-            "track_id": 34532,
             "track_number": 15,
             "track_type": "File"
         },
@@ -380,7 +365,6 @@
             "size": 3157254,
             "total_time": 157753,
             "track_count": 23,
-            "track_id": 34534,
             "track_number": 16,
             "track_type": "File"
         },
@@ -405,7 +389,6 @@
             "size": 2439932,
             "total_time": 121887,
             "track_count": 23,
-            "track_id": 34536,
             "track_number": 17,
             "track_type": "File"
         },
@@ -430,7 +413,6 @@
             "size": 3066871,
             "total_time": 153234,
             "track_count": 23,
-            "track_id": 34538,
             "track_number": 18,
             "track_type": "File"
         },
@@ -455,7 +437,6 @@
             "size": 3452438,
             "total_time": 172512,
             "track_count": 23,
-            "track_id": 34540,
             "track_number": 19,
             "track_type": "File"
         },
@@ -480,7 +461,6 @@
             "size": 2089369,
             "total_time": 104359,
             "track_count": 23,
-            "track_id": 34542,
             "track_number": 20,
             "track_type": "File"
         },
@@ -505,7 +485,6 @@
             "size": 2180275,
             "total_time": 108904,
             "track_count": 23,
-            "track_id": 34544,
             "track_number": 21,
             "track_type": "File"
         },
@@ -530,7 +509,6 @@
             "size": 1580503,
             "total_time": 78915,
             "track_count": 23,
-            "track_id": 34546,
             "track_number": 22,
             "track_type": "File"
         },
@@ -555,7 +533,6 @@
             "size": 2507850,
             "total_time": 125283,
             "track_count": 23,
-            "track_id": 34548,
             "track_number": 23,
             "track_type": "File"
         }

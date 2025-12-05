@@ -3,7 +3,6 @@
     "display_path": "/Christmas/Mannheim Steamroller - Christmas Extraordinaire",
     "name": "Mannheim Steamroller - Christmas Extraordinaire",
     "parent_persistent_id": "EE7DC2F806B8B67F",
-    "playlist_id": 88730,
     "playlist_persistent_id": "97B4A4A007D58040",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 5672878,
             "total_time": 283533,
             "track_count": 12,
-            "track_id": 31406,
             "track_number": 1,
             "track_type": "File",
             "year": 2001
@@ -53,7 +51,6 @@
             "size": 4306676,
             "total_time": 215222,
             "track_count": 12,
-            "track_id": 31408,
             "track_number": 2,
             "track_type": "File",
             "year": 2001
@@ -79,7 +76,6 @@
             "size": 4073667,
             "total_time": 203572,
             "track_count": 12,
-            "track_id": 31410,
             "track_number": 3,
             "track_type": "File",
             "year": 2001
@@ -105,7 +101,6 @@
             "size": 2995855,
             "total_time": 149681,
             "track_count": 12,
-            "track_id": 31412,
             "track_number": 4,
             "track_type": "File",
             "year": 2001
@@ -131,7 +126,6 @@
             "size": 4934704,
             "total_time": 246622,
             "track_count": 12,
-            "track_id": 31414,
             "track_number": 5,
             "track_type": "File",
             "year": 2001
@@ -158,7 +152,6 @@
             "sort_name": "First Noel",
             "total_time": 219036,
             "track_count": 12,
-            "track_id": 31416,
             "track_number": 6,
             "track_type": "File",
             "year": 2001
@@ -184,7 +177,6 @@
             "size": 5373014,
             "total_time": 268538,
             "track_count": 12,
-            "track_id": 31418,
             "track_number": 7,
             "track_type": "File",
             "year": 2001
@@ -210,7 +202,6 @@
             "size": 5841105,
             "total_time": 291944,
             "track_count": 12,
-            "track_id": 31420,
             "track_number": 8,
             "track_type": "File",
             "year": 2001
@@ -236,7 +227,6 @@
             "size": 4285260,
             "total_time": 214151,
             "track_count": 12,
-            "track_id": 31422,
             "track_number": 9,
             "track_type": "File",
             "year": 2001
@@ -262,7 +252,6 @@
             "size": 4447758,
             "total_time": 222275,
             "track_count": 12,
-            "track_id": 31424,
             "track_number": 10,
             "track_type": "File",
             "year": 2001
@@ -289,7 +278,6 @@
             "size": 3635356,
             "total_time": 181655,
             "track_count": 12,
-            "track_id": 31426,
             "track_number": 11,
             "track_type": "File",
             "year": 2001
@@ -315,7 +303,6 @@
             "size": 4456095,
             "total_time": 222693,
             "track_count": 12,
-            "track_id": 31428,
             "track_number": 12,
             "track_type": "File",
             "year": 2001

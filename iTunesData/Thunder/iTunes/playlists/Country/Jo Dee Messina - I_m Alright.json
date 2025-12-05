@@ -3,7 +3,6 @@
     "display_path": "/Country/Jo Dee Messina - I_m Alright",
     "name": "Jo Dee Messina - I'm Alright",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 91372,
     "playlist_persistent_id": "F5A21C1B2EDB71C7",
     "tracks": [
         {
@@ -26,7 +25,6 @@
             "sample_rate": 44100,
             "size": 3922128,
             "total_time": 195996,
-            "track_id": 29066,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -51,7 +49,6 @@
             "sample_rate": 44100,
             "size": 4446678,
             "total_time": 222223,
-            "track_id": 29068,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -76,7 +73,6 @@
             "sample_rate": 44100,
             "size": 4653070,
             "total_time": 232542,
-            "track_id": 29070,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -101,7 +97,6 @@
             "sample_rate": 44100,
             "size": 4115462,
             "total_time": 205662,
-            "track_id": 29072,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -126,7 +121,6 @@
             "sample_rate": 44100,
             "size": 4402279,
             "total_time": 220003,
-            "track_id": 29074,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -151,7 +145,6 @@
             "sample_rate": 44100,
             "size": 4001034,
             "total_time": 199941,
-            "track_id": 29076,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -176,7 +169,6 @@
             "sample_rate": 44100,
             "size": 4985316,
             "total_time": 249155,
-            "track_id": 29078,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -201,7 +193,6 @@
             "sample_rate": 44100,
             "size": 4183919,
             "total_time": 209084,
-            "track_id": 29080,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -226,7 +217,6 @@
             "sample_rate": 44100,
             "size": 4620666,
             "total_time": 230922,
-            "track_id": 29082,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -251,7 +241,6 @@
             "sample_rate": 44100,
             "size": 4097684,
             "total_time": 204773,
-            "track_id": 29084,
             "track_number": 10,
             "track_type": "File",
             "year": 1998

@@ -3,7 +3,6 @@
     "display_path": "/Country/Carrie Underwood - Something in the Water - Single",
     "name": "Carrie Underwood - Something in the Water - Single",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 90292,
     "playlist_persistent_id": "3043852D69AB4D3E",
     "tracks": [
         {
@@ -34,7 +33,6 @@
             "sort_name": "Something in the Water",
             "total_time": 237096,
             "track_count": 1,
-            "track_id": 4602,
             "track_number": 1,
             "track_type": "File",
             "year": 2014

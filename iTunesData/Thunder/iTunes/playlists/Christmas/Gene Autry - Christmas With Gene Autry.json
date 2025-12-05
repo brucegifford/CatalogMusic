@@ -3,7 +3,6 @@
     "display_path": "/Christmas/Gene Autry - Christmas With Gene Autry",
     "name": "Gene Autry - Christmas With Gene Autry",
     "parent_persistent_id": "EE7DC2F806B8B67F",
-    "playlist_id": 88650,
     "playlist_persistent_id": "35B5C88A91F5894F",
     "tracks": [
         {
@@ -26,7 +25,6 @@
             "size": 9047354,
             "total_time": 274600,
             "track_count": 10,
-            "track_id": 23556,
             "track_number": 1,
             "track_type": "File",
             "year": 1956
@@ -51,7 +49,6 @@
             "size": 10763677,
             "total_time": 324000,
             "track_count": 10,
-            "track_id": 23558,
             "track_number": 2,
             "track_type": "File",
             "year": 1956
@@ -76,7 +73,6 @@
             "size": 2096722,
             "total_time": 62600,
             "track_count": 10,
-            "track_id": 23560,
             "track_number": 3,
             "track_type": "File",
             "year": 1956
@@ -101,7 +97,6 @@
             "size": 10918008,
             "total_time": 330666,
             "track_count": 10,
-            "track_id": 23562,
             "track_number": 4,
             "track_type": "File",
             "year": 1956
@@ -126,7 +121,6 @@
             "size": 4944430,
             "total_time": 150533,
             "track_count": 10,
-            "track_id": 23564,
             "track_number": 5,
             "track_type": "File",
             "year": 1956
@@ -151,7 +145,6 @@
             "size": 6203059,
             "total_time": 188666,
             "track_count": 10,
-            "track_id": 23566,
             "track_number": 6,
             "track_type": "File",
             "year": 1956
@@ -176,7 +169,6 @@
             "size": 3826108,
             "total_time": 115573,
             "track_count": 10,
-            "track_id": 23568,
             "track_number": 7,
             "track_type": "File",
             "year": 1956
@@ -201,7 +193,6 @@
             "size": 4583464,
             "total_time": 140466,
             "track_count": 10,
-            "track_id": 23570,
             "track_number": 8,
             "track_type": "File",
             "year": 1956
@@ -226,7 +217,6 @@
             "size": 3627111,
             "total_time": 112133,
             "track_count": 10,
-            "track_id": 23572,
             "track_number": 9,
             "track_type": "File",
             "year": 1956
@@ -251,7 +241,6 @@
             "size": 29880597,
             "total_time": 903400,
             "track_count": 10,
-            "track_id": 23574,
             "track_number": 10,
             "track_type": "File",
             "year": 1956

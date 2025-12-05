@@ -3,7 +3,6 @@
     "display_path": "/SoundTracks/Grease Cast - Grease Soundtrack",
     "name": "Grease Cast - Grease Soundtrack",
     "parent_persistent_id": "EC3F8E52626316CC",
-    "playlist_id": 95759,
     "playlist_persistent_id": "94E691495AA035B8",
     "tracks": [
         {
@@ -22,7 +21,6 @@
             "sample_rate": 44100,
             "size": 3309926,
             "total_time": 205714,
-            "track_id": 25238,
             "track_type": "File"
         },
         {
@@ -41,7 +39,6 @@
             "sample_rate": 44100,
             "size": 3287774,
             "total_time": 204329,
-            "track_id": 25236,
             "track_type": "File"
         },
         {
@@ -60,7 +57,6 @@
             "sample_rate": 44100,
             "size": 3129368,
             "total_time": 194429,
-            "track_id": 25240,
             "track_type": "File"
         },
         {
@@ -79,7 +75,6 @@
             "sample_rate": 44100,
             "size": 2983500,
             "total_time": 185312,
-            "track_id": 25242,
             "track_type": "File"
         },
         {
@@ -98,7 +93,6 @@
             "sample_rate": 44100,
             "size": 1627640,
             "total_time": 100571,
-            "track_id": 25246,
             "track_type": "File"
         },
         {
@@ -117,7 +111,6 @@
             "sample_rate": 44100,
             "size": 1474667,
             "total_time": 91010,
-            "track_id": 25244,
             "track_type": "File"
         },
         {
@@ -136,7 +129,6 @@
             "sample_rate": 44100,
             "size": 2508698,
             "total_time": 155637,
-            "track_id": 25248,
             "track_type": "File"
         },
         {
@@ -155,7 +147,6 @@
             "sample_rate": 44100,
             "size": 3488395,
             "total_time": 216868,
-            "track_id": 25250,
             "track_type": "File"
         },
         {
@@ -174,7 +165,6 @@
             "sample_rate": 44100,
             "size": 2890713,
             "total_time": 179513,
-            "track_id": 25252,
             "track_type": "File"
         },
         {
@@ -193,7 +183,6 @@
             "sample_rate": 44100,
             "size": 2735650,
             "total_time": 169822,
-            "track_id": 25254,
             "track_type": "File"
         }
     ]

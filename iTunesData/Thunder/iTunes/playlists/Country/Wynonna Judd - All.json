@@ -3,7 +3,6 @@
     "display_path": "/Country/Wynonna Judd - All",
     "name": "Wynonna Judd - All",
     "parent_persistent_id": "25E1785BA0061CF8",
-    "playlist_id": 92063,
     "playlist_persistent_id": "DEA2557E11B21DCF",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "size": 4592122,
             "total_time": 228310,
             "track_count": 10,
-            "track_id": 41960,
             "track_number": 1,
             "track_type": "File",
             "year": 1993
@@ -53,7 +51,6 @@
             "size": 3776579,
             "total_time": 187533,
             "track_count": 10,
-            "track_id": 41962,
             "track_number": 2,
             "track_type": "File",
             "year": 1993
@@ -79,7 +76,6 @@
             "size": 4301116,
             "total_time": 213760,
             "track_count": 10,
-            "track_id": 41964,
             "track_number": 3,
             "track_type": "File",
             "year": 1993
@@ -105,7 +101,6 @@
             "size": 4301651,
             "total_time": 213786,
             "track_count": 10,
-            "track_id": 41966,
             "track_number": 4,
             "track_type": "File",
             "year": 1993
@@ -131,7 +126,6 @@
             "size": 4588990,
             "total_time": 228153,
             "track_count": 10,
-            "track_id": 41968,
             "track_number": 5,
             "track_type": "File",
             "year": 1993
@@ -157,7 +151,6 @@
             "size": 5217492,
             "total_time": 259578,
             "track_count": 10,
-            "track_id": 41970,
             "track_number": 6,
             "track_type": "File",
             "year": 1993
@@ -183,7 +176,6 @@
             "size": 3929141,
             "total_time": 195160,
             "track_count": 10,
-            "track_id": 41972,
             "track_number": 7,
             "track_type": "File",
             "year": 1993
@@ -209,7 +201,6 @@
             "size": 3456320,
             "total_time": 171520,
             "track_count": 10,
-            "track_id": 41974,
             "track_number": 8,
             "track_type": "File",
             "year": 1993
@@ -235,7 +226,6 @@
             "size": 4798493,
             "total_time": 238628,
             "track_count": 10,
-            "track_id": 41976,
             "track_number": 9,
             "track_type": "File",
             "year": 1993
@@ -261,7 +251,6 @@
             "size": 6782760,
             "total_time": 337841,
             "track_count": 10,
-            "track_id": 41978,
             "track_number": 10,
             "track_type": "File",
             "year": 1993
@@ -286,7 +275,6 @@
             "size": 4222901,
             "total_time": 257828,
             "track_count": 10,
-            "track_id": 37252,
             "track_number": 1,
             "track_type": "File"
         },
@@ -310,7 +298,6 @@
             "size": 4385919,
             "total_time": 268016,
             "track_count": 10,
-            "track_id": 37250,
             "track_number": 2,
             "track_type": "File"
         },
@@ -334,7 +321,6 @@
             "size": 3863878,
             "total_time": 235389,
             "track_count": 10,
-            "track_id": 37240,
             "track_number": 3,
             "track_type": "File"
         },
@@ -358,7 +344,6 @@
             "size": 4276834,
             "total_time": 261198,
             "track_count": 10,
-            "track_id": 37246,
             "track_number": 4,
             "track_type": "File"
         },
@@ -382,7 +367,6 @@
             "size": 2803546,
             "total_time": 169116,
             "track_count": 10,
-            "track_id": 37254,
             "track_number": 5,
             "track_type": "File"
         },
@@ -406,7 +390,6 @@
             "size": 3907774,
             "total_time": 238132,
             "track_count": 10,
-            "track_id": 37248,
             "track_number": 6,
             "track_type": "File"
         },
@@ -430,7 +413,6 @@
             "size": 4880385,
             "total_time": 298919,
             "track_count": 10,
-            "track_id": 37242,
             "track_number": 7,
             "track_type": "File"
         },
@@ -455,7 +437,6 @@
             "sort_name": "Little Bit Of Love (Goes A L",
             "total_time": 180140,
             "track_count": 10,
-            "track_id": 37236,
             "track_number": 8,
             "track_type": "File"
         },
@@ -479,7 +460,6 @@
             "size": 3374888,
             "total_time": 204826,
             "track_count": 10,
-            "track_id": 37238,
             "track_number": 9,
             "track_type": "File"
         },
@@ -503,7 +483,6 @@
             "size": 2329133,
             "total_time": 139467,
             "track_count": 10,
-            "track_id": 37244,
             "track_number": 10,
             "track_type": "File"
         }

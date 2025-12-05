@@ -3,7 +3,6 @@
     "display_path": "/LDS Music/Paul Cardall - Looking Glass",
     "name": "Paul Cardall - Looking Glass",
     "parent_persistent_id": "FAA0E43E3C73A45B",
-    "playlist_id": 95039,
     "playlist_persistent_id": "B35E96B87EE8219F",
     "tracks": [
         {
@@ -24,7 +23,6 @@
             "sample_rate": 44100,
             "size": 3620147,
             "total_time": 180897,
-            "track_id": 34456,
             "track_number": 1,
             "track_type": "File",
             "year": 1999
@@ -48,7 +46,6 @@
             "size": 3901752,
             "sort_name": "Release",
             "total_time": 194977,
-            "track_id": 34458,
             "track_number": 2,
             "track_type": "File",
             "year": 1999
@@ -72,7 +69,6 @@
             "size": 4302991,
             "sort_name": "dream",
             "total_time": 215040,
-            "track_id": 34460,
             "track_number": 3,
             "track_type": "File",
             "year": 1999
@@ -95,7 +91,6 @@
             "sample_rate": 44100,
             "size": 4115434,
             "total_time": 205662,
-            "track_id": 34462,
             "track_number": 4,
             "track_type": "File",
             "year": 1999
@@ -118,7 +113,6 @@
             "sample_rate": 44100,
             "size": 4010427,
             "total_time": 200411,
-            "track_id": 34464,
             "track_number": 5,
             "track_type": "File",
             "year": 1999
@@ -142,7 +136,6 @@
             "size": 4465485,
             "sort_name": "Woman in the Snow",
             "total_time": 223164,
-            "track_id": 34466,
             "track_number": 6,
             "track_type": "File",
             "year": 1999
@@ -166,7 +159,6 @@
             "size": 4576767,
             "sort_name": "Kiss of the Sunlight",
             "total_time": 228728,
-            "track_id": 34468,
             "track_number": 7,
             "track_type": "File",
             "year": 1999
@@ -189,7 +181,6 @@
             "sample_rate": 44100,
             "size": 3551714,
             "total_time": 177475,
-            "track_id": 34470,
             "track_number": 8,
             "track_type": "File",
             "year": 1999
@@ -212,7 +203,6 @@
             "sample_rate": 44100,
             "size": 4537052,
             "total_time": 226742,
-            "track_id": 34472,
             "track_number": 9,
             "track_type": "File",
             "year": 1999
@@ -236,7 +226,6 @@
             "size": 4526608,
             "sort_name": "Looking Glass",
             "total_time": 226220,
-            "track_id": 34474,
             "track_number": 10,
             "track_type": "File",
             "year": 1999
@@ -259,7 +248,6 @@
             "sample_rate": 44100,
             "size": 2866263,
             "total_time": 143203,
-            "track_id": 34476,
             "track_number": 11,
             "track_type": "File",
             "year": 1999
@@ -282,7 +270,6 @@
             "sample_rate": 44100,
             "size": 4610192,
             "total_time": 230400,
-            "track_id": 34478,
             "track_number": 12,
             "track_type": "File",
             "year": 1999
@@ -305,7 +292,6 @@
             "sample_rate": 44100,
             "size": 3768004,
             "total_time": 188290,
-            "track_id": 34480,
             "track_number": 13,
             "track_type": "File",
             "year": 1999
@@ -328,7 +314,6 @@
             "sample_rate": 44100,
             "size": 5207356,
             "total_time": 260257,
-            "track_id": 34482,
             "track_number": 14,
             "track_type": "File",
             "year": 1999

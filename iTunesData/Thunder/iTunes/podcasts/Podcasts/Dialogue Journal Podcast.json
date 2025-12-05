@@ -19,7 +19,6 @@
             "sample_rate": 44100,
             "size": 82530878,
             "total_time": 5081338,
-            "track_id": 4788,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -42,7 +41,6 @@
             "sample_rate": 32000,
             "size": 58179444,
             "total_time": 3608712,
-            "track_id": 4792,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -66,7 +64,6 @@
             "sample_rate": 44100,
             "size": 55778788,
             "total_time": 3486040,
-            "track_id": 4794,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -82,7 +79,6 @@
             "podcast": true,
             "release_date": "2025-02-02T23:39:37",
             "size": 5242880,
-            "track_id": 42208,
             "track_type": "URL",
             "unplayed": true
         },
@@ -98,7 +94,6 @@
             "release_date": "2025-02-03T18:54:02",
             "size": 31331565,
             "total_time": 961000,
-            "track_id": 42210,
             "track_type": "URL",
             "unplayed": true
         },
@@ -114,7 +109,6 @@
             "release_date": "2025-02-10T06:25:00",
             "size": 49012733,
             "total_time": 1507000,
-            "track_id": 42212,
             "track_type": "URL",
             "unplayed": true
         },
@@ -130,7 +124,6 @@
             "release_date": "2025-02-17T05:51:00",
             "size": 45268171,
             "total_time": 1390000,
-            "track_id": 42214,
             "track_type": "URL",
             "unplayed": true
         },
@@ -146,7 +139,6 @@
             "release_date": "2025-02-24T02:03:33",
             "size": 110020110,
             "total_time": 2750000,
-            "track_id": 42216,
             "track_type": "URL",
             "unplayed": true
         },
@@ -162,7 +154,6 @@
             "release_date": "2025-02-26T05:56:00",
             "size": 62762309,
             "total_time": 1925000,
-            "track_id": 42218,
             "track_type": "URL",
             "unplayed": true
         },
@@ -178,7 +169,6 @@
             "release_date": "2025-03-03T05:01:00",
             "size": 60609059,
             "total_time": 1858000,
-            "track_id": 42220,
             "track_type": "URL",
             "unplayed": true
         },
@@ -194,7 +184,6 @@
             "release_date": "2025-03-09T22:44:34",
             "size": 155274641,
             "total_time": 3881000,
-            "track_id": 42222,
             "track_type": "URL",
             "unplayed": true
         },
@@ -210,7 +199,6 @@
             "release_date": "2025-03-12T05:27:00",
             "size": 83425883,
             "total_time": 2560000,
-            "track_id": 42224,
             "track_type": "URL",
             "unplayed": true
         },
@@ -226,7 +214,6 @@
             "release_date": "2025-03-19T08:06:00",
             "size": 18985190,
             "total_time": 949000,
-            "track_id": 42226,
             "track_type": "URL",
             "unplayed": true
         },
@@ -242,7 +229,6 @@
             "release_date": "2025-03-23T21:44:22",
             "size": 148251910,
             "total_time": 3705000,
-            "track_id": 42228,
             "track_type": "URL",
             "unplayed": true
         },
@@ -258,7 +244,6 @@
             "release_date": "2025-03-26T06:58:00",
             "size": 5242880,
             "sort_name": "Individual and Modern Marriage: A Conversation with James E. Faulconer",
-            "track_id": 42230,
             "track_type": "URL",
             "unplayed": true
         },
@@ -274,7 +259,6 @@
             "release_date": "2025-04-02T15:03:14",
             "size": 108571295,
             "total_time": 3330000,
-            "track_id": 42232,
             "track_type": "URL",
             "unplayed": true
         },
@@ -290,7 +274,6 @@
             "release_date": "2025-04-14T04:00:01",
             "size": 211348045,
             "total_time": 5283000,
-            "track_id": 42234,
             "track_type": "URL",
             "unplayed": true
         },
@@ -306,7 +289,6 @@
             "release_date": "2025-04-17T01:32:20",
             "size": 34306339,
             "total_time": 1052000,
-            "track_id": 42264,
             "track_type": "URL",
             "unplayed": true
         },
@@ -323,7 +305,6 @@
             "size": 85202769,
             "sort_name": "Changing of the Pen: Dialogue’s Editorial Transition",
             "total_time": 2621000,
-            "track_id": 42268,
             "track_type": "URL",
             "unplayed": true
         },
@@ -339,7 +320,6 @@
             "release_date": "2025-04-30T07:03:00",
             "size": 52889397,
             "total_time": 1630000,
-            "track_id": 42270,
             "track_type": "URL",
             "unplayed": true
         },
@@ -355,7 +335,6 @@
             "release_date": "2025-05-05T03:25:29",
             "size": 115400290,
             "total_time": 2884000,
-            "track_id": 42274,
             "track_type": "URL",
             "unplayed": true
         },
@@ -370,7 +349,6 @@
             "podcast": true,
             "release_date": "2025-05-07T22:19:47",
             "size": 5242880,
-            "track_id": 42276,
             "track_type": "URL",
             "unplayed": true
         },
@@ -386,7 +364,6 @@
             "release_date": "2025-05-12T08:32:00",
             "size": 57415856,
             "total_time": 3588000,
-            "track_id": 42278,
             "track_type": "URL",
             "unplayed": true
         },
@@ -403,7 +380,6 @@
             "size": 76316481,
             "sort_name": "Truth of a Dream: A Conversation with Theric Jepson",
             "total_time": 2343000,
-            "track_id": 42280,
             "track_type": "URL",
             "unplayed": true
         },
@@ -419,7 +395,6 @@
             "release_date": "2025-05-18T23:03:44",
             "size": 141991898,
             "total_time": 3549000,
-            "track_id": 42292,
             "track_type": "URL",
             "unplayed": true
         },
@@ -435,7 +410,6 @@
             "release_date": "2025-05-21T05:34:00",
             "size": 28665493,
             "total_time": 881000,
-            "track_id": 42294,
             "track_type": "URL",
             "unplayed": true
         },
@@ -451,7 +425,6 @@
             "release_date": "2025-05-26T04:00:43",
             "size": 78412800,
             "total_time": 1960000,
-            "track_id": 42296,
             "track_type": "URL",
             "unplayed": true
         },
@@ -467,7 +440,6 @@
             "release_date": "2025-05-28T07:10:00",
             "size": 42864910,
             "total_time": 1319000,
-            "track_id": 42298,
             "track_type": "URL",
             "unplayed": true
         },
@@ -482,7 +454,6 @@
             "podcast": true,
             "release_date": "2025-06-04T08:47:00",
             "size": 5242880,
-            "track_id": 42300,
             "track_type": "URL",
             "unplayed": true
         },
@@ -498,7 +469,6 @@
             "release_date": "2025-06-11T07:45:00",
             "size": 62928644,
             "total_time": 1932000,
-            "track_id": 42306,
             "track_type": "URL",
             "unplayed": true
         },
@@ -513,7 +483,6 @@
             "podcast": true,
             "release_date": "2025-06-13T07:33:00",
             "size": 5242880,
-            "track_id": 42308,
             "track_type": "URL",
             "unplayed": true
         },
@@ -528,7 +497,6 @@
             "podcast": true,
             "release_date": "2025-06-16T10:52:00",
             "size": 5242880,
-            "track_id": 42312,
             "track_type": "URL",
             "unplayed": true
         },
@@ -543,7 +511,6 @@
             "podcast": true,
             "release_date": "2025-06-18T05:56:00",
             "size": 5242880,
-            "track_id": 42314,
             "track_type": "URL",
             "unplayed": true
         },
@@ -558,7 +525,6 @@
             "podcast": true,
             "release_date": "2025-06-20T07:39:00",
             "size": 5242880,
-            "track_id": 42316,
             "track_type": "URL",
             "unplayed": true
         },
@@ -573,7 +539,6 @@
             "podcast": true,
             "release_date": "2025-06-23T10:44:00",
             "size": 5242880,
-            "track_id": 42330,
             "track_type": "URL",
             "unplayed": true
         },
@@ -589,7 +554,6 @@
             "release_date": "2025-06-25T06:48:00",
             "size": 10565402,
             "total_time": 528000,
-            "track_id": 42332,
             "track_type": "URL",
             "unplayed": true
         },
@@ -604,7 +568,6 @@
             "podcast": true,
             "release_date": "2025-06-29T21:19:44",
             "size": 5242880,
-            "track_id": 42334,
             "track_type": "URL",
             "unplayed": true
         },
@@ -620,7 +583,6 @@
             "release_date": "2025-07-02T07:37:00",
             "size": 58071902,
             "total_time": 1784000,
-            "track_id": 42336,
             "track_type": "URL",
             "unplayed": true
         },
@@ -636,7 +598,6 @@
             "release_date": "2025-07-09T06:59:00",
             "size": 39302461,
             "total_time": 1211000,
-            "track_id": 42338,
             "track_type": "URL",
             "unplayed": true
         },
@@ -651,7 +612,6 @@
             "podcast": true,
             "release_date": "2025-07-13T21:39:16",
             "size": 5242880,
-            "track_id": 42340,
             "track_type": "URL",
             "unplayed": true
         },
@@ -667,7 +627,6 @@
             "release_date": "2025-07-16T06:13:00",
             "size": 67028604,
             "total_time": 2062000,
-            "track_id": 42342,
             "track_type": "URL",
             "unplayed": true
         },
@@ -682,7 +641,6 @@
             "podcast": true,
             "release_date": "2025-07-17T18:56:10",
             "size": 5242880,
-            "track_id": 42344,
             "track_type": "URL",
             "unplayed": true
         },
@@ -699,7 +657,6 @@
             "size": 66720743,
             "sort_name": "Aesthetics of Poetics: A Conversation with Doug Barrett",
             "total_time": 2057000,
-            "track_id": 42356,
             "track_type": "URL",
             "unplayed": true
         },
@@ -715,7 +672,6 @@
             "release_date": "2025-07-24T04:37:13",
             "size": 10030934,
             "total_time": 500000,
-            "track_id": 42358,
             "track_type": "URL",
             "unplayed": true
         },
@@ -731,7 +687,6 @@
             "release_date": "2025-07-30T06:20:00",
             "size": 63467031,
             "total_time": 1953000,
-            "track_id": 42360,
             "track_type": "URL",
             "unplayed": true
         },
@@ -746,7 +701,6 @@
             "podcast": true,
             "release_date": "2025-08-06T06:02:00",
             "size": 5242880,
-            "track_id": 42362,
             "track_type": "URL",
             "unplayed": true
         },
@@ -761,7 +715,6 @@
             "podcast": true,
             "release_date": "2025-08-11T01:50:45",
             "size": 5242880,
-            "track_id": 42364,
             "track_type": "URL",
             "unplayed": true
         },
@@ -777,7 +730,6 @@
             "release_date": "2025-08-15T14:37:09",
             "size": 22765216,
             "total_time": 1138000,
-            "track_id": 42366,
             "track_type": "URL",
             "unplayed": true
         },
@@ -793,7 +745,6 @@
             "release_date": "2025-08-25T02:08:38",
             "size": 156043686,
             "total_time": 3900000,
-            "track_id": 42368,
             "track_type": "URL",
             "unplayed": true
         },
@@ -808,7 +759,6 @@
             "podcast": true,
             "release_date": "2025-08-27T11:25:07",
             "size": 5242880,
-            "track_id": 42370,
             "track_type": "URL",
             "unplayed": true
         },
@@ -824,7 +774,6 @@
             "release_date": "2025-09-10T06:31:00",
             "size": 86321832,
             "total_time": 2652000,
-            "track_id": 98749,
             "track_type": "URL",
             "unplayed": true
         },
@@ -840,7 +789,6 @@
             "release_date": "2025-09-15T19:18:02",
             "size": 138023375,
             "total_time": 3450000,
-            "track_id": 98754,
             "track_type": "URL",
             "unplayed": true
         },
@@ -856,7 +804,6 @@
             "release_date": "2025-09-24T01:23:02",
             "size": 75537639,
             "total_time": 3146000,
-            "track_id": 98759,
             "track_type": "URL",
             "unplayed": true
         },
@@ -872,7 +819,6 @@
             "release_date": "2025-09-24T06:59:00",
             "size": 86707653,
             "total_time": 2673000,
-            "track_id": 98764,
             "track_type": "URL",
             "unplayed": true
         },
@@ -888,7 +834,6 @@
             "release_date": "2025-09-29T16:15:40",
             "size": 82063865,
             "total_time": 2051000,
-            "track_id": 98769,
             "track_type": "URL",
             "unplayed": true
         },
@@ -904,7 +849,6 @@
             "release_date": "2025-10-03T15:39:02",
             "size": 53434243,
             "total_time": 2225000,
-            "track_id": 98774,
             "track_type": "URL",
             "unplayed": true
         },
@@ -920,7 +864,6 @@
             "release_date": "2025-10-08T06:29:00",
             "size": 45333164,
             "total_time": 1396000,
-            "track_id": 98779,
             "track_type": "URL",
             "unplayed": true
         },
@@ -936,7 +879,6 @@
             "release_date": "2025-10-13T00:19:08",
             "size": 147116078,
             "total_time": 3677000,
-            "track_id": 98784,
             "track_type": "URL",
             "unplayed": true
         },
@@ -952,7 +894,6 @@
             "release_date": "2025-10-15T06:08:00",
             "size": 66113841,
             "total_time": 2029000,
-            "track_id": 98789,
             "track_type": "URL",
             "unplayed": true
         },
@@ -968,7 +909,6 @@
             "release_date": "2025-10-17T06:56:00",
             "size": 37868247,
             "total_time": 1163000,
-            "track_id": 98794,
             "track_type": "URL",
             "unplayed": true
         },
@@ -984,7 +924,6 @@
             "release_date": "2025-10-20T03:59:00",
             "size": 50532355,
             "total_time": 2104000,
-            "track_id": 98799,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1000,7 +939,6 @@
             "release_date": "2025-10-22T06:50:00",
             "size": 83241300,
             "total_time": 2566000,
-            "track_id": 98804,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1017,7 +955,6 @@
             "size": 223760388,
             "sort_name": "Powers of Heaven: Gospel Study with Sharlee Mullins Glenn",
             "total_time": 5593000,
-            "track_id": 98809,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1033,7 +970,6 @@
             "release_date": "2025-10-29T16:47:33",
             "size": 54276355,
             "total_time": 2260000,
-            "track_id": 98814,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1049,7 +985,111 @@
             "release_date": "2025-11-03T16:52:57",
             "size": 62648515,
             "total_time": 3131000,
-            "track_id": 98819,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/2025/11/Garments-full-audio-v2.mp3",
+            "name": "Garments Unfolded: A Conversation with Nancy Ross and Kristine Haglund",
+            "persistent_id": "DDD6793D84867B50",
+            "podcast": true,
+            "release_date": "2025-11-05T06:46:00",
+            "size": 94969793,
+            "total_time": 2915000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_191.mp3",
+            "name": "Special D&C 132 Lesson: New Insights on Polygamy",
+            "persistent_id": "7A953352FD2522B4",
+            "podcast": true,
+            "release_date": "2025-11-09T13:52:00",
+            "size": 116687604,
+            "total_time": 2916000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/2025/11/Colby-Townsend-interview-full-audio-v1.mp3",
+            "name": "Secret Societies and Scripture: A Conversation with Colby Townsend",
+            "persistent_id": "57E694D25AE0D3F5",
+            "podcast": true,
+            "release_date": "2025-11-12T21:49:23",
+            "size": 68731213,
+            "total_time": 2109000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_192.mp3",
+            "name": "Trauma of Nauvoo: Gospel Study with Benjamin E. Park",
+            "persistent_id": "50AAE1E160FD7A42",
+            "podcast": true,
+            "release_date": "2025-11-16T22:24:02",
+            "size": 143880029,
+            "total_time": 3596000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/2025/11/Secret lives full audio v2.mp3",
+            "name": "Unpacking Secret Lives of Mormon Wives: Feminism, Influence, and LDS Culture",
+            "persistent_id": "72AFF42D4824DBD2",
+            "podcast": true,
+            "release_date": "2025-11-19T07:20:00",
+            "size": 121882529,
+            "total_time": 3739000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-11-23T01:14:27",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/podcasts/dialogueafterchat_5.mp3",
+            "name": "Afterchat with Benjamin Park on D&C 132",
+            "persistent_id": "633E347ED2C952A0",
+            "podcast": true,
+            "release_date": "2025-11-21T11:08:00",
+            "size": 64203939,
+            "total_time": 1605000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "Dialogue Journal Podcast",
+            "artist": "Dialogue Journal Podcast",
+            "date_added": "2025-12-01T23:08:28",
+            "genre": "Podcast",
+            "location": "https://media.blubrry.com/dialogue_journal/www.dialoguejournal.com/wp-content/uploads/podcasts/dialogueaudio_25.mp3",
+            "name": "AUDIO: Thanksgiving Turkeys, Paradox, and Godhood",
+            "persistent_id": "875BFDBF1C399F8F",
+            "podcast": true,
+            "release_date": "2025-11-26T08:56:00",
+            "size": 20407555,
+            "total_time": 849000,
             "track_type": "URL",
             "unplayed": true
         }

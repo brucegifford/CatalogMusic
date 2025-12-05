@@ -12,7 +12,6 @@
             "podcast": true,
             "release_date": "2023-05-30T00:00:00",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41470,
             "track_type": "URL",
             "unplayed": true
         },
@@ -27,7 +26,6 @@
             "podcast": true,
             "release_date": "2023-06-12T13:33:56",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41468,
             "track_type": "URL",
             "unplayed": true
         },
@@ -42,7 +40,6 @@
             "podcast": true,
             "release_date": "2023-06-14T06:13:15",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41466,
             "track_type": "URL",
             "unplayed": true
         },
@@ -57,7 +54,6 @@
             "podcast": true,
             "release_date": "2023-06-15T06:24:40",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41464,
             "track_type": "URL",
             "unplayed": true
         },
@@ -72,7 +68,6 @@
             "podcast": true,
             "release_date": "2023-06-16T06:01:41",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41462,
             "track_type": "URL",
             "unplayed": true
         },
@@ -87,7 +82,6 @@
             "podcast": true,
             "release_date": "2023-06-19T09:53:20",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41460,
             "track_type": "URL",
             "unplayed": true
         },
@@ -102,7 +96,6 @@
             "podcast": true,
             "release_date": "2023-06-20T06:39:50",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41458,
             "track_type": "URL",
             "unplayed": true
         },
@@ -117,7 +110,6 @@
             "podcast": true,
             "release_date": "2023-06-21T06:15:31",
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
-            "track_id": 41456,
             "track_type": "URL",
             "unplayed": true
         },
@@ -144,7 +136,6 @@
             "sort_artist": "Church of Jesus Christ of Latter-day Saints",
             "sort_composer": "Church of Jesus Christ of Latter-day Saints",
             "total_time": 3380375,
-            "track_id": 41472,
             "track_type": "File",
             "unplayed": true,
             "year": 2023

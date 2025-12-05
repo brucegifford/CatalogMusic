@@ -3,7 +3,6 @@
     "display_path": "/LDS Music/Janice Kapp Perry - I Belong to The Church of Jesus Christ of Latter0day Saints",
     "name": "Janice Kapp Perry - I Belong to The Church of Jesus Christ of Latter0day Saints",
     "parent_persistent_id": "FAA0E43E3C73A45B",
-    "playlist_id": 94398,
     "playlist_persistent_id": "7C22431F6622CD09",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "sort_name": "Church of Jesus Christ",
             "total_time": 54047,
             "track_count": 9,
-            "track_id": 27758,
             "track_number": 1,
             "track_type": "File"
         },
@@ -51,7 +49,6 @@
             "size": 2469414,
             "total_time": 118047,
             "track_count": 9,
-            "track_id": 27760,
             "track_number": 2,
             "track_type": "File"
         },
@@ -75,7 +72,6 @@
             "size": 2109980,
             "total_time": 100075,
             "track_count": 9,
-            "track_id": 27762,
             "track_number": 3,
             "track_type": "File"
         },
@@ -99,7 +95,6 @@
             "size": 3326250,
             "total_time": 160888,
             "track_count": 9,
-            "track_id": 27764,
             "track_number": 4,
             "track_type": "File"
         },
@@ -123,7 +118,6 @@
             "size": 3536263,
             "total_time": 171389,
             "track_count": 9,
-            "track_id": 27766,
             "track_number": 5,
             "track_type": "File"
         },
@@ -148,7 +142,6 @@
             "sort_name": "Holy Ghost",
             "total_time": 90775,
             "track_count": 9,
-            "track_id": 27768,
             "track_number": 6,
             "track_type": "File"
         },
@@ -172,7 +165,6 @@
             "size": 2449579,
             "total_time": 117054,
             "track_count": 9,
-            "track_id": 27770,
             "track_number": 7,
             "track_type": "File"
         },
@@ -196,7 +188,6 @@
             "size": 3109428,
             "total_time": 150047,
             "track_count": 9,
-            "track_id": 27772,
             "track_number": 8,
             "track_type": "File"
         },
@@ -221,7 +212,6 @@
             "sort_name": "Church of Jesus Christ (minus track)",
             "total_time": 55588,
             "track_count": 9,
-            "track_id": 27774,
             "track_number": 9,
             "track_type": "File"
         }

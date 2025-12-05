@@ -15,7 +15,6 @@
             "release_date": "2019-12-06T19:28:53",
             "size": 41436527,
             "total_time": 2028000,
-            "track_id": 13706,
             "track_type": "URL",
             "unplayed": true
         },
@@ -39,7 +38,6 @@
             "sample_rate": 44100,
             "size": 94023653,
             "total_time": 5873084,
-            "track_id": 4994,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -64,7 +62,6 @@
             "sample_rate": 44100,
             "size": 70815140,
             "total_time": 2946951,
-            "track_id": 5006,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -88,7 +85,6 @@
             "sample_rate": 44100,
             "size": 82441216,
             "total_time": 3434396,
-            "track_id": 5048,
             "track_type": "File",
             "unplayed": true,
             "year": 2021
