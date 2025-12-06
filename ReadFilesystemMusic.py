@@ -11,7 +11,7 @@ from mutagen.oggvorbis import OggVorbis
 from mutagen.aiff import AIFF
 from mutagen.wave import WAVE
 
-def extract_metadata(media_files, root_dir, logger, base_path = None):
+def extract_metadata(media_files, root_dir, remap_filepath_list, logger, base_path = None):
     root_dir = os.path.abspath(root_dir)
     root_dir = root_dir.replace('\\', '/')
     if not root_dir.endswith('/'):
@@ -24,6 +24,9 @@ def extract_metadata(media_files, root_dir, logger, base_path = None):
     for entry in os.scandir(root_dir):
         entry_path = entry.path.replace('\\', '/')
         relative_path = entry_path[base_path_len:]
+        remapped_entry_path = entry_path
+        for old_path, new_path in remap_filepath_list:
+            remapped_entry_path = remapped_entry_path.replace(old_path, new_path)
         if entry.is_file():
             base, ext = os.path.splitext(entry.name)
             ext = ext.lower()
@@ -42,7 +45,7 @@ def extract_metadata(media_files, root_dir, logger, base_path = None):
             else:
                 continue
             data = {
-                'full_path': entry_path,
+                'full_path': remapped_entry_path,
                 'rel_path': relative_path
             }
             for key, value in audio.items():
@@ -76,7 +79,7 @@ def extract_metadata(media_files, root_dir, logger, base_path = None):
             media_files.append(data)
         elif entry.is_dir():
             # recurse into the folder
-            extract_metadata(media_files, entry_path, logger, base_path)
+            extract_metadata(media_files, entry_path, remap_filepath_list, logger, base_path)
 
 
 def Main():

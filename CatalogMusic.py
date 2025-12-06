@@ -187,6 +187,7 @@ def Main():
         parser.add_argument('--podcast_folder', default="Podcasts", help="file path for writing a file with all files in it organized by podcast", required=False)
         parser.add_argument('--podcast_folder_csvs', default=False, action="store_true", help="when set, dump csv files in the podcasts folder")
         parser.add_argument('--podcast_sort_episodes_reversed', nargs='*')
+        parser.add_argument('--remap_filepaths', nargs='*')
         parser.add_argument('--outputdir', help="directory where output files get written")
 
 
@@ -222,6 +223,14 @@ def Main():
         tvshow_list = []
         audiobook_list = []
 
+        # set up to rename file paths
+        remap_filepath_list = []
+        for remap_str in args.remap_filepaths:
+            if remap_str.startswith('#'):
+                continue
+            parts = remap_str.split('|')
+            remap_filepath_list.append( (strip_quotes_if_needed(parts[0]).replace('\\','/'), strip_quotes_if_needed(parts[1]).replace('\\','/') ) )
+
         if args.media_files_input:
             media_files_input = strip_quotes_if_needed(args.media_files_input)
             if not os.path.exists(args.media_files_input):
@@ -236,7 +245,7 @@ def Main():
                     continue
                 media_dir = strip_quotes_if_needed(media_dir)
                 print(media_dir)
-                extract_metadata(media_files, media_dir, logger)
+                extract_metadata(media_files, media_dir, remap_filepath_list, logger)
         elif args.itunes_library:
             itunes_library = strip_quotes_if_needed(args.itunes_library)
             song_list, movie_list, podcast_list, tvshow_list, audiobook_list, playlists = parse_itunes_library_file(itunes_library)
