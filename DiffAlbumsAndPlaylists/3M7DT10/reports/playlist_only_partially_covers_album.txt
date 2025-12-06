@@ -1,0 +1,15 @@
+Album 'The Book Of Mormon|Scriptures' is only partially covered by playlist 'BofM', missing songs are:
+	d:/itunes media/music/scriptures/the book of mormon/1-08 brief explanation.mp3
+Album 'The Forgotten Carols: Anniversary Edition|Michael McLean' is only partially covered by playlist 'Christmas', missing songs are:
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/01 let him in.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/02 homeless.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/03 he was here.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/04 handel's dream.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/05 mary let me hold her baby.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/06 the music box.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/07 i was not his father, he was mine.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/08 three kings found the lord.mp3
+	d:/itunes media/music/michael mclean/the forgotten carols_ anniversary editio/09 i cry the day i take the tree dow.mp3
+
+
+Found 6 albums with partial playlists

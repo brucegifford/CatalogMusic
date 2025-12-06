@@ -1,0 +1,46 @@
+	Album 'American Pride|Alabama' is only partially covered by playlist 'Alabama - Alabama', included songs are:
+		d:/itunes media/music/alabama/american pride/02 hometown honeymoon.mp3
+	Album 'American Pride|Alabama' is only partially covered by playlist 'Alabama - All', included songs are:
+		d:/itunes media/music/alabama/american pride/01 take a little trip.mp3
+		d:/itunes media/music/alabama/american pride/02 hometown honeymoon.mp3
+		d:/itunes media/music/alabama/american pride/03 once upon a lifetime.mp3
+		d:/itunes media/music/alabama/american pride/05 i'm in a hurry (and don't know wh.mp3
+		d:/itunes media/music/alabama/american pride/06 richard petty fans.mp3
+		d:/itunes media/music/alabama/american pride/07 homesick fever.mp3
+		d:/itunes media/music/alabama/american pride/08 between the two of them.mp3
+		d:/itunes media/music/alabama/american pride/09 american pride.mp3
+		d:/itunes media/music/alabama/american pride/10 sometimes out of touch.mp3
+		d:/itunes media/music/alabama/american pride/11 pictures and memories.mp3
+	Album 'American Pride|Alabama' is only partially covered by playlist 'Alabama - American Pride', included songs are:
+		d:/itunes media/music/alabama/american pride/01 take a little trip.mp3
+		d:/itunes media/music/alabama/american pride/02 hometown honeymoon.mp3
+		d:/itunes media/music/alabama/american pride/03 once upon a lifetime.mp3
+		d:/itunes media/music/alabama/american pride/05 i'm in a hurry (and don't know wh.mp3
+		d:/itunes media/music/alabama/american pride/06 richard petty fans.mp3
+		d:/itunes media/music/alabama/american pride/07 homesick fever.mp3
+		d:/itunes media/music/alabama/american pride/08 between the two of them.mp3
+		d:/itunes media/music/alabama/american pride/09 american pride.mp3
+		d:/itunes media/music/alabama/american pride/10 sometimes out of touch.mp3
+		d:/itunes media/music/alabama/american pride/11 pictures and memories.mp3
+	Album 'Greatest Hits Vol. III|Alabama' is only partially covered by playlist 'Alabama - All', included songs are:
+		d:/itunes media/music/alabama/greatest hits vol. iii/02 we can't love like this anymore [.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/03 tennessee river.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/04 when we make love.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/05 if you're gonna play in texas (yo.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/06 there's no way.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/07 face to face.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/08 jukebox in my mind.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/09 forever's as far as i'll go.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/10 i'm in a hurry (and don't know wh.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/11 angels among us [vocal remix].mp3
+	Album 'Greatest Hits Vol. III|Alabama' is only partially covered by playlist 'Alabama - Greatest Hits Vol. III', included songs are:
+		d:/itunes media/music/alabama/greatest hits vol. iii/02 we can't love like this anymore [.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/03 tennessee river.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/04 when we make love.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/05 if you're gonna play in texas (yo.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/06 there's no way.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/07 face to face.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/08 jukebox in my mind.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/09 forever's as far as i'll go.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/10 i'm in a hurry (and don't know wh.mp3
+		d:/itunes media/music/alabama/greatest hits vol. iii/11 angels among us [vocal remix].mp3

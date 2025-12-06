@@ -3,5 +3,5 @@ iTunesData/3M8LT10/fileSystem/songs/iTunesSongs.json
 --iTunes_Library_songs
 iTunesData/3M8LT10/iTunes/songs/iTunesSongs.json
 --outputdir
-DiffResults/3M8LT10
+DiffFilesAndiTunes/3M8LT10
 --dump_song_keys
