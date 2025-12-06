@@ -1,0 +1,8 @@
+--outputdir=iTunesData\3M7DT10\fileSystem\songs
+--media_files_dirs
+#-this-is-the-folder-on-original-machine
+#"D:\iTunes Media\Music"
+#-this-is-the-folder-in-the-machine-backup
+"D:\M\iTunes Media\Music"
+--remap_filepaths
+"D:\M\iTunes Media\Music"|"D:\iTunes Media\Music"
