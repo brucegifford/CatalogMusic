@@ -20,7 +20,6 @@
             "sample_rate": 44100,
             "size": 3735820,
             "total_time": 232960,
-            "track_id": 20506,
             "track_type": "File"
         },
         {
@@ -42,7 +41,6 @@
             "sample_rate": 44100,
             "size": 3233851,
             "total_time": 201586,
-            "track_id": 20508,
             "track_type": "File"
         },
         {
@@ -64,7 +62,6 @@
             "sample_rate": 44100,
             "size": 3697367,
             "total_time": 230556,
-            "track_id": 20510,
             "track_type": "File"
         },
         {
@@ -86,7 +83,6 @@
             "sample_rate": 44100,
             "size": 2863539,
             "total_time": 178442,
-            "track_id": 20512,
             "track_type": "File"
         },
         {
@@ -108,7 +104,6 @@
             "sample_rate": 44100,
             "size": 3700293,
             "total_time": 230739,
-            "track_id": 20514,
             "track_type": "File"
         },
         {
@@ -130,7 +125,6 @@
             "sample_rate": 44100,
             "size": 3329563,
             "total_time": 207568,
-            "track_id": 20516,
             "track_type": "File"
         },
         {
@@ -152,7 +146,6 @@
             "sample_rate": 44100,
             "size": 4232355,
             "total_time": 263993,
-            "track_id": 20518,
             "track_type": "File"
         },
         {
@@ -174,7 +167,6 @@
             "sample_rate": 44100,
             "size": 3241792,
             "total_time": 202083,
-            "track_id": 20520,
             "track_type": "File"
         },
         {
@@ -196,7 +188,6 @@
             "sample_rate": 44100,
             "size": 3967787,
             "total_time": 247457,
-            "track_id": 20522,
             "track_type": "File"
         },
         {
@@ -218,7 +209,6 @@
             "sample_rate": 44100,
             "size": 4968799,
             "total_time": 310021,
-            "track_id": 20524,
             "track_type": "File"
         },
         {
@@ -240,7 +230,6 @@
             "sample_rate": 44100,
             "size": 5749547,
             "total_time": 358817,
-            "track_id": 20526,
             "track_type": "File"
         }
     ]

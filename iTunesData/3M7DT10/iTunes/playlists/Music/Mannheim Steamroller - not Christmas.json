@@ -3,7 +3,6 @@
     "display_path": "/Music/Mannheim Steamroller - not Christmas",
     "name": "Mannheim Steamroller - not Christmas",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79044,
     "playlist_persistent_id": "617A6503685DA6BD",
     "tracks": [
         {
@@ -29,7 +28,6 @@
             "skip_count": 2,
             "skip_date": "2017-02-03T21:10:47",
             "total_time": 93335,
-            "track_id": 12920,
             "track_number": 1,
             "track_type": "File",
             "year": 1975
@@ -55,7 +53,6 @@
             "sample_rate": 44100,
             "size": 3499475,
             "total_time": 174863,
-            "track_id": 12922,
             "track_number": 2,
             "track_type": "File",
             "year": 1975
@@ -81,7 +78,6 @@
             "sample_rate": 44100,
             "size": 3510443,
             "total_time": 175412,
-            "track_id": 12924,
             "track_number": 3,
             "track_type": "File",
             "year": 1975
@@ -107,7 +103,6 @@
             "sample_rate": 44100,
             "size": 3051728,
             "total_time": 152476,
-            "track_id": 12926,
             "track_number": 4,
             "track_type": "File",
             "year": 1975
@@ -133,7 +128,6 @@
             "sample_rate": 44100,
             "size": 3077856,
             "total_time": 153782,
-            "track_id": 12928,
             "track_number": 5,
             "track_type": "File",
             "year": 1975
@@ -159,7 +153,6 @@
             "sample_rate": 44100,
             "size": 4357854,
             "total_time": 217782,
-            "track_id": 12930,
             "track_number": 6,
             "track_type": "File",
             "year": 1975
@@ -185,7 +178,6 @@
             "sample_rate": 44100,
             "size": 6624760,
             "total_time": 331128,
-            "track_id": 12932,
             "track_number": 7,
             "track_type": "File",
             "year": 1975
@@ -211,7 +203,6 @@
             "sample_rate": 44100,
             "size": 3137931,
             "total_time": 156786,
-            "track_id": 12934,
             "track_number": 8,
             "track_type": "File",
             "year": 1975
@@ -237,7 +228,6 @@
             "sample_rate": 44100,
             "size": 3144731,
             "total_time": 157126,
-            "track_id": 12936,
             "track_number": 9,
             "track_type": "File",
             "year": 1975
@@ -263,7 +253,6 @@
             "sample_rate": 44100,
             "size": 3073161,
             "total_time": 153547,
-            "track_id": 12938,
             "track_number": 10,
             "track_type": "File",
             "year": 1975
@@ -289,7 +278,6 @@
             "sample_rate": 44100,
             "size": 2625416,
             "total_time": 131160,
-            "track_id": 12940,
             "track_number": 11,
             "track_type": "File",
             "year": 1975
@@ -315,7 +303,6 @@
             "sample_rate": 44100,
             "size": 2157294,
             "total_time": 107755,
-            "track_id": 12942,
             "track_number": 12,
             "track_type": "File",
             "year": 1975
@@ -341,7 +328,6 @@
             "sample_rate": 44100,
             "size": 6128963,
             "total_time": 306337,
-            "track_id": 12944,
             "track_number": 1,
             "track_type": "File",
             "year": 1981
@@ -367,7 +353,6 @@
             "sample_rate": 44100,
             "size": 5229820,
             "total_time": 261381,
-            "track_id": 12946,
             "track_number": 2,
             "track_type": "File",
             "year": 1981
@@ -393,7 +378,6 @@
             "sample_rate": 44100,
             "size": 3696439,
             "total_time": 184711,
-            "track_id": 12948,
             "track_number": 3,
             "track_type": "File",
             "year": 1981
@@ -419,7 +403,6 @@
             "sample_rate": 44100,
             "size": 3877733,
             "total_time": 193776,
-            "track_id": 12950,
             "track_number": 4,
             "track_type": "File",
             "year": 1981
@@ -445,7 +428,6 @@
             "sample_rate": 44100,
             "size": 5222507,
             "total_time": 261015,
-            "track_id": 12952,
             "track_number": 5,
             "track_type": "File",
             "year": 1981
@@ -471,7 +453,6 @@
             "sample_rate": 44100,
             "size": 8328995,
             "total_time": 416339,
-            "track_id": 12954,
             "track_number": 6,
             "track_type": "File",
             "year": 1981
@@ -498,7 +479,6 @@
             "size": 3837496,
             "sort_name": "Dream",
             "total_time": 191764,
-            "track_id": 12956,
             "track_number": 7,
             "track_type": "File",
             "year": 1981
@@ -524,7 +504,6 @@
             "sample_rate": 44100,
             "size": 4021395,
             "total_time": 200960,
-            "track_id": 12958,
             "track_number": 8,
             "track_type": "File",
             "year": 1981
@@ -553,7 +532,6 @@
             "size": 3280080,
             "total_time": 163892,
             "track_count": 12,
-            "track_id": 12960,
             "track_number": 1,
             "track_type": "File",
             "year": 2000
@@ -582,7 +560,6 @@
             "size": 3789466,
             "total_time": 189361,
             "track_count": 12,
-            "track_id": 12962,
             "track_number": 2,
             "track_type": "File",
             "year": 2000
@@ -611,7 +588,6 @@
             "size": 3850072,
             "total_time": 192391,
             "track_count": 12,
-            "track_id": 12964,
             "track_number": 3,
             "track_type": "File",
             "year": 2000
@@ -642,7 +618,6 @@
             "skip_date": "2017-05-02T21:17:13",
             "total_time": 161097,
             "track_count": 12,
-            "track_id": 12966,
             "track_number": 4,
             "track_type": "File",
             "year": 2000
@@ -671,7 +646,6 @@
             "size": 3144255,
             "total_time": 157100,
             "track_count": 12,
-            "track_id": 12968,
             "track_number": 5,
             "track_type": "File",
             "year": 2000
@@ -701,7 +675,6 @@
             "sort_name": "Big Bang",
             "total_time": 408999,
             "track_count": 12,
-            "track_id": 12970,
             "track_number": 6,
             "track_type": "File",
             "year": 2000
@@ -730,7 +703,6 @@
             "size": 4043375,
             "total_time": 202057,
             "track_count": 12,
-            "track_id": 12972,
             "track_number": 7,
             "track_type": "File",
             "year": 2000
@@ -761,7 +733,6 @@
             "skip_date": "2017-05-02T21:22:41",
             "total_time": 405420,
             "track_count": 12,
-            "track_id": 12974,
             "track_number": 8,
             "track_type": "File",
             "year": 2000
@@ -792,7 +763,6 @@
             "skip_date": "2017-05-02T21:22:51",
             "total_time": 259474,
             "track_count": 12,
-            "track_id": 12976,
             "track_number": 9,
             "track_type": "File",
             "year": 2000
@@ -822,7 +792,6 @@
             "sort_name": "Circle Of Love",
             "total_time": 341995,
             "track_count": 12,
-            "track_id": 12978,
             "track_number": 10,
             "track_type": "File",
             "year": 2000
@@ -852,7 +821,6 @@
             "sort_name": "Steamroller",
             "total_time": 278386,
             "track_count": 12,
-            "track_id": 12980,
             "track_number": 11,
             "track_type": "File",
             "year": 2000
@@ -882,7 +850,6 @@
             "sort_name": "Heart And The Feather",
             "total_time": 456960,
             "track_count": 12,
-            "track_id": 12982,
             "track_number": 12,
             "track_type": "File",
             "year": 2000
@@ -908,7 +875,6 @@
             "sample_rate": 44100,
             "size": 2460319,
             "total_time": 122906,
-            "track_id": 12984,
             "track_number": 1,
             "track_type": "File",
             "year": 1977
@@ -935,7 +901,6 @@
             "size": 2465028,
             "sort_name": "First Door",
             "total_time": 123141,
-            "track_id": 12986,
             "track_number": 2,
             "track_type": "File",
             "year": 1977
@@ -962,7 +927,6 @@
             "size": 3013601,
             "sort_name": "Second Door",
             "total_time": 150569,
-            "track_id": 12988,
             "track_number": 3,
             "track_type": "File",
             "year": 1977
@@ -989,7 +953,6 @@
             "size": 4603935,
             "sort_name": "Third Door",
             "total_time": 230086,
-            "track_id": 12990,
             "track_number": 4,
             "track_type": "File",
             "year": 1977
@@ -1016,7 +979,6 @@
             "size": 3587250,
             "sort_name": "Fourth Door",
             "total_time": 179252,
-            "track_id": 12992,
             "track_number": 5,
             "track_type": "File",
             "year": 1977
@@ -1043,7 +1005,6 @@
             "size": 1772261,
             "sort_name": "Fifth Door",
             "total_time": 88502,
-            "track_id": 12994,
             "track_number": 6,
             "track_type": "File",
             "year": 1977
@@ -1070,7 +1031,6 @@
             "size": 2351657,
             "sort_name": "Sixth Door",
             "total_time": 117472,
-            "track_id": 12996,
             "track_number": 7,
             "track_type": "File",
             "year": 1977
@@ -1096,7 +1056,6 @@
             "sample_rate": 44100,
             "size": 1541335,
             "total_time": 76956,
-            "track_id": 12998,
             "track_number": 8,
             "track_type": "File",
             "year": 1977
@@ -1122,7 +1081,6 @@
             "sample_rate": 44100,
             "size": 4511977,
             "total_time": 225488,
-            "track_id": 13000,
             "track_number": 9,
             "track_type": "File",
             "year": 1977
@@ -1148,7 +1106,6 @@
             "sample_rate": 44100,
             "size": 3285794,
             "total_time": 164179,
-            "track_id": 13002,
             "track_number": 10,
             "track_type": "File",
             "year": 1977
@@ -1174,7 +1131,6 @@
             "sample_rate": 44100,
             "size": 5949761,
             "total_time": 297377,
-            "track_id": 13004,
             "track_number": 11,
             "track_type": "File",
             "year": 1977
@@ -1201,7 +1157,6 @@
             "size": 3405436,
             "sort_name": "Shade Tree",
             "total_time": 170161,
-            "track_id": 13006,
             "track_number": 12,
             "track_type": "File",
             "year": 1977
@@ -1227,7 +1182,6 @@
             "sample_rate": 44100,
             "size": 4010430,
             "total_time": 200411,
-            "track_id": 13008,
             "track_number": 13,
             "track_type": "File",
             "year": 1977
@@ -1253,7 +1207,6 @@
             "sample_rate": 44100,
             "size": 5530753,
             "total_time": 276427,
-            "track_id": 13010,
             "track_number": 1,
             "track_type": "File",
             "year": 1979
@@ -1279,7 +1232,6 @@
             "sample_rate": 44100,
             "size": 3233036,
             "total_time": 161541,
-            "track_id": 13012,
             "track_number": 2,
             "track_type": "File",
             "year": 1979
@@ -1305,7 +1257,6 @@
             "sample_rate": 44100,
             "size": 3355273,
             "total_time": 167653,
-            "track_id": 13014,
             "track_number": 3,
             "track_type": "File",
             "year": 1979
@@ -1331,7 +1282,6 @@
             "sample_rate": 44100,
             "size": 8239132,
             "total_time": 411846,
-            "track_id": 13016,
             "track_number": 4,
             "track_type": "File",
             "year": 1979
@@ -1357,7 +1307,6 @@
             "sample_rate": 44100,
             "size": 3500516,
             "total_time": 174915,
-            "track_id": 13018,
             "track_number": 5,
             "track_type": "File",
             "year": 1979
@@ -1383,7 +1332,6 @@
             "sample_rate": 44100,
             "size": 3432603,
             "total_time": 171520,
-            "track_id": 13020,
             "track_number": 6,
             "track_type": "File",
             "year": 1979
@@ -1410,7 +1358,6 @@
             "size": 3297810,
             "sort_name": "Cricket",
             "total_time": 164780,
-            "track_id": 13022,
             "track_number": 7,
             "track_type": "File",
             "year": 1979
@@ -1437,7 +1384,6 @@
             "size": 6038573,
             "sort_name": "Sky",
             "total_time": 301818,
-            "track_id": 13024,
             "track_number": 8,
             "track_type": "File",
             "year": 1979
@@ -1463,7 +1409,6 @@
             "sample_rate": 44100,
             "size": 3926851,
             "total_time": 196231,
-            "track_id": 13026,
             "track_number": 9,
             "track_type": "File",
             "year": 1979
@@ -1492,7 +1437,6 @@
             "size": 4464437,
             "total_time": 223111,
             "track_count": 11,
-            "track_id": 13028,
             "track_number": 1,
             "track_type": "File",
             "year": 1984
@@ -1521,7 +1465,6 @@
             "size": 4489526,
             "total_time": 224365,
             "track_count": 11,
-            "track_id": 13030,
             "track_number": 2,
             "track_type": "File",
             "year": 1984
@@ -1549,7 +1492,6 @@
             "size": 3154659,
             "total_time": 157622,
             "track_count": 11,
-            "track_id": 13032,
             "track_number": 3,
             "track_type": "File",
             "year": 1984
@@ -1577,7 +1519,6 @@
             "size": 3287864,
             "total_time": 164284,
             "track_count": 11,
-            "track_id": 13034,
             "track_number": 4,
             "track_type": "File",
             "year": 1984
@@ -1606,7 +1547,6 @@
             "size": 4319724,
             "total_time": 215875,
             "track_count": 11,
-            "track_id": 13036,
             "track_number": 5,
             "track_type": "File",
             "year": 1984
@@ -1634,7 +1574,6 @@
             "size": 2897613,
             "total_time": 144770,
             "track_count": 11,
-            "track_id": 13038,
             "track_number": 6,
             "track_type": "File",
             "year": 1984
@@ -1663,7 +1602,6 @@
             "size": 2551250,
             "total_time": 127451,
             "track_count": 11,
-            "track_id": 13040,
             "track_number": 7,
             "track_type": "File",
             "year": 1984
@@ -1691,7 +1629,6 @@
             "size": 1795247,
             "total_time": 89652,
             "track_count": 11,
-            "track_id": 13042,
             "track_number": 8,
             "track_type": "File",
             "year": 1984
@@ -1719,7 +1656,6 @@
             "size": 2046033,
             "total_time": 102191,
             "track_count": 11,
-            "track_id": 13044,
             "track_number": 9,
             "track_type": "File",
             "year": 1984
@@ -1748,7 +1684,6 @@
             "size": 5306117,
             "total_time": 265195,
             "track_count": 11,
-            "track_id": 13046,
             "track_number": 10,
             "track_type": "File",
             "year": 1984
@@ -1777,7 +1712,6 @@
             "size": 6569391,
             "total_time": 328359,
             "track_count": 11,
-            "track_id": 13048,
             "track_number": 11,
             "track_type": "File",
             "year": 1984

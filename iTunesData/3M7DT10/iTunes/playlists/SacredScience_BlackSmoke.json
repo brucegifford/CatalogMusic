@@ -2,7 +2,6 @@
     "all_items": true,
     "display_path": "/SacredScience_BlackSmoke",
     "name": "SacredScience_BlackSmoke",
-    "playlist_id": 84309,
     "playlist_persistent_id": "1FB8AC1ACB9A0A04",
     "tracks": [
         {
@@ -24,7 +23,6 @@
             "size": 13123103,
             "total_time": 819552,
             "track_count": 1,
-            "track_id": 16066,
             "track_number": 1,
             "track_type": "File"
         }

@@ -2,7 +2,6 @@
     "all_items": true,
     "display_path": "/SacredScience_LissaRankin",
     "name": "SacredScience_LissaRankin",
-    "playlist_id": 84313,
     "playlist_persistent_id": "4ABFB2D87878AD45",
     "tracks": [
         {
@@ -24,7 +23,6 @@
             "size": 58536095,
             "total_time": 3657864,
             "track_count": 1,
-            "track_id": 16068,
             "track_number": 1,
             "track_type": "File"
         }

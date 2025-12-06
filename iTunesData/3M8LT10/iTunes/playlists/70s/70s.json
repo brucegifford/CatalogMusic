@@ -3,7 +3,6 @@
     "display_path": "/70s/70s",
     "name": "70s",
     "parent_persistent_id": "F434EF9373BD9288",
-    "playlist_id": 75979,
     "playlist_persistent_id": "C0A33D9C5D442D36",
     "tracks": [
         {
@@ -31,7 +30,6 @@
             "size": 6841232,
             "total_time": 195813,
             "track_count": 12,
-            "track_id": 24724,
             "track_number": 1,
             "track_type": "File",
             "year": 1976
@@ -61,7 +59,6 @@
             "size": 8797178,
             "total_time": 241640,
             "track_count": 12,
-            "track_id": 24726,
             "track_number": 2,
             "track_type": "File",
             "year": 1976
@@ -91,7 +88,6 @@
             "size": 7723416,
             "total_time": 205293,
             "track_count": 12,
-            "track_id": 24728,
             "track_number": 3,
             "track_type": "File",
             "year": 1970
@@ -121,7 +117,6 @@
             "size": 6567997,
             "total_time": 174040,
             "track_count": 12,
-            "track_id": 24730,
             "track_number": 4,
             "track_type": "File",
             "year": 1970
@@ -151,7 +146,6 @@
             "size": 7775736,
             "total_time": 204920,
             "track_count": 12,
-            "track_id": 24732,
             "track_number": 5,
             "track_type": "File",
             "year": 1970
@@ -181,7 +175,6 @@
             "size": 9602938,
             "total_time": 270480,
             "track_count": 12,
-            "track_id": 24734,
             "track_number": 6,
             "track_type": "File",
             "year": 1971
@@ -211,7 +204,6 @@
             "size": 5543324,
             "total_time": 157573,
             "track_count": 12,
-            "track_id": 24736,
             "track_number": 7,
             "track_type": "File",
             "year": 1972
@@ -241,7 +233,6 @@
             "size": 7856919,
             "total_time": 214880,
             "track_count": 12,
-            "track_id": 24738,
             "track_number": 8,
             "track_type": "File",
             "year": 1974
@@ -271,7 +262,6 @@
             "size": 7668472,
             "total_time": 217786,
             "track_count": 12,
-            "track_id": 24740,
             "track_number": 9,
             "track_type": "File",
             "year": 1975
@@ -301,7 +291,6 @@
             "size": 6559902,
             "total_time": 180040,
             "track_count": 12,
-            "track_id": 24742,
             "track_number": 10,
             "track_type": "File",
             "year": 1975
@@ -331,7 +320,6 @@
             "size": 8773904,
             "total_time": 240253,
             "track_count": 12,
-            "track_id": 24744,
             "track_number": 11,
             "track_type": "File",
             "year": 1976
@@ -361,7 +349,6 @@
             "size": 11672487,
             "total_time": 318773,
             "track_count": 12,
-            "track_id": 24746,
             "track_number": 12,
             "track_type": "File",
             "year": 1975
@@ -391,7 +378,6 @@
             "size": 7937795,
             "total_time": 228986,
             "track_count": 17,
-            "track_id": 28108,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -421,7 +407,6 @@
             "size": 5954941,
             "total_time": 151240,
             "track_count": 17,
-            "track_id": 28110,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -451,7 +436,6 @@
             "size": 7976409,
             "total_time": 219733,
             "track_count": 17,
-            "track_id": 28112,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -481,7 +465,6 @@
             "size": 6956406,
             "total_time": 186813,
             "track_count": 17,
-            "track_id": 28114,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -511,7 +494,6 @@
             "size": 6093241,
             "total_time": 164066,
             "track_count": 17,
-            "track_id": 28116,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -541,7 +523,6 @@
             "size": 8239378,
             "total_time": 238720,
             "track_count": 17,
-            "track_id": 28118,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -572,7 +553,6 @@
             "sort_artist": "Bellamy Brothers",
             "total_time": 196693,
             "track_count": 17,
-            "track_id": 28120,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -602,7 +582,6 @@
             "size": 9404635,
             "total_time": 251946,
             "track_count": 17,
-            "track_id": 28122,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -632,7 +611,6 @@
             "size": 11009051,
             "total_time": 285973,
             "track_count": 17,
-            "track_id": 28124,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -662,7 +640,6 @@
             "size": 8511979,
             "total_time": 234053,
             "track_count": 17,
-            "track_id": 28126,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -692,7 +669,6 @@
             "size": 7938421,
             "total_time": 212586,
             "track_count": 17,
-            "track_id": 28128,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -722,7 +698,6 @@
             "size": 7734412,
             "total_time": 208133,
             "track_count": 17,
-            "track_id": 28130,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -752,7 +727,6 @@
             "size": 8589192,
             "total_time": 257026,
             "track_count": 17,
-            "track_id": 28132,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -782,7 +756,6 @@
             "size": 7189929,
             "total_time": 201066,
             "track_count": 17,
-            "track_id": 28134,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -812,7 +785,6 @@
             "size": 6802620,
             "total_time": 199346,
             "track_count": 17,
-            "track_id": 28136,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -842,7 +814,6 @@
             "size": 7704139,
             "total_time": 206093,
             "track_count": 17,
-            "track_id": 28138,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -872,7 +843,6 @@
             "size": 8639171,
             "total_time": 231560,
             "track_count": 17,
-            "track_id": 28140,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -903,7 +873,6 @@
             "sort_name": "First Time Ever I Saw Your Face",
             "total_time": 322560,
             "track_count": 17,
-            "track_id": 28142,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -933,7 +902,6 @@
             "size": 8349362,
             "total_time": 248973,
             "track_count": 17,
-            "track_id": 28144,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -963,7 +931,6 @@
             "size": 5771146,
             "total_time": 154746,
             "track_count": 17,
-            "track_id": 28146,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -993,7 +960,6 @@
             "size": 8064820,
             "total_time": 234520,
             "track_count": 17,
-            "track_id": 28148,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -1023,7 +989,6 @@
             "size": 8236257,
             "total_time": 235733,
             "track_count": 17,
-            "track_id": 28150,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -1053,7 +1018,6 @@
             "size": 7001574,
             "total_time": 195026,
             "track_count": 17,
-            "track_id": 28152,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -1083,7 +1047,6 @@
             "size": 6160043,
             "total_time": 158360,
             "track_count": 17,
-            "track_id": 28154,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -1113,7 +1076,6 @@
             "size": 7905359,
             "total_time": 229386,
             "track_count": 17,
-            "track_id": 28156,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -1143,7 +1105,6 @@
             "size": 5712851,
             "total_time": 161026,
             "track_count": 17,
-            "track_id": 28158,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -1173,7 +1134,6 @@
             "size": 9423232,
             "total_time": 257960,
             "track_count": 17,
-            "track_id": 28160,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -1203,7 +1163,6 @@
             "size": 5244120,
             "total_time": 149520,
             "track_count": 17,
-            "track_id": 28162,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -1233,7 +1192,6 @@
             "size": 8612646,
             "total_time": 239240,
             "track_count": 17,
-            "track_id": 28164,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -1263,7 +1221,6 @@
             "size": 8233580,
             "total_time": 226453,
             "track_count": 17,
-            "track_id": 28166,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -1293,7 +1250,6 @@
             "size": 9200007,
             "total_time": 255253,
             "track_count": 17,
-            "track_id": 28168,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -1323,7 +1279,6 @@
             "size": 6176065,
             "total_time": 174506,
             "track_count": 17,
-            "track_id": 28170,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -1353,7 +1308,6 @@
             "size": 7263477,
             "total_time": 217653,
             "track_count": 17,
-            "track_id": 28172,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -1383,7 +1337,6 @@
             "size": 8203259,
             "total_time": 236306,
             "track_count": 17,
-            "track_id": 28174,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -1413,7 +1366,6 @@
             "size": 9067555,
             "total_time": 264973,
             "track_count": 17,
-            "track_id": 28176,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -1443,7 +1395,6 @@
             "size": 7312805,
             "total_time": 214760,
             "track_count": 17,
-            "track_id": 28178,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -1473,7 +1424,6 @@
             "size": 9505896,
             "total_time": 275733,
             "track_count": 17,
-            "track_id": 28180,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -1503,7 +1453,6 @@
             "size": 7692784,
             "total_time": 227320,
             "track_count": 17,
-            "track_id": 28182,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -1533,7 +1482,6 @@
             "size": 7864530,
             "total_time": 207986,
             "track_count": 17,
-            "track_id": 28184,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -1563,7 +1511,6 @@
             "size": 7953908,
             "total_time": 234000,
             "track_count": 17,
-            "track_id": 28186,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -1593,7 +1540,6 @@
             "size": 10009482,
             "total_time": 276066,
             "track_count": 17,
-            "track_id": 28188,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -1624,7 +1570,6 @@
             "sort_name": "Things We Do For Love",
             "total_time": 211413,
             "track_count": 17,
-            "track_id": 28190,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -1654,7 +1599,6 @@
             "size": 8092259,
             "total_time": 240493,
             "track_count": 17,
-            "track_id": 28192,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -1684,7 +1628,6 @@
             "size": 6983319,
             "total_time": 191293,
             "track_count": 17,
-            "track_id": 28194,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -1715,7 +1658,6 @@
             "sort_artist": "Chi-Lites",
             "total_time": 222293,
             "track_count": 17,
-            "track_id": 28196,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -1745,7 +1687,6 @@
             "size": 9716613,
             "total_time": 263093,
             "track_count": 17,
-            "track_id": 28198,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -1775,7 +1716,6 @@
             "size": 8443466,
             "total_time": 250600,
             "track_count": 17,
-            "track_id": 28200,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -1805,7 +1745,6 @@
             "size": 7475033,
             "total_time": 223080,
             "track_count": 17,
-            "track_id": 28202,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -1835,7 +1774,6 @@
             "size": 8644553,
             "total_time": 242746,
             "track_count": 17,
-            "track_id": 28204,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -1866,7 +1804,6 @@
             "sort_artist": "Jackson 5",
             "total_time": 182173,
             "track_count": 17,
-            "track_id": 28206,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -1896,7 +1833,6 @@
             "size": 8658706,
             "total_time": 231546,
             "track_count": 17,
-            "track_id": 28208,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -1926,7 +1862,6 @@
             "size": 7019406,
             "total_time": 209386,
             "track_count": 16,
-            "track_id": 28210,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -1956,7 +1891,6 @@
             "size": 6321430,
             "total_time": 190146,
             "track_count": 16,
-            "track_id": 28212,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -1986,7 +1920,6 @@
             "size": 7538668,
             "total_time": 208626,
             "track_count": 16,
-            "track_id": 28214,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -2017,7 +1950,6 @@
             "sort_artist": "Friends Of Distinction",
             "total_time": 200640,
             "track_count": 16,
-            "track_id": 28216,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -2047,7 +1979,6 @@
             "size": 7178153,
             "total_time": 211640,
             "track_count": 16,
-            "track_id": 28218,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -2077,7 +2008,6 @@
             "size": 8934742,
             "total_time": 260000,
             "track_count": 16,
-            "track_id": 28220,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -2107,7 +2037,6 @@
             "size": 8021341,
             "total_time": 236720,
             "track_count": 16,
-            "track_id": 28222,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -2137,7 +2066,6 @@
             "size": 8145581,
             "total_time": 234640,
             "track_count": 16,
-            "track_id": 28224,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -2167,7 +2095,6 @@
             "size": 6211237,
             "total_time": 180453,
             "track_count": 16,
-            "track_id": 28226,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -2197,7 +2124,6 @@
             "size": 7363186,
             "total_time": 217733,
             "track_count": 16,
-            "track_id": 28228,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -2227,7 +2153,6 @@
             "size": 4923551,
             "total_time": 142640,
             "track_count": 16,
-            "track_id": 28230,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -2257,7 +2182,6 @@
             "size": 7234979,
             "total_time": 203360,
             "track_count": 16,
-            "track_id": 28232,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -2287,7 +2211,6 @@
             "size": 6808016,
             "total_time": 177480,
             "track_count": 16,
-            "track_id": 28234,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -2317,7 +2240,6 @@
             "size": 6906385,
             "total_time": 197973,
             "track_count": 16,
-            "track_id": 28236,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -2347,7 +2269,6 @@
             "size": 10100346,
             "total_time": 285200,
             "track_count": 16,
-            "track_id": 28238,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -2377,7 +2298,6 @@
             "size": 6668770,
             "total_time": 192026,
             "track_count": 16,
-            "track_id": 28240,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -2407,7 +2327,6 @@
             "size": 7420672,
             "total_time": 202746,
             "track_count": 16,
-            "track_id": 28242,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -2437,7 +2356,6 @@
             "size": 5796253,
             "total_time": 162600,
             "track_count": 16,
-            "track_id": 28244,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -2467,7 +2385,6 @@
             "size": 8421737,
             "total_time": 226413,
             "track_count": 16,
-            "track_id": 28246,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -2497,7 +2414,6 @@
             "size": 7015233,
             "total_time": 196106,
             "track_count": 16,
-            "track_id": 28248,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -2527,7 +2443,6 @@
             "size": 8689875,
             "total_time": 260186,
             "track_count": 16,
-            "track_id": 28250,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -2557,7 +2472,6 @@
             "size": 6862848,
             "total_time": 195200,
             "track_count": 16,
-            "track_id": 28252,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -2587,7 +2501,6 @@
             "size": 9098402,
             "total_time": 252013,
             "track_count": 16,
-            "track_id": 28254,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -2617,7 +2530,6 @@
             "size": 5623444,
             "total_time": 151400,
             "track_count": 16,
-            "track_id": 28256,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -2647,7 +2559,6 @@
             "size": 7315365,
             "total_time": 219200,
             "track_count": 16,
-            "track_id": 28258,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -2677,7 +2588,6 @@
             "size": 6035878,
             "total_time": 179786,
             "track_count": 16,
-            "track_id": 28260,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -2707,7 +2617,6 @@
             "size": 8009262,
             "total_time": 225186,
             "track_count": 16,
-            "track_id": 28262,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -2737,7 +2646,6 @@
             "size": 6258777,
             "total_time": 173613,
             "track_count": 16,
-            "track_id": 28264,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -2767,7 +2675,6 @@
             "size": 6677261,
             "total_time": 191626,
             "track_count": 16,
-            "track_id": 28266,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -2798,7 +2705,6 @@
             "sort_name": "Morning After",
             "total_time": 139586,
             "track_count": 16,
-            "track_id": 28268,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -2828,7 +2734,6 @@
             "size": 8877440,
             "total_time": 237320,
             "track_count": 16,
-            "track_id": 28270,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -2858,7 +2763,6 @@
             "size": 6281434,
             "total_time": 171933,
             "track_count": 16,
-            "track_id": 28272,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -2888,7 +2792,6 @@
             "size": 7987350,
             "total_time": 233040,
             "track_count": 16,
-            "track_id": 28274,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -2918,7 +2821,6 @@
             "size": 5447346,
             "total_time": 147146,
             "track_count": 16,
-            "track_id": 28276,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -2948,7 +2850,6 @@
             "size": 4671892,
             "total_time": 131813,
             "track_count": 16,
-            "track_id": 28278,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -2978,7 +2879,6 @@
             "size": 7269374,
             "total_time": 217520,
             "track_count": 16,
-            "track_id": 28280,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -3009,7 +2909,6 @@
             "sort_artist": "Jackson 5",
             "total_time": 239226,
             "track_count": 16,
-            "track_id": 28282,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -3040,7 +2939,6 @@
             "sort_artist": "Temptations",
             "total_time": 229493,
             "track_count": 16,
-            "track_id": 28284,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -3070,7 +2968,6 @@
             "size": 9775031,
             "total_time": 263160,
             "track_count": 16,
-            "track_id": 28286,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -3100,7 +2997,6 @@
             "size": 7687501,
             "total_time": 219360,
             "track_count": 16,
-            "track_id": 28288,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -3130,7 +3026,6 @@
             "size": 8523102,
             "total_time": 238960,
             "track_count": 16,
-            "track_id": 28290,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -3160,7 +3055,6 @@
             "size": 7954417,
             "total_time": 239760,
             "track_count": 16,
-            "track_id": 28292,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -3190,7 +3084,6 @@
             "size": 6225269,
             "total_time": 186893,
             "track_count": 16,
-            "track_id": 28294,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -3220,7 +3113,6 @@
             "size": 7075687,
             "total_time": 186173,
             "track_count": 16,
-            "track_id": 28296,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -3250,7 +3142,6 @@
             "size": 7978086,
             "total_time": 218813,
             "track_count": 16,
-            "track_id": 28298,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -3280,7 +3171,6 @@
             "size": 5593320,
             "total_time": 152426,
             "track_count": 16,
-            "track_id": 28300,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -3310,7 +3200,6 @@
             "size": 7874151,
             "total_time": 235466,
             "track_count": 16,
-            "track_id": 28302,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -3340,7 +3229,6 @@
             "size": 7705792,
             "total_time": 230946,
             "track_count": 16,
-            "track_id": 28304,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -3370,7 +3258,6 @@
             "size": 7107360,
             "total_time": 192106,
             "track_count": 17,
-            "track_id": 28306,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -3400,7 +3287,6 @@
             "size": 10699349,
             "total_time": 287306,
             "track_count": 17,
-            "track_id": 28308,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -3430,7 +3316,6 @@
             "size": 6264374,
             "total_time": 165013,
             "track_count": 17,
-            "track_id": 28310,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -3461,7 +3346,6 @@
             "sort_artist": "Stylistics",
             "total_time": 196346,
             "track_count": 17,
-            "track_id": 28312,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -3491,7 +3375,6 @@
             "size": 6135627,
             "total_time": 183093,
             "track_count": 17,
-            "track_id": 28314,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -3521,7 +3404,6 @@
             "size": 9629939,
             "total_time": 285853,
             "track_count": 17,
-            "track_id": 28316,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -3551,7 +3433,6 @@
             "size": 6356348,
             "total_time": 188226,
             "track_count": 17,
-            "track_id": 28318,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -3581,7 +3462,6 @@
             "size": 9211278,
             "total_time": 251680,
             "track_count": 17,
-            "track_id": 28320,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -3611,7 +3491,6 @@
             "size": 7082009,
             "total_time": 208773,
             "track_count": 17,
-            "track_id": 28322,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -3641,7 +3520,6 @@
             "size": 7966529,
             "total_time": 206626,
             "track_count": 17,
-            "track_id": 28324,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -3672,7 +3550,6 @@
             "sort_name": "Closer I Get To You",
             "total_time": 282186,
             "track_count": 17,
-            "track_id": 28326,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -3702,7 +3579,6 @@
             "size": 9884650,
             "total_time": 260800,
             "track_count": 17,
-            "track_id": 28328,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -3733,7 +3609,6 @@
             "sort_artist": "Spinners",
             "total_time": 253026,
             "track_count": 17,
-            "track_id": 28330,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -3763,7 +3638,6 @@
             "size": 7910295,
             "total_time": 206813,
             "track_count": 17,
-            "track_id": 28332,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -3794,7 +3668,6 @@
             "sort_artist": "Stylistics",
             "total_time": 286186,
             "track_count": 17,
-            "track_id": 28334,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -3824,7 +3697,6 @@
             "size": 6146815,
             "total_time": 167293,
             "track_count": 17,
-            "track_id": 28336,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -3854,7 +3726,6 @@
             "size": 5929127,
             "total_time": 170573,
             "track_count": 17,
-            "track_id": 28338,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -3885,7 +3756,6 @@
             "sort_artist": "5th Dimension",
             "total_time": 210986,
             "track_count": 17,
-            "track_id": 28340,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -3915,7 +3785,6 @@
             "size": 6518260,
             "total_time": 174320,
             "track_count": 17,
-            "track_id": 28342,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -3945,7 +3814,6 @@
             "size": 8352015,
             "total_time": 223320,
             "track_count": 17,
-            "track_id": 28344,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -3975,7 +3843,6 @@
             "size": 14667007,
             "total_time": 430080,
             "track_count": 17,
-            "track_id": 28346,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -4005,7 +3872,6 @@
             "size": 9853119,
             "total_time": 268666,
             "track_count": 17,
-            "track_id": 28348,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -4035,7 +3901,6 @@
             "size": 7049070,
             "total_time": 206600,
             "track_count": 17,
-            "track_id": 28350,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -4065,7 +3930,6 @@
             "size": 10693851,
             "total_time": 286453,
             "track_count": 17,
-            "track_id": 28352,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -4095,7 +3959,6 @@
             "size": 6849514,
             "total_time": 187506,
             "track_count": 17,
-            "track_id": 28354,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -4125,7 +3988,6 @@
             "size": 7847344,
             "total_time": 217040,
             "track_count": 17,
-            "track_id": 28356,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -4155,7 +4017,6 @@
             "size": 11036180,
             "total_time": 299733,
             "track_count": 17,
-            "track_id": 28358,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -4185,7 +4046,6 @@
             "size": 8145026,
             "total_time": 240493,
             "track_count": 17,
-            "track_id": 28360,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -4215,7 +4075,6 @@
             "size": 7391611,
             "total_time": 193133,
             "track_count": 17,
-            "track_id": 28362,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -4245,7 +4104,6 @@
             "size": 7349561,
             "total_time": 199466,
             "track_count": 17,
-            "track_id": 28364,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -4275,7 +4133,6 @@
             "size": 9934643,
             "total_time": 279773,
             "track_count": 17,
-            "track_id": 28366,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -4306,7 +4163,6 @@
             "sort_artist": "Manhattans",
             "total_time": 267640,
             "track_count": 17,
-            "track_id": 28368,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -4336,7 +4192,6 @@
             "size": 11274426,
             "total_time": 326813,
             "track_count": 17,
-            "track_id": 28370,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -4367,7 +4222,6 @@
             "sort_artist": "O'Jays",
             "total_time": 219333,
             "track_count": 17,
-            "track_id": 28372,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -4397,7 +4251,6 @@
             "size": 6435189,
             "total_time": 174306,
             "track_count": 17,
-            "track_id": 28374,
             "track_number": 1,
             "track_type": "File",
             "year": 2018
@@ -4427,7 +4280,6 @@
             "size": 7469067,
             "total_time": 198986,
             "track_count": 17,
-            "track_id": 28376,
             "track_number": 2,
             "track_type": "File",
             "year": 2018
@@ -4457,7 +4309,6 @@
             "size": 6746094,
             "total_time": 191653,
             "track_count": 17,
-            "track_id": 28378,
             "track_number": 3,
             "track_type": "File",
             "year": 2018
@@ -4488,7 +4339,6 @@
             "sort_name": "Most Beautiful Girl",
             "total_time": 163840,
             "track_count": 17,
-            "track_id": 28380,
             "track_number": 4,
             "track_type": "File",
             "year": 2018
@@ -4518,7 +4368,6 @@
             "size": 7297817,
             "total_time": 183306,
             "track_count": 17,
-            "track_id": 28382,
             "track_number": 5,
             "track_type": "File",
             "year": 2018
@@ -4548,7 +4397,6 @@
             "size": 8878975,
             "total_time": 229320,
             "track_count": 17,
-            "track_id": 28384,
             "track_number": 6,
             "track_type": "File",
             "year": 2018
@@ -4579,7 +4427,6 @@
             "sort_artist": "Three Degrees",
             "total_time": 180013,
             "track_count": 17,
-            "track_id": 28386,
             "track_number": 7,
             "track_type": "File",
             "year": 2018
@@ -4609,7 +4456,6 @@
             "size": 6463017,
             "total_time": 185066,
             "track_count": 17,
-            "track_id": 28388,
             "track_number": 8,
             "track_type": "File",
             "year": 2018
@@ -4639,7 +4485,6 @@
             "size": 7403494,
             "total_time": 197333,
             "track_count": 17,
-            "track_id": 28390,
             "track_number": 9,
             "track_type": "File",
             "year": 2018
@@ -4669,7 +4514,6 @@
             "size": 6500185,
             "total_time": 177853,
             "track_count": 17,
-            "track_id": 28392,
             "track_number": 10,
             "track_type": "File",
             "year": 2018
@@ -4699,7 +4543,6 @@
             "size": 9665139,
             "total_time": 268253,
             "track_count": 17,
-            "track_id": 28394,
             "track_number": 11,
             "track_type": "File",
             "year": 2018
@@ -4729,7 +4572,6 @@
             "size": 6067659,
             "total_time": 171640,
             "track_count": 17,
-            "track_id": 28396,
             "track_number": 12,
             "track_type": "File",
             "year": 2018
@@ -4759,7 +4601,6 @@
             "size": 7096643,
             "total_time": 191293,
             "track_count": 17,
-            "track_id": 28398,
             "track_number": 13,
             "track_type": "File",
             "year": 2018
@@ -4790,7 +4631,6 @@
             "sort_name": "Wonder Of You",
             "total_time": 156146,
             "track_count": 17,
-            "track_id": 28400,
             "track_number": 14,
             "track_type": "File",
             "year": 2018
@@ -4820,7 +4660,6 @@
             "size": 6510994,
             "total_time": 179626,
             "track_count": 17,
-            "track_id": 28402,
             "track_number": 15,
             "track_type": "File",
             "year": 2018
@@ -4852,7 +4691,6 @@
             "sort_name": "Air That I Breathe",
             "total_time": 250786,
             "track_count": 17,
-            "track_id": 28404,
             "track_number": 16,
             "track_type": "File",
             "year": 2018
@@ -4882,7 +4720,6 @@
             "size": 11173915,
             "total_time": 298400,
             "track_count": 17,
-            "track_id": 28406,
             "track_number": 17,
             "track_type": "File",
             "year": 2018
@@ -4913,7 +4750,6 @@
             "size": 10124936,
             "total_time": 285306,
             "track_count": 16,
-            "track_id": 28408,
             "track_number": 1,
             "track_type": "File"
         },
@@ -4943,7 +4779,6 @@
             "size": 7367476,
             "total_time": 197866,
             "track_count": 16,
-            "track_id": 28410,
             "track_number": 2,
             "track_type": "File"
         },
@@ -4974,7 +4809,6 @@
             "sort_artist": "Allman Brothers Band",
             "total_time": 287973,
             "track_count": 16,
-            "track_id": 28412,
             "track_number": 3,
             "track_type": "File"
         },
@@ -5005,7 +4839,6 @@
             "sort_artist": "Edgar Winter Group",
             "total_time": 285573,
             "track_count": 16,
-            "track_id": 28414,
             "track_number": 4,
             "track_type": "File"
         },
@@ -5035,7 +4868,6 @@
             "size": 7565864,
             "total_time": 206346,
             "track_count": 16,
-            "track_id": 28416,
             "track_number": 5,
             "track_type": "File"
         },
@@ -5065,7 +4897,6 @@
             "size": 8522397,
             "total_time": 252386,
             "track_count": 16,
-            "track_id": 28418,
             "track_number": 6,
             "track_type": "File"
         },
@@ -5095,7 +4926,6 @@
             "size": 7110059,
             "total_time": 209760,
             "track_count": 16,
-            "track_id": 28420,
             "track_number": 7,
             "track_type": "File"
         },
@@ -5125,7 +4955,6 @@
             "size": 7481613,
             "total_time": 218160,
             "track_count": 16,
-            "track_id": 28422,
             "track_number": 8,
             "track_type": "File"
         },
@@ -5156,7 +4985,6 @@
             "sort_name": "Logical Song",
             "total_time": 249253,
             "track_count": 16,
-            "track_id": 28424,
             "track_number": 9,
             "track_type": "File"
         },
@@ -5186,7 +5014,6 @@
             "size": 7446465,
             "total_time": 201720,
             "track_count": 16,
-            "track_id": 28426,
             "track_number": 10,
             "track_type": "File"
         },
@@ -5216,7 +5043,6 @@
             "size": 8937821,
             "total_time": 257786,
             "track_count": 16,
-            "track_id": 28428,
             "track_number": 11,
             "track_type": "File"
         },
@@ -5246,7 +5072,6 @@
             "size": 10956667,
             "total_time": 324253,
             "track_count": 16,
-            "track_id": 28430,
             "track_number": 12,
             "track_type": "File"
         },
@@ -5276,7 +5101,6 @@
             "size": 7822894,
             "total_time": 212640,
             "track_count": 16,
-            "track_id": 28432,
             "track_number": 13,
             "track_type": "File"
         },
@@ -5306,7 +5130,6 @@
             "size": 8860683,
             "total_time": 248666,
             "track_count": 16,
-            "track_id": 28434,
             "track_number": 14,
             "track_type": "File"
         },
@@ -5336,7 +5159,6 @@
             "size": 8872796,
             "total_time": 252040,
             "track_count": 16,
-            "track_id": 28436,
             "track_number": 15,
             "track_type": "File"
         },
@@ -5367,7 +5189,6 @@
             "sort_artist": "Yardbirds",
             "total_time": 148813,
             "track_count": 16,
-            "track_id": 28438,
             "track_number": 16,
             "track_type": "File"
         },
@@ -5396,7 +5217,6 @@
             "size": 11020924,
             "total_time": 293586,
             "track_count": 16,
-            "track_id": 28440,
             "track_number": 1,
             "track_type": "File"
         },
@@ -5425,7 +5245,6 @@
             "size": 7286127,
             "total_time": 198293,
             "track_count": 16,
-            "track_id": 28442,
             "track_number": 2,
             "track_type": "File"
         },
@@ -5454,7 +5273,6 @@
             "size": 7479366,
             "total_time": 209320,
             "track_count": 16,
-            "track_id": 28444,
             "track_number": 3,
             "track_type": "File"
         },
@@ -5483,7 +5301,6 @@
             "size": 7212968,
             "total_time": 194906,
             "track_count": 16,
-            "track_id": 28446,
             "track_number": 4,
             "track_type": "File"
         },
@@ -5512,7 +5329,6 @@
             "size": 9236081,
             "total_time": 261440,
             "track_count": 16,
-            "track_id": 28448,
             "track_number": 5,
             "track_type": "File"
         },
@@ -5541,7 +5357,6 @@
             "size": 10325684,
             "total_time": 291906,
             "track_count": 16,
-            "track_id": 28450,
             "track_number": 6,
             "track_type": "File"
         },
@@ -5570,7 +5385,6 @@
             "size": 8022850,
             "total_time": 207040,
             "track_count": 16,
-            "track_id": 28452,
             "track_number": 7,
             "track_type": "File"
         },
@@ -5599,7 +5413,6 @@
             "size": 14463910,
             "total_time": 396826,
             "track_count": 16,
-            "track_id": 28454,
             "track_number": 8,
             "track_type": "File"
         },
@@ -5628,7 +5441,6 @@
             "size": 9775184,
             "total_time": 287520,
             "track_count": 16,
-            "track_id": 28456,
             "track_number": 9,
             "track_type": "File"
         },
@@ -5657,7 +5469,6 @@
             "size": 5051331,
             "total_time": 148520,
             "track_count": 16,
-            "track_id": 28458,
             "track_number": 10,
             "track_type": "File"
         },
@@ -5686,7 +5497,6 @@
             "size": 6336882,
             "total_time": 178533,
             "track_count": 16,
-            "track_id": 28460,
             "track_number": 11,
             "track_type": "File"
         },
@@ -5715,7 +5525,6 @@
             "size": 7834123,
             "total_time": 224600,
             "track_count": 16,
-            "track_id": 28462,
             "track_number": 12,
             "track_type": "File"
         },
@@ -5744,7 +5553,6 @@
             "size": 10101618,
             "total_time": 285506,
             "track_count": 16,
-            "track_id": 28464,
             "track_number": 13,
             "track_type": "File"
         },
@@ -5773,7 +5581,6 @@
             "size": 7982949,
             "total_time": 235680,
             "track_count": 16,
-            "track_id": 28466,
             "track_number": 14,
             "track_type": "File"
         },
@@ -5802,7 +5609,6 @@
             "size": 7046923,
             "total_time": 208746,
             "track_count": 16,
-            "track_id": 28468,
             "track_number": 15,
             "track_type": "File"
         },
@@ -5831,7 +5637,6 @@
             "size": 12359892,
             "total_time": 339506,
             "track_count": 16,
-            "track_id": 28470,
             "track_number": 16,
             "track_type": "File"
         },
@@ -5861,7 +5666,6 @@
             "size": 8345845,
             "total_time": 236093,
             "track_count": 13,
-            "track_id": 28472,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -5892,7 +5696,6 @@
             "size": 8551850,
             "total_time": 229733,
             "track_count": 13,
-            "track_id": 28474,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -5923,7 +5726,6 @@
             "size": 8124373,
             "total_time": 233026,
             "track_count": 13,
-            "track_id": 28476,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -5954,7 +5756,6 @@
             "size": 7459722,
             "total_time": 211920,
             "track_count": 13,
-            "track_id": 28478,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -5985,7 +5786,6 @@
             "size": 7817883,
             "total_time": 206586,
             "track_count": 13,
-            "track_id": 28480,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -6016,7 +5816,6 @@
             "size": 11372520,
             "total_time": 310400,
             "track_count": 13,
-            "track_id": 28482,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -6047,7 +5846,6 @@
             "size": 7017404,
             "total_time": 185226,
             "track_count": 13,
-            "track_id": 28484,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -6078,7 +5876,6 @@
             "size": 4776712,
             "total_time": 131520,
             "track_count": 13,
-            "track_id": 28486,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -6109,7 +5906,6 @@
             "size": 6317720,
             "total_time": 177466,
             "track_count": 13,
-            "track_id": 28488,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -6140,7 +5936,6 @@
             "size": 10313497,
             "total_time": 280813,
             "track_count": 13,
-            "track_id": 28490,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -6171,7 +5966,6 @@
             "size": 6819758,
             "total_time": 200346,
             "track_count": 13,
-            "track_id": 28492,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -6202,7 +5996,6 @@
             "size": 8272892,
             "total_time": 231933,
             "track_count": 13,
-            "track_id": 28494,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -6233,7 +6026,6 @@
             "size": 8826146,
             "total_time": 230680,
             "track_count": 13,
-            "track_id": 28496,
             "track_number": 13,
             "track_type": "File",
             "year": 2011
@@ -6264,7 +6056,6 @@
             "size": 10265262,
             "total_time": 300200,
             "track_count": 13,
-            "track_id": 28498,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -6295,7 +6086,6 @@
             "size": 6249615,
             "total_time": 158466,
             "track_count": 13,
-            "track_id": 28500,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -6326,7 +6116,6 @@
             "size": 6179253,
             "total_time": 163773,
             "track_count": 13,
-            "track_id": 28502,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -6357,7 +6146,6 @@
             "size": 8267325,
             "total_time": 236146,
             "track_count": 13,
-            "track_id": 28504,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -6389,7 +6177,6 @@
             "sort_artist": "Doobie Brothers",
             "total_time": 220946,
             "track_count": 13,
-            "track_id": 28506,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -6420,7 +6207,6 @@
             "size": 6632342,
             "total_time": 181120,
             "track_count": 13,
-            "track_id": 28508,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -6451,7 +6237,6 @@
             "size": 7087683,
             "total_time": 210053,
             "track_count": 13,
-            "track_id": 28510,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -6482,7 +6267,6 @@
             "size": 9040088,
             "total_time": 239573,
             "track_count": 13,
-            "track_id": 28512,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -6513,7 +6297,6 @@
             "size": 8845235,
             "total_time": 256506,
             "track_count": 13,
-            "track_id": 28514,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -6544,7 +6327,6 @@
             "size": 8805164,
             "total_time": 260520,
             "track_count": 13,
-            "track_id": 28516,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -6575,7 +6357,6 @@
             "size": 6688114,
             "total_time": 180506,
             "track_count": 13,
-            "track_id": 28518,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -6606,7 +6387,6 @@
             "size": 12498406,
             "total_time": 349653,
             "track_count": 13,
-            "track_id": 28520,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -6638,7 +6418,6 @@
             "sort_artist": "Foundations",
             "total_time": 156453,
             "track_count": 13,
-            "track_id": 28522,
             "track_number": 13,
             "track_type": "File",
             "year": 2011
@@ -6668,7 +6447,6 @@
             "size": 7458895,
             "total_time": 202920,
             "track_count": 15,
-            "track_id": 28524,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -6698,7 +6476,6 @@
             "size": 7773870,
             "total_time": 219493,
             "track_count": 15,
-            "track_id": 28526,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -6728,7 +6505,6 @@
             "size": 8055709,
             "total_time": 224186,
             "track_count": 15,
-            "track_id": 28528,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -6758,7 +6534,6 @@
             "size": 6871464,
             "total_time": 182400,
             "track_count": 15,
-            "track_id": 28530,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -6788,7 +6563,6 @@
             "size": 6219413,
             "total_time": 172426,
             "track_count": 15,
-            "track_id": 28532,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -6819,7 +6593,6 @@
             "sort_artist": "Guess Who",
             "total_time": 219613,
             "track_count": 15,
-            "track_id": 28534,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -6851,7 +6624,6 @@
             "sort_name": "Air That I Breathe",
             "total_time": 250933,
             "track_count": 15,
-            "track_id": 28536,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -6881,7 +6653,6 @@
             "size": 8385313,
             "total_time": 238320,
             "track_count": 15,
-            "track_id": 28538,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -6911,7 +6682,6 @@
             "size": 7413380,
             "total_time": 213133,
             "track_count": 15,
-            "track_id": 28540,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -6941,7 +6711,6 @@
             "size": 11472742,
             "total_time": 323933,
             "track_count": 15,
-            "track_id": 28542,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -6971,7 +6740,6 @@
             "size": 9758489,
             "total_time": 271000,
             "track_count": 15,
-            "track_id": 28544,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -7001,7 +6769,6 @@
             "size": 9351776,
             "total_time": 239733,
             "track_count": 15,
-            "track_id": 28546,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -7031,7 +6798,6 @@
             "size": 9601072,
             "total_time": 266293,
             "track_count": 15,
-            "track_id": 28548,
             "track_number": 13,
             "track_type": "File",
             "year": 2011
@@ -7061,7 +6827,6 @@
             "size": 8450362,
             "total_time": 241493,
             "track_count": 15,
-            "track_id": 28550,
             "track_number": 14,
             "track_type": "File",
             "year": 2011
@@ -7091,7 +6856,6 @@
             "size": 6987648,
             "total_time": 181240,
             "track_count": 15,
-            "track_id": 28552,
             "track_number": 15,
             "track_type": "File",
             "year": 2011
@@ -7121,7 +6885,6 @@
             "size": 12125685,
             "total_time": 332360,
             "track_count": 14,
-            "track_id": 28554,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -7151,7 +6914,6 @@
             "size": 6985417,
             "total_time": 201920,
             "track_count": 14,
-            "track_id": 28556,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -7181,7 +6943,6 @@
             "size": 6809687,
             "total_time": 184320,
             "track_count": 14,
-            "track_id": 28558,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -7211,7 +6972,6 @@
             "size": 10807963,
             "total_time": 321453,
             "track_count": 14,
-            "track_id": 28560,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -7242,7 +7002,6 @@
             "sort_artist": "Guess Who",
             "total_time": 306693,
             "track_count": 14,
-            "track_id": 28562,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -7272,7 +7031,6 @@
             "size": 6793614,
             "total_time": 187573,
             "track_count": 14,
-            "track_id": 28564,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -7303,7 +7061,6 @@
             "sort_artist": "Hollies",
             "total_time": 198213,
             "track_count": 14,
-            "track_id": 28566,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -7333,7 +7090,6 @@
             "size": 6990024,
             "total_time": 201666,
             "track_count": 14,
-            "track_id": 28568,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -7364,7 +7120,6 @@
             "sort_artist": "Romantics",
             "total_time": 177200,
             "track_count": 14,
-            "track_id": 28570,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -7394,7 +7149,6 @@
             "size": 17187114,
             "total_time": 509146,
             "track_count": 14,
-            "track_id": 28572,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -7424,7 +7178,6 @@
             "size": 11002034,
             "total_time": 282053,
             "track_count": 14,
-            "track_id": 28574,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -7454,7 +7207,6 @@
             "size": 10268696,
             "total_time": 304440,
             "track_count": 14,
-            "track_id": 28576,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -7484,7 +7236,6 @@
             "size": 9528118,
             "total_time": 249186,
             "track_count": 14,
-            "track_id": 28578,
             "track_number": 13,
             "track_type": "File",
             "year": 2011
@@ -7514,7 +7265,6 @@
             "size": 8467736,
             "total_time": 237573,
             "track_count": 14,
-            "track_id": 28580,
             "track_number": 14,
             "track_type": "File",
             "year": 2011
@@ -7545,7 +7295,6 @@
             "size": 6891242,
             "total_time": 199853,
             "track_count": 13,
-            "track_id": 28582,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -7576,7 +7325,6 @@
             "size": 7524261,
             "total_time": 201706,
             "track_count": 13,
-            "track_id": 28584,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -7607,7 +7355,6 @@
             "size": 8591885,
             "total_time": 253333,
             "track_count": 13,
-            "track_id": 28586,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -7638,7 +7385,6 @@
             "size": 8129644,
             "total_time": 226173,
             "track_count": 13,
-            "track_id": 28588,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -7670,7 +7416,6 @@
             "sort_artist": "Doobie Brothers",
             "total_time": 225040,
             "track_count": 13,
-            "track_id": 28590,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -7701,7 +7446,6 @@
             "size": 9281987,
             "total_time": 253453,
             "track_count": 13,
-            "track_id": 28592,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -7732,7 +7476,6 @@
             "size": 6934424,
             "total_time": 187733,
             "track_count": 13,
-            "track_id": 28594,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -7763,7 +7506,6 @@
             "size": 6499875,
             "total_time": 174640,
             "track_count": 13,
-            "track_id": 28596,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -7794,7 +7536,6 @@
             "size": 10140458,
             "total_time": 290533,
             "track_count": 13,
-            "track_id": 28598,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -7825,7 +7566,6 @@
             "size": 7554056,
             "total_time": 223440,
             "track_count": 13,
-            "track_id": 28600,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -7856,7 +7596,6 @@
             "size": 6400707,
             "total_time": 174560,
             "track_count": 13,
-            "track_id": 28602,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -7887,7 +7626,6 @@
             "size": 9065100,
             "total_time": 270600,
             "track_count": 13,
-            "track_id": 28604,
             "track_number": 12,
             "track_type": "File",
             "year": 2011
@@ -7918,7 +7656,6 @@
             "size": 7576566,
             "total_time": 215906,
             "track_count": 13,
-            "track_id": 28606,
             "track_number": 13,
             "track_type": "File",
             "year": 2011
@@ -7948,7 +7685,6 @@
             "size": 6525442,
             "total_time": 186040,
             "track_count": 12,
-            "track_id": 28608,
             "track_number": 1,
             "track_type": "File",
             "year": 2011
@@ -7978,7 +7714,6 @@
             "size": 7194118,
             "total_time": 199186,
             "track_count": 12,
-            "track_id": 28610,
             "track_number": 2,
             "track_type": "File",
             "year": 2011
@@ -8009,7 +7744,6 @@
             "sort_artist": "Doobie Brothers",
             "total_time": 208253,
             "track_count": 12,
-            "track_id": 28612,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -8039,7 +7773,6 @@
             "size": 5960111,
             "total_time": 151506,
             "track_count": 12,
-            "track_id": 28614,
             "track_number": 4,
             "track_type": "File",
             "year": 2011
@@ -8069,7 +7802,6 @@
             "size": 8711237,
             "total_time": 238213,
             "track_count": 12,
-            "track_id": 28616,
             "track_number": 5,
             "track_type": "File",
             "year": 2011
@@ -8100,7 +7832,6 @@
             "sort_artist": "Troggs",
             "total_time": 156200,
             "track_count": 12,
-            "track_id": 28618,
             "track_number": 6,
             "track_type": "File",
             "year": 2011
@@ -8130,7 +7861,6 @@
             "size": 10340994,
             "total_time": 265653,
             "track_count": 12,
-            "track_id": 28620,
             "track_number": 7,
             "track_type": "File",
             "year": 2011
@@ -8160,7 +7890,6 @@
             "size": 10214816,
             "total_time": 299666,
             "track_count": 12,
-            "track_id": 28622,
             "track_number": 8,
             "track_type": "File",
             "year": 2011
@@ -8190,7 +7919,6 @@
             "size": 8132900,
             "total_time": 231946,
             "track_count": 12,
-            "track_id": 28624,
             "track_number": 9,
             "track_type": "File",
             "year": 2011
@@ -8220,7 +7948,6 @@
             "size": 8095526,
             "total_time": 209200,
             "track_count": 12,
-            "track_id": 28626,
             "track_number": 10,
             "track_type": "File",
             "year": 2011
@@ -8250,7 +7977,6 @@
             "size": 7056391,
             "total_time": 185746,
             "track_count": 12,
-            "track_id": 28628,
             "track_number": 11,
             "track_type": "File",
             "year": 2011
@@ -8281,7 +8007,6 @@
             "sort_artist": "Cars",
             "total_time": 221893,
             "track_count": 12,
-            "track_id": 28630,
             "track_number": 12,
             "track_type": "File",
             "year": 2011

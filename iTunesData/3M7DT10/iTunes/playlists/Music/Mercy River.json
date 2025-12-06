@@ -3,7 +3,6 @@
     "display_path": "/Music/Mercy River",
     "name": "Mercy River",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79112,
     "playlist_persistent_id": "CF93293E7476F06B",
     "tracks": [
         {
@@ -30,7 +29,6 @@
             "size": 4986390,
             "total_time": 249208,
             "track_count": 11,
-            "track_id": 13456,
             "track_number": 1,
             "track_type": "File"
         },
@@ -58,7 +56,6 @@
             "size": 4608654,
             "total_time": 230321,
             "track_count": 11,
-            "track_id": 13458,
             "track_number": 2,
             "track_type": "File"
         },
@@ -86,7 +83,6 @@
             "size": 4476996,
             "total_time": 223738,
             "track_count": 11,
-            "track_id": 13460,
             "track_number": 3,
             "track_type": "File"
         },
@@ -114,7 +110,6 @@
             "size": 4712625,
             "total_time": 235520,
             "track_count": 11,
-            "track_id": 13462,
             "track_number": 4,
             "track_type": "File"
         },
@@ -142,7 +137,6 @@
             "size": 4836984,
             "total_time": 241737,
             "track_count": 11,
-            "track_id": 13464,
             "track_number": 5,
             "track_type": "File"
         },
@@ -170,7 +164,6 @@
             "size": 4683358,
             "total_time": 234057,
             "track_count": 11,
-            "track_id": 13466,
             "track_number": 6,
             "track_type": "File"
         },
@@ -198,7 +191,6 @@
             "size": 5141038,
             "total_time": 256940,
             "track_count": 11,
-            "track_id": 13468,
             "track_number": 7,
             "track_type": "File"
         },
@@ -226,7 +218,6 @@
             "size": 3939915,
             "total_time": 196884,
             "track_count": 11,
-            "track_id": 13470,
             "track_number": 8,
             "track_type": "File"
         },
@@ -254,7 +245,6 @@
             "size": 4061662,
             "total_time": 202971,
             "track_count": 11,
-            "track_id": 13472,
             "track_number": 9,
             "track_type": "File"
         },
@@ -282,7 +272,6 @@
             "size": 5656679,
             "total_time": 282723,
             "track_count": 11,
-            "track_id": 13474,
             "track_number": 10,
             "track_type": "File"
         },
@@ -310,7 +299,6 @@
             "size": 4609704,
             "total_time": 230373,
             "track_count": 11,
-            "track_id": 13476,
             "track_number": 11,
             "track_type": "File"
         },
@@ -338,7 +326,6 @@
             "size": 4047553,
             "total_time": 202266,
             "track_count": 10,
-            "track_id": 13478,
             "track_number": 1,
             "track_type": "File",
             "year": 2013
@@ -367,7 +354,6 @@
             "size": 4116516,
             "total_time": 205714,
             "track_count": 10,
-            "track_id": 13480,
             "track_number": 2,
             "track_type": "File",
             "year": 2013
@@ -396,7 +382,6 @@
             "size": 4551216,
             "total_time": 227448,
             "track_count": 10,
-            "track_id": 13482,
             "track_number": 3,
             "track_type": "File",
             "year": 2013
@@ -425,7 +410,6 @@
             "size": 5146279,
             "total_time": 257201,
             "track_count": 10,
-            "track_id": 13484,
             "track_number": 4,
             "track_type": "File",
             "year": 2013
@@ -454,7 +438,6 @@
             "size": 3435240,
             "total_time": 171650,
             "track_count": 10,
-            "track_id": 13486,
             "track_number": 5,
             "track_type": "File",
             "year": 2013
@@ -483,7 +466,6 @@
             "size": 3549130,
             "total_time": 177345,
             "track_count": 10,
-            "track_id": 13488,
             "track_number": 6,
             "track_type": "File",
             "year": 2013
@@ -512,7 +494,6 @@
             "size": 4155700,
             "total_time": 207673,
             "track_count": 10,
-            "track_id": 13490,
             "track_number": 7,
             "track_type": "File",
             "year": 2013
@@ -541,7 +522,6 @@
             "size": 5698489,
             "total_time": 284813,
             "track_count": 10,
-            "track_id": 13492,
             "track_number": 8,
             "track_type": "File",
             "year": 2013
@@ -570,7 +550,6 @@
             "size": 4835415,
             "total_time": 241658,
             "track_count": 10,
-            "track_id": 13494,
             "track_number": 9,
             "track_type": "File",
             "year": 2013
@@ -599,7 +578,6 @@
             "size": 4322371,
             "total_time": 216006,
             "track_count": 10,
-            "track_id": 13496,
             "track_number": 10,
             "track_type": "File",
             "year": 2013
@@ -629,7 +607,6 @@
             "size": 3680302,
             "total_time": 183902,
             "track_count": 11,
-            "track_id": 13498,
             "track_number": 1,
             "track_type": "File",
             "year": 2012
@@ -659,7 +636,6 @@
             "size": 4356883,
             "total_time": 217730,
             "track_count": 11,
-            "track_id": 13500,
             "track_number": 2,
             "track_type": "File",
             "year": 2012
@@ -689,7 +665,6 @@
             "size": 4551749,
             "total_time": 227474,
             "track_count": 11,
-            "track_id": 13502,
             "track_number": 3,
             "track_type": "File",
             "year": 2012
@@ -719,7 +694,6 @@
             "size": 4565331,
             "total_time": 228153,
             "track_count": 11,
-            "track_id": 13504,
             "track_number": 4,
             "track_type": "File",
             "year": 2012
@@ -749,7 +723,6 @@
             "size": 4210071,
             "total_time": 210390,
             "track_count": 11,
-            "track_id": 13506,
             "track_number": 5,
             "track_type": "File",
             "year": 2012
@@ -779,7 +752,6 @@
             "size": 3820320,
             "total_time": 190902,
             "track_count": 11,
-            "track_id": 13508,
             "track_number": 6,
             "track_type": "File",
             "year": 2012
@@ -809,7 +781,6 @@
             "size": 4156767,
             "total_time": 207725,
             "track_count": 11,
-            "track_id": 13510,
             "track_number": 7,
             "track_type": "File",
             "year": 2012
@@ -839,7 +810,6 @@
             "size": 5533946,
             "total_time": 276584,
             "track_count": 11,
-            "track_id": 13512,
             "track_number": 8,
             "track_type": "File",
             "year": 2012
@@ -869,7 +839,6 @@
             "size": 4873577,
             "total_time": 243565,
             "track_count": 11,
-            "track_id": 13514,
             "track_number": 9,
             "track_type": "File",
             "year": 2012
@@ -899,7 +868,6 @@
             "size": 4977539,
             "total_time": 248764,
             "track_count": 11,
-            "track_id": 13516,
             "track_number": 10,
             "track_type": "File",
             "year": 2012
@@ -929,7 +897,6 @@
             "size": 6134250,
             "total_time": 306599,
             "track_count": 11,
-            "track_id": 13518,
             "track_number": 11,
             "track_type": "File",
             "year": 2012

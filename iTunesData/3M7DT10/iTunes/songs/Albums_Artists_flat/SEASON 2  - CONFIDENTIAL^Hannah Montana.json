@@ -24,7 +24,6 @@
             "size": 5503519,
             "total_time": 275069,
             "track_count": 9,
-            "track_id": 8898,
             "track_number": 1,
             "track_type": "File"
         },
@@ -53,7 +52,6 @@
             "skip_date": "2018-12-27T07:06:04",
             "total_time": 202135,
             "track_count": 9,
-            "track_id": 8900,
             "track_number": 2,
             "track_type": "File"
         },
@@ -81,7 +79,6 @@
             "size": 4022148,
             "total_time": 200986,
             "track_count": 9,
-            "track_id": 8902,
             "track_number": 3,
             "track_type": "File"
         },
@@ -111,7 +108,6 @@
             "skip_date": "2017-03-06T23:13:18",
             "total_time": 221309,
             "track_count": 9,
-            "track_id": 8904,
             "track_number": 4,
             "track_type": "File"
         },
@@ -138,7 +134,6 @@
             "size": 3848923,
             "total_time": 192339,
             "track_count": 9,
-            "track_id": 8906,
             "track_number": 5,
             "track_type": "File"
         },
@@ -165,7 +160,6 @@
             "size": 3778392,
             "total_time": 188813,
             "track_count": 9,
-            "track_id": 8908,
             "track_number": 6,
             "track_type": "File"
         },
@@ -193,7 +187,6 @@
             "size": 3550777,
             "total_time": 177397,
             "track_count": 9,
-            "track_id": 8910,
             "track_number": 7,
             "track_type": "File"
         },
@@ -221,7 +214,6 @@
             "size": 4394077,
             "total_time": 219585,
             "track_count": 9,
-            "track_id": 8912,
             "track_number": 8,
             "track_type": "File"
         },
@@ -249,7 +241,6 @@
             "size": 4549558,
             "total_time": 227343,
             "track_count": 9,
-            "track_id": 8914,
             "track_number": 9,
             "track_type": "File"
         }

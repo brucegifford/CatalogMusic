@@ -3,7 +3,6 @@
     "display_path": "/Books/Spencer W. Kimball - Faith Precedes The Miracle",
     "name": "Spencer W. Kimball - Faith Precedes The Miracle",
     "parent_persistent_id": "9C9BC6EF6443C7A4",
-    "playlist_id": 76441,
     "playlist_persistent_id": "CC70673682CEB22C",
     "tracks": [
         {
@@ -26,7 +25,6 @@
             "size": 12356062,
             "total_time": 617691,
             "track_count": 9,
-            "track_id": 16676,
             "track_number": 1,
             "track_type": "File"
         },
@@ -50,7 +48,6 @@
             "size": 11015981,
             "total_time": 550687,
             "track_count": 9,
-            "track_id": 16678,
             "track_number": 2,
             "track_type": "File"
         },
@@ -74,7 +71,6 @@
             "size": 10792400,
             "total_time": 539506,
             "track_count": 9,
-            "track_id": 16680,
             "track_number": 3,
             "track_type": "File"
         },
@@ -98,7 +94,6 @@
             "size": 11930293,
             "total_time": 596401,
             "track_count": 9,
-            "track_id": 16682,
             "track_number": 4,
             "track_type": "File"
         },
@@ -122,7 +117,6 @@
             "size": 8335859,
             "total_time": 416679,
             "track_count": 9,
-            "track_id": 16684,
             "track_number": 5,
             "track_type": "File"
         },
@@ -146,7 +140,6 @@
             "size": 9306569,
             "total_time": 465214,
             "track_count": 9,
-            "track_id": 16686,
             "track_number": 6,
             "track_type": "File"
         },
@@ -170,7 +163,6 @@
             "size": 12515458,
             "total_time": 625658,
             "track_count": 9,
-            "track_id": 16688,
             "track_number": 7,
             "track_type": "File"
         },
@@ -194,7 +186,6 @@
             "size": 8487899,
             "total_time": 424280,
             "track_count": 9,
-            "track_id": 16690,
             "track_number": 8,
             "track_type": "File"
         },
@@ -218,7 +209,6 @@
             "size": 8180177,
             "total_time": 408894,
             "track_count": 9,
-            "track_id": 16692,
             "track_number": 9,
             "track_type": "File"
         },
@@ -242,7 +232,6 @@
             "size": 10637195,
             "total_time": 531748,
             "track_count": 10,
-            "track_id": 16694,
             "track_number": 1,
             "track_type": "File"
         },
@@ -266,7 +255,6 @@
             "size": 9321146,
             "total_time": 465946,
             "track_count": 10,
-            "track_id": 16696,
             "track_number": 2,
             "track_type": "File"
         },
@@ -290,7 +278,6 @@
             "size": 9253228,
             "total_time": 462550,
             "track_count": 10,
-            "track_id": 16698,
             "track_number": 3,
             "track_type": "File"
         },
@@ -314,7 +301,6 @@
             "size": 11577081,
             "total_time": 578742,
             "track_count": 10,
-            "track_id": 16700,
             "track_number": 4,
             "track_type": "File"
         },
@@ -338,7 +324,6 @@
             "size": 10022273,
             "total_time": 501002,
             "track_count": 10,
-            "track_id": 16702,
             "track_number": 5,
             "track_type": "File"
         },
@@ -362,7 +347,6 @@
             "size": 8899530,
             "total_time": 444865,
             "track_count": 10,
-            "track_id": 16704,
             "track_number": 6,
             "track_type": "File"
         },
@@ -386,7 +370,6 @@
             "size": 8268412,
             "total_time": 413309,
             "track_count": 10,
-            "track_id": 16706,
             "track_number": 7,
             "track_type": "File"
         },
@@ -410,7 +393,6 @@
             "size": 10553603,
             "total_time": 527568,
             "track_count": 10,
-            "track_id": 16708,
             "track_number": 8,
             "track_type": "File"
         },
@@ -434,7 +416,6 @@
             "size": 9441310,
             "total_time": 471954,
             "track_count": 10,
-            "track_id": 16710,
             "track_number": 9,
             "track_type": "File"
         },
@@ -458,7 +439,6 @@
             "size": 7666029,
             "total_time": 383190,
             "track_count": 10,
-            "track_id": 16712,
             "track_number": 10,
             "track_type": "File"
         },
@@ -482,7 +462,6 @@
             "size": 12213487,
             "total_time": 610560,
             "track_count": 9,
-            "track_id": 16714,
             "track_number": 1,
             "track_type": "File"
         },
@@ -506,7 +485,6 @@
             "size": 9859332,
             "total_time": 492852,
             "track_count": 9,
-            "track_id": 16716,
             "track_number": 2,
             "track_type": "File"
         },
@@ -530,7 +508,6 @@
             "size": 11373910,
             "total_time": 568581,
             "track_count": 9,
-            "track_id": 16718,
             "track_number": 3,
             "track_type": "File"
         },
@@ -554,7 +531,6 @@
             "size": 13770906,
             "total_time": 688431,
             "track_count": 9,
-            "track_id": 16720,
             "track_number": 4,
             "track_type": "File"
         },
@@ -578,7 +554,6 @@
             "size": 9839457,
             "total_time": 491859,
             "track_count": 9,
-            "track_id": 16722,
             "track_number": 5,
             "track_type": "File"
         },
@@ -602,7 +577,6 @@
             "size": 9676975,
             "total_time": 483735,
             "track_count": 9,
-            "track_id": 16724,
             "track_number": 6,
             "track_type": "File"
         },
@@ -626,7 +600,6 @@
             "size": 8913155,
             "total_time": 445544,
             "track_count": 9,
-            "track_id": 16726,
             "track_number": 7,
             "track_type": "File"
         },
@@ -650,7 +623,6 @@
             "size": 10902144,
             "total_time": 544992,
             "track_count": 9,
-            "track_id": 16728,
             "track_number": 8,
             "track_type": "File"
         },
@@ -674,7 +646,6 @@
             "size": 7991566,
             "total_time": 399464,
             "track_count": 9,
-            "track_id": 16730,
             "track_number": 9,
             "track_type": "File"
         },
@@ -698,7 +669,6 @@
             "size": 13327860,
             "total_time": 666279,
             "track_count": 9,
-            "track_id": 16732,
             "track_number": 1,
             "track_type": "File"
         },
@@ -722,7 +692,6 @@
             "size": 10310206,
             "total_time": 515395,
             "track_count": 9,
-            "track_id": 16734,
             "track_number": 2,
             "track_type": "File"
         },
@@ -746,7 +715,6 @@
             "size": 14828345,
             "total_time": 741302,
             "track_count": 9,
-            "track_id": 16736,
             "track_number": 3,
             "track_type": "File"
         },
@@ -770,7 +738,6 @@
             "size": 6455561,
             "total_time": 322664,
             "track_count": 9,
-            "track_id": 16738,
             "track_number": 4,
             "track_type": "File"
         },
@@ -794,7 +761,6 @@
             "size": 10082929,
             "total_time": 504032,
             "track_count": 9,
-            "track_id": 16740,
             "track_number": 5,
             "track_type": "File"
         },
@@ -818,7 +784,6 @@
             "size": 6882406,
             "total_time": 344006,
             "track_count": 9,
-            "track_id": 16742,
             "track_number": 6,
             "track_type": "File"
         },
@@ -842,7 +807,6 @@
             "size": 10497743,
             "total_time": 524773,
             "track_count": 9,
-            "track_id": 16744,
             "track_number": 7,
             "track_type": "File"
         },
@@ -866,7 +830,6 @@
             "size": 11198870,
             "total_time": 559830,
             "track_count": 9,
-            "track_id": 16746,
             "track_number": 8,
             "track_type": "File"
         },
@@ -890,7 +853,6 @@
             "size": 8775753,
             "total_time": 438674,
             "track_count": 9,
-            "track_id": 16748,
             "track_number": 9,
             "track_type": "File"
         },
@@ -914,7 +876,6 @@
             "size": 8836315,
             "total_time": 441704,
             "track_count": 10,
-            "track_id": 16750,
             "track_number": 1,
             "track_type": "File"
         },
@@ -938,7 +899,6 @@
             "size": 7655058,
             "total_time": 382641,
             "track_count": 10,
-            "track_id": 16752,
             "track_number": 2,
             "track_type": "File"
         },
@@ -962,7 +922,6 @@
             "size": 7185898,
             "total_time": 359183,
             "track_count": 10,
-            "track_id": 16754,
             "track_number": 3,
             "track_type": "File"
         },
@@ -986,7 +945,6 @@
             "size": 10521213,
             "total_time": 525949,
             "track_count": 10,
-            "track_id": 16756,
             "track_number": 4,
             "track_type": "File"
         },
@@ -1010,7 +968,6 @@
             "size": 14311580,
             "total_time": 715467,
             "track_count": 10,
-            "track_id": 16758,
             "track_number": 5,
             "track_type": "File"
         },
@@ -1034,7 +991,6 @@
             "size": 12315302,
             "total_time": 615653,
             "track_count": 10,
-            "track_id": 16760,
             "track_number": 6,
             "track_type": "File"
         },
@@ -1058,7 +1014,6 @@
             "size": 8890649,
             "total_time": 444421,
             "track_count": 10,
-            "track_id": 16762,
             "track_number": 7,
             "track_type": "File"
         },
@@ -1082,7 +1037,6 @@
             "size": 8483662,
             "total_time": 424071,
             "track_count": 10,
-            "track_id": 16764,
             "track_number": 8,
             "track_type": "File"
         },
@@ -1106,7 +1060,6 @@
             "size": 8124739,
             "total_time": 406125,
             "track_count": 10,
-            "track_id": 16766,
             "track_number": 9,
             "track_type": "File"
         },
@@ -1130,7 +1083,6 @@
             "size": 7535940,
             "total_time": 376685,
             "track_count": 10,
-            "track_id": 16768,
             "track_number": 10,
             "track_type": "File"
         },
@@ -1154,7 +1106,6 @@
             "size": 8725555,
             "total_time": 436166,
             "track_count": 10,
-            "track_id": 16770,
             "track_number": 1,
             "track_type": "File"
         },
@@ -1178,7 +1129,6 @@
             "size": 7092380,
             "total_time": 354507,
             "track_count": 10,
-            "track_id": 16772,
             "track_number": 2,
             "track_type": "File"
         },
@@ -1202,7 +1152,6 @@
             "size": 7182241,
             "total_time": 359000,
             "track_count": 10,
-            "track_id": 16774,
             "track_number": 3,
             "track_type": "File"
         },
@@ -1226,7 +1175,6 @@
             "size": 8907368,
             "total_time": 445257,
             "track_count": 10,
-            "track_id": 16776,
             "track_number": 4,
             "track_type": "File"
         },
@@ -1250,7 +1198,6 @@
             "size": 9277262,
             "total_time": 463751,
             "track_count": 10,
-            "track_id": 16778,
             "track_number": 5,
             "track_type": "File"
         },
@@ -1274,7 +1221,6 @@
             "size": 7486307,
             "total_time": 374204,
             "track_count": 10,
-            "track_id": 16780,
             "track_number": 6,
             "track_type": "File"
         },
@@ -1298,7 +1244,6 @@
             "size": 9750600,
             "total_time": 487418,
             "track_count": 10,
-            "track_id": 16782,
             "track_number": 7,
             "track_type": "File"
         },
@@ -1322,7 +1267,6 @@
             "size": 9948086,
             "total_time": 497293,
             "track_count": 10,
-            "track_id": 16784,
             "track_number": 8,
             "track_type": "File"
         },
@@ -1346,7 +1290,6 @@
             "size": 9850911,
             "total_time": 492434,
             "track_count": 10,
-            "track_id": 16786,
             "track_number": 9,
             "track_type": "File"
         },
@@ -1370,7 +1313,6 @@
             "size": 7125295,
             "total_time": 356153,
             "track_count": 10,
-            "track_id": 16788,
             "track_number": 10,
             "track_type": "File"
         },
@@ -1394,7 +1336,6 @@
             "size": 11272529,
             "total_time": 563513,
             "track_count": 9,
-            "track_id": 16790,
             "track_number": 1,
             "track_type": "File"
         },
@@ -1418,7 +1359,6 @@
             "size": 10139860,
             "total_time": 506880,
             "track_count": 9,
-            "track_id": 16792,
             "track_number": 2,
             "track_type": "File"
         },
@@ -1442,7 +1382,6 @@
             "size": 9408955,
             "total_time": 470334,
             "track_count": 9,
-            "track_id": 16794,
             "track_number": 3,
             "track_type": "File"
         },
@@ -1466,7 +1405,6 @@
             "size": 6987926,
             "total_time": 349283,
             "track_count": 9,
-            "track_id": 16796,
             "track_number": 4,
             "track_type": "File"
         },
@@ -1490,7 +1428,6 @@
             "size": 11200443,
             "total_time": 559908,
             "track_count": 9,
-            "track_id": 16798,
             "track_number": 5,
             "track_type": "File"
         },
@@ -1514,7 +1451,6 @@
             "size": 8243909,
             "total_time": 412081,
             "track_count": 9,
-            "track_id": 16800,
             "track_number": 6,
             "track_type": "File"
         },
@@ -1538,7 +1474,6 @@
             "size": 9116921,
             "total_time": 455732,
             "track_count": 9,
-            "track_id": 16802,
             "track_number": 7,
             "track_type": "File"
         },
@@ -1562,7 +1497,6 @@
             "size": 10927712,
             "total_time": 546272,
             "track_count": 9,
-            "track_id": 16804,
             "track_number": 8,
             "track_type": "File"
         },
@@ -1586,7 +1520,6 @@
             "size": 11049965,
             "total_time": 552385,
             "track_count": 9,
-            "track_id": 16806,
             "track_number": 9,
             "track_type": "File"
         },
@@ -1610,7 +1543,6 @@
             "size": 9419392,
             "total_time": 470857,
             "track_count": 9,
-            "track_id": 16808,
             "track_number": 1,
             "track_type": "File"
         },
@@ -1634,7 +1566,6 @@
             "size": 10086559,
             "total_time": 504215,
             "track_count": 9,
-            "track_id": 16810,
             "track_number": 2,
             "track_type": "File"
         },
@@ -1658,7 +1589,6 @@
             "size": 9266852,
             "total_time": 463229,
             "track_count": 9,
-            "track_id": 16812,
             "track_number": 3,
             "track_type": "File"
         },
@@ -1682,7 +1612,6 @@
             "size": 8291967,
             "total_time": 414484,
             "track_count": 9,
-            "track_id": 16814,
             "track_number": 4,
             "track_type": "File"
         },
@@ -1706,7 +1635,6 @@
             "size": 8681714,
             "total_time": 433972,
             "track_count": 9,
-            "track_id": 16816,
             "track_number": 5,
             "track_type": "File"
         },
@@ -1730,7 +1658,6 @@
             "size": 10862444,
             "total_time": 543007,
             "track_count": 9,
-            "track_id": 16818,
             "track_number": 6,
             "track_type": "File"
         },
@@ -1754,7 +1681,6 @@
             "size": 10473219,
             "total_time": 523546,
             "track_count": 9,
-            "track_id": 16820,
             "track_number": 7,
             "track_type": "File"
         },
@@ -1778,7 +1704,6 @@
             "size": 6788877,
             "total_time": 339330,
             "track_count": 9,
-            "track_id": 16822,
             "track_number": 8,
             "track_type": "File"
         },
@@ -1802,7 +1727,6 @@
             "size": 6347930,
             "total_time": 317283,
             "track_count": 9,
-            "track_id": 16824,
             "track_number": 9,
             "track_type": "File"
         },
@@ -1826,7 +1750,6 @@
             "size": 9059376,
             "total_time": 452858,
             "track_count": 6,
-            "track_id": 16826,
             "track_number": 1,
             "track_type": "File"
         },
@@ -1850,7 +1773,6 @@
             "size": 9971572,
             "total_time": 498468,
             "track_count": 6,
-            "track_id": 16828,
             "track_number": 2,
             "track_type": "File"
         },
@@ -1874,7 +1796,6 @@
             "size": 9023850,
             "total_time": 451082,
             "track_count": 6,
-            "track_id": 16830,
             "track_number": 3,
             "track_type": "File"
         },
@@ -1898,7 +1819,6 @@
             "size": 6577744,
             "total_time": 328777,
             "track_count": 6,
-            "track_id": 16832,
             "track_number": 4,
             "track_type": "File"
         },
@@ -1922,7 +1842,6 @@
             "size": 6498331,
             "total_time": 324806,
             "track_count": 6,
-            "track_id": 16834,
             "track_number": 5,
             "track_type": "File"
         },
@@ -1946,7 +1865,6 @@
             "size": 8348323,
             "total_time": 417306,
             "track_count": 6,
-            "track_id": 16836,
             "track_number": 6,
             "track_type": "File"
         }

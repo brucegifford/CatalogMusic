@@ -3,7 +3,6 @@
     "display_path": "/Talks-heard/Lance M. Richardson - They Saw Our Day",
     "name": "Lance M. Richardson - They Saw Our Day",
     "parent_persistent_id": "D48A1F6A87EA0E38",
-    "playlist_id": 81560,
     "playlist_persistent_id": "F1D53EF2D34FB4D1",
     "tracks": [
         {
@@ -28,7 +27,6 @@
             "size": 20629504,
             "total_time": 2577972,
             "track_count": 3,
-            "track_id": 12796,
             "track_number": 1,
             "track_type": "File",
             "year": 2000
@@ -55,7 +53,6 @@
             "size": 19994624,
             "total_time": 2498533,
             "track_count": 3,
-            "track_id": 12798,
             "track_number": 2,
             "track_type": "File",
             "year": 2000
@@ -81,7 +78,6 @@
             "size": 13625472,
             "total_time": 1702452,
             "track_count": 3,
-            "track_id": 12800,
             "track_number": 3,
             "track_type": "File",
             "year": 2000

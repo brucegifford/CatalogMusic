@@ -3,7 +3,6 @@
     "display_path": "/DontCare/F.Chopin - VSM audio files - (c) 2010 virtualsheetmusic.com",
     "name": "F.Chopin - VSM audio files - (c) 2010 virtualsheetmusic.com",
     "parent_persistent_id": "DF28B6A41B803CD0",
-    "playlist_id": 76596,
     "playlist_persistent_id": "D79EACB598671681",
     "tracks": [
         {
@@ -23,7 +22,6 @@
             "sample_rate": 44100,
             "size": 5298342,
             "total_time": 331075,
-            "track_id": 7418,
             "track_type": "File",
             "year": 2010
         }

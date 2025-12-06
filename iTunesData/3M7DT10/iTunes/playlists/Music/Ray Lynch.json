@@ -3,7 +3,6 @@
     "display_path": "/Music/Ray Lynch",
     "name": "Ray Lynch",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79305,
     "playlist_persistent_id": "FC6E0FCD6E0D5BE0",
     "tracks": [
         {
@@ -30,7 +29,6 @@
             "size": 5659797,
             "total_time": 282880,
             "track_count": 8,
-            "track_id": 15630,
             "track_number": 1,
             "track_type": "File",
             "year": 1986
@@ -60,7 +58,6 @@
             "sort_name": "Oh of Pleasure",
             "total_time": 322507,
             "track_count": 8,
-            "track_id": 15632,
             "track_number": 2,
             "track_type": "File",
             "year": 1986
@@ -89,7 +86,6 @@
             "size": 3343261,
             "total_time": 167053,
             "track_count": 8,
-            "track_id": 15634,
             "track_number": 3,
             "track_type": "File",
             "year": 1986
@@ -118,7 +114,6 @@
             "size": 9060421,
             "total_time": 452911,
             "track_count": 8,
-            "track_id": 15636,
             "track_number": 4,
             "track_type": "File",
             "year": 1986
@@ -147,7 +142,6 @@
             "size": 5081968,
             "total_time": 253988,
             "track_count": 8,
-            "track_id": 15638,
             "track_number": 5,
             "track_type": "File",
             "year": 1986
@@ -176,7 +170,6 @@
             "size": 5009867,
             "total_time": 250383,
             "track_count": 8,
-            "track_id": 15640,
             "track_number": 6,
             "track_type": "File",
             "year": 1986
@@ -205,7 +198,6 @@
             "size": 6628931,
             "total_time": 331337,
             "track_count": 8,
-            "track_id": 15642,
             "track_number": 7,
             "track_type": "File",
             "year": 1986
@@ -234,7 +226,6 @@
             "size": 7232365,
             "total_time": 361508,
             "track_count": 8,
-            "track_id": 15644,
             "track_number": 8,
             "track_type": "File",
             "year": 1986
@@ -264,7 +255,6 @@
             "sort_album": "Sky of Mind",
             "total_time": 557609,
             "track_count": 6,
-            "track_id": 15646,
             "track_number": 1,
             "track_type": "File",
             "year": 1983
@@ -291,7 +281,6 @@
             "sort_album": "Sky of Mind",
             "total_time": 383843,
             "track_count": 6,
-            "track_id": 15648,
             "track_number": 2,
             "track_type": "File",
             "year": 1983
@@ -322,7 +311,6 @@
             "sort_name": "Temple",
             "total_time": 484284,
             "track_count": 6,
-            "track_id": 15650,
             "track_number": 3,
             "track_type": "File",
             "year": 1983
@@ -352,7 +340,6 @@
             "sort_album": "Sky of Mind",
             "total_time": 545959,
             "track_count": 6,
-            "track_id": 15652,
             "track_number": 4,
             "track_type": "File",
             "year": 1983
@@ -382,7 +369,6 @@
             "sort_album": "Sky of Mind",
             "total_time": 410644,
             "track_count": 6,
-            "track_id": 15654,
             "track_number": 5,
             "track_type": "File",
             "year": 1983
@@ -412,7 +398,6 @@
             "sort_album": "Sky of Mind",
             "total_time": 345573,
             "track_count": 6,
-            "track_id": 15656,
             "track_number": 6,
             "track_type": "File",
             "year": 1983

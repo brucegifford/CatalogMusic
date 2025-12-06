@@ -16,7 +16,6 @@
             "release_date": "2020-01-05T14:00:00",
             "size": 65845366,
             "total_time": 5475000,
-            "track_id": 29594,
             "track_type": "URL"
         },
         {
@@ -34,7 +33,6 @@
             "release_date": "2020-01-08T20:00:00",
             "size": 54293590,
             "total_time": 4513000,
-            "track_id": 29596,
             "track_type": "URL"
         },
         {
@@ -52,7 +50,6 @@
             "release_date": "2020-01-12T20:00:00",
             "size": 45512036,
             "total_time": 3781000,
-            "track_id": 29598,
             "track_type": "URL"
         },
         {
@@ -75,7 +72,6 @@
             "sample_rate": 44100,
             "size": 30677174,
             "total_time": 2545000,
-            "track_id": 29600,
             "track_type": "URL",
             "year": 2020
         },
@@ -99,7 +95,6 @@
             "sample_rate": 44100,
             "size": 32152251,
             "total_time": 2668000,
-            "track_id": 29602,
             "track_type": "URL",
             "year": 2020
         },
@@ -123,7 +118,6 @@
             "sample_rate": 44100,
             "size": 18077919,
             "total_time": 1497000,
-            "track_id": 29604,
             "track_type": "URL",
             "year": 2020
         },
@@ -147,7 +141,6 @@
             "sample_rate": 44100,
             "size": 36125023,
             "total_time": 3000000,
-            "track_id": 29624,
             "track_type": "URL",
             "year": 2020
         },
@@ -171,7 +164,6 @@
             "sample_rate": 44100,
             "size": 53557899,
             "total_time": 4452000,
-            "track_id": 29628,
             "track_type": "URL",
             "year": 2020
         },
@@ -195,7 +187,6 @@
             "sample_rate": 44100,
             "size": 62411506,
             "total_time": 5191000,
-            "track_id": 30200,
             "track_type": "URL",
             "year": 2020
         },
@@ -219,7 +210,6 @@
             "sample_rate": 44100,
             "size": 40297736,
             "total_time": 3346000,
-            "track_id": 30202,
             "track_type": "URL",
             "year": 2020
         },
@@ -243,7 +233,6 @@
             "sample_rate": 44100,
             "size": 44930046,
             "total_time": 3734000,
-            "track_id": 30530,
             "track_type": "URL",
             "year": 2020
         },
@@ -262,7 +251,6 @@
             "release_date": "2020-02-18T18:00:00",
             "size": 21507886,
             "total_time": 1781000,
-            "track_id": 30536,
             "track_type": "URL"
         },
         {
@@ -280,7 +268,6 @@
             "release_date": "2020-02-25T04:00:00",
             "size": 75017807,
             "total_time": 6241000,
-            "track_id": 30556,
             "track_type": "URL"
         },
         {
@@ -298,7 +285,6 @@
             "release_date": "2020-02-27T23:00:00",
             "size": 68630840,
             "total_time": 5710000,
-            "track_id": 30562,
             "track_type": "URL"
         },
         {
@@ -316,7 +302,6 @@
             "release_date": "2020-03-04T20:00:00",
             "size": 33761845,
             "total_time": 2803000,
-            "track_id": 30932,
             "track_type": "URL"
         },
         {
@@ -334,7 +319,6 @@
             "release_date": "2020-03-05T05:00:00",
             "size": 34746358,
             "total_time": 2884000,
-            "track_id": 30936,
             "track_type": "URL"
         }
     ]

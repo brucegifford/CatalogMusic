@@ -3,7 +3,6 @@
     "display_path": "/Music/Skyfall",
     "name": "Skyfall",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79398,
     "playlist_persistent_id": "47A876BB3D5948CB",
     "tracks": [
         {
@@ -32,7 +31,6 @@
             "size": 10971694,
             "total_time": 314618,
             "track_count": 30,
-            "track_id": 17344,
             "track_number": 1,
             "track_type": "File",
             "year": 2012
@@ -63,7 +61,6 @@
             "size": 4703109,
             "total_time": 142393,
             "track_count": 30,
-            "track_id": 17346,
             "track_number": 2,
             "track_type": "File",
             "year": 2012
@@ -94,7 +91,6 @@
             "size": 5138065,
             "total_time": 152764,
             "track_count": 30,
-            "track_id": 17348,
             "track_number": 3,
             "track_type": "File",
             "year": 2012
@@ -125,7 +121,6 @@
             "size": 2557262,
             "total_time": 78680,
             "track_count": 30,
-            "track_id": 17350,
             "track_number": 4,
             "track_type": "File",
             "year": 2012
@@ -156,7 +151,6 @@
             "size": 3652247,
             "total_time": 110497,
             "track_count": 30,
-            "track_id": 17352,
             "track_number": 5,
             "track_type": "File",
             "year": 2012
@@ -187,7 +181,6 @@
             "size": 3102774,
             "total_time": 86987,
             "track_count": 30,
-            "track_id": 17354,
             "track_number": 6,
             "track_type": "File",
             "year": 2012
@@ -218,7 +211,6 @@
             "size": 6666486,
             "total_time": 202814,
             "track_count": 30,
-            "track_id": 17356,
             "track_number": 7,
             "track_type": "File",
             "year": 2012
@@ -249,7 +241,6 @@
             "size": 2039528,
             "total_time": 56215,
             "track_count": 30,
-            "track_id": 17358,
             "track_number": 8,
             "track_type": "File",
             "year": 2012
@@ -280,7 +271,6 @@
             "size": 2119998,
             "total_time": 64026,
             "track_count": 30,
-            "track_id": 17360,
             "track_number": 9,
             "track_type": "File",
             "year": 2012
@@ -311,7 +301,6 @@
             "size": 3063645,
             "total_time": 91820,
             "track_count": 30,
-            "track_id": 17362,
             "track_number": 10,
             "track_type": "File",
             "year": 2012
@@ -342,7 +331,6 @@
             "size": 9980980,
             "total_time": 298161,
             "track_count": 30,
-            "track_id": 17364,
             "track_number": 11,
             "track_type": "File",
             "year": 2012
@@ -373,7 +361,6 @@
             "size": 4807978,
             "total_time": 149968,
             "track_count": 30,
-            "track_id": 17366,
             "track_number": 12,
             "track_type": "File",
             "year": 2012
@@ -404,7 +391,6 @@
             "size": 6933205,
             "total_time": 200176,
             "track_count": 30,
-            "track_id": 17368,
             "track_number": 13,
             "track_type": "File",
             "year": 2012
@@ -436,7 +422,6 @@
             "sort_name": "Bloody Shot",
             "total_time": 286249,
             "track_count": 30,
-            "track_id": 17370,
             "track_number": 14,
             "track_type": "File",
             "year": 2012
@@ -467,7 +452,6 @@
             "size": 2420099,
             "total_time": 73691,
             "track_count": 30,
-            "track_id": 17372,
             "track_number": 15,
             "track_type": "File",
             "year": 2012
@@ -499,7 +483,6 @@
             "sort_name": "Chimera",
             "total_time": 118282,
             "track_count": 30,
-            "track_id": 17374,
             "track_number": 16,
             "track_type": "File",
             "year": 2012
@@ -530,7 +513,6 @@
             "size": 2890425,
             "total_time": 92630,
             "track_count": 30,
-            "track_id": 17376,
             "track_number": 17,
             "track_type": "File",
             "year": 2012
@@ -561,7 +543,6 @@
             "size": 3155290,
             "total_time": 89547,
             "track_count": 30,
-            "track_id": 17378,
             "track_number": 18,
             "track_type": "File",
             "year": 2012
@@ -592,7 +573,6 @@
             "size": 5242925,
             "total_time": 152659,
             "track_count": 30,
-            "track_id": 17380,
             "track_number": 19,
             "track_type": "File",
             "year": 2012
@@ -623,7 +603,6 @@
             "size": 4585851,
             "total_time": 134478,
             "track_count": 30,
-            "track_id": 17382,
             "track_number": 20,
             "track_type": "File",
             "year": 2012
@@ -654,7 +633,6 @@
             "size": 6016141,
             "total_time": 169769,
             "track_count": 30,
-            "track_id": 17384,
             "track_number": 21,
             "track_type": "File",
             "year": 2012
@@ -685,7 +663,6 @@
             "size": 3952484,
             "total_time": 122305,
             "track_count": 30,
-            "track_id": 17386,
             "track_number": 22,
             "track_type": "File",
             "year": 2012
@@ -716,7 +693,6 @@
             "size": 4830564,
             "total_time": 152685,
             "track_count": 30,
-            "track_id": 17388,
             "track_number": 23,
             "track_type": "File",
             "year": 2012
@@ -747,7 +723,6 @@
             "size": 4694501,
             "total_time": 142106,
             "track_count": 30,
-            "track_id": 17390,
             "track_number": 24,
             "track_type": "File",
             "year": 2012
@@ -778,7 +753,6 @@
             "size": 6725562,
             "total_time": 201116,
             "track_count": 30,
-            "track_id": 17392,
             "track_number": 25,
             "track_type": "File",
             "year": 2012
@@ -809,7 +783,6 @@
             "size": 8117405,
             "total_time": 233717,
             "track_count": 30,
-            "track_id": 17394,
             "track_number": 26,
             "track_type": "File",
             "year": 2012
@@ -841,7 +814,6 @@
             "sort_name": "Moors",
             "total_time": 159477,
             "track_count": 30,
-            "track_id": 17396,
             "track_number": 27,
             "track_type": "File",
             "year": 2012
@@ -872,7 +844,6 @@
             "size": 10100794,
             "total_time": 311693,
             "track_count": 30,
-            "track_id": 17398,
             "track_number": 28,
             "track_type": "File",
             "year": 2012
@@ -903,7 +874,6 @@
             "size": 3481307,
             "total_time": 108721,
             "track_count": 30,
-            "track_id": 17400,
             "track_number": 29,
             "track_type": "File",
             "year": 2012
@@ -934,7 +904,6 @@
             "size": 4816225,
             "total_time": 141113,
             "track_count": 30,
-            "track_id": 17402,
             "track_number": 30,
             "track_type": "File",
             "year": 2012

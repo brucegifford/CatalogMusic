@@ -3,7 +3,6 @@
     "display_path": "/Music/Pentatonix - That_s Christmas to Me",
     "name": "Pentatonix - That's Christmas to Me",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79292,
     "playlist_persistent_id": "EC9C9C3D830AAE6E",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "sample_rate": 44100,
             "size": 3855326,
             "total_time": 192653,
-            "track_id": 24168,
             "track_number": 1,
             "track_type": "File",
             "year": 2014
@@ -53,7 +51,6 @@
             "sample_rate": 44100,
             "size": 3349045,
             "total_time": 167340,
-            "track_id": 24170,
             "track_number": 2,
             "track_type": "File",
             "year": 2014
@@ -79,7 +76,6 @@
             "sample_rate": 44100,
             "size": 2735177,
             "total_time": 136646,
-            "track_id": 24172,
             "track_number": 3,
             "track_type": "File",
             "year": 2014
@@ -105,7 +101,6 @@
             "sample_rate": 44100,
             "size": 3647362,
             "total_time": 182256,
-            "track_id": 24176,
             "track_number": 5,
             "track_type": "File",
             "year": 2014
@@ -131,7 +126,6 @@
             "sample_rate": 44100,
             "size": 4071602,
             "total_time": 203467,
-            "track_id": 24178,
             "track_number": 6,
             "track_type": "File",
             "year": 2014
@@ -157,7 +151,6 @@
             "sample_rate": 44100,
             "size": 2541908,
             "total_time": 126981,
-            "track_id": 24180,
             "track_number": 7,
             "track_type": "File",
             "year": 2014
@@ -183,7 +176,6 @@
             "sample_rate": 44100,
             "size": 3706431,
             "total_time": 185208,
-            "track_id": 24182,
             "track_number": 8,
             "track_type": "File",
             "year": 2014
@@ -209,7 +201,6 @@
             "sample_rate": 44100,
             "size": 3247716,
             "total_time": 162272,
-            "track_id": 24184,
             "track_number": 9,
             "track_type": "File",
             "year": 2014
@@ -235,7 +226,6 @@
             "sample_rate": 44100,
             "size": 3868392,
             "total_time": 193306,
-            "track_id": 24186,
             "track_number": 10,
             "track_type": "File",
             "year": 2014
@@ -261,7 +251,6 @@
             "sample_rate": 44100,
             "size": 4137438,
             "total_time": 206759,
-            "track_id": 24188,
             "track_number": 11,
             "track_type": "File",
             "year": 2014

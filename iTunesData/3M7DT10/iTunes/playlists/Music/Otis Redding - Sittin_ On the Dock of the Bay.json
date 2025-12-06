@@ -3,7 +3,6 @@
     "display_path": "/Music/Otis Redding - Sittin_ On the Dock of the Bay",
     "name": "Otis Redding - Sittin' On the Dock of the Bay",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 79288,
     "playlist_persistent_id": "75B3CA09F6113CC0",
     "tracks": [
         {
@@ -31,7 +30,6 @@
             "size": 5105763,
             "total_time": 162560,
             "track_count": 18,
-            "track_id": 15444,
             "track_number": 1,
             "track_type": "File"
         }

@@ -3,7 +3,6 @@
     "display_path": "/Music/Kenny Rogers",
     "name": "Kenny Rogers",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 78874,
     "playlist_persistent_id": "BE3AADC67128F0E9",
     "tracks": [
         {
@@ -30,7 +29,6 @@
             "size": 3770660,
             "total_time": 188421,
             "track_count": 10,
-            "track_id": 12636,
             "track_number": 1,
             "track_type": "File",
             "year": 1991
@@ -59,7 +57,6 @@
             "size": 4418995,
             "total_time": 220839,
             "track_count": 10,
-            "track_id": 12638,
             "track_number": 2,
             "track_type": "File",
             "year": 1991
@@ -88,7 +85,6 @@
             "size": 4252877,
             "total_time": 212532,
             "track_count": 10,
-            "track_id": 12640,
             "track_number": 3,
             "track_type": "File",
             "year": 1991
@@ -117,7 +113,6 @@
             "size": 3582037,
             "total_time": 178991,
             "track_count": 10,
-            "track_id": 12642,
             "track_number": 4,
             "track_type": "File",
             "year": 1991
@@ -146,7 +141,6 @@
             "size": 3873048,
             "total_time": 193541,
             "track_count": 10,
-            "track_id": 12644,
             "track_number": 5,
             "track_type": "File",
             "year": 1991
@@ -175,7 +169,6 @@
             "size": 4588281,
             "total_time": 229302,
             "track_count": 10,
-            "track_id": 12646,
             "track_number": 6,
             "track_type": "File",
             "year": 1991
@@ -204,7 +197,6 @@
             "size": 3503152,
             "total_time": 175046,
             "track_count": 10,
-            "track_id": 12648,
             "track_number": 7,
             "track_type": "File",
             "year": 1991
@@ -233,7 +225,6 @@
             "size": 3770619,
             "total_time": 188421,
             "track_count": 10,
-            "track_id": 12650,
             "track_number": 8,
             "track_type": "File",
             "year": 1991
@@ -262,7 +253,6 @@
             "size": 3445697,
             "total_time": 172173,
             "track_count": 10,
-            "track_id": 12652,
             "track_number": 9,
             "track_type": "File",
             "year": 1991
@@ -291,7 +281,6 @@
             "size": 4333357,
             "total_time": 216555,
             "track_count": 10,
-            "track_id": 12654,
             "track_number": 10,
             "track_type": "File",
             "year": 1991
@@ -319,7 +308,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 233168,
             "track_count": 10,
-            "track_id": 12752,
             "track_number": 1,
             "track_type": "File"
         },
@@ -346,7 +334,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 220630,
             "track_count": 10,
-            "track_id": 12754,
             "track_number": 2,
             "track_type": "File"
         },
@@ -373,7 +360,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 253857,
             "track_count": 10,
-            "track_id": 12756,
             "track_number": 3,
             "track_type": "File"
         },
@@ -400,7 +386,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 219977,
             "track_count": 10,
-            "track_id": 12758,
             "track_number": 4,
             "track_type": "File"
         },
@@ -427,7 +412,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 181551,
             "track_count": 10,
-            "track_id": 12760,
             "track_number": 5,
             "track_type": "File"
         },
@@ -454,7 +438,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 215823,
             "track_count": 10,
-            "track_id": 12762,
             "track_number": 6,
             "track_type": "File"
         },
@@ -481,7 +464,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 213472,
             "track_count": 10,
-            "track_id": 12764,
             "track_number": 7,
             "track_type": "File"
         },
@@ -508,7 +490,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 230687,
             "track_count": 10,
-            "track_id": 12766,
             "track_number": 8,
             "track_type": "File"
         },
@@ -535,7 +516,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 261198,
             "track_count": 10,
-            "track_id": 12768,
             "track_number": 9,
             "track_type": "File"
         },
@@ -562,7 +542,6 @@
             "sort_album": "Best of Kenny Rogers [Cema]",
             "total_time": 207151,
             "track_count": 10,
-            "track_id": 12770,
             "track_number": 10,
             "track_type": "File"
         },
@@ -590,7 +569,6 @@
             "size": 5037595,
             "total_time": 251768,
             "track_count": 10,
-            "track_id": 12692,
             "track_number": 1,
             "track_type": "File",
             "year": 1990
@@ -619,7 +597,6 @@
             "size": 4458174,
             "total_time": 222798,
             "track_count": 10,
-            "track_id": 12694,
             "track_number": 2,
             "track_type": "File",
             "year": 1990
@@ -648,7 +625,6 @@
             "size": 5044903,
             "total_time": 252133,
             "track_count": 10,
-            "track_id": 12696,
             "track_number": 3,
             "track_type": "File",
             "year": 1990
@@ -677,7 +653,6 @@
             "size": 4520383,
             "total_time": 225906,
             "track_count": 10,
-            "track_id": 12698,
             "track_number": 4,
             "track_type": "File",
             "year": 1990
@@ -706,7 +681,6 @@
             "size": 4939354,
             "total_time": 246857,
             "track_count": 10,
-            "track_id": 12700,
             "track_number": 5,
             "track_type": "File",
             "year": 1990
@@ -735,7 +709,6 @@
             "size": 6218843,
             "total_time": 310831,
             "track_count": 10,
-            "track_id": 12702,
             "track_number": 6,
             "track_type": "File",
             "year": 1990
@@ -765,7 +738,6 @@
             "sort_name": "Factory",
             "total_time": 205505,
             "track_count": 10,
-            "track_id": 12704,
             "track_number": 7,
             "track_type": "File",
             "year": 1990
@@ -794,7 +766,6 @@
             "size": 3498482,
             "total_time": 174811,
             "track_count": 10,
-            "track_id": 12706,
             "track_number": 8,
             "track_type": "File",
             "year": 1990
@@ -823,7 +794,6 @@
             "size": 4766426,
             "total_time": 238210,
             "track_count": 10,
-            "track_id": 12708,
             "track_number": 9,
             "track_type": "File",
             "year": 1990
@@ -852,7 +822,6 @@
             "size": 4997861,
             "total_time": 249782,
             "track_count": 10,
-            "track_id": 12710,
             "track_number": 10,
             "track_type": "File",
             "year": 1990
@@ -880,7 +849,6 @@
             "size": 3507864,
             "total_time": 175281,
             "track_count": 10,
-            "track_id": 12712,
             "track_number": 1,
             "track_type": "File",
             "year": 1971
@@ -908,7 +876,6 @@
             "size": 4692241,
             "total_time": 234501,
             "track_count": 10,
-            "track_id": 12714,
             "track_number": 2,
             "track_type": "File",
             "year": 1971
@@ -936,7 +903,6 @@
             "size": 3119669,
             "total_time": 155872,
             "track_count": 10,
-            "track_id": 12716,
             "track_number": 3,
             "track_type": "File",
             "year": 1971
@@ -964,7 +930,6 @@
             "size": 3222579,
             "total_time": 161018,
             "track_count": 10,
-            "track_id": 12718,
             "track_number": 4,
             "track_type": "File",
             "year": 1971
@@ -992,7 +957,6 @@
             "size": 2805677,
             "total_time": 140173,
             "track_count": 10,
-            "track_id": 12720,
             "track_number": 5,
             "track_type": "File",
             "year": 1971
@@ -1020,7 +984,6 @@
             "size": 3306177,
             "total_time": 165198,
             "track_count": 10,
-            "track_id": 12722,
             "track_number": 6,
             "track_type": "File",
             "year": 1971
@@ -1048,7 +1011,6 @@
             "size": 4014110,
             "total_time": 200594,
             "track_count": 10,
-            "track_id": 12724,
             "track_number": 7,
             "track_type": "File",
             "year": 1971
@@ -1076,7 +1038,6 @@
             "size": 3564276,
             "total_time": 178102,
             "track_count": 10,
-            "track_id": 12726,
             "track_number": 8,
             "track_type": "File",
             "year": 1971
@@ -1104,7 +1065,6 @@
             "size": 3792051,
             "total_time": 189492,
             "track_count": 10,
-            "track_id": 12728,
             "track_number": 9,
             "track_type": "File",
             "year": 1971
@@ -1132,7 +1092,6 @@
             "size": 2792616,
             "total_time": 139520,
             "track_count": 10,
-            "track_id": 12730,
             "track_number": 10,
             "track_type": "File",
             "year": 1971
@@ -1161,7 +1120,6 @@
             "size": 3728846,
             "total_time": 186331,
             "track_count": 10,
-            "track_id": 12732,
             "track_number": 1,
             "track_type": "File",
             "year": 1999
@@ -1190,7 +1148,6 @@
             "size": 4580439,
             "total_time": 228911,
             "track_count": 10,
-            "track_id": 12734,
             "track_number": 2,
             "track_type": "File",
             "year": 1999
@@ -1219,7 +1176,6 @@
             "size": 6123252,
             "total_time": 306050,
             "track_count": 10,
-            "track_id": 12736,
             "track_number": 3,
             "track_type": "File",
             "year": 1999
@@ -1248,7 +1204,6 @@
             "size": 4581496,
             "total_time": 228963,
             "track_count": 10,
-            "track_id": 12738,
             "track_number": 4,
             "track_type": "File",
             "year": 1999
@@ -1277,7 +1232,6 @@
             "size": 3948802,
             "total_time": 197328,
             "track_count": 10,
-            "track_id": 12740,
             "track_number": 5,
             "track_type": "File",
             "year": 1999
@@ -1307,7 +1261,6 @@
             "sort_name": "Kind of Fool Love Makes",
             "total_time": 254145,
             "track_count": 10,
-            "track_id": 12742,
             "track_number": 6,
             "track_type": "File",
             "year": 1999
@@ -1336,7 +1289,6 @@
             "size": 4440402,
             "total_time": 221910,
             "track_count": 10,
-            "track_id": 12744,
             "track_number": 7,
             "track_type": "File",
             "year": 1999
@@ -1365,7 +1317,6 @@
             "size": 5188066,
             "total_time": 259291,
             "track_count": 10,
-            "track_id": 12746,
             "track_number": 8,
             "track_type": "File",
             "year": 1999
@@ -1394,7 +1345,6 @@
             "size": 4697484,
             "total_time": 234762,
             "track_count": 10,
-            "track_id": 12748,
             "track_number": 9,
             "track_type": "File",
             "year": 1999
@@ -1424,7 +1374,6 @@
             "sort_name": "Greatest",
             "total_time": 191111,
             "track_count": 10,
-            "track_id": 12750,
             "track_number": 10,
             "track_type": "File",
             "year": 1999
@@ -1453,7 +1402,6 @@
             "size": 3341736,
             "total_time": 166974,
             "track_count": 12,
-            "track_id": 12772,
             "track_number": 1,
             "track_type": "File",
             "year": 2000
@@ -1482,7 +1430,6 @@
             "size": 3623836,
             "total_time": 181080,
             "track_count": 12,
-            "track_id": 12774,
             "track_number": 2,
             "track_type": "File",
             "year": 2000
@@ -1511,7 +1458,6 @@
             "size": 3990602,
             "total_time": 199418,
             "track_count": 12,
-            "track_id": 12776,
             "track_number": 3,
             "track_type": "File",
             "year": 2000
@@ -1540,7 +1486,6 @@
             "size": 4922633,
             "total_time": 246021,
             "track_count": 12,
-            "track_id": 12778,
             "track_number": 4,
             "track_type": "File",
             "year": 2000
@@ -1569,7 +1514,6 @@
             "size": 4203753,
             "total_time": 210076,
             "track_count": 12,
-            "track_id": 12780,
             "track_number": 5,
             "track_type": "File",
             "year": 2000
@@ -1598,7 +1542,6 @@
             "size": 5278958,
             "total_time": 263836,
             "track_count": 12,
-            "track_id": 12782,
             "track_number": 6,
             "track_type": "File",
             "year": 2000
@@ -1627,7 +1570,6 @@
             "size": 4747615,
             "total_time": 237270,
             "track_count": 12,
-            "track_id": 12784,
             "track_number": 7,
             "track_type": "File",
             "year": 2000
@@ -1656,7 +1598,6 @@
             "size": 4076254,
             "total_time": 203702,
             "track_count": 12,
-            "track_id": 12786,
             "track_number": 8,
             "track_type": "File",
             "year": 2000
@@ -1685,7 +1626,6 @@
             "size": 4341680,
             "total_time": 216973,
             "track_count": 12,
-            "track_id": 12788,
             "track_number": 9,
             "track_type": "File",
             "year": 2000
@@ -1714,7 +1654,6 @@
             "size": 3406479,
             "total_time": 170213,
             "track_count": 12,
-            "track_id": 12790,
             "track_number": 10,
             "track_type": "File",
             "year": 2000
@@ -1743,7 +1682,6 @@
             "size": 4048582,
             "total_time": 202318,
             "track_count": 12,
-            "track_id": 12792,
             "track_number": 11,
             "track_type": "File",
             "year": 2000
@@ -1772,7 +1710,6 @@
             "size": 3975967,
             "total_time": 198687,
             "track_count": 12,
-            "track_id": 12794,
             "track_number": 12,
             "track_type": "File",
             "year": 2000

@@ -2,7 +2,6 @@
     "all_items": true,
     "display_path": "/SacredScienceTSS_Mate",
     "name": "SacredScienceTSS_Mate",
-    "playlist_id": 84317,
     "playlist_persistent_id": "CA473033CF96F23A",
     "tracks": [
         {
@@ -24,7 +23,6 @@
             "size": 29882783,
             "total_time": 1867032,
             "track_count": 1,
-            "track_id": 16070,
             "track_number": 1,
             "track_type": "File"
         }

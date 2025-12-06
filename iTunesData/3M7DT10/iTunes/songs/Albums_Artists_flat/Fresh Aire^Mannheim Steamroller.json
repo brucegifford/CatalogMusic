@@ -24,7 +24,6 @@
             "skip_count": 2,
             "skip_date": "2017-02-03T21:10:47",
             "total_time": 93335,
-            "track_id": 12920,
             "track_number": 1,
             "track_type": "File",
             "year": 1975
@@ -50,7 +49,6 @@
             "sample_rate": 44100,
             "size": 3499475,
             "total_time": 174863,
-            "track_id": 12922,
             "track_number": 2,
             "track_type": "File",
             "year": 1975
@@ -76,7 +74,6 @@
             "sample_rate": 44100,
             "size": 3510443,
             "total_time": 175412,
-            "track_id": 12924,
             "track_number": 3,
             "track_type": "File",
             "year": 1975
@@ -102,7 +99,6 @@
             "sample_rate": 44100,
             "size": 3051728,
             "total_time": 152476,
-            "track_id": 12926,
             "track_number": 4,
             "track_type": "File",
             "year": 1975
@@ -128,7 +124,6 @@
             "sample_rate": 44100,
             "size": 3077856,
             "total_time": 153782,
-            "track_id": 12928,
             "track_number": 5,
             "track_type": "File",
             "year": 1975
@@ -154,7 +149,6 @@
             "sample_rate": 44100,
             "size": 4357854,
             "total_time": 217782,
-            "track_id": 12930,
             "track_number": 6,
             "track_type": "File",
             "year": 1975
@@ -180,7 +174,6 @@
             "sample_rate": 44100,
             "size": 6624760,
             "total_time": 331128,
-            "track_id": 12932,
             "track_number": 7,
             "track_type": "File",
             "year": 1975
@@ -206,7 +199,6 @@
             "sample_rate": 44100,
             "size": 3137931,
             "total_time": 156786,
-            "track_id": 12934,
             "track_number": 8,
             "track_type": "File",
             "year": 1975
@@ -232,7 +224,6 @@
             "sample_rate": 44100,
             "size": 3144731,
             "total_time": 157126,
-            "track_id": 12936,
             "track_number": 9,
             "track_type": "File",
             "year": 1975
@@ -258,7 +249,6 @@
             "sample_rate": 44100,
             "size": 3073161,
             "total_time": 153547,
-            "track_id": 12938,
             "track_number": 10,
             "track_type": "File",
             "year": 1975
@@ -284,7 +274,6 @@
             "sample_rate": 44100,
             "size": 2625416,
             "total_time": 131160,
-            "track_id": 12940,
             "track_number": 11,
             "track_type": "File",
             "year": 1975
@@ -310,7 +299,6 @@
             "sample_rate": 44100,
             "size": 2157294,
             "total_time": 107755,
-            "track_id": 12942,
             "track_number": 12,
             "track_type": "File",
             "year": 1975

@@ -3,7 +3,6 @@
     "display_path": "/Talks/health",
     "name": "health",
     "parent_persistent_id": "2784946B72D16BBE",
-    "playlist_id": 81005,
     "playlist_persistent_id": "7057F923C0ADF0F7",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "size": 26241107,
             "total_time": 1639915,
             "track_count": 1,
-            "track_id": 7412,
             "track_number": 1,
             "track_type": "File"
         }

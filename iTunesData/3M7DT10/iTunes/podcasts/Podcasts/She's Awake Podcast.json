@@ -21,7 +21,6 @@
             "sample_rate": 44100,
             "size": 31825067,
             "total_time": 1511915,
-            "track_id": 25084,
             "track_number": 1,
             "track_type": "File",
             "unplayed": true,
@@ -47,7 +46,6 @@
             "sample_rate": 44100,
             "size": 29245457,
             "total_time": 1363017,
-            "track_id": 25086,
             "track_number": 2,
             "track_type": "File",
             "unplayed": true,
@@ -73,7 +71,6 @@
             "sample_rate": 44100,
             "size": 25747510,
             "total_time": 1126582,
-            "track_id": 25088,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
@@ -98,7 +95,6 @@
             "sample_rate": 44100,
             "size": 27063591,
             "total_time": 1184888,
-            "track_id": 25090,
             "track_number": 4,
             "track_type": "File",
             "unplayed": true,
@@ -124,7 +120,6 @@
             "sample_rate": 44100,
             "size": 39682392,
             "total_time": 1855921,
-            "track_id": 25092,
             "track_number": 5,
             "track_type": "File",
             "unplayed": true,
@@ -150,7 +145,6 @@
             "sample_rate": 44100,
             "size": 23690496,
             "total_time": 1129665,
-            "track_id": 25094,
             "track_number": 6,
             "track_type": "File",
             "unplayed": true,
@@ -176,7 +170,6 @@
             "sample_rate": 44100,
             "size": 32132947,
             "total_time": 1496346,
-            "track_id": 25096,
             "track_number": 8,
             "track_type": "File",
             "unplayed": true,
@@ -202,7 +195,6 @@
             "sample_rate": 8000,
             "size": 8296532,
             "total_time": 1994040,
-            "track_id": 25098,
             "track_number": 9,
             "track_type": "File",
             "unplayed": true,
@@ -228,7 +220,6 @@
             "sample_rate": 44100,
             "size": 26695060,
             "total_time": 1233867,
-            "track_id": 25100,
             "track_number": 10,
             "track_type": "File",
             "unplayed": true,
@@ -254,7 +245,6 @@
             "sample_rate": 44100,
             "size": 20052035,
             "total_time": 880248,
-            "track_id": 25102,
             "track_number": 11,
             "track_type": "File",
             "unplayed": true,
@@ -280,7 +270,6 @@
             "sample_rate": 44100,
             "size": 28210819,
             "total_time": 1327647,
-            "track_id": 25104,
             "track_number": 12,
             "track_type": "File",
             "unplayed": true,
@@ -306,7 +295,6 @@
             "sample_rate": 44100,
             "size": 24207281,
             "total_time": 1121097,
-            "track_id": 25106,
             "track_number": 13,
             "track_type": "File",
             "unplayed": true,
@@ -332,7 +320,6 @@
             "sample_rate": 44100,
             "size": 20317076,
             "total_time": 936150,
-            "track_id": 25108,
             "track_number": 8,
             "track_type": "File",
             "unplayed": true,
@@ -358,7 +345,6 @@
             "sample_rate": 44100,
             "size": 27378639,
             "total_time": 1274200,
-            "track_id": 25110,
             "track_number": 14,
             "track_type": "File",
             "unplayed": true,
@@ -384,7 +370,6 @@
             "sample_rate": 44100,
             "size": 25136974,
             "total_time": 1184313,
-            "track_id": 25112,
             "track_number": 15,
             "track_type": "File",
             "unplayed": true,
@@ -410,7 +395,6 @@
             "sample_rate": 22050,
             "size": 12325714,
             "total_time": 1004512,
-            "track_id": 25114,
             "track_number": 16,
             "track_type": "File",
             "unplayed": true,
@@ -436,7 +420,6 @@
             "sample_rate": 22050,
             "size": 3098312,
             "total_time": 226403,
-            "track_id": 25116,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
@@ -461,7 +444,6 @@
             "sample_rate": 22050,
             "size": 14523291,
             "total_time": 1181152,
-            "track_id": 25118,
             "track_number": 18,
             "track_type": "File",
             "unplayed": true,
@@ -488,7 +470,6 @@
             "sample_rate": 22050,
             "size": 5924078,
             "total_time": 493000,
-            "track_id": 25120,
             "track_number": 19,
             "track_type": "URL",
             "year": 2019
@@ -514,7 +495,6 @@
             "sample_rate": 22050,
             "size": 22627930,
             "total_time": 1885000,
-            "track_id": 25122,
             "track_number": 20,
             "track_type": "URL",
             "year": 2019
@@ -540,7 +520,6 @@
             "sample_rate": 22050,
             "size": 14719706,
             "total_time": 1226000,
-            "track_id": 25124,
             "track_number": 21,
             "track_type": "URL",
             "year": 2019
@@ -566,7 +545,6 @@
             "sample_rate": 22050,
             "size": 14323172,
             "total_time": 1192000,
-            "track_id": 25126,
             "track_number": 22,
             "track_type": "URL",
             "year": 2019
@@ -592,7 +570,6 @@
             "sample_rate": 22050,
             "size": 27234765,
             "total_time": 2269000,
-            "track_id": 25128,
             "track_number": 23,
             "track_type": "URL",
             "year": 2019
@@ -618,7 +595,6 @@
             "sample_rate": 22050,
             "size": 12940772,
             "total_time": 1077000,
-            "track_id": 25130,
             "track_number": 23,
             "track_type": "URL",
             "year": 2019
@@ -644,7 +620,6 @@
             "sample_rate": 22050,
             "size": 20242208,
             "total_time": 1686000,
-            "track_id": 25134,
             "track_number": 24,
             "track_type": "URL",
             "year": 2019
@@ -670,7 +645,6 @@
             "sample_rate": 22050,
             "size": 27439994,
             "total_time": 2286000,
-            "track_id": 25136,
             "track_number": 25,
             "track_type": "URL",
             "year": 2019
@@ -696,7 +670,6 @@
             "sample_rate": 22050,
             "size": 6961347,
             "total_time": 579000,
-            "track_id": 25150,
             "track_number": 25,
             "track_type": "URL",
             "year": 2019
@@ -722,7 +695,6 @@
             "sample_rate": 22050,
             "size": 14757971,
             "total_time": 1229000,
-            "track_id": 25166,
             "track_number": 28,
             "track_type": "URL",
             "year": 2019
@@ -748,7 +720,6 @@
             "sample_rate": 22050,
             "size": 12710342,
             "total_time": 1058000,
-            "track_id": 25176,
             "track_number": 29,
             "track_type": "URL",
             "year": 2019
@@ -774,7 +745,6 @@
             "sample_rate": 22050,
             "size": 14318153,
             "total_time": 1192000,
-            "track_id": 25214,
             "track_number": 29,
             "track_type": "URL",
             "year": 2019
@@ -796,7 +766,6 @@
             "sample_rate": 22050,
             "size": 8321497,
             "total_time": 693000,
-            "track_id": 25216,
             "track_type": "URL"
         },
         {
@@ -813,7 +782,6 @@
             "release_date": "2019-03-26T17:01:57",
             "size": 10561229,
             "total_time": 879000,
-            "track_id": 28144,
             "track_type": "URL"
         },
         {
@@ -830,7 +798,6 @@
             "release_date": "2019-04-10T23:13:09",
             "size": 20416182,
             "total_time": 1700000,
-            "track_id": 28146,
             "track_type": "URL"
         },
         {
@@ -847,7 +814,6 @@
             "release_date": "2019-04-12T15:10:29",
             "size": 22515470,
             "total_time": 1875000,
-            "track_id": 28148,
             "track_type": "URL"
         },
         {
@@ -864,7 +830,6 @@
             "release_date": "2019-04-12T20:53:59",
             "size": 15318056,
             "total_time": 1275000,
-            "track_id": 28150,
             "track_type": "URL"
         },
         {
@@ -888,7 +853,6 @@
             "sample_rate": 22050,
             "size": 13516234,
             "total_time": 1126000,
-            "track_id": 28152,
             "track_type": "URL",
             "year": 2019
         },
@@ -913,7 +877,6 @@
             "sample_rate": 22050,
             "size": 14334389,
             "total_time": 1193000,
-            "track_id": 28270,
             "track_type": "URL",
             "year": 2019
         },
@@ -938,7 +901,6 @@
             "sample_rate": 22050,
             "size": 13093677,
             "total_time": 1090000,
-            "track_id": 28272,
             "track_type": "URL",
             "year": 2019
         },
@@ -963,7 +925,6 @@
             "sample_rate": 22050,
             "size": 4766363,
             "total_time": 397000,
-            "track_id": 28636,
             "track_type": "URL",
             "year": 2019
         },
@@ -988,7 +949,6 @@
             "sample_rate": 22050,
             "size": 15508332,
             "total_time": 1291000,
-            "track_id": 28792,
             "track_type": "URL",
             "year": 2019
         },
@@ -1013,7 +973,6 @@
             "sample_rate": 22050,
             "size": 10656139,
             "total_time": 887000,
-            "track_id": 29090,
             "track_type": "URL",
             "year": 2019
         },
@@ -1038,7 +997,6 @@
             "sample_rate": 22050,
             "size": 9169981,
             "total_time": 764000,
-            "track_id": 29206,
             "track_type": "URL",
             "year": 2019
         },
@@ -1063,7 +1021,6 @@
             "sample_rate": 22050,
             "size": 11663316,
             "total_time": 971000,
-            "track_id": 29462,
             "track_type": "URL",
             "year": 2019
         },
@@ -1087,7 +1044,6 @@
             "sample_rate": 22050,
             "size": 10667355,
             "total_time": 873874,
-            "track_id": 29518,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -1112,7 +1068,6 @@
             "sample_rate": 22050,
             "size": 15170739,
             "total_time": 1225116,
-            "track_id": 29584,
             "track_type": "File",
             "unplayed": true,
             "year": 2020

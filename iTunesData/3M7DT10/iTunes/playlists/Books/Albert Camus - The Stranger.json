@@ -3,7 +3,6 @@
     "display_path": "/Books/Albert Camus - The Stranger",
     "name": "Albert Camus - The Stranger",
     "parent_persistent_id": "9C9BC6EF6443C7A4",
-    "playlist_id": 72232,
     "playlist_persistent_id": "06FD398C39380725",
     "tracks": [
         {
@@ -28,7 +27,6 @@
             "sort_album": "Stranger",
             "total_time": 133590,
             "track_count": 16,
-            "track_id": 4362,
             "track_number": 1,
             "track_type": "File",
             "year": 1942
@@ -55,7 +53,6 @@
             "sort_album": "Stranger",
             "total_time": 277890,
             "track_count": 16,
-            "track_id": 4364,
             "track_number": 2,
             "track_type": "File",
             "year": 1942
@@ -82,7 +79,6 @@
             "sort_album": "Stranger",
             "total_time": 263209,
             "track_count": 16,
-            "track_id": 4366,
             "track_number": 3,
             "track_type": "File",
             "year": 1942
@@ -109,7 +105,6 @@
             "sort_album": "Stranger",
             "total_time": 302680,
             "track_count": 16,
-            "track_id": 4368,
             "track_number": 4,
             "track_type": "File",
             "year": 1942
@@ -136,7 +131,6 @@
             "sort_album": "Stranger",
             "total_time": 178912,
             "track_count": 16,
-            "track_id": 4370,
             "track_number": 5,
             "track_type": "File",
             "year": 1942
@@ -163,7 +157,6 @@
             "sort_album": "Stranger",
             "total_time": 272352,
             "track_count": 16,
-            "track_id": 4372,
             "track_number": 6,
             "track_type": "File",
             "year": 1942
@@ -190,7 +183,6 @@
             "sort_album": "Stranger",
             "total_time": 298109,
             "track_count": 16,
-            "track_id": 4374,
             "track_number": 7,
             "track_type": "File",
             "year": 1942
@@ -217,7 +209,6 @@
             "sort_album": "Stranger",
             "total_time": 256313,
             "track_count": 16,
-            "track_id": 4376,
             "track_number": 8,
             "track_type": "File",
             "year": 1942
@@ -244,7 +235,6 @@
             "sort_album": "Stranger",
             "total_time": 263810,
             "track_count": 16,
-            "track_id": 4378,
             "track_number": 9,
             "track_type": "File",
             "year": 1942
@@ -271,7 +261,6 @@
             "sort_album": "Stranger",
             "total_time": 155297,
             "track_count": 16,
-            "track_id": 4380,
             "track_number": 10,
             "track_type": "File",
             "year": 1942
@@ -298,7 +287,6 @@
             "sort_album": "Stranger",
             "total_time": 179931,
             "track_count": 16,
-            "track_id": 4382,
             "track_number": 11,
             "track_type": "File",
             "year": 1942
@@ -325,7 +313,6 @@
             "sort_album": "Stranger",
             "total_time": 173348,
             "track_count": 16,
-            "track_id": 4384,
             "track_number": 12,
             "track_type": "File",
             "year": 1942
@@ -352,7 +339,6 @@
             "sort_album": "Stranger",
             "total_time": 267520,
             "track_count": 16,
-            "track_id": 4386,
             "track_number": 13,
             "track_type": "File",
             "year": 1942
@@ -379,7 +365,6 @@
             "sort_album": "Stranger",
             "total_time": 307069,
             "track_count": 16,
-            "track_id": 4388,
             "track_number": 14,
             "track_type": "File",
             "year": 1942
@@ -406,7 +391,6 @@
             "sort_album": "Stranger",
             "total_time": 346906,
             "track_count": 16,
-            "track_id": 4390,
             "track_number": 15,
             "track_type": "File",
             "year": 1942
@@ -433,7 +417,6 @@
             "sort_album": "Stranger",
             "total_time": 279327,
             "track_count": 16,
-            "track_id": 4392,
             "track_number": 16,
             "track_type": "File",
             "year": 1942
@@ -459,7 +442,6 @@
             "sort_album": "Stranger",
             "total_time": 149002,
             "track_count": 17,
-            "track_id": 4394,
             "track_number": 1,
             "track_type": "File"
         },
@@ -484,7 +466,6 @@
             "sort_album": "Stranger",
             "total_time": 265090,
             "track_count": 17,
-            "track_id": 4396,
             "track_number": 2,
             "track_type": "File"
         },
@@ -509,7 +490,6 @@
             "sort_album": "Stranger",
             "total_time": 242703,
             "track_count": 17,
-            "track_id": 4398,
             "track_number": 3,
             "track_type": "File"
         },
@@ -534,7 +514,6 @@
             "sort_album": "Stranger",
             "total_time": 183745,
             "track_count": 17,
-            "track_id": 4400,
             "track_number": 4,
             "track_type": "File"
         },
@@ -559,7 +538,6 @@
             "sort_album": "Stranger",
             "total_time": 205244,
             "track_count": 17,
-            "track_id": 4402,
             "track_number": 5,
             "track_type": "File"
         },
@@ -584,7 +562,6 @@
             "sort_album": "Stranger",
             "total_time": 226821,
             "track_count": 17,
-            "track_id": 4404,
             "track_number": 6,
             "track_type": "File"
         },
@@ -609,7 +586,6 @@
             "sort_album": "Stranger",
             "total_time": 178729,
             "track_count": 17,
-            "track_id": 4406,
             "track_number": 7,
             "track_type": "File"
         },
@@ -634,7 +610,6 @@
             "sort_album": "Stranger",
             "total_time": 291213,
             "track_count": 17,
-            "track_id": 4408,
             "track_number": 8,
             "track_type": "File"
         },
@@ -659,7 +634,6 @@
             "sort_album": "Stranger",
             "total_time": 275644,
             "track_count": 17,
-            "track_id": 4410,
             "track_number": 9,
             "track_type": "File"
         },
@@ -684,7 +658,6 @@
             "sort_album": "Stranger",
             "total_time": 335151,
             "track_count": 17,
-            "track_id": 4412,
             "track_number": 10,
             "track_type": "File"
         },
@@ -709,7 +682,6 @@
             "sort_album": "Stranger",
             "total_time": 221048,
             "track_count": 17,
-            "track_id": 4414,
             "track_number": 11,
             "track_type": "File"
         },
@@ -734,7 +706,6 @@
             "sort_album": "Stranger",
             "total_time": 337658,
             "track_count": 17,
-            "track_id": 4416,
             "track_number": 12,
             "track_type": "File"
         },
@@ -759,7 +730,6 @@
             "sort_album": "Stranger",
             "total_time": 187324,
             "track_count": 17,
-            "track_id": 4418,
             "track_number": 13,
             "track_type": "File"
         },
@@ -784,7 +754,6 @@
             "sort_album": "Stranger",
             "total_time": 271908,
             "track_count": 17,
-            "track_id": 4420,
             "track_number": 14,
             "track_type": "File"
         },
@@ -809,7 +778,6 @@
             "sort_album": "Stranger",
             "total_time": 194560,
             "track_count": 17,
-            "track_id": 4422,
             "track_number": 15,
             "track_type": "File"
         },
@@ -834,7 +802,6 @@
             "sort_album": "Stranger",
             "total_time": 372584,
             "track_count": 17,
-            "track_id": 4424,
             "track_number": 16,
             "track_type": "File"
         },
@@ -859,7 +826,6 @@
             "sort_album": "Stranger",
             "total_time": 277420,
             "track_count": 17,
-            "track_id": 4426,
             "track_number": 17,
             "track_type": "File"
         },
@@ -884,7 +850,6 @@
             "sort_album": "Stranger",
             "total_time": 213629,
             "track_count": 18,
-            "track_id": 4428,
             "track_number": 1,
             "track_type": "File",
             "year": 1942
@@ -910,7 +875,6 @@
             "sort_album": "Stranger",
             "total_time": 212088,
             "track_count": 18,
-            "track_id": 4430,
             "track_number": 2,
             "track_type": "File",
             "year": 1942
@@ -936,7 +900,6 @@
             "sort_album": "Stranger",
             "total_time": 308819,
             "track_count": 18,
-            "track_id": 4432,
             "track_number": 3,
             "track_type": "File",
             "year": 1942
@@ -962,7 +925,6 @@
             "sort_album": "Stranger",
             "total_time": 287190,
             "track_count": 18,
-            "track_id": 4434,
             "track_number": 4,
             "track_type": "File",
             "year": 1942
@@ -988,7 +950,6 @@
             "sort_album": "Stranger",
             "total_time": 273319,
             "track_count": 18,
-            "track_id": 4436,
             "track_number": 5,
             "track_type": "File",
             "year": 1942
@@ -1014,7 +975,6 @@
             "sort_album": "Stranger",
             "total_time": 310439,
             "track_count": 18,
-            "track_id": 4438,
             "track_number": 6,
             "track_type": "File",
             "year": 1942
@@ -1040,7 +1000,6 @@
             "sort_album": "Stranger",
             "total_time": 241188,
             "track_count": 18,
-            "track_id": 4440,
             "track_number": 7,
             "track_type": "File",
             "year": 1942
@@ -1066,7 +1025,6 @@
             "sort_album": "Stranger",
             "total_time": 199497,
             "track_count": 18,
-            "track_id": 4442,
             "track_number": 8,
             "track_type": "File",
             "year": 1942
@@ -1092,7 +1050,6 @@
             "sort_album": "Stranger",
             "total_time": 187088,
             "track_count": 18,
-            "track_id": 4444,
             "track_number": 9,
             "track_type": "File",
             "year": 1942
@@ -1118,7 +1075,6 @@
             "sort_album": "Stranger",
             "total_time": 149133,
             "track_count": 18,
-            "track_id": 4446,
             "track_number": 10,
             "track_type": "File",
             "year": 1942
@@ -1144,7 +1100,6 @@
             "sort_album": "Stranger",
             "total_time": 197093,
             "track_count": 18,
-            "track_id": 4448,
             "track_number": 11,
             "track_type": "File",
             "year": 1942
@@ -1170,7 +1125,6 @@
             "sort_album": "Stranger",
             "total_time": 268904,
             "track_count": 18,
-            "track_id": 4450,
             "track_number": 12,
             "track_type": "File",
             "year": 1942
@@ -1196,7 +1150,6 @@
             "sort_album": "Stranger",
             "total_time": 267520,
             "track_count": 18,
-            "track_id": 4452,
             "track_number": 13,
             "track_type": "File",
             "year": 1942
@@ -1222,7 +1175,6 @@
             "sort_album": "Stranger",
             "total_time": 262844,
             "track_count": 18,
-            "track_id": 4454,
             "track_number": 14,
             "track_type": "File",
             "year": 1942
@@ -1248,7 +1200,6 @@
             "sort_album": "Stranger",
             "total_time": 238524,
             "track_count": 18,
-            "track_id": 4456,
             "track_number": 15,
             "track_type": "File",
             "year": 1942
@@ -1274,7 +1225,6 @@
             "sort_album": "Stranger",
             "total_time": 182517,
             "track_count": 18,
-            "track_id": 4458,
             "track_number": 16,
             "track_type": "File",
             "year": 1942
@@ -1300,7 +1250,6 @@
             "sort_album": "Stranger",
             "total_time": 197172,
             "track_count": 18,
-            "track_id": 4460,
             "track_number": 17,
             "track_type": "File",
             "year": 1942
@@ -1326,7 +1275,6 @@
             "sort_album": "Stranger",
             "total_time": 444342,
             "track_count": 18,
-            "track_id": 4462,
             "track_number": 18,
             "track_type": "File",
             "year": 1942
@@ -1352,7 +1300,6 @@
             "sort_album": "Stranger",
             "total_time": 277028,
             "track_count": 9,
-            "track_id": 4464,
             "track_number": 1,
             "track_type": "File",
             "year": 1942
@@ -1378,7 +1325,6 @@
             "sort_album": "Stranger",
             "total_time": 306416,
             "track_count": 9,
-            "track_id": 4466,
             "track_number": 2,
             "track_type": "File",
             "year": 1942
@@ -1404,7 +1350,6 @@
             "sort_album": "Stranger",
             "total_time": 294426,
             "track_count": 9,
-            "track_id": 4468,
             "track_number": 3,
             "track_type": "File",
             "year": 1942
@@ -1430,7 +1375,6 @@
             "sort_album": "Stranger",
             "total_time": 222380,
             "track_count": 9,
-            "track_id": 4470,
             "track_number": 4,
             "track_type": "File",
             "year": 1942
@@ -1456,7 +1400,6 @@
             "sort_album": "Stranger",
             "total_time": 243774,
             "track_count": 9,
-            "track_id": 4472,
             "track_number": 5,
             "track_type": "File",
             "year": 1942
@@ -1482,7 +1425,6 @@
             "sort_album": "Stranger",
             "total_time": 250044,
             "track_count": 9,
-            "track_id": 4474,
             "track_number": 6,
             "track_type": "File",
             "year": 1942
@@ -1508,7 +1450,6 @@
             "sort_album": "Stranger",
             "total_time": 390948,
             "track_count": 9,
-            "track_id": 4476,
             "track_number": 7,
             "track_type": "File",
             "year": 1942
@@ -1534,7 +1475,6 @@
             "sort_album": "Stranger",
             "total_time": 519105,
             "track_count": 9,
-            "track_id": 4478,
             "track_number": 8,
             "track_type": "File",
             "year": 1942
@@ -1560,7 +1500,6 @@
             "sort_album": "Stranger",
             "total_time": 162011,
             "track_count": 9,
-            "track_id": 4480,
             "track_number": 9,
             "track_type": "File",
             "year": 1942

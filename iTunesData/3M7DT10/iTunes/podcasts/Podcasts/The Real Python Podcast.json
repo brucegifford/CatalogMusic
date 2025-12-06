@@ -16,7 +16,6 @@
             "size": 1422486,
             "sort_album": "Real Python Podcast",
             "total_time": 120000,
-            "track_id": 31042,
             "track_type": "URL"
         },
         {
@@ -34,7 +33,6 @@
             "size": 36401747,
             "sort_album": "Real Python Podcast",
             "total_time": 3028000,
-            "track_id": 31044,
             "track_type": "URL"
         },
         {
@@ -52,7 +50,6 @@
             "size": 40094020,
             "sort_album": "Real Python Podcast",
             "total_time": 3313000,
-            "track_id": 31046,
             "track_type": "URL"
         },
         {
@@ -70,7 +67,6 @@
             "size": 30948307,
             "sort_album": "Real Python Podcast",
             "total_time": 2568000,
-            "track_id": 31048,
             "track_type": "URL"
         },
         {
@@ -88,7 +84,6 @@
             "size": 50803927,
             "sort_album": "Real Python Podcast",
             "total_time": 4228000,
-            "track_id": 31050,
             "track_type": "URL"
         },
         {
@@ -106,7 +101,6 @@
             "size": 45520871,
             "sort_album": "Real Python Podcast",
             "total_time": 3787000,
-            "track_id": 31052,
             "track_type": "URL"
         },
         {
@@ -124,7 +118,6 @@
             "size": 39430036,
             "sort_album": "Real Python Podcast",
             "total_time": 3280000,
-            "track_id": 31054,
             "track_type": "URL"
         },
         {
@@ -139,7 +132,6 @@
             "size": 62813740,
             "sort_album": "Real Python Podcast",
             "total_time": 5224000,
-            "track_id": 31056,
             "track_type": "URL",
             "unplayed": true
         },
@@ -155,7 +147,6 @@
             "size": 40136703,
             "sort_album": "Real Python Podcast",
             "total_time": 3333000,
-            "track_id": 31058,
             "track_type": "URL",
             "unplayed": true
         },
@@ -171,7 +162,6 @@
             "size": 55112449,
             "sort_album": "Real Python Podcast",
             "total_time": 4587000,
-            "track_id": 31060,
             "track_type": "URL",
             "unplayed": true
         },
@@ -187,7 +177,6 @@
             "size": 57667378,
             "sort_album": "Real Python Podcast",
             "total_time": 4794000,
-            "track_id": 31062,
             "track_type": "URL",
             "unplayed": true
         },
@@ -203,7 +192,6 @@
             "size": 42168035,
             "sort_album": "Real Python Podcast",
             "total_time": 3503000,
-            "track_id": 31064,
             "track_type": "URL",
             "unplayed": true
         },
@@ -219,7 +207,6 @@
             "size": 36248668,
             "sort_album": "Real Python Podcast",
             "total_time": 3010000,
-            "track_id": 31066,
             "track_type": "URL",
             "unplayed": true
         },
@@ -235,7 +222,6 @@
             "size": 32733744,
             "sort_album": "Real Python Podcast",
             "total_time": 2717000,
-            "track_id": 31068,
             "track_type": "URL",
             "unplayed": true
         },
@@ -254,7 +240,6 @@
             "size": 39582359,
             "sort_album": "Real Python Podcast",
             "total_time": 3288000,
-            "track_id": 31070,
             "track_type": "URL"
         },
         {
@@ -269,7 +254,6 @@
             "size": 32285003,
             "sort_album": "Real Python Podcast",
             "total_time": 2680000,
-            "track_id": 31072,
             "track_type": "URL",
             "unplayed": true
         },
@@ -285,7 +269,6 @@
             "size": 44968118,
             "sort_album": "Real Python Podcast",
             "total_time": 3736000,
-            "track_id": 31074,
             "track_type": "URL",
             "unplayed": true
         },
@@ -301,7 +284,6 @@
             "size": 36115492,
             "sort_album": "Real Python Podcast",
             "total_time": 2998000,
-            "track_id": 31076,
             "track_type": "URL",
             "unplayed": true
         },
@@ -317,7 +299,6 @@
             "size": 55733517,
             "sort_album": "Real Python Podcast",
             "total_time": 4639000,
-            "track_id": 31078,
             "track_type": "URL",
             "unplayed": true
         },
@@ -333,7 +314,6 @@
             "size": 37489501,
             "sort_album": "Real Python Podcast",
             "total_time": 3113000,
-            "track_id": 31080,
             "track_type": "URL",
             "unplayed": true
         },
@@ -356,7 +336,6 @@
             "size": 38334577,
             "sort_album": "Real Python Podcast",
             "total_time": 3184000,
-            "track_id": 31088,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -380,7 +359,6 @@
             "size": 44307931,
             "sort_album": "Real Python Podcast",
             "total_time": 3681000,
-            "track_id": 31692,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -400,7 +378,6 @@
             "size": 60464972,
             "sort_album": "Real Python Podcast",
             "total_time": 5028000,
-            "track_id": 31724,
             "track_type": "URL"
         },
         {
@@ -418,7 +395,6 @@
             "size": 46749485,
             "sort_album": "Real Python Podcast",
             "total_time": 3885000,
-            "track_id": 31726,
             "track_type": "URL"
         },
         {
@@ -436,7 +412,6 @@
             "size": 53885448,
             "sort_album": "Real Python Podcast",
             "total_time": 4480000,
-            "track_id": 31728,
             "track_type": "URL"
         },
         {
@@ -454,7 +429,6 @@
             "size": 43434228,
             "sort_album": "Real Python Podcast",
             "total_time": 3609000,
-            "track_id": 31730,
             "track_type": "URL"
         },
         {
@@ -469,7 +443,6 @@
             "size": 63424941,
             "sort_album": "Real Python Podcast",
             "total_time": 5275000,
-            "track_id": 31732,
             "track_type": "URL",
             "unplayed": true
         },
@@ -488,7 +461,6 @@
             "size": 34089681,
             "sort_album": "Real Python Podcast",
             "total_time": 2830000,
-            "track_id": 31734,
             "track_type": "URL"
         },
         {
@@ -506,7 +478,6 @@
             "size": 36176752,
             "sort_album": "Real Python Podcast",
             "total_time": 3004000,
-            "track_id": 31736,
             "track_type": "URL"
         },
         {
@@ -524,7 +495,6 @@
             "size": 50032597,
             "sort_album": "Real Python Podcast",
             "total_time": 4159000,
-            "track_id": 31900,
             "track_type": "URL"
         },
         {
@@ -542,7 +512,6 @@
             "size": 54099804,
             "sort_album": "Real Python Podcast",
             "total_time": 4498000,
-            "track_id": 31934,
             "track_type": "URL"
         },
         {
@@ -560,7 +529,6 @@
             "size": 33679581,
             "sort_album": "Real Python Podcast",
             "total_time": 2796000,
-            "track_id": 31936,
             "track_type": "URL"
         },
         {
@@ -578,7 +546,6 @@
             "size": 36710899,
             "sort_album": "Real Python Podcast",
             "total_time": 3049000,
-            "track_id": 31938,
             "track_type": "URL"
         },
         {
@@ -596,7 +563,6 @@
             "size": 63098362,
             "sort_album": "Real Python Podcast",
             "total_time": 5247000,
-            "track_id": 31940,
             "track_type": "URL"
         },
         {
@@ -620,7 +586,6 @@
             "sort_artist": "Real Python Podcast",
             "sort_name": "Python Modulo Operator & Managing Data With SQLite and SQLAlchemy",
             "total_time": 3168000,
-            "track_id": 31964,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -645,7 +610,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 3100000,
-            "track_id": 31982,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -662,7 +626,6 @@
             "size": 41294134,
             "sort_album": "Real Python Podcast",
             "total_time": 3430000,
-            "track_id": 31970,
             "track_type": "URL",
             "unplayed": true
         },
@@ -678,7 +641,6 @@
             "size": 36074985,
             "sort_album": "Real Python Podcast",
             "total_time": 2996000,
-            "track_id": 31972,
             "track_type": "URL",
             "unplayed": true
         },
@@ -702,7 +664,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 2631000,
-            "track_id": 31988,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -719,7 +680,6 @@
             "size": 47589533,
             "sort_album": "Real Python Podcast",
             "total_time": 3955000,
-            "track_id": 32476,
             "track_type": "URL",
             "unplayed": true
         },
@@ -735,7 +695,6 @@
             "size": 41713543,
             "sort_album": "Real Python Podcast",
             "total_time": 3466000,
-            "track_id": 32478,
             "track_type": "URL",
             "unplayed": true
         },
@@ -754,7 +713,6 @@
             "size": 34411282,
             "sort_album": "Real Python Podcast",
             "total_time": 2856000,
-            "track_id": 32480,
             "track_type": "URL"
         },
         {
@@ -769,7 +727,6 @@
             "size": 40216787,
             "sort_album": "Real Python Podcast",
             "total_time": 3341000,
-            "track_id": 32482,
             "track_type": "URL",
             "unplayed": true
         },
@@ -785,7 +742,6 @@
             "size": 44792941,
             "sort_album": "Real Python Podcast",
             "total_time": 3722000,
-            "track_id": 32484,
             "track_type": "URL",
             "unplayed": true
         },
@@ -801,7 +757,6 @@
             "size": 46438443,
             "sort_album": "Real Python Podcast",
             "total_time": 3859000,
-            "track_id": 32486,
             "track_type": "URL",
             "unplayed": true
         },
@@ -820,7 +775,6 @@
             "size": 34268634,
             "sort_album": "Real Python Podcast",
             "total_time": 2845000,
-            "track_id": 32488,
             "track_type": "URL"
         },
         {
@@ -835,7 +789,6 @@
             "size": 32171441,
             "sort_album": "Real Python Podcast",
             "total_time": 2670000,
-            "track_id": 32490,
             "track_type": "URL",
             "unplayed": true
         },
@@ -851,7 +804,6 @@
             "size": 66767311,
             "sort_album": "Real Python Podcast",
             "total_time": 5550000,
-            "track_id": 32492,
             "track_type": "URL",
             "unplayed": true
         },
@@ -867,7 +819,6 @@
             "size": 44204218,
             "sort_album": "Real Python Podcast",
             "total_time": 3673000,
-            "track_id": 32494,
             "track_type": "URL",
             "unplayed": true
         },
@@ -884,7 +835,6 @@
             "sort_album": "Real Python Podcast",
             "sort_name": "Challenges of Developing Into a Python Professional",
             "total_time": 3118000,
-            "track_id": 32496,
             "track_type": "URL",
             "unplayed": true
         },
@@ -900,7 +850,6 @@
             "size": 38679135,
             "sort_album": "Real Python Podcast",
             "total_time": 3212000,
-            "track_id": 32498,
             "track_type": "URL",
             "unplayed": true
         },
@@ -916,7 +865,6 @@
             "size": 45781609,
             "sort_album": "Real Python Podcast",
             "total_time": 3804000,
-            "track_id": 32500,
             "track_type": "URL",
             "unplayed": true
         },
@@ -932,7 +880,6 @@
             "size": 32574390,
             "sort_album": "Real Python Podcast",
             "total_time": 2703000,
-            "track_id": 32502,
             "track_type": "URL",
             "unplayed": true
         },
@@ -948,7 +895,6 @@
             "size": 50720033,
             "sort_album": "Real Python Podcast",
             "total_time": 4216000,
-            "track_id": 32504,
             "track_type": "URL",
             "unplayed": true
         },
@@ -964,7 +910,6 @@
             "size": 33452975,
             "sort_album": "Real Python Podcast",
             "total_time": 2777000,
-            "track_id": 32506,
             "track_type": "URL",
             "unplayed": true
         },
@@ -980,7 +925,6 @@
             "size": 41895911,
             "sort_album": "Real Python Podcast",
             "total_time": 3480000,
-            "track_id": 32508,
             "track_type": "URL",
             "unplayed": true
         },
@@ -996,7 +940,6 @@
             "size": 36643171,
             "sort_album": "Real Python Podcast",
             "total_time": 3042000,
-            "track_id": 32510,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1012,7 +955,6 @@
             "size": 54822229,
             "sort_album": "Real Python Podcast",
             "total_time": 4557000,
-            "track_id": 32512,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1036,7 +978,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 2675000,
-            "track_id": 32576,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1061,7 +1002,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 3219000,
-            "track_id": 32586,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1078,7 +1018,6 @@
             "size": 39441474,
             "sort_album": "Real Python Podcast",
             "total_time": 3276000,
-            "track_id": 32694,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1094,7 +1033,6 @@
             "size": 42819549,
             "sort_album": "Real Python Podcast",
             "total_time": 3557000,
-            "track_id": 32696,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1110,7 +1048,6 @@
             "size": 35268817,
             "sort_album": "Real Python Podcast",
             "total_time": 2928000,
-            "track_id": 32698,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1126,7 +1063,6 @@
             "size": 51252674,
             "sort_album": "Real Python Podcast",
             "total_time": 4260000,
-            "track_id": 32700,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1142,7 +1078,6 @@
             "size": 44084440,
             "sort_album": "Real Python Podcast",
             "total_time": 3662000,
-            "track_id": 32702,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1158,7 +1093,6 @@
             "size": 43818263,
             "sort_album": "Real Python Podcast",
             "total_time": 3640000,
-            "track_id": 32704,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1174,7 +1108,6 @@
             "size": 40425421,
             "sort_album": "Real Python Podcast",
             "total_time": 3357000,
-            "track_id": 32706,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1190,7 +1123,6 @@
             "size": 51521609,
             "sort_album": "Real Python Podcast",
             "total_time": 4282000,
-            "track_id": 32708,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1206,7 +1138,6 @@
             "size": 40032140,
             "sort_album": "Real Python Podcast",
             "total_time": 3325000,
-            "track_id": 32710,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1222,7 +1153,6 @@
             "size": 42011785,
             "sort_album": "Real Python Podcast",
             "total_time": 3495000,
-            "track_id": 32712,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1238,7 +1168,6 @@
             "size": 41125203,
             "sort_album": "Real Python Podcast",
             "total_time": 3416000,
-            "track_id": 32714,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1254,7 +1183,6 @@
             "size": 47396558,
             "sort_album": "Real Python Podcast",
             "total_time": 3938000,
-            "track_id": 32716,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1270,7 +1198,6 @@
             "size": 33090507,
             "sort_album": "Real Python Podcast",
             "total_time": 2751000,
-            "track_id": 32718,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1286,7 +1213,6 @@
             "size": 43983014,
             "sort_album": "Real Python Podcast",
             "total_time": 3651000,
-            "track_id": 32720,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1310,7 +1236,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 3481000,
-            "track_id": 32778,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1327,7 +1252,6 @@
             "size": 61270422,
             "sort_album": "Real Python Podcast",
             "total_time": 5095000,
-            "track_id": 32722,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1343,7 +1267,6 @@
             "size": 36161852,
             "sort_album": "Real Python Podcast",
             "total_time": 3002000,
-            "track_id": 32724,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1359,7 +1282,6 @@
             "size": 50353897,
             "sort_album": "Real Python Podcast",
             "total_time": 4185000,
-            "track_id": 32794,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1383,7 +1305,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 2885000,
-            "track_id": 32818,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1400,7 +1321,6 @@
             "size": 40145374,
             "sort_album": "Real Python Podcast",
             "total_time": 3339000,
-            "track_id": 32796,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1416,7 +1336,6 @@
             "size": 45523293,
             "sort_album": "Real Python Podcast",
             "total_time": 3766000,
-            "track_id": 33284,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1432,7 +1351,6 @@
             "size": 39450473,
             "sort_album": "Real Python Podcast",
             "total_time": 3267000,
-            "track_id": 33286,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1448,7 +1366,6 @@
             "size": 66923046,
             "sort_album": "Real Python Podcast",
             "total_time": 5554000,
-            "track_id": 33288,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1464,7 +1381,6 @@
             "size": 44549748,
             "sort_album": "Real Python Podcast",
             "total_time": 3692000,
-            "track_id": 33290,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1480,7 +1396,6 @@
             "size": 44728450,
             "sort_album": "Real Python Podcast",
             "total_time": 3707000,
-            "track_id": 33292,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1496,7 +1411,6 @@
             "size": 45558457,
             "sort_album": "Real Python Podcast",
             "total_time": 3715000,
-            "track_id": 33294,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1513,7 +1427,6 @@
             "sort_album": "Real Python Podcast",
             "sort_name": "Legacy of OLPC and Charismatic Pitfalls in Teaching Programming",
             "total_time": 4928000,
-            "track_id": 33296,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1529,7 +1442,6 @@
             "size": 42690933,
             "sort_album": "Real Python Podcast",
             "total_time": 3475000,
-            "track_id": 33298,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1545,7 +1457,6 @@
             "size": 59303513,
             "sort_album": "Real Python Podcast",
             "total_time": 4863000,
-            "track_id": 33300,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1561,7 +1472,6 @@
             "size": 42117125,
             "sort_album": "Real Python Podcast",
             "total_time": 3422000,
-            "track_id": 33302,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1578,7 +1488,6 @@
             "sort_album": "Real Python Podcast",
             "sort_name": "Python Journey: Cyber Security, Automating AWS, and TDD",
             "total_time": 3269000,
-            "track_id": 33304,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1594,7 +1503,6 @@
             "size": 46725727,
             "sort_album": "Real Python Podcast",
             "total_time": 3814000,
-            "track_id": 33306,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1610,7 +1518,6 @@
             "size": 43138588,
             "sort_album": "Real Python Podcast",
             "total_time": 3511000,
-            "track_id": 33308,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1626,7 +1533,6 @@
             "size": 49648281,
             "sort_album": "Real Python Podcast",
             "total_time": 3042000,
-            "track_id": 33310,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1642,7 +1548,6 @@
             "size": 57686560,
             "sort_album": "Real Python Podcast",
             "total_time": 3539000,
-            "track_id": 33312,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1658,7 +1563,6 @@
             "size": 64968429,
             "sort_album": "Real Python Podcast",
             "total_time": 3995000,
-            "track_id": 33314,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1674,7 +1578,6 @@
             "size": 57726509,
             "sort_album": "Real Python Podcast",
             "total_time": 3548000,
-            "track_id": 33316,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1690,7 +1593,6 @@
             "size": 48706521,
             "sort_album": "Real Python Podcast",
             "total_time": 2980000,
-            "track_id": 33318,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1706,7 +1608,6 @@
             "size": 50370017,
             "sort_album": "Real Python Podcast",
             "total_time": 3086000,
-            "track_id": 33320,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1722,7 +1623,6 @@
             "size": 57169538,
             "sort_album": "Real Python Podcast",
             "total_time": 3514000,
-            "track_id": 33322,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1738,7 +1638,6 @@
             "size": 52315629,
             "sort_album": "Real Python Podcast",
             "total_time": 3204000,
-            "track_id": 33324,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1754,7 +1653,6 @@
             "size": 61761817,
             "sort_album": "Real Python Podcast",
             "total_time": 3800000,
-            "track_id": 33326,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1770,7 +1668,6 @@
             "size": 46259781,
             "sort_album": "Real Python Podcast",
             "total_time": 2829000,
-            "track_id": 33328,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1786,7 +1683,6 @@
             "size": 58499938,
             "sort_album": "Real Python Podcast",
             "total_time": 3597000,
-            "track_id": 33330,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1802,7 +1698,6 @@
             "size": 51893180,
             "sort_album": "Real Python Podcast",
             "total_time": 3183000,
-            "track_id": 33332,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1818,7 +1713,6 @@
             "size": 79316184,
             "sort_album": "Real Python Podcast",
             "total_time": 4892000,
-            "track_id": 33334,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1834,7 +1728,6 @@
             "size": 57064350,
             "sort_album": "Real Python Podcast",
             "total_time": 3502000,
-            "track_id": 33336,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1850,7 +1743,6 @@
             "size": 57488102,
             "sort_album": "Real Python Podcast",
             "total_time": 3528000,
-            "track_id": 33338,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1866,7 +1758,6 @@
             "size": 54790329,
             "sort_album": "Real Python Podcast",
             "total_time": 3363000,
-            "track_id": 33340,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1882,7 +1773,6 @@
             "size": 55395235,
             "sort_album": "Real Python Podcast",
             "total_time": 3399000,
-            "track_id": 33342,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1898,7 +1788,6 @@
             "size": 56921218,
             "sort_album": "Real Python Podcast",
             "total_time": 3496000,
-            "track_id": 33344,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1914,7 +1803,6 @@
             "size": 50514917,
             "sort_album": "Real Python Podcast",
             "total_time": 3097000,
-            "track_id": 33346,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1930,7 +1818,6 @@
             "size": 45558785,
             "sort_album": "Real Python Podcast",
             "total_time": 2788000,
-            "track_id": 33348,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1946,7 +1833,6 @@
             "size": 49205049,
             "sort_album": "Real Python Podcast",
             "total_time": 3013000,
-            "track_id": 33350,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1962,7 +1848,6 @@
             "size": 60024960,
             "sort_album": "Real Python Podcast",
             "total_time": 3693000,
-            "track_id": 33352,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1978,7 +1863,6 @@
             "size": 54844438,
             "sort_album": "Real Python Podcast",
             "total_time": 3364000,
-            "track_id": 33354,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1994,7 +1878,6 @@
             "size": 72226307,
             "sort_album": "Real Python Podcast",
             "total_time": 4450000,
-            "track_id": 33356,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2010,7 +1893,6 @@
             "size": 64828724,
             "sort_album": "Real Python Podcast",
             "total_time": 3992000,
-            "track_id": 33358,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2026,7 +1908,6 @@
             "size": 53609004,
             "sort_album": "Real Python Podcast",
             "total_time": 3285000,
-            "track_id": 33360,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2042,7 +1923,6 @@
             "size": 57494703,
             "sort_album": "Real Python Podcast",
             "total_time": 3529000,
-            "track_id": 33362,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2058,7 +1938,6 @@
             "size": 42374419,
             "sort_album": "Real Python Podcast",
             "total_time": 2590000,
-            "track_id": 33364,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2074,7 +1953,6 @@
             "size": 49787574,
             "sort_album": "Real Python Podcast",
             "total_time": 3047000,
-            "track_id": 33366,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2090,7 +1968,6 @@
             "size": 60273597,
             "sort_album": "Real Python Podcast",
             "total_time": 3704000,
-            "track_id": 33368,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2106,7 +1983,6 @@
             "size": 71639944,
             "sort_album": "Real Python Podcast",
             "total_time": 4413000,
-            "track_id": 33370,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2122,7 +1998,6 @@
             "size": 78687680,
             "sort_album": "Real Python Podcast",
             "total_time": 4853000,
-            "track_id": 33372,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2138,7 +2013,6 @@
             "size": 51862647,
             "sort_album": "Real Python Podcast",
             "total_time": 3180000,
-            "track_id": 33374,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2154,7 +2028,6 @@
             "size": 68409384,
             "sort_album": "Real Python Podcast",
             "total_time": 4210000,
-            "track_id": 33376,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2170,7 +2043,6 @@
             "size": 57630095,
             "sort_album": "Real Python Podcast",
             "total_time": 3537000,
-            "track_id": 33378,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2186,7 +2058,6 @@
             "size": 62181371,
             "sort_album": "Real Python Podcast",
             "total_time": 3823000,
-            "track_id": 33380,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2202,7 +2073,6 @@
             "size": 55483087,
             "sort_album": "Real Python Podcast",
             "total_time": 3404000,
-            "track_id": 33382,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2218,7 +2088,6 @@
             "size": 67608337,
             "sort_album": "Real Python Podcast",
             "total_time": 4165000,
-            "track_id": 33384,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2234,7 +2103,6 @@
             "size": 60973536,
             "sort_album": "Real Python Podcast",
             "total_time": 3746000,
-            "track_id": 33386,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2250,7 +2118,6 @@
             "size": 52926896,
             "sort_album": "Real Python Podcast",
             "total_time": 3244000,
-            "track_id": 33388,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2266,7 +2133,6 @@
             "size": 43876600,
             "sort_album": "Real Python Podcast",
             "total_time": 2677000,
-            "track_id": 33390,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2282,7 +2148,6 @@
             "size": 56205677,
             "sort_album": "Real Python Podcast",
             "total_time": 3453000,
-            "track_id": 33392,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2298,7 +2163,6 @@
             "size": 56446522,
             "sort_album": "Real Python Podcast",
             "total_time": 3465000,
-            "track_id": 33394,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2314,7 +2178,6 @@
             "size": 53007401,
             "sort_album": "Real Python Podcast",
             "total_time": 3248000,
-            "track_id": 33396,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2330,7 +2193,6 @@
             "size": 59012460,
             "sort_album": "Real Python Podcast",
             "total_time": 3626000,
-            "track_id": 33398,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2346,7 +2208,6 @@
             "size": 74201611,
             "sort_album": "Real Python Podcast",
             "total_time": 4572000,
-            "track_id": 33400,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2362,7 +2223,6 @@
             "size": 43925632,
             "sort_album": "Real Python Podcast",
             "total_time": 2683000,
-            "track_id": 33402,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2378,7 +2238,6 @@
             "size": 56648852,
             "sort_album": "Real Python Podcast",
             "total_time": 3477000,
-            "track_id": 33404,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2394,7 +2253,6 @@
             "size": 54779656,
             "sort_album": "Real Python Podcast",
             "total_time": 3366000,
-            "track_id": 33406,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2410,7 +2268,6 @@
             "size": 53221542,
             "sort_album": "Real Python Podcast",
             "total_time": 3264000,
-            "track_id": 33408,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2426,7 +2283,6 @@
             "size": 61292658,
             "sort_album": "Real Python Podcast",
             "total_time": 3766000,
-            "track_id": 33410,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2442,7 +2298,6 @@
             "size": 51176106,
             "sort_album": "Real Python Podcast",
             "total_time": 3137000,
-            "track_id": 33412,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2458,7 +2313,6 @@
             "size": 57792227,
             "sort_album": "Real Python Podcast",
             "total_time": 3550000,
-            "track_id": 33414,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2474,7 +2328,6 @@
             "size": 66917075,
             "sort_album": "Real Python Podcast",
             "total_time": 4117000,
-            "track_id": 33416,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2490,7 +2343,6 @@
             "size": 65979509,
             "sort_album": "Real Python Podcast",
             "total_time": 4061000,
-            "track_id": 33418,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2506,7 +2358,6 @@
             "size": 69468071,
             "sort_album": "Real Python Podcast",
             "total_time": 4276000,
-            "track_id": 33420,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2522,7 +2373,6 @@
             "size": 52162398,
             "sort_album": "Real Python Podcast",
             "total_time": 3197000,
-            "track_id": 33422,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2538,7 +2388,6 @@
             "size": 60827687,
             "sort_album": "Real Python Podcast",
             "total_time": 3741000,
-            "track_id": 33424,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2554,7 +2403,6 @@
             "size": 59484686,
             "sort_album": "Real Python Podcast",
             "total_time": 3657000,
-            "track_id": 33426,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2570,7 +2418,6 @@
             "size": 48811271,
             "sort_album": "Real Python Podcast",
             "total_time": 2985000,
-            "track_id": 33428,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2586,7 +2433,6 @@
             "size": 42124008,
             "sort_album": "Real Python Podcast",
             "total_time": 2574000,
-            "track_id": 33430,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2602,7 +2448,6 @@
             "size": 76937831,
             "sort_album": "Real Python Podcast",
             "total_time": 4743000,
-            "track_id": 33432,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2618,7 +2463,6 @@
             "size": 37664757,
             "sort_album": "Real Python Podcast",
             "total_time": 2289000,
-            "track_id": 33434,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2634,7 +2478,6 @@
             "size": 67618805,
             "sort_album": "Real Python Podcast",
             "total_time": 4167000,
-            "track_id": 33436,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2650,7 +2493,6 @@
             "size": 53765992,
             "sort_album": "Real Python Podcast",
             "total_time": 3298000,
-            "track_id": 33438,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2666,7 +2508,6 @@
             "size": 51800830,
             "sort_album": "Real Python Podcast",
             "total_time": 3175000,
-            "track_id": 33440,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2690,7 +2531,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 3633000,
-            "track_id": 33704,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -2715,7 +2555,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 2945000,
-            "track_id": 33726,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -2732,7 +2571,6 @@
             "size": 71654676,
             "sort_album": "Real Python Podcast",
             "total_time": 4413000,
-            "track_id": 33442,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2748,7 +2586,6 @@
             "size": 48990408,
             "sort_album": "Real Python Podcast",
             "total_time": 3001000,
-            "track_id": 85116,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2764,7 +2601,6 @@
             "size": 71888382,
             "sort_album": "Real Python Podcast",
             "total_time": 4432000,
-            "track_id": 85121,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2780,7 +2616,6 @@
             "size": 49860746,
             "sort_album": "Real Python Podcast",
             "total_time": 3055000,
-            "track_id": 85126,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2796,7 +2631,6 @@
             "size": 59175976,
             "sort_album": "Real Python Podcast",
             "total_time": 3633000,
-            "track_id": 85131,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2812,7 +2646,6 @@
             "size": 45313922,
             "sort_album": "Real Python Podcast",
             "total_time": 2771000,
-            "track_id": 85136,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2828,7 +2661,6 @@
             "size": 72598675,
             "sort_album": "Real Python Podcast",
             "total_time": 4473000,
-            "track_id": 85141,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2844,7 +2676,6 @@
             "size": 48117520,
             "sort_album": "Real Python Podcast",
             "total_time": 2942000,
-            "track_id": 85146,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2860,7 +2691,6 @@
             "size": 63451045,
             "sort_album": "Real Python Podcast",
             "total_time": 3900000,
-            "track_id": 85151,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2876,7 +2706,6 @@
             "size": 63760379,
             "sort_album": "Real Python Podcast",
             "total_time": 3923000,
-            "track_id": 85156,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2892,7 +2721,6 @@
             "size": 49552579,
             "sort_album": "Real Python Podcast",
             "total_time": 3033000,
-            "track_id": 85161,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2908,7 +2736,6 @@
             "size": 62146217,
             "sort_album": "Real Python Podcast",
             "total_time": 3822000,
-            "track_id": 85166,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2924,7 +2751,6 @@
             "size": 46901685,
             "sort_album": "Real Python Podcast",
             "total_time": 2868000,
-            "track_id": 85171,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2940,7 +2766,6 @@
             "size": 68779455,
             "sort_album": "Real Python Podcast",
             "total_time": 4234000,
-            "track_id": 85176,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2956,7 +2781,6 @@
             "size": 64493219,
             "sort_album": "Real Python Podcast",
             "total_time": 3969000,
-            "track_id": 85181,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2972,7 +2796,6 @@
             "size": 62106362,
             "sort_album": "Real Python Podcast",
             "total_time": 3817000,
-            "track_id": 85186,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2988,7 +2811,6 @@
             "size": 57180136,
             "sort_album": "Real Python Podcast",
             "total_time": 3511000,
-            "track_id": 85191,
             "track_type": "URL",
             "unplayed": true
         },
@@ -3004,7 +2826,6 @@
             "size": 55945309,
             "sort_album": "Real Python Podcast",
             "total_time": 3430000,
-            "track_id": 85196,
             "track_type": "URL",
             "unplayed": true
         },
@@ -3020,7 +2841,6 @@
             "size": 55168699,
             "sort_album": "Real Python Podcast",
             "total_time": 3386000,
-            "track_id": 85201,
             "track_type": "URL",
             "unplayed": true
         },
@@ -3036,7 +2856,6 @@
             "size": 47360139,
             "sort_album": "Real Python Podcast",
             "total_time": 2897000,
-            "track_id": 85206,
             "track_type": "URL",
             "unplayed": true
         },
@@ -3052,7 +2871,6 @@
             "size": 53082137,
             "sort_album": "Real Python Podcast",
             "total_time": 3252000,
-            "track_id": 85211,
             "track_type": "URL",
             "unplayed": true
         },
@@ -3076,7 +2894,6 @@
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
             "total_time": 3391000,
-            "track_id": 85346,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -3089,22 +2906,19 @@
             "comments": "What goes into a code review in Python? Is there a difference in how a large organization practices code review compared to a smaller one? What do you do if you're a solo developer? This week on the show, Brendan Maginnis and Nick Thapen from Sourcery ret",
             "date_added": "2023-12-29T05:30:36",
             "date_modified": "2023-12-29T05:30:36",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/Exploring Code Reviews in Python and.mp3",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E183_03_Brendan_Nick.16e1b41cfbb8.mp3",
             "name": "Exploring Code Reviews in Python and Automating the Process",
             "persistent_id": "7C53F12756B3D4E5",
             "podcast": true,
             "release_date": "2023-12-08T12:00:00",
             "sample_rate": 44100,
-            "size": 64400302,
+            "size": 64389373,
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
-            "total_time": 3965779,
-            "track_id": 85374,
-            "track_type": "File",
+            "total_time": 3966000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
         },
@@ -3116,22 +2930,19 @@
             "comments": "It's been a fascinating year for the Python language and community. PyCoder's Weekly included over 1,500 links to articles, blog posts, tutorials, and projects in 2023. Christopher Trudeau is back on the show this week to help wrap up everything by sharin",
             "date_added": "2023-12-29T05:30:45",
             "date_modified": "2023-12-29T05:30:45",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/PyCoder's Weekly 2023 Wrap Up.mp3",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E184_02_Cx2.01c66af0a50e.mp3",
             "name": "PyCoder's Weekly 2023 Wrap Up",
             "persistent_id": "61847827446A84D4",
             "podcast": true,
             "release_date": "2023-12-22T12:00:00",
             "sample_rate": 44100,
-            "size": 37837334,
+            "size": 37826378,
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
-            "total_time": 2299846,
-            "track_id": 85403,
-            "track_type": "File",
+            "total_time": 2300000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
         },
@@ -3143,24 +2954,198 @@
             "comments": "Three members of the Real Python team are joining us this week: Kate Finegan, Tappan Moore, and Philipp Acsany. We wanted to share a year-end wrap-up with tutorials, step-by-step projects, code conversations, and video courses that showcase what our team ",
             "date_added": "2023-12-30T05:29:27",
             "date_modified": "2023-12-30T05:29:27",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/2023 Real Python Tutorial & Video Co.mp3",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E185_02_2.91aac904cbcb.mp3",
             "name": "2023 Real Python Tutorial & Video Course Wrap-Up",
             "persistent_id": "F2A84892E18AA32F",
             "podcast": true,
             "release_date": "2023-12-29T12:00:00",
             "sample_rate": 44100,
-            "size": 51840167,
+            "size": 51829269,
             "sort_album": "Real Python Podcast",
             "sort_artist": "Real Python Podcast",
-            "total_time": 3179546,
-            "track_id": 85486,
-            "track_type": "File",
+            "total_time": 3180000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
+        },
+        {
+            "album": "The Real Python Podcast",
+            "date_added": "2024-02-23T21:26:50",
+            "genre": "Podcast",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E186_02_John_Sarah.1c8d95aadf59.mp3",
+            "name": "Exploring Python in Excel",
+            "persistent_id": "6EBAC0024F65EAC1",
+            "podcast": true,
+            "release_date": "2024-01-05T12:00:00",
+            "size": 72472858,
+            "sort_album": "Real Python Podcast",
+            "total_time": 4467000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "The Real Python Podcast",
+            "date_added": "2024-02-23T21:26:50",
+            "genre": "Podcast",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E187_02.b1244807c970.mp3",
+            "name": "Serializing Data With Python & Underscore Naming Conventions",
+            "persistent_id": "8FC156B902B0A3CE",
+            "podcast": true,
+            "release_date": "2024-01-12T12:00:00",
+            "size": 53176864,
+            "sort_album": "Real Python Podcast",
+            "total_time": 3261000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "The Real Python Podcast",
+            "date_added": "2024-02-23T21:26:50",
+            "genre": "Podcast",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E188_03_Jodie.bd4771f3f84e.mp3",
+            "name": "Measuring Bias, Toxicity, and Truthfulness in LLMs With Python",
+            "persistent_id": "9DC7A89233BE6537",
+            "podcast": true,
+            "release_date": "2024-01-19T12:00:00",
+            "size": 73825046,
+            "sort_album": "Real Python Podcast",
+            "total_time": 4553000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "The Real Python Podcast",
+            "date_added": "2024-02-23T21:26:50",
+            "genre": "Podcast",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E189_03_C2.860151feeb60.mp3",
+            "name": "Building a Python Debugger & Preparing for NumPy 2.0",
+            "persistent_id": "558AB1DA4E6DAD65",
+            "podcast": true,
+            "release_date": "2024-01-26T12:34:00",
+            "size": 46941812,
+            "sort_album": "Real Python Podcast",
+            "total_time": 2875000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "The Real Python Podcast",
+            "date_added": "2024-02-23T21:26:50",
+            "genre": "Podcast",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E190_03_Stefanie.fc1bc21410af.mp3",
+            "name": "Great Starting Points for Contributing to Open Source",
+            "persistent_id": "FFB0ABBACDAC2C53",
+            "podcast": true,
+            "release_date": "2024-02-02T12:00:00",
+            "size": 77277272,
+            "sort_album": "Real Python Podcast",
+            "total_time": 4767000,
+            "track_type": "URL",
+            "unplayed": true
+        },
+        {
+            "album": "The Real Python Podcast",
+            "artist": "The Real Python Podcast",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "comments": "How do you manage the dependencies of a large-scale data science project? How do you migrate that project from a laptop to cloud infrastructure or utilize GPUs and multiple instances in parallel? This week on the show, Savin Goyal returns to discuss the u",
+            "date_added": "2024-02-23T21:27:14",
+            "date_modified": "2024-02-23T21:27:14",
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "location": "https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E191_03_Savin.f54ef77fbb9d.mp3",
+            "name": "Focusing on Data Science & Less on Engineering and Dependencies",
+            "persistent_id": "B2A2AA88A3C7CD93",
+            "podcast": true,
+            "release_date": "2024-02-09T12:00:00",
+            "sample_rate": 44100,
+            "size": 59916381,
+            "sort_album": "Real Python Podcast",
+            "sort_artist": "Real Python Podcast",
+            "total_time": 3680000,
+            "track_type": "URL",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "The Real Python Podcast",
+            "artist": "The Real Python Podcast",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "comments": "What are real-life examples of using Python decorators? How can you harness their power in your code? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder's Weekly articles and projects.\n\nWe discuss a recent article series ",
+            "date_added": "2024-02-23T21:27:32",
+            "date_modified": "2024-02-23T21:27:32",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/Practical Python Decorator Uses & Av.mp3",
+            "name": "Practical Python Decorator Uses & Avoiding datetime Pitfalls",
+            "persistent_id": "04AACE91A1BB0650",
+            "podcast": true,
+            "release_date": "2024-02-16T12:00:00",
+            "sample_rate": 44100,
+            "size": 55722270,
+            "sort_album": "Real Python Podcast",
+            "sort_artist": "Real Python Podcast",
+            "total_time": 3420421,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "The Real Python Podcast",
+            "artist": "The Real Python Podcast",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "comments": "How do you avoid the bottlenecks of data processing systems? Is it possible to build tools that decouple storage and computation?\nThis week on the show, creator of the pandas library Wes McKinney is here to discuss Apache Arrow, composable data systems, a",
+            "date_added": "2024-03-04T19:22:06",
+            "date_modified": "2024-03-04T19:22:06",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/Wes McKinney on Improving the Data S.mp3",
+            "name": "Wes McKinney on Improving the Data Stack & Composable Systems",
+            "persistent_id": "1B2C36373C25A7E7",
+            "podcast": true,
+            "release_date": "2024-02-23T12:00:00",
+            "sample_rate": 44100,
+            "size": 67603579,
+            "sort_album": "Real Python Podcast",
+            "sort_artist": "Real Python Podcast",
+            "total_time": 4160444,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "The Real Python Podcast",
+            "artist": "The Real Python Podcast",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "comments": "What are the typical computer tasks you do manually every week? Could you automate those tasks with a Python script? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder's Weekly articles and projects.\n\nWe discuss a recent ",
+            "date_added": "2024-03-04T19:22:28",
+            "date_modified": "2024-03-04T19:22:28",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/The Real Python Podcast/Automate Tasks With Python & Buildin.mp3",
+            "name": "Automate Tasks With Python & Building a Small Search Engine",
+            "persistent_id": "339F1FD27ADF0F14",
+            "podcast": true,
+            "release_date": "2024-03-01T12:00:00",
+            "sample_rate": 44100,
+            "size": 43812258,
+            "sort_album": "Real Python Podcast",
+            "sort_artist": "Real Python Podcast",
+            "total_time": 2675800,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
         }
     ]
 }

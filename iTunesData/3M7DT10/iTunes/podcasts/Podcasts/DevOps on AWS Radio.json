@@ -19,7 +19,6 @@
             "sample_rate": 44100,
             "size": 43859943,
             "total_time": 2646778,
-            "track_id": 25358,
             "track_type": "File",
             "unplayed": true,
             "year": 2016
@@ -42,7 +41,6 @@
             "sample_rate": 44100,
             "size": 31079070,
             "total_time": 2037995,
-            "track_id": 25362,
             "track_type": "File",
             "unplayed": true,
             "year": 2016
@@ -65,7 +63,6 @@
             "sample_rate": 44100,
             "size": 38142751,
             "total_time": 1645688,
-            "track_id": 25366,
             "track_type": "File",
             "unplayed": true,
             "year": 2016
@@ -88,7 +85,6 @@
             "sample_rate": 44100,
             "size": 50691597,
             "total_time": 2939951,
-            "track_id": 25368,
             "track_type": "File",
             "unplayed": true,
             "year": 2016
@@ -111,7 +107,6 @@
             "sample_rate": 44100,
             "size": 71166486,
             "total_time": 3198720,
-            "track_id": 25370,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -134,7 +129,6 @@
             "sample_rate": 44100,
             "size": 38210823,
             "total_time": 1642161,
-            "track_id": 25372,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -157,7 +151,6 @@
             "sample_rate": 44100,
             "size": 62563449,
             "total_time": 2579356,
-            "track_id": 25374,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -180,7 +173,6 @@
             "sample_rate": 44100,
             "size": 131083341,
             "total_time": 4363585,
-            "track_id": 25376,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -203,7 +195,6 @@
             "sample_rate": 44100,
             "size": 50029861,
             "total_time": 2249665,
-            "track_id": 25378,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -226,7 +217,6 @@
             "sample_rate": 44100,
             "size": 57411086,
             "total_time": 2754612,
-            "track_id": 25380,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -249,7 +239,6 @@
             "sample_rate": 44100,
             "size": 51655104,
             "total_time": 2189871,
-            "track_id": 25382,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -272,7 +261,6 @@
             "sample_rate": 44100,
             "size": 54222087,
             "total_time": 2268551,
-            "track_id": 25384,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -295,7 +283,6 @@
             "sample_rate": 44100,
             "size": 39812288,
             "total_time": 1725361,
-            "track_id": 25386,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
@@ -318,7 +305,6 @@
             "sample_rate": 44100,
             "size": 39797108,
             "total_time": 2004976,
-            "track_id": 25388,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
@@ -341,7 +327,6 @@
             "sample_rate": 44100,
             "size": 33140281,
             "total_time": 1788734,
-            "track_id": 25390,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
@@ -364,28 +349,9 @@
             "sample_rate": 44100,
             "size": 36771907,
             "total_time": 2167457,
-            "track_id": 25392,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
-        },
-        {
-            "album": "DevOps on AWS Radio",
-            "artist": "Mphasis Stelligent",
-            "date_added": "2018-12-11T20:55:00",
-            "genre": "Technology",
-            "kind": "MPEG audio stream",
-            "location": "https://feeds.soundcloud.com/stream/481798464-stelligent-ep-17-serverless-architectures-and-security.mp3",
-            "name": "Ep. 17 Serverless Architectures and Security",
-            "persistent_id": "3CB2471F35488225",
-            "podcast": true,
-            "purchased": true,
-            "release_date": "2018-08-06T12:27:44",
-            "size": 41019279,
-            "total_time": 2385000,
-            "track_id": 24234,
-            "track_type": "URL",
-            "unplayed": true
         },
         {
             "album": "DevOps on AWS Radio",
@@ -405,64 +371,9 @@
             "sample_rate": 44100,
             "size": 47912577,
             "total_time": 2958081,
-            "track_id": 25394,
             "track_type": "File",
             "unplayed": true,
             "year": 2018
-        },
-        {
-            "album": "DevOps on AWS Radio",
-            "artist": "Mphasis Stelligent",
-            "date_added": "2018-12-11T20:54:51",
-            "genre": "Technology",
-            "kind": "MPEG audio stream",
-            "location": "https://feeds.soundcloud.com/stream/508389981-stelligent-ep-19-continuous-integration-cicd-and-devops-with-paul-julius.mp3",
-            "name": "Ep. 19 Continuous Integration, Continuous Delivery, and DevOps with Paul Julius",
-            "persistent_id": "CF4AF9575BDE13CB",
-            "podcast": true,
-            "purchased": true,
-            "release_date": "2018-10-02T16:15:54",
-            "size": 66561937,
-            "total_time": 3909000,
-            "track_id": 24232,
-            "track_type": "URL",
-            "unplayed": true
-        },
-        {
-            "album": "DevOps on AWS Radio",
-            "artist": "Mphasis Stelligent",
-            "date_added": "2018-12-11T20:54:41",
-            "genre": "Technology",
-            "kind": "MPEG audio stream",
-            "location": "https://feeds.soundcloud.com/stream/530170965-stelligent-ep-20-3m-his-devops-philosophies.mp3",
-            "name": "Ep. 20 DevOps Philosophies with James Martin at 3M HIS",
-            "persistent_id": "EA71C13AA1801230",
-            "podcast": true,
-            "purchased": true,
-            "release_date": "2018-11-15T18:11:38",
-            "size": 46948287,
-            "total_time": 2746000,
-            "track_id": 24228,
-            "track_type": "URL",
-            "unplayed": true
-        },
-        {
-            "album": "DevOps on AWS Radio",
-            "artist": "Mphasis Stelligent",
-            "date_added": "2019-04-10T16:17:30",
-            "genre": "Podcast",
-            "location": "https://feeds.soundcloud.com/stream/546766842-stelligent-ep-21-containers-with-casey-lee.mp3",
-            "name": "Ep. 21 Containers on AWS with Casey Lee",
-            "persistent_id": "AE838834295177C1",
-            "play_count": 1,
-            "play_date": 3633960944,
-            "play_date_utc": "2019-02-26T00:35:44",
-            "podcast": true,
-            "release_date": "2018-12-18T15:48:28",
-            "size": 29076662,
-            "total_time": 1733000,
-            "track_id": 25354,
-            "track_type": "URL"
         },
         {
             "album": "DevOps on AWS Radio",
@@ -480,7 +391,6 @@
             "sample_rate": 44100,
             "size": 37946399,
             "total_time": 1913000,
-            "track_id": 25396,
             "track_type": "URL",
             "unplayed": true,
             "year": 2019
@@ -501,7 +411,6 @@
             "sample_rate": 44100,
             "size": 38119919,
             "total_time": 2277000,
-            "track_id": 25398,
             "track_type": "URL",
             "year": 2019
         },
@@ -524,27 +433,8 @@
             "sample_rate": 44100,
             "size": 40517337,
             "total_time": 2499000,
-            "track_id": 25404,
             "track_type": "URL",
             "year": 2019
-        },
-        {
-            "album": "DevOps on AWS Radio",
-            "artist": "Mphasis Stelligent",
-            "date_added": "2019-08-07T21:00:32",
-            "genre": "Podcast",
-            "location": "https://feeds.soundcloud.com/stream/661883633-stelligent-ep-25-automating-aws-iot-1.m4a",
-            "name": "Ep. 25 Automating AWS IoT",
-            "persistent_id": "2F2BA84BBB62B198",
-            "play_count": 1,
-            "play_date": 3647961928,
-            "play_date_utc": "2019-08-07T00:45:28",
-            "podcast": true,
-            "release_date": "2019-08-06T12:28:23",
-            "size": 32432889,
-            "total_time": 1978000,
-            "track_id": 28514,
-            "track_type": "URL"
         },
         {
             "album": "DevOps on AWS Radio",
@@ -565,7 +455,6 @@
             "sample_rate": 44100,
             "size": 41436527,
             "total_time": 2028000,
-            "track_id": 29256,
             "track_type": "URL",
             "year": 2019
         },
@@ -589,7 +478,6 @@
             "sample_rate": 44100,
             "size": 31538927,
             "total_time": 1967804,
-            "track_id": 31216,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -614,7 +502,6 @@
             "sample_rate": 44100,
             "size": 70815140,
             "total_time": 2946951,
-            "track_id": 31230,
             "track_type": "File",
             "unplayed": true,
             "year": 2020

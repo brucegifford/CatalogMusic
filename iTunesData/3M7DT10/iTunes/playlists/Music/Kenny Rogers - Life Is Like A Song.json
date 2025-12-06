@@ -3,7 +3,6 @@
     "display_path": "/Music/Kenny Rogers - Life Is Like A Song",
     "name": "Kenny Rogers - Life Is Like A Song",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 78939,
     "playlist_persistent_id": "7C2373314139EF88",
     "tracks": [
         {
@@ -29,7 +28,6 @@
             "size": 4390771,
             "total_time": 208248,
             "track_count": 10,
-            "track_id": 33678,
             "track_number": 3,
             "track_type": "File",
             "year": 2023
@@ -57,7 +55,6 @@
             "size": 5207889,
             "total_time": 249103,
             "track_count": 10,
-            "track_id": 33686,
             "track_number": 7,
             "track_type": "File",
             "year": 2023
@@ -85,7 +82,6 @@
             "size": 4257521,
             "total_time": 201586,
             "track_count": 10,
-            "track_id": 33692,
             "track_number": 10,
             "track_type": "File",
             "year": 2009
@@ -113,7 +109,6 @@
             "size": 6363547,
             "total_time": 306886,
             "track_count": 10,
-            "track_id": 33690,
             "track_number": 9,
             "track_type": "File",
             "year": 2023
@@ -141,7 +136,6 @@
             "size": 3880886,
             "total_time": 182752,
             "track_count": 10,
-            "track_id": 33676,
             "track_number": 2,
             "track_type": "File",
             "year": 2023
@@ -169,7 +163,6 @@
             "size": 3796226,
             "total_time": 178520,
             "track_count": 10,
-            "track_id": 33674,
             "track_number": 1,
             "track_type": "File",
             "year": 2023
@@ -197,7 +190,6 @@
             "size": 5059522,
             "total_time": 241684,
             "track_count": 10,
-            "track_id": 33682,
             "track_number": 5,
             "track_type": "File",
             "year": 2023
@@ -225,7 +217,6 @@
             "size": 4105031,
             "total_time": 193959,
             "track_count": 10,
-            "track_id": 33680,
             "track_number": 4,
             "track_type": "File",
             "year": 2009
@@ -253,7 +244,6 @@
             "size": 4691696,
             "total_time": 223294,
             "track_count": 10,
-            "track_id": 33688,
             "track_number": 8,
             "track_type": "File",
             "year": 2023
@@ -281,7 +271,6 @@
             "size": 4358887,
             "total_time": 206654,
             "track_count": 10,
-            "track_id": 33684,
             "track_number": 6,
             "track_type": "File",
             "year": 2023

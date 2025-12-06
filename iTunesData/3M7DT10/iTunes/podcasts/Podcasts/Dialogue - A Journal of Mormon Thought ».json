@@ -12,7 +12,6 @@
             "persistent_id": "28E2C0491230FAC1",
             "play_count": 1,
             "total_time": 4406000,
-            "track_id": 20730,
             "track_type": "URL"
         },
         {
@@ -26,7 +25,6 @@
             "persistent_id": "4FD38D074AD70E75",
             "play_count": 1,
             "total_time": 3964000,
-            "track_id": 20732,
             "track_type": "URL"
         },
         {
@@ -40,7 +38,6 @@
             "persistent_id": "509C9379FCF0B7DB",
             "play_count": 1,
             "total_time": 4415000,
-            "track_id": 20734,
             "track_type": "URL"
         },
         {
@@ -54,7 +51,6 @@
             "persistent_id": "4EEF2FBEFB770A42",
             "play_count": 1,
             "total_time": 4241000,
-            "track_id": 20736,
             "track_type": "URL"
         },
         {
@@ -72,7 +68,6 @@
             "play_date_utc": "2015-03-10T16:11:43",
             "sample_rate": 44100,
             "total_time": 3873000,
-            "track_id": 22552,
             "track_type": "URL",
             "year": 2015
         },
@@ -86,7 +81,6 @@
             "name": "Dialogue Podcast #25 w/Russell Stevenson",
             "persistent_id": "F097E1DEBCDF9801",
             "total_time": 4343000,
-            "track_id": 22892,
             "track_type": "URL"
         }
     ]

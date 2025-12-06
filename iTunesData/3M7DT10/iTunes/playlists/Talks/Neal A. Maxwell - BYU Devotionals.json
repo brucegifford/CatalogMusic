@@ -3,7 +3,6 @@
     "display_path": "/Talks/Neal A. Maxwell - BYU Devotionals",
     "name": "Neal A. Maxwell - BYU Devotionals",
     "parent_persistent_id": "2784946B72D16BBE",
-    "playlist_id": 81037,
     "playlist_persistent_id": "20423D2F0AE1C8A5",
     "tracks": [
         {
@@ -23,7 +22,6 @@
             "sample_rate": 32000,
             "size": 12499072,
             "total_time": 2082672,
-            "track_id": 14044,
             "track_type": "File",
             "year": 1978
         }

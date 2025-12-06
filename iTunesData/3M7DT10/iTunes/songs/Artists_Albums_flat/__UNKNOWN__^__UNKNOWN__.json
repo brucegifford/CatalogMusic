@@ -14,7 +14,6 @@
             "sample_rate": 16000,
             "size": 92092476,
             "total_time": 5716429,
-            "track_id": 10086,
             "track_type": "File"
         },
         {
@@ -30,7 +29,6 @@
             "sample_rate": 16000,
             "size": 115090492,
             "total_time": 7143980,
-            "track_id": 16074,
             "track_type": "File"
         },
         {
@@ -46,7 +44,6 @@
             "sample_rate": 22050,
             "size": 308186,
             "total_time": 6986,
-            "track_id": 17504,
             "track_type": "File"
         },
         {
@@ -62,7 +59,6 @@
             "sample_rate": 44100,
             "size": 12173,
             "total_time": 1593,
-            "track_id": 17506,
             "track_type": "File"
         },
         {
@@ -83,7 +79,6 @@
             "play_date_utc": "2014-04-17T22:45:28",
             "size": 51133586,
             "total_time": 267033,
-            "track_id": 17682,
             "track_type": "File",
             "video_height": 768,
             "video_width": 1024
@@ -103,7 +98,6 @@
             "persistent_id": "0001429B4233A791",
             "size": 51133586,
             "total_time": 267033,
-            "track_id": 17684,
             "track_type": "File",
             "video_height": 768,
             "video_width": 1024

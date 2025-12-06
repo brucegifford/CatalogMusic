@@ -15,7 +15,6 @@
             "size": 2816864,
             "sort_album": "Letter",
             "total_time": 172000,
-            "track_id": 27704,
             "track_type": "URL",
             "unplayed": true
         },
@@ -36,7 +35,6 @@
             "size": 33925110,
             "sort_album": "Letter",
             "total_time": 2116000,
-            "track_id": 27706,
             "track_type": "URL"
         },
         {
@@ -57,7 +55,6 @@
             "sort_album": "Letter",
             "sort_name": "Survivor",
             "total_time": 2306000,
-            "track_id": 27708,
             "track_type": "URL"
         },
         {
@@ -78,7 +75,6 @@
             "sort_album": "Letter",
             "sort_name": "Gun and a Death Wish",
             "total_time": 2329000,
-            "track_id": 27710,
             "track_type": "URL"
         },
         {
@@ -98,7 +94,6 @@
             "size": 19905111,
             "sort_album": "Letter",
             "total_time": 1240000,
-            "track_id": 27712,
             "track_type": "URL"
         },
         {
@@ -119,7 +114,6 @@
             "sort_album": "Letter",
             "sort_name": "Death Sentence Waiting to Happen",
             "total_time": 2689000,
-            "track_id": 27714,
             "track_type": "URL"
         },
         {
@@ -139,7 +133,6 @@
             "size": 32234463,
             "sort_album": "Letter",
             "total_time": 2011000,
-            "track_id": 27716,
             "track_type": "URL"
         },
         {
@@ -159,7 +152,6 @@
             "size": 44846388,
             "sort_album": "Letter",
             "total_time": 2799000,
-            "track_id": 27718,
             "track_type": "URL"
         },
         {
@@ -185,7 +177,6 @@
             "size": 42984360,
             "sort_album": "Letter",
             "total_time": 2683000,
-            "track_id": 27758,
             "track_type": "URL",
             "year": 2022
         },
@@ -212,7 +203,6 @@
             "size": 70250021,
             "sort_album": "Letter",
             "total_time": 4385880,
-            "track_id": 27764,
             "track_type": "URL",
             "year": 2022
         },
@@ -239,7 +229,6 @@
             "size": 30688072,
             "sort_album": "Letter",
             "total_time": 1913469,
-            "track_id": 30012,
             "track_type": "URL",
             "year": 2022
         },
@@ -265,7 +254,6 @@
             "size": 53746258,
             "sort_album": "Letter",
             "total_time": 3354462,
-            "track_id": 30382,
             "track_type": "File",
             "unplayed": true,
             "year": 2023
@@ -293,7 +281,6 @@
             "size": 10384407,
             "sort_album": "Letter",
             "total_time": 644310,
-            "track_id": 30394,
             "track_type": "URL",
             "year": 2023
         }

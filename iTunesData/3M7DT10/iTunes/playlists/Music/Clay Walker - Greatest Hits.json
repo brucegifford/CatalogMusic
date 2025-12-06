@@ -3,7 +3,6 @@
     "display_path": "/Music/Clay Walker - Greatest Hits",
     "name": "Clay Walker - Greatest Hits",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 78153,
     "playlist_persistent_id": "0AC3CA25BA966309",
     "tracks": [
         {
@@ -32,7 +31,6 @@
             "skip_date": "2016-06-06T16:41:51",
             "total_time": 168071,
             "track_count": 14,
-            "track_id": 6442,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -63,7 +61,6 @@
             "skip_date": "2016-06-06T16:42:50",
             "total_time": 161619,
             "track_count": 14,
-            "track_id": 6444,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -92,7 +89,6 @@
             "size": 3401772,
             "total_time": 169978,
             "track_count": 14,
-            "track_id": 6446,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -121,7 +117,6 @@
             "size": 5274251,
             "total_time": 263601,
             "track_count": 14,
-            "track_id": 6448,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -150,7 +145,6 @@
             "size": 4226728,
             "total_time": 211226,
             "track_count": 14,
-            "track_id": 6450,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -179,7 +173,6 @@
             "size": 3792055,
             "total_time": 189492,
             "track_count": 14,
-            "track_id": 6452,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -208,7 +201,6 @@
             "size": 4388168,
             "total_time": 219297,
             "track_count": 14,
-            "track_id": 6454,
             "track_number": 7,
             "track_type": "File",
             "year": 1998
@@ -237,7 +229,6 @@
             "size": 3684422,
             "total_time": 184111,
             "track_count": 14,
-            "track_id": 6456,
             "track_number": 8,
             "track_type": "File",
             "year": 1998
@@ -266,7 +257,6 @@
             "size": 4740300,
             "total_time": 236904,
             "track_count": 14,
-            "track_id": 6458,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
@@ -295,7 +285,6 @@
             "size": 2691281,
             "total_time": 134452,
             "track_count": 14,
-            "track_id": 6460,
             "track_number": 10,
             "track_type": "File",
             "year": 1998
@@ -324,7 +313,6 @@
             "size": 4617522,
             "total_time": 230765,
             "track_count": 14,
-            "track_id": 6462,
             "track_number": 11,
             "track_type": "File",
             "year": 1998
@@ -353,7 +341,6 @@
             "size": 3337004,
             "total_time": 166739,
             "track_count": 14,
-            "track_id": 6464,
             "track_number": 12,
             "track_type": "File",
             "year": 1998
@@ -382,7 +369,6 @@
             "size": 3832816,
             "total_time": 191529,
             "track_count": 14,
-            "track_id": 6466,
             "track_number": 13,
             "track_type": "File",
             "year": 1998
@@ -411,7 +397,6 @@
             "size": 3361055,
             "total_time": 167941,
             "track_count": 14,
-            "track_id": 6468,
             "track_number": 14,
             "track_type": "File",
             "year": 1998

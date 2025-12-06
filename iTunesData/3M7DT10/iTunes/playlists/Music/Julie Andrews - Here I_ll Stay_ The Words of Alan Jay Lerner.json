@@ -3,7 +3,6 @@
     "display_path": "/Music/Julie Andrews - Here I_ll Stay_ The Words of Alan Jay Lerner",
     "name": "Julie Andrews - Here I'll Stay: The Words of Alan Jay Lerner",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 78802,
     "playlist_persistent_id": "47922FE6BEBE520D",
     "tracks": [
         {
@@ -27,7 +26,6 @@
             "sample_rate": 44100,
             "size": 4365199,
             "total_time": 218148,
-            "track_id": 12108,
             "track_number": 1,
             "track_type": "File",
             "year": 1996
@@ -53,7 +51,6 @@
             "sample_rate": 44100,
             "size": 12431873,
             "total_time": 621479,
-            "track_id": 12110,
             "track_number": 2,
             "track_type": "File",
             "year": 1996
@@ -79,7 +76,6 @@
             "sample_rate": 44100,
             "size": 7465426,
             "total_time": 373159,
-            "track_id": 12112,
             "track_number": 3,
             "track_type": "File",
             "year": 1996
@@ -105,7 +101,6 @@
             "sample_rate": 44100,
             "size": 5283664,
             "total_time": 264071,
-            "track_id": 12114,
             "track_number": 4,
             "track_type": "File",
             "year": 1996
@@ -131,7 +126,6 @@
             "sample_rate": 44100,
             "size": 6776362,
             "total_time": 338703,
-            "track_id": 12116,
             "track_number": 5,
             "track_type": "File",
             "year": 1996
@@ -157,7 +151,6 @@
             "sample_rate": 44100,
             "size": 3612880,
             "total_time": 180532,
-            "track_id": 12118,
             "track_number": 6,
             "track_type": "File",
             "year": 1996
@@ -183,7 +176,6 @@
             "sample_rate": 44100,
             "size": 5036562,
             "total_time": 251715,
-            "track_id": 12120,
             "track_number": 7,
             "track_type": "File",
             "year": 1996
@@ -209,7 +201,6 @@
             "sample_rate": 44100,
             "size": 14998141,
             "total_time": 749792,
-            "track_id": 12122,
             "track_number": 8,
             "track_type": "File",
             "year": 1996
@@ -235,7 +226,6 @@
             "sample_rate": 44100,
             "size": 4747647,
             "total_time": 237270,
-            "track_id": 12124,
             "track_number": 9,
             "track_type": "File",
             "year": 1996
@@ -261,7 +251,6 @@
             "sample_rate": 44100,
             "size": 5232486,
             "total_time": 261511,
-            "track_id": 12126,
             "track_number": 10,
             "track_type": "File",
             "year": 1996
@@ -287,7 +276,6 @@
             "sample_rate": 44100,
             "size": 11023874,
             "total_time": 551079,
-            "track_id": 12128,
             "track_number": 11,
             "track_type": "File",
             "year": 1996
@@ -313,7 +301,6 @@
             "sample_rate": 44100,
             "size": 4498972,
             "total_time": 224835,
-            "track_id": 12130,
             "track_number": 12,
             "track_type": "File",
             "year": 1996

@@ -2,7 +2,6 @@
     "all_items": true,
     "display_path": "/Jack Stockwell - Allergies",
     "name": "Jack Stockwell - Allergies",
-    "playlist_id": 84274,
     "playlist_persistent_id": "21659A1A3EA48066",
     "tracks": [
         {
@@ -24,7 +23,6 @@
             "size": 45541527,
             "total_time": 2845701,
             "track_count": 1,
-            "track_id": 10092,
             "track_number": 1,
             "track_type": "File"
         }

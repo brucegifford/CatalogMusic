@@ -1,9 +1,4 @@
 --outputdir=iTunesData\3M8LT10\iTunes
-# this was on original machine
-#--itunes_library="C:\Users\a4n1czz\Music\iTunes\Library.xml"
-# this is from the backup of machine
 --itunes_library="D:\J\Users\a4n1czz\Music\iTunes\Library.xml"
-# this is from synched file copied to CatalogMusic folder
-#--itunes_library="D:\m\iTunes Media\Library.xml"
 @argFiles/podcasts_sort_episodes_reversed.args
 

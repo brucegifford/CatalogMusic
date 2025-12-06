@@ -3,7 +3,6 @@
     "display_path": "/Talks/Denver Snuffer Jr. - St. George DOC Conference",
     "name": "Denver Snuffer Jr. - St. George DOC Conference",
     "parent_persistent_id": "2784946B72D16BBE",
-    "playlist_id": 80867,
     "playlist_persistent_id": "0A8647A3E778DA15",
     "tracks": [
         {
@@ -23,7 +22,6 @@
             "sample_rate": 44100,
             "size": 91973508,
             "total_time": 3832058,
-            "track_id": 22966,
             "track_type": "File",
             "year": 2017
         },
@@ -44,7 +42,6 @@
             "sample_rate": 44100,
             "size": 153199722,
             "total_time": 6383151,
-            "track_id": 22964,
             "track_type": "File",
             "year": 2017
         }

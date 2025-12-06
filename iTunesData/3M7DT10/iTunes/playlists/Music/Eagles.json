@@ -3,7 +3,6 @@
     "display_path": "/Music/Eagles",
     "name": "Eagles",
     "parent_persistent_id": "3C819CF1BE4FAAB3",
-    "playlist_id": 78310,
     "playlist_persistent_id": "7D5C32E434DA8DF3",
     "tracks": [
         {
@@ -25,7 +24,6 @@
             "sample_rate": 44100,
             "size": 10083256,
             "total_time": 252186,
-            "track_id": 28570,
             "track_number": 4,
             "track_type": "File"
         },
@@ -50,7 +48,6 @@
             "size": 6501023,
             "sort_artist": "Eagles",
             "total_time": 270785,
-            "track_id": 28572,
             "track_number": 10,
             "track_type": "File",
             "year": 1974
@@ -76,7 +73,6 @@
             "size": 5213123,
             "sort_artist": "Eagles",
             "total_time": 217208,
-            "track_id": 28574,
             "track_number": 5,
             "track_type": "File",
             "year": 1973
@@ -98,7 +94,6 @@
             "sample_rate": 44100,
             "size": 8382464,
             "total_time": 209528,
-            "track_id": 28576,
             "track_type": "File"
         },
         {
@@ -122,7 +117,6 @@
             "size": 5079919,
             "sort_artist": "Eagles",
             "total_time": 211461,
-            "track_id": 28578,
             "track_number": 1,
             "track_type": "File",
             "year": 1994
@@ -148,7 +142,6 @@
             "sort_album": "Greatest Hits",
             "sort_artist": "Eagles",
             "total_time": 265090,
-            "track_id": 28580,
             "track_type": "File"
         },
         {
@@ -168,7 +161,6 @@
             "sample_rate": 44100,
             "size": 15668111,
             "total_time": 391444,
-            "track_id": 28582,
             "track_type": "File"
         },
         {
@@ -194,7 +186,6 @@
             "size": 10382512,
             "sort_artist": "Eagles",
             "total_time": 432091,
-            "track_id": 28584,
             "track_number": 6,
             "track_type": "File",
             "year": 1994
@@ -221,7 +212,6 @@
             "sort_album": "Very Best Of - Disk 2",
             "sort_artist": "Eagles",
             "total_time": 293407,
-            "track_id": 28586,
             "track_number": 9,
             "track_type": "File",
             "year": 2003
@@ -246,7 +236,6 @@
             "size": 6528221,
             "sort_artist": "Warriors",
             "total_time": 236173,
-            "track_id": 28588,
             "track_number": 6,
             "track_type": "File",
             "year": 1979
@@ -270,7 +259,6 @@
             "size": 5233399,
             "total_time": 218017,
             "track_count": 13,
-            "track_id": 28590,
             "track_number": 11,
             "track_type": "File"
         },
@@ -295,7 +283,6 @@
             "sort_artist": "Eagles",
             "sort_name": "Last Resort",
             "total_time": 447712,
-            "track_id": 28612,
             "track_number": 9,
             "track_type": "File",
             "year": 1976
@@ -322,7 +309,6 @@
             "size": 4633537,
             "sort_artist": "Eagles",
             "total_time": 286014,
-            "track_id": 28592,
             "track_number": 3,
             "track_type": "File",
             "year": 1976
@@ -350,7 +336,6 @@
             "sort_artist": "Eagles",
             "sort_name": "long run",
             "total_time": 219088,
-            "track_id": 28614,
             "track_number": 15,
             "track_type": "File"
         },
@@ -371,7 +356,6 @@
             "sample_rate": 44100,
             "size": 3895089,
             "total_time": 243435,
-            "track_id": 28594,
             "track_type": "File"
         },
         {
@@ -396,7 +380,6 @@
             "sort_album": "Very Best Of - Disk 2",
             "sort_artist": "Eagles",
             "total_time": 305920,
-            "track_id": 28596,
             "track_number": 5,
             "track_type": "File",
             "year": 2003
@@ -426,7 +409,6 @@
             "sort_album_artist": "Eagles",
             "sort_artist": "Eagles",
             "total_time": 290533,
-            "track_id": 28598,
             "track_number": 14,
             "track_type": "File",
             "year": 1975
@@ -449,7 +431,6 @@
             "sample_rate": 44100,
             "size": 8307603,
             "total_time": 259604,
-            "track_id": 28600,
             "track_type": "File",
             "year": 1972
         },
@@ -473,7 +454,6 @@
             "size": 7200896,
             "sort_artist": "Eagles",
             "total_time": 179957,
-            "track_id": 28602,
             "track_number": 39,
             "track_type": "File",
             "year": 2007
@@ -502,7 +482,6 @@
             "sort_album_artist": "Eagles",
             "sort_artist": "Eagles",
             "total_time": 237792,
-            "track_id": 28604,
             "track_number": 7,
             "track_type": "File",
             "year": 1976
@@ -531,7 +510,6 @@
             "size": 8553391,
             "sort_artist": "Eagles",
             "total_time": 210782,
-            "track_id": 28606,
             "track_number": 1,
             "track_type": "File",
             "year": 2003
@@ -558,7 +536,6 @@
             "size": 6885963,
             "sort_artist": "Eagles",
             "total_time": 286824,
-            "track_id": 28608,
             "track_number": 6,
             "track_type": "File",
             "year": 1975
@@ -582,7 +559,6 @@
             "sample_rate": 44100,
             "size": 4185110,
             "total_time": 174288,
-            "track_id": 28610,
             "track_number": 4,
             "track_type": "File",
             "year": 1973
@@ -608,7 +584,6 @@
             "size": 6092875,
             "sort_artist": "Eagles",
             "total_time": 253831,
-            "track_id": 28616,
             "track_number": 6,
             "track_type": "File",
             "year": 1976
@@ -633,7 +608,6 @@
             "sample_rate": 44100,
             "size": 11899482,
             "total_time": 296489,
-            "track_id": 28618,
             "track_number": 4,
             "track_type": "File",
             "year": 1976
@@ -661,7 +635,6 @@
             "sort_album": "Eagles",
             "sort_artist": "Eagles",
             "total_time": 252551,
-            "track_id": 28620,
             "track_number": 2,
             "track_type": "File",
             "year": 1972

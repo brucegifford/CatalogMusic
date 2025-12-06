@@ -18,7 +18,6 @@
             "size": 34791757,
             "sort_album": "Drawing Board by Udacity",
             "total_time": 2174000,
-            "track_id": 25356,
             "track_type": "URL",
             "unplayed": true,
             "year": 2017
@@ -40,7 +39,6 @@
             "size": 25505540,
             "sort_album": "Drawing Board by Udacity",
             "total_time": 1594000,
-            "track_id": 25360,
             "track_type": "URL",
             "unplayed": true,
             "year": 2018
@@ -64,7 +62,6 @@
             "size": 39917190,
             "sort_album": "Drawing Board by Udacity",
             "total_time": 2495000,
-            "track_id": 25364,
             "track_type": "URL",
             "year": 2018
         },
@@ -87,7 +84,6 @@
             "size": 20611238,
             "sort_album": "Drawing Board by Udacity",
             "total_time": 1288000,
-            "track_id": 31082,
             "track_type": "URL",
             "unplayed": true,
             "year": 2018

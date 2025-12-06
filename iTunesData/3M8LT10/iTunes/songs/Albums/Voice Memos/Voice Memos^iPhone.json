@@ -17,7 +17,6 @@
             "sample_rate": 44100,
             "size": 19949834,
             "total_time": 2487227,
-            "track_id": 28952,
             "track_type": "File"
         },
         {
@@ -36,7 +35,6 @@
             "sample_rate": 44100,
             "size": 62645159,
             "total_time": 7665137,
-            "track_id": 28954,
             "track_type": "File"
         },
         {
@@ -55,7 +53,6 @@
             "sample_rate": 44100,
             "size": 15370834,
             "total_time": 1915668,
-            "track_id": 28956,
             "track_type": "File"
         },
         {
@@ -74,7 +71,6 @@
             "sample_rate": 44100,
             "size": 35573194,
             "total_time": 4352509,
-            "track_id": 28958,
             "track_type": "File"
         },
         {
@@ -93,7 +89,6 @@
             "sample_rate": 44100,
             "size": 82830103,
             "total_time": 10134788,
-            "track_id": 28960,
             "track_type": "File"
         },
         {
@@ -112,7 +107,6 @@
             "sample_rate": 44100,
             "size": 10277202,
             "total_time": 1281623,
-            "track_id": 28962,
             "track_type": "File"
         },
         {
@@ -131,7 +125,6 @@
             "sample_rate": 44100,
             "size": 784674,
             "total_time": 96756,
-            "track_id": 28964,
             "track_type": "File"
         },
         {
@@ -150,7 +143,6 @@
             "sample_rate": 44100,
             "size": 21944953,
             "total_time": 2734868,
-            "track_id": 28966,
             "track_type": "File"
         },
         {
@@ -169,7 +161,6 @@
             "sample_rate": 44100,
             "size": 33381564,
             "total_time": 4084063,
-            "track_id": 28968,
             "track_type": "File"
         },
         {
@@ -188,7 +179,6 @@
             "sample_rate": 44100,
             "size": 1503240,
             "total_time": 186965,
-            "track_id": 28970,
             "track_type": "File"
         },
         {
@@ -207,7 +197,6 @@
             "sample_rate": 22050,
             "size": 318458,
             "total_time": 6986,
-            "track_id": 28972,
             "track_type": "File"
         },
         {
@@ -226,7 +215,6 @@
             "sample_rate": 16000,
             "size": 115090492,
             "total_time": 7143980,
-            "track_id": 28974,
             "track_type": "File"
         },
         {
@@ -245,7 +233,6 @@
             "sample_rate": 16000,
             "size": 92092476,
             "total_time": 5716429,
-            "track_id": 28976,
             "track_type": "File"
         },
         {
@@ -264,7 +251,6 @@
             "sample_rate": 44100,
             "size": 22421,
             "total_time": 1593,
-            "track_id": 28978,
             "track_type": "File"
         },
         {
@@ -282,7 +268,6 @@
             "sample_rate": 44100,
             "size": 4855688,
             "total_time": 593523,
-            "track_id": 36776,
             "track_type": "File"
         }
     ]

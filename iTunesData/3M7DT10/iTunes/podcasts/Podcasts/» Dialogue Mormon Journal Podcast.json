@@ -13,7 +13,6 @@
             "release_date": "2016-10-11T20:59:47",
             "size": 1,
             "total_time": 2935000,
-            "track_id": 23038,
             "track_type": "URL",
             "unplayed": true
         },
@@ -33,7 +32,6 @@
             "sample_rate": 44100,
             "size": 46560585,
             "total_time": 2909335,
-            "track_id": 24194,
             "track_type": "URL",
             "unplayed": true,
             "year": 2016
@@ -50,7 +48,6 @@
             "release_date": "2016-10-19T22:36:08",
             "size": 1,
             "total_time": 1677000,
-            "track_id": 23040,
             "track_type": "URL",
             "unplayed": true
         },
@@ -70,7 +67,6 @@
             "sample_rate": 44100,
             "size": 79147984,
             "total_time": 4946024,
-            "track_id": 24196,
             "track_type": "URL",
             "unplayed": true,
             "year": 2017
@@ -92,7 +88,6 @@
             "sample_rate": 44100,
             "size": 74975151,
             "total_time": 4685113,
-            "track_id": 24092,
             "track_type": "URL",
             "unplayed": true,
             "year": 2017
@@ -113,7 +108,6 @@
             "sample_rate": 44100,
             "size": 71469698,
             "total_time": 4466050,
-            "track_id": 24136,
             "track_type": "URL",
             "unplayed": true,
             "year": 2017
@@ -134,7 +128,6 @@
             "sample_rate": 22050,
             "size": 60302632,
             "total_time": 5076375,
-            "track_id": 24152,
             "track_type": "URL",
             "unplayed": true,
             "year": 2017
@@ -157,7 +150,6 @@
             "sample_rate": 22050,
             "size": 53075812,
             "total_time": 4229616,
-            "track_id": 24154,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -180,7 +172,6 @@
             "sample_rate": 44100,
             "size": 92662864,
             "total_time": 5468865,
-            "track_id": 24166,
             "track_type": "File",
             "unplayed": true,
             "year": 2017
@@ -203,7 +194,6 @@
             "sample_rate": 44100,
             "size": 90836770,
             "total_time": 5370253,
-            "track_id": 24190,
             "track_type": "File",
             "unplayed": true,
             "year": 2018

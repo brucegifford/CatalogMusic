@@ -13,7 +13,6 @@
             "release_date": "2018-12-05T23:00:00",
             "size": 37804131,
             "total_time": 1890000,
-            "track_id": 30208,
             "track_type": "URL",
             "unplayed": true
         },
@@ -29,7 +28,6 @@
             "release_date": "2018-12-10T13:00:00",
             "size": 26563645,
             "total_time": 1794000,
-            "track_id": 30210,
             "track_type": "URL",
             "unplayed": true
         },
@@ -45,7 +43,6 @@
             "release_date": "2018-12-17T13:00:00",
             "size": 29999514,
             "total_time": 2054000,
-            "track_id": 30212,
             "track_type": "URL",
             "unplayed": true
         },
@@ -61,7 +58,6 @@
             "release_date": "2018-12-24T05:00:00",
             "size": 17873818,
             "total_time": 1873000,
-            "track_id": 30214,
             "track_type": "URL",
             "unplayed": true
         },
@@ -77,7 +73,6 @@
             "release_date": "2018-12-31T05:00:00",
             "size": 22842438,
             "total_time": 1735000,
-            "track_id": 30216,
             "track_type": "URL",
             "unplayed": true
         },
@@ -93,7 +88,6 @@
             "release_date": "2019-01-10T02:00:00",
             "size": 20847674,
             "total_time": 2221000,
-            "track_id": 30218,
             "track_type": "URL",
             "unplayed": true
         },
@@ -109,7 +103,6 @@
             "release_date": "2019-01-15T02:00:00",
             "size": 25754364,
             "total_time": 2577000,
-            "track_id": 30220,
             "track_type": "URL",
             "unplayed": true
         },
@@ -125,7 +118,6 @@
             "release_date": "2019-01-21T22:00:00",
             "size": 19532265,
             "total_time": 2232000,
-            "track_id": 30222,
             "track_type": "URL",
             "unplayed": true
         },
@@ -141,7 +133,6 @@
             "release_date": "2019-01-29T05:00:00",
             "size": 51335245,
             "total_time": 3666000,
-            "track_id": 30224,
             "track_type": "URL",
             "unplayed": true
         },
@@ -157,7 +148,6 @@
             "release_date": "2019-02-04T04:00:00",
             "size": 13545919,
             "total_time": 2261000,
-            "track_id": 30226,
             "track_type": "URL",
             "unplayed": true
         },
@@ -173,7 +163,6 @@
             "release_date": "2019-02-14T06:00:00",
             "size": 10117907,
             "total_time": 1833000,
-            "track_id": 30228,
             "track_type": "URL",
             "unplayed": true
         },
@@ -189,7 +178,6 @@
             "release_date": "2019-02-21T15:00:00",
             "size": 15899587,
             "total_time": 2685000,
-            "track_id": 30230,
             "track_type": "URL",
             "unplayed": true
         },
@@ -205,7 +193,6 @@
             "release_date": "2019-03-02T00:00:00",
             "size": 27138293,
             "total_time": 2128000,
-            "track_id": 30232,
             "track_type": "URL",
             "unplayed": true
         },
@@ -221,7 +208,6 @@
             "release_date": "2019-03-07T05:00:00",
             "size": 31465261,
             "total_time": 2605000,
-            "track_id": 30234,
             "track_type": "URL",
             "unplayed": true
         },
@@ -237,7 +223,6 @@
             "release_date": "2019-03-20T04:30:00",
             "size": 19024683,
             "total_time": 2428000,
-            "track_id": 30236,
             "track_type": "URL",
             "unplayed": true
         },
@@ -253,7 +238,6 @@
             "release_date": "2019-04-02T04:00:00",
             "size": 17566402,
             "total_time": 2671000,
-            "track_id": 30238,
             "track_type": "URL",
             "unplayed": true
         },
@@ -269,7 +253,6 @@
             "release_date": "2019-04-22T04:45:00",
             "size": 17023488,
             "total_time": 2849000,
-            "track_id": 30240,
             "track_type": "URL",
             "unplayed": true
         },
@@ -285,7 +268,6 @@
             "release_date": "2019-04-24T11:00:00",
             "size": 2934993,
             "total_time": 480000,
-            "track_id": 30242,
             "track_type": "URL",
             "unplayed": true
         },
@@ -301,7 +283,6 @@
             "release_date": "2019-05-05T16:00:00",
             "size": 18315884,
             "total_time": 2315000,
-            "track_id": 30244,
             "track_type": "URL",
             "unplayed": true
         },
@@ -317,7 +298,6 @@
             "release_date": "2019-05-18T04:00:00",
             "size": 12082468,
             "total_time": 1217000,
-            "track_id": 30246,
             "track_type": "URL",
             "unplayed": true
         },
@@ -333,7 +313,6 @@
             "release_date": "2019-05-28T20:00:00",
             "size": 16608590,
             "total_time": 2175000,
-            "track_id": 30248,
             "track_type": "URL",
             "unplayed": true
         },
@@ -349,7 +328,6 @@
             "release_date": "2019-06-20T04:00:00",
             "size": 43331175,
             "total_time": 3094000,
-            "track_id": 30250,
             "track_type": "URL",
             "unplayed": true
         },
@@ -365,7 +343,6 @@
             "release_date": "2019-06-20T04:15:00",
             "size": 32101490,
             "total_time": 2292000,
-            "track_id": 30252,
             "track_type": "URL",
             "unplayed": true
         },
@@ -381,7 +358,6 @@
             "release_date": "2019-06-27T04:00:00",
             "size": 29054507,
             "total_time": 1834000,
-            "track_id": 30254,
             "track_type": "URL",
             "unplayed": true
         },
@@ -397,7 +373,6 @@
             "release_date": "2019-07-17T04:00:00",
             "size": 28729989,
             "total_time": 2052000,
-            "track_id": 30256,
             "track_type": "URL",
             "unplayed": true
         },
@@ -413,7 +388,6 @@
             "release_date": "2019-09-03T04:00:00",
             "size": 44491853,
             "total_time": 2936000,
-            "track_id": 30258,
             "track_type": "URL",
             "unplayed": true
         },
@@ -429,7 +403,6 @@
             "release_date": "2019-10-04T04:00:00",
             "size": 39701163,
             "total_time": 2594000,
-            "track_id": 30260,
             "track_type": "URL",
             "unplayed": true
         },
@@ -445,7 +418,6 @@
             "release_date": "2019-10-20T04:00:00",
             "size": 40495256,
             "total_time": 2024000,
-            "track_id": 30262,
             "track_type": "URL",
             "unplayed": true
         },
@@ -461,7 +433,6 @@
             "release_date": "2019-10-28T04:00:00",
             "size": 58439681,
             "total_time": 2886000,
-            "track_id": 30264,
             "track_type": "URL",
             "unplayed": true
         },
@@ -477,7 +448,6 @@
             "release_date": "2019-11-05T05:00:00",
             "size": 80159186,
             "total_time": 3339000,
-            "track_id": 30266,
             "track_type": "URL",
             "unplayed": true
         },
@@ -493,7 +463,6 @@
             "release_date": "2019-11-11T05:00:00",
             "size": 22986249,
             "total_time": 2791000,
-            "track_id": 30268,
             "track_type": "URL",
             "unplayed": true
         },
@@ -509,7 +478,6 @@
             "release_date": "2019-11-20T05:00:00",
             "size": 19501635,
             "total_time": 2630000,
-            "track_id": 30270,
             "track_type": "URL",
             "unplayed": true
         },
@@ -525,7 +493,6 @@
             "release_date": "2019-11-25T05:00:00",
             "size": 30391410,
             "total_time": 3389000,
-            "track_id": 30272,
             "track_type": "URL",
             "unplayed": true
         },
@@ -541,7 +508,6 @@
             "release_date": "2019-11-28T19:30:00",
             "size": 13596933,
             "total_time": 971000,
-            "track_id": 30274,
             "track_type": "URL",
             "unplayed": true
         },
@@ -565,7 +531,6 @@
             "sample_rate": 44100,
             "size": 33410543,
             "total_time": 2333387,
-            "track_id": 30276,
             "track_type": "File",
             "unplayed": true,
             "year": 2019
@@ -590,7 +555,6 @@
             "sample_rate": 44100,
             "size": 53474652,
             "total_time": 3295320,
-            "track_id": 30278,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -613,7 +577,6 @@
             "sample_rate": 44100,
             "size": 30595756,
             "total_time": 3136000,
-            "track_id": 30280,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -636,7 +599,6 @@
             "sample_rate": 44100,
             "size": 38171928,
             "total_time": 2479000,
-            "track_id": 30924,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -653,7 +615,6 @@
             "release_date": "2020-03-20T12:00:00",
             "size": 43900056,
             "total_time": 3051000,
-            "track_id": 31134,
             "track_type": "URL",
             "unplayed": true
         },
@@ -669,7 +630,6 @@
             "release_date": "2020-03-28T12:00:00",
             "size": 36414319,
             "total_time": 2275000,
-            "track_id": 31136,
             "track_type": "URL",
             "unplayed": true
         },
@@ -688,7 +648,6 @@
             "release_date": "2020-04-01T04:00:00",
             "size": 59657296,
             "total_time": 2485000,
-            "track_id": 31138,
             "track_type": "URL"
         },
         {
@@ -709,7 +668,6 @@
             "sample_rate": 44100,
             "size": 25785781,
             "total_time": 3581000,
-            "track_id": 31224,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -732,7 +690,6 @@
             "sample_rate": 44100,
             "size": 29985557,
             "total_time": 3949000,
-            "track_id": 31238,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -755,7 +712,6 @@
             "sample_rate": 44100,
             "size": 27206570,
             "total_time": 3625000,
-            "track_id": 31246,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -775,7 +731,6 @@
             "release_date": "2020-08-16T16:00:00",
             "size": 43042458,
             "total_time": 3247000,
-            "track_id": 31686,
             "track_type": "URL"
         },
         {
@@ -790,7 +745,6 @@
             "release_date": "2020-08-28T04:00:00",
             "size": 43511576,
             "total_time": 2945000,
-            "track_id": 31688,
             "track_type": "URL",
             "unplayed": true
         },
@@ -806,7 +760,6 @@
             "release_date": "2020-09-01T04:00:00",
             "size": 57509110,
             "total_time": 3782000,
-            "track_id": 31690,
             "track_type": "URL",
             "unplayed": true
         },
@@ -831,7 +784,6 @@
             "sample_rate": 44100,
             "size": 58215720,
             "total_time": 3841000,
-            "track_id": 31746,
             "track_type": "URL",
             "year": 2020
         },
@@ -853,7 +805,6 @@
             "sample_rate": 44100,
             "size": 37735278,
             "total_time": 2663000,
-            "track_id": 31758,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -879,7 +830,6 @@
             "sample_rate": 44100,
             "size": 29540982,
             "total_time": 1846000,
-            "track_id": 31766,
             "track_type": "URL",
             "year": 2020
         },
@@ -898,7 +848,6 @@
             "release_date": "2020-10-08T04:00:00",
             "size": 60414896,
             "total_time": 3724000,
-            "track_id": 31906,
             "track_type": "URL"
         },
         {
@@ -913,7 +862,6 @@
             "release_date": "2020-10-20T04:00:00",
             "size": 57486261,
             "total_time": 3541000,
-            "track_id": 31920,
             "track_type": "URL",
             "unplayed": true
         },
@@ -932,7 +880,6 @@
             "release_date": "2020-10-27T12:00:00",
             "size": 69348045,
             "total_time": 3467000,
-            "track_id": 31922,
             "track_type": "URL"
         },
         {
@@ -953,7 +900,6 @@
             "sample_rate": 44100,
             "size": 88843016,
             "total_time": 4442000,
-            "track_id": 31966,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -976,7 +922,6 @@
             "sample_rate": 44100,
             "size": 11690886,
             "total_time": 974000,
-            "track_id": 31976,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -999,7 +944,6 @@
             "sample_rate": 44100,
             "size": 37832456,
             "total_time": 2364000,
-            "track_id": 31986,
             "track_type": "URL",
             "unplayed": true,
             "year": 2020
@@ -1016,7 +960,6 @@
             "release_date": "2020-12-10T05:00:00",
             "size": 30641886,
             "total_time": 1915000,
-            "track_id": 32430,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1032,7 +975,6 @@
             "release_date": "2021-01-12T17:00:00",
             "size": 40808752,
             "total_time": 2500000,
-            "track_id": 32432,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1048,7 +990,6 @@
             "release_date": "2021-01-22T15:00:00",
             "size": 43516283,
             "total_time": 2719000,
-            "track_id": 32434,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1067,7 +1008,6 @@
             "release_date": "2021-01-29T05:00:00",
             "size": 39804805,
             "total_time": 2487000,
-            "track_id": 32436,
             "track_type": "URL"
         },
         {
@@ -1082,7 +1022,6 @@
             "release_date": "2021-02-15T05:00:00",
             "size": 38649148,
             "total_time": 2415000,
-            "track_id": 32438,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1098,7 +1037,6 @@
             "release_date": "2021-03-03T15:00:00",
             "size": 47206445,
             "total_time": 2950000,
-            "track_id": 32440,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1120,7 +1058,6 @@
             "sample_rate": 44100,
             "size": 51425742,
             "total_time": 3214000,
-            "track_id": 32568,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1137,7 +1074,6 @@
             "release_date": "2021-03-31T20:00:00",
             "size": 50521697,
             "total_time": 3157000,
-            "track_id": 32442,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1153,7 +1089,6 @@
             "release_date": "2021-04-14T04:00:00",
             "size": 28866814,
             "total_time": 1804000,
-            "track_id": 32444,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1175,7 +1110,6 @@
             "sample_rate": 44100,
             "size": 67584800,
             "total_time": 2815000,
-            "track_id": 32578,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1198,7 +1132,6 @@
             "sample_rate": 44100,
             "size": 54710902,
             "total_time": 3419000,
-            "track_id": 32590,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1215,7 +1148,6 @@
             "release_date": "2021-05-18T04:00:00",
             "size": 92510868,
             "total_time": 3854000,
-            "track_id": 32608,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1231,7 +1163,6 @@
             "release_date": "2021-05-26T04:00:00",
             "size": 56900172,
             "total_time": 3556000,
-            "track_id": 32610,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1247,7 +1178,6 @@
             "release_date": "2021-06-08T04:00:00",
             "size": 41229801,
             "total_time": 2540000,
-            "track_id": 32612,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1263,7 +1193,6 @@
             "release_date": "2021-06-21T04:00:00",
             "size": 73047607,
             "total_time": 4565000,
-            "track_id": 32614,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1285,7 +1214,6 @@
             "sample_rate": 44100,
             "size": 63304142,
             "total_time": 3956000,
-            "track_id": 32770,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1302,7 +1230,6 @@
             "release_date": "2021-07-23T15:00:00",
             "size": 68123924,
             "total_time": 3377000,
-            "track_id": 32616,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1318,7 +1245,6 @@
             "release_date": "2021-08-06T02:00:00",
             "size": 64310646,
             "total_time": 3215000,
-            "track_id": 32618,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1340,7 +1266,6 @@
             "sample_rate": 48000,
             "size": 56503926,
             "total_time": 2825000,
-            "track_id": 32808,
             "track_type": "URL",
             "unplayed": true,
             "year": 2021
@@ -1357,7 +1282,6 @@
             "release_date": "2021-09-28T04:00:00",
             "size": 45314166,
             "total_time": 2265000,
-            "track_id": 32984,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1373,7 +1297,6 @@
             "release_date": "2021-10-15T04:00:00",
             "size": 44752673,
             "total_time": 2761000,
-            "track_id": 32986,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1389,7 +1312,6 @@
             "release_date": "2021-11-03T04:00:00",
             "size": 62831479,
             "total_time": 3926000,
-            "track_id": 32988,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1405,7 +1327,6 @@
             "release_date": "2021-11-18T05:00:00",
             "size": 47969270,
             "total_time": 2398000,
-            "track_id": 32990,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1421,7 +1342,6 @@
             "release_date": "2021-11-29T14:00:00",
             "size": 55507788,
             "total_time": 2746000,
-            "track_id": 32992,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1437,7 +1357,6 @@
             "release_date": "2021-12-13T05:00:00",
             "size": 42601562,
             "total_time": 2129000,
-            "track_id": 32994,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1453,7 +1372,6 @@
             "release_date": "2022-01-03T05:00:00",
             "size": 78038699,
             "total_time": 3873000,
-            "track_id": 32996,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1469,7 +1387,6 @@
             "release_date": "2022-01-17T19:00:00",
             "size": 61868871,
             "total_time": 3064000,
-            "track_id": 32998,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1485,7 +1402,6 @@
             "release_date": "2022-01-31T05:00:00",
             "size": 55727943,
             "total_time": 2786000,
-            "track_id": 33000,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1501,7 +1417,6 @@
             "release_date": "2022-02-16T18:00:00",
             "size": 52170884,
             "total_time": 2608000,
-            "track_id": 33002,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1517,7 +1432,6 @@
             "release_date": "2022-03-07T03:00:00",
             "size": 67511557,
             "total_time": 3375000,
-            "track_id": 33004,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1533,7 +1447,6 @@
             "release_date": "2022-03-23T04:00:00",
             "size": 40922747,
             "total_time": 2557000,
-            "track_id": 33006,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1549,7 +1462,6 @@
             "release_date": "2022-04-05T04:00:00",
             "size": 57782580,
             "total_time": 2889000,
-            "track_id": 33008,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1565,7 +1477,6 @@
             "release_date": "2022-04-20T04:00:00",
             "size": 56099563,
             "total_time": 2804000,
-            "track_id": 33010,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1581,7 +1492,6 @@
             "release_date": "2022-05-01T19:00:00",
             "size": 44704463,
             "total_time": 2193000,
-            "track_id": 33012,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1597,7 +1507,6 @@
             "release_date": "2022-05-12T04:00:00",
             "size": 67396682,
             "total_time": 3369000,
-            "track_id": 33014,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1613,7 +1522,6 @@
             "release_date": "2022-05-31T04:00:00",
             "size": 58477307,
             "total_time": 2923000,
-            "track_id": 33016,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1629,7 +1537,6 @@
             "release_date": "2022-07-13T04:00:00",
             "size": 72376970,
             "total_time": 3015000,
-            "track_id": 33018,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1645,7 +1552,6 @@
             "release_date": "2022-07-20T04:00:00",
             "size": 64285160,
             "total_time": 2678000,
-            "track_id": 33020,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1661,7 +1567,6 @@
             "release_date": "2022-08-01T16:00:00",
             "size": 92879779,
             "total_time": 3835000,
-            "track_id": 33022,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1677,7 +1582,6 @@
             "release_date": "2022-08-22T04:00:00",
             "size": 70878952,
             "total_time": 2952000,
-            "track_id": 33024,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1693,7 +1597,6 @@
             "release_date": "2022-09-03T12:00:00",
             "size": 73698941,
             "total_time": 3035000,
-            "track_id": 33026,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1709,7 +1612,6 @@
             "release_date": "2022-09-19T04:00:00",
             "size": 45096392,
             "total_time": 2782000,
-            "track_id": 33028,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1725,7 +1627,6 @@
             "release_date": "2022-10-20T04:00:00",
             "size": 59020112,
             "total_time": 2950000,
-            "track_id": 33030,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1741,7 +1642,6 @@
             "release_date": "2022-10-28T04:00:00",
             "size": 57869829,
             "total_time": 2893000,
-            "track_id": 33032,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1757,7 +1657,6 @@
             "release_date": "2022-11-05T16:00:00",
             "size": 55517764,
             "total_time": 2775000,
-            "track_id": 33034,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1773,7 +1672,6 @@
             "release_date": "2022-12-11T20:00:00",
             "size": 58450026,
             "total_time": 2893000,
-            "track_id": 33036,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1789,7 +1687,6 @@
             "release_date": "2022-12-24T19:00:00",
             "size": 60170977,
             "total_time": 2979000,
-            "track_id": 33038,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1805,7 +1702,6 @@
             "release_date": "2023-01-05T13:00:00",
             "size": 59486286,
             "total_time": 2974000,
-            "track_id": 33040,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1821,7 +1717,6 @@
             "release_date": "2023-01-24T23:00:00",
             "size": 52275713,
             "total_time": 2613000,
-            "track_id": 33042,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1837,7 +1732,6 @@
             "release_date": "2023-02-08T14:00:00",
             "size": 13656017,
             "total_time": 682000,
-            "track_id": 33044,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1853,7 +1747,6 @@
             "release_date": "2023-02-23T05:00:00",
             "size": 67798504,
             "total_time": 3361000,
-            "track_id": 33046,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1869,7 +1762,6 @@
             "release_date": "2023-03-05T18:00:00",
             "size": 57427837,
             "total_time": 2871000,
-            "track_id": 33048,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1891,7 +1783,6 @@
             "sample_rate": 44100,
             "size": 53334161,
             "total_time": 2637000,
-            "track_id": 33696,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -1914,7 +1805,6 @@
             "sample_rate": 44100,
             "size": 39579935,
             "total_time": 1978000,
-            "track_id": 33722,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -1937,7 +1827,6 @@
             "sample_rate": 44100,
             "size": 77430319,
             "total_time": 3871000,
-            "track_id": 85296,
             "track_type": "URL",
             "unplayed": true,
             "year": 2023
@@ -1954,7 +1843,6 @@
             "release_date": "2023-07-01T14:00:00",
             "size": 77354042,
             "total_time": 3867000,
-            "track_id": 85055,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1970,7 +1858,6 @@
             "release_date": "2023-07-14T19:00:00",
             "size": 54283739,
             "total_time": 2714000,
-            "track_id": 85060,
             "track_type": "URL",
             "unplayed": true
         },
@@ -1986,7 +1873,6 @@
             "release_date": "2023-07-31T12:00:00",
             "size": 67708588,
             "total_time": 3385000,
-            "track_id": 85065,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2002,7 +1888,6 @@
             "release_date": "2023-08-06T13:00:00",
             "size": 62081377,
             "total_time": 3062000,
-            "track_id": 85070,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2018,7 +1903,6 @@
             "release_date": "2023-08-24T21:00:00",
             "size": 66202890,
             "total_time": 3310000,
-            "track_id": 85075,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2034,7 +1918,6 @@
             "release_date": "2023-09-09T19:00:00",
             "size": 75258499,
             "total_time": 3762000,
-            "track_id": 85080,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2050,7 +1933,6 @@
             "release_date": "2023-10-11T20:00:00",
             "size": 70766719,
             "total_time": 3538000,
-            "track_id": 85085,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2066,7 +1948,6 @@
             "release_date": "2023-10-21T12:00:00",
             "size": 18389405,
             "total_time": 919000,
-            "track_id": 85090,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2082,7 +1963,6 @@
             "release_date": "2023-10-24T04:00:00",
             "size": 26425193,
             "total_time": 1321000,
-            "track_id": 85095,
             "track_type": "URL",
             "unplayed": true
         },
@@ -2094,20 +1974,17 @@
             "comments": "In this quick bite episode, Sean & Kelly talk about the critical role of failing in learning. Not just that it happens but that it's essential for real learning to take place.",
             "date_added": "2023-12-29T05:30:06",
             "date_modified": "2023-12-29T05:30:06",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 120_ Quick Bites_ Failing.mp3",
+            "location": "https://chtbl.com/track/E9991/aphid.fireside.fm/d/1437767933/c8ea6bdf-0c80-46e7-a00a-639d7dc2be91/3a982a85-f93b-4675-a71d-2ea6dfcd564b.mp3",
             "name": "Episode 120: Quick Bites: Failing",
             "persistent_id": "3E4BC65DF2975D52",
             "podcast": true,
             "release_date": "2023-11-08T05:00:00",
             "sample_rate": 44100,
-            "size": 18303894,
-            "total_time": 1092101,
-            "track_id": 85324,
-            "track_type": "File",
+            "size": 17948004,
+            "total_time": 1092000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
         },
@@ -2118,20 +1995,17 @@
             "bitrate": 128,
             "date_added": "2023-12-29T05:30:19",
             "date_modified": "2023-12-29T05:30:19",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 121_ The Board of Knowledge.mp3",
+            "location": "https://chtbl.com/track/E9991/aphid.fireside.fm/d/1437767933/c8ea6bdf-0c80-46e7-a00a-639d7dc2be91/e9fa6ccf-0ef2-469e-bf56-e228a2fbac83.mp3",
             "name": "Episode 121: The Board of Knowledge",
             "persistent_id": "6922C20EB25D1686",
             "podcast": true,
             "release_date": "2023-11-24T19:00:00",
             "sample_rate": 44100,
-            "size": 16927027,
-            "total_time": 1004512,
-            "track_id": 85354,
-            "track_type": "File",
+            "size": 16647112,
+            "total_time": 1004000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
         },
@@ -2143,22 +2017,135 @@
             "comments": "In this episode of Teaching Python, Sean and Kelly are joined by Cecilia Danesi, an expert in AI ethics and gender rights. They discuss the role of AI in society and the importance of educating the next generation on ethical AI use. Tune in to gain insigh",
             "date_added": "2023-12-29T05:30:24",
             "date_modified": "2023-12-29T05:30:24",
-            "file_folder_count": 4,
             "genre": "Podcast",
             "kind": "MPEG audio file",
-            "library_folder_count": 1,
-            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 122_ Ethics of Artificial In.mp3",
+            "location": "https://chtbl.com/track/E9991/aphid.fireside.fm/d/1437767933/c8ea6bdf-0c80-46e7-a00a-639d7dc2be91/05aa608e-1e09-40a3-aa9b-b3024ce6ac81.mp3",
             "name": "Episode 122: Ethics of Artificial Intelligence",
             "persistent_id": "C4DF561DC5406F1C",
             "podcast": true,
             "release_date": "2023-12-16T18:00:00",
             "sample_rate": 44100,
-            "size": 32150985,
-            "total_time": 1955657,
-            "track_id": 85360,
-            "track_type": "File",
+            "size": 31865551,
+            "total_time": 1955000,
+            "track_type": "URL",
             "unplayed": true,
             "year": 2023
+        },
+        {
+            "album": "Teaching Python",
+            "artist": "Sean Tibor and Kelly Paredes",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "comments": "In this commemorative episode, Kelly and Sean celebrate their fifth year at Teaching Python. They reflect upon the origins of the podcast, how it has evolved, successes and challenges they've faced, and valuable lessons learned over the years. This episod",
+            "date_added": "2024-01-02T05:29:31",
+            "date_modified": "2024-01-02T05:29:31",
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "location": "https://chtbl.com/track/E9991/aphid.fireside.fm/d/1437767933/c8ea6bdf-0c80-46e7-a00a-639d7dc2be91/009ae77e-3801-49cf-8c17-21d722fb3e3f.mp3",
+            "name": "Episode 123: Five Year Anniversary",
+            "persistent_id": "2C50D47FB051EB6F",
+            "podcast": true,
+            "release_date": "2024-01-02T05:00:00",
+            "sample_rate": 44100,
+            "size": 46639657,
+            "total_time": 2331000,
+            "track_type": "URL",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "Teaching Python",
+            "artist": "Sean Tibor and Kelly Paredes",
+            "artwork_count": 1,
+            "bitrate": 128,
+            "comments": "In this episode, hosts Sean and Kelly discuss various strategies for staying engaged and motivated in coding while using artificial intelligence (AI) tools like Chat GPT. From ethical discussions and exercising critical thinking to fostering creativity an",
+            "date_added": "2024-02-23T21:27:10",
+            "date_modified": "2024-02-23T21:27:10",
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "location": "https://chtbl.com/track/E9991/aphid.fireside.fm/d/1437767933/c8ea6bdf-0c80-46e7-a00a-639d7dc2be91/95fba51c-185f-4ca8-85a6-5f5d371a6faf.mp3",
+            "name": "Episode 124: Motivated with Coding in the World of AI",
+            "persistent_id": "9249729982D6C7A0",
+            "podcast": true,
+            "release_date": "2024-01-14T16:00:00",
+            "sample_rate": 44100,
+            "size": 47195267,
+            "total_time": 2949000,
+            "track_type": "URL",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "Teaching Python",
+            "artist": "Sean Tibor and Kelly Paredes",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "comments": "In this episode, co-hosts Sean Tibor and Kelly Schuster-Paredes explore the concept and benefits of microlearning in both settings of K-12 education and professional development. They discuss methods such as interleaved learning, offering varied learning ",
+            "date_added": "2024-02-23T21:27:28",
+            "date_modified": "2024-02-23T21:27:28",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 125_ Microlearning.mp3",
+            "name": "Episode 125: Microlearning",
+            "persistent_id": "369503371AA2A170",
+            "podcast": true,
+            "release_date": "2024-02-05T05:00:00",
+            "sample_rate": 44100,
+            "size": 44909705,
+            "total_time": 2202671,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "Teaching Python",
+            "artist": "Sean Tibor and Kelly Paredes",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "comments": "In this episode of the \"Teaching Python\" podcast, hosts Sean Tibor and Kelly Schuster-Paredes dive into the world of projects and portfolios for young coders. They explore the significance of showcasing coding skills, creativity, and personal growth throu",
+            "date_added": "2024-02-23T21:27:44",
+            "date_modified": "2024-02-23T21:27:44",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 126_ Projects and Portfolios.mp3",
+            "name": "Episode 126: Projects and Portfolios",
+            "persistent_id": "7EC07971FD25ED5D",
+            "podcast": true,
+            "release_date": "2024-02-19T05:00:00",
+            "sample_rate": 44100,
+            "size": 31731875,
+            "total_time": 1542896,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
+        },
+        {
+            "album": "Teaching Python",
+            "artist": "Sean Tibor and Kelly Paredes",
+            "artwork_count": 1,
+            "bitrate": 160,
+            "comments": "In this quick bite episode, Kelly and Sean talk about how to set goals as a learner, teacher, and leader. What makes a good goal? Why do we even need them?",
+            "date_added": "2024-03-04T19:22:29",
+            "date_modified": "2024-03-04T19:22:29",
+            "file_folder_count": 4,
+            "genre": "Podcast",
+            "kind": "MPEG audio file",
+            "library_folder_count": 1,
+            "location": "file://localhost/D:/iTunes Media/Podcasts/Teaching Python/Episode 127_ Setting Goals.mp3",
+            "name": "Episode 127: Setting Goals",
+            "persistent_id": "D7915684C7CD915F",
+            "podcast": true,
+            "release_date": "2024-03-02T12:00:00",
+            "sample_rate": 44100,
+            "size": 31825067,
+            "total_time": 1548120,
+            "track_type": "File",
+            "unplayed": true,
+            "year": 2024
         }
     ]
 }

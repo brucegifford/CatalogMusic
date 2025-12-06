@@ -3,7 +3,6 @@
     "display_path": "/Talks-heard/Ann Tracy - Ann Tracy-Highland Meeting",
     "name": "Ann Tracy - Ann Tracy-Highland Meeting",
     "parent_persistent_id": "D48A1F6A87EA0E38",
-    "playlist_id": 81519,
     "playlist_persistent_id": "50B46970BDB7A457",
     "tracks": [
         {
@@ -26,7 +25,6 @@
             "size": 51939636,
             "total_time": 6520999,
             "track_count": 1,
-            "track_id": 4634,
             "track_number": 1,
             "track_type": "File",
             "year": 2014
@@ -50,7 +48,6 @@
             "size": 53007599,
             "total_time": 3312326,
             "track_count": 1,
-            "track_id": 10090,
             "track_number": 1,
             "track_type": "File"
         }

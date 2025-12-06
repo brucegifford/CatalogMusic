@@ -3,7 +3,6 @@
     "display_path": "/Other/The Sound of Music",
     "name": "The Sound of Music",
     "parent_persistent_id": "B58B17492B32FDB2",
-    "playlist_id": 83305,
     "playlist_persistent_id": "A594C965CE3F8D4A",
     "tracks": [
         {
@@ -34,7 +33,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 167209,
             "track_count": 16,
-            "track_id": 20358,
             "track_number": 1,
             "track_type": "File",
             "year": 1965
@@ -67,7 +65,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 197146,
             "track_count": 16,
-            "track_id": 20360,
             "track_number": 2,
             "track_type": "File",
             "year": 1965
@@ -100,7 +97,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 124995,
             "track_count": 16,
-            "track_id": 20362,
             "track_number": 3,
             "track_type": "File",
             "year": 1965
@@ -133,7 +129,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 199706,
             "track_count": 16,
-            "track_id": 20364,
             "track_number": 4,
             "track_type": "File",
             "year": 1965
@@ -166,7 +161,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 209240,
             "track_count": 16,
-            "track_id": 20366,
             "track_number": 5,
             "track_type": "File",
             "year": 1965
@@ -199,7 +193,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 201090,
             "track_count": 16,
-            "track_id": 20368,
             "track_number": 6,
             "track_type": "File",
             "year": 1965
@@ -232,7 +225,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 141139,
             "track_count": 16,
-            "track_id": 20370,
             "track_number": 7,
             "track_type": "File",
             "year": 1965
@@ -265,7 +257,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 336326,
             "track_count": 16,
-            "track_id": 20372,
             "track_number": 8,
             "track_type": "File",
             "year": 1965
@@ -299,7 +290,6 @@
             "sort_name": "Sound of Music",
             "total_time": 133120,
             "track_count": 16,
-            "track_id": 20374,
             "track_number": 9,
             "track_type": "File",
             "year": 1965
@@ -333,7 +323,6 @@
             "sort_name": "Lonely Goatherd",
             "total_time": 193776,
             "track_count": 16,
-            "track_id": 20376,
             "track_number": 10,
             "track_type": "File",
             "year": 1965
@@ -366,7 +355,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 177084,
             "track_count": 16,
-            "track_id": 20378,
             "track_number": 11,
             "track_type": "File",
             "year": 1965
@@ -399,7 +387,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 139206,
             "track_count": 16,
-            "track_id": 20380,
             "track_number": 12,
             "track_type": "File",
             "year": 1965
@@ -432,7 +419,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 199340,
             "track_count": 16,
-            "track_id": 20382,
             "track_number": 13,
             "track_type": "File",
             "year": 1965
@@ -465,7 +451,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 150308,
             "track_count": 16,
-            "track_id": 20384,
             "track_number": 14,
             "track_type": "File",
             "year": 1965
@@ -498,7 +483,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 113136,
             "track_count": 16,
-            "track_id": 20386,
             "track_number": 15,
             "track_type": "File",
             "year": 1965
@@ -531,7 +515,6 @@
             "sort_album_artist": "Sound of Music [Original Soundtrack]",
             "total_time": 81475,
             "track_count": 16,
-            "track_id": 20388,
             "track_number": 16,
             "track_type": "File",
             "year": 1965

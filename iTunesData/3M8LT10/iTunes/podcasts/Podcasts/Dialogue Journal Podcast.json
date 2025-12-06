@@ -19,7 +19,6 @@
             "sample_rate": 44100,
             "size": 82530878,
             "total_time": 5081338,
-            "track_id": 23868,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -42,7 +41,6 @@
             "sample_rate": 32000,
             "size": 58179444,
             "total_time": 3608712,
-            "track_id": 23882,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -66,7 +64,6 @@
             "sample_rate": 44100,
             "size": 55778788,
             "total_time": 3486040,
-            "track_id": 23890,
             "track_type": "File",
             "unplayed": true,
             "year": 2020
@@ -80,7 +77,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_15.mp3",
             "name": "Dialogue Lectures #15 w/David Stewart & Matt Martinich",
             "persistent_id": "A2029F3DF1E2D4D2",
-            "track_id": 21296,
             "track_type": "URL"
         },
         {
@@ -92,7 +88,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_16.mp3",
             "name": "Dialogue Lectures #16 w/Valerie Hudson",
             "persistent_id": "9B9A5BBA1DCE2F82",
-            "track_id": 21298,
             "track_type": "URL"
         },
         {
@@ -104,7 +99,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_17.mp3",
             "name": "Dialogue Lectures #17 w/Wes Johnson",
             "persistent_id": "87AF5FF08CB9377E",
-            "track_id": 21300,
             "track_type": "URL"
         },
         {
@@ -116,7 +110,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_18.mp3",
             "name": "Dialogue Lectures #18 w/Adam Miller",
             "persistent_id": "9BF949ADB3274017",
-            "track_id": 21302,
             "track_type": "URL"
         },
         {
@@ -128,7 +121,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast19.mp3",
             "name": "Dialogue Lectures #19 w/Craig Harline",
             "persistent_id": "ED0F4C73B2688D36",
-            "track_id": 21304,
             "track_type": "URL"
         },
         {
@@ -140,7 +132,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_20.mp3",
             "name": "Dialogue Lectures #20 w/David Holland",
             "persistent_id": "AE3DE2A418813402",
-            "track_id": 21306,
             "track_type": "URL"
         },
         {
@@ -155,7 +146,6 @@
             "play_count": 1,
             "play_date": 3508827103,
             "play_date_utc": "2015-03-10T16:11:43",
-            "track_id": 21308,
             "track_type": "URL"
         },
         {
@@ -167,7 +157,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_22.mp3",
             "name": "Dialogue Lectures #22 w/Eric Huntsman",
             "persistent_id": "B001043A7C4CB851",
-            "track_id": 21310,
             "track_type": "URL"
         },
         {
@@ -179,7 +168,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_23.mp3",
             "name": "Dialogue Lectures #23 w/W Paul Reeve",
             "persistent_id": "B114717632F3E0F9",
-            "track_id": 21312,
             "track_type": "URL"
         },
         {
@@ -191,7 +179,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_24.mp3",
             "name": "Dialogue Lectures #24 w/Lisa Tait",
             "persistent_id": "AACF33E3A35AADA6",
-            "track_id": 21314,
             "track_type": "URL"
         },
         {
@@ -203,7 +190,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_25.mp3",
             "name": "Dialogue Lectures #25 w/Russell Stevenson",
             "persistent_id": "D8A0226D7C6415EF",
-            "track_id": 21316,
             "track_type": "URL"
         },
         {
@@ -215,7 +201,6 @@
             "location": "http://dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_25.mp3",
             "name": "Best of Dialogue 2015",
             "persistent_id": "64AA6A5F43984A60",
-            "track_id": 21318,
             "track_type": "URL"
         },
         {
@@ -227,7 +212,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_26.mp3",
             "name": "Dialogue Lectures #26 w/Patrick Mason",
             "persistent_id": "7C4DA307FBCDBBF4",
-            "track_id": 21320,
             "track_type": "URL"
         },
         {
@@ -239,7 +223,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_27.mp3",
             "name": "Dialogue Lectures #27 w/Cory Crawford",
             "persistent_id": "7A6A83DBB5B7794C",
-            "track_id": 21322,
             "track_type": "URL"
         },
         {
@@ -251,7 +234,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_28.mp3",
             "name": "Dialogue Lectures #28 w/Jared Hickman",
             "persistent_id": "969C16EAE2BCD8BE",
-            "track_id": 21324,
             "track_type": "URL"
         },
         {
@@ -263,7 +245,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_29.mp3",
             "name": "Dialogue Lectures #29 w/Editor Boyd Petersen",
             "persistent_id": "FD1CF75B4E975DD9",
-            "track_id": 21326,
             "track_type": "URL"
         },
         {
@@ -275,7 +256,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_30.mp3",
             "name": "Dialogue Lectures #30 w/Gregory Prince",
             "persistent_id": "1176BA2D8F8C3E42",
-            "track_id": 21328,
             "track_type": "URL"
         },
         {
@@ -287,7 +267,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/CarolLynnPearson_snippet.mp3",
             "name": "Sitting at Sunstone dialoguing about Dialogue",
             "persistent_id": "E1545D84263F5D33",
-            "track_id": 21330,
             "track_type": "URL"
         },
         {
@@ -299,7 +278,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_31.mp3",
             "name": "Dialogue Lectures #31 w/Past Dialogue Editors @ Sunstone",
             "persistent_id": "1C0059C2FDA7A708",
-            "track_id": 21332,
             "track_type": "URL"
         },
         {
@@ -311,7 +289,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/50conference_session1.mp3",
             "name": "Special Dialogue Podcast: \"Spirit of Dialogue\" Conference Session 1",
             "persistent_id": "D757AD4872809717",
-            "track_id": 21334,
             "track_type": "URL"
         },
         {
@@ -323,7 +300,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/50conference_session4.mp3",
             "name": "Special Dialogue Podcast: \"Spirit of Dialogue\" Conference Session 4",
             "persistent_id": "88790551C6972C18",
-            "track_id": 21336,
             "track_type": "URL"
         },
         {
@@ -335,7 +311,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/50conference_session5.mp3",
             "name": "Special Dialogue Podcast: \"Spirit of Dialogue\" Conference Session 5",
             "persistent_id": "409E616A99564147",
-            "track_id": 21338,
             "track_type": "URL"
         },
         {
@@ -347,7 +322,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/50conference_session6.mp3",
             "name": "Special Dialogue Podcast: \"Spirit of Dialogue\" Conference Session 6",
             "persistent_id": "61662599175EEF52",
-            "track_id": 21340,
             "track_type": "URL"
         },
         {
@@ -359,7 +333,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/50conference_session7.mp3",
             "name": "Special Dialogue Podcast: \"Spirit of Dialogue\" Conference Session 7",
             "persistent_id": "89C7E77843F88673",
-            "track_id": 21342,
             "track_type": "URL"
         },
         {
@@ -371,7 +344,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_32.mp3",
             "name": "Dialogue Lectures #32 w/John Christopher Thomas",
             "persistent_id": "23F74FF208317ABA",
-            "track_id": 21344,
             "track_type": "URL"
         },
         {
@@ -383,7 +355,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_33.mp3",
             "name": "Dialogue Lectures #33 w/Matthew Garrett",
             "persistent_id": "447218EBDCA9920B",
-            "track_id": 21346,
             "track_type": "URL"
         },
         {
@@ -395,7 +366,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_34.mp3",
             "name": "Dialogue Lectures #34 w/Laurel Thatcher Ulrich",
             "persistent_id": "04457F20E21381B8",
-            "track_id": 21348,
             "track_type": "URL"
         },
         {
@@ -407,7 +377,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_35.mp3",
             "name": "Dialogue Lectures #35 w/Bryce Cook",
             "persistent_id": "0B2F20280FF7C2D2",
-            "track_id": 21350,
             "track_type": "URL"
         },
         {
@@ -419,7 +388,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_36.mp3",
             "name": "Dialogue Lectures #36 w/Bryce Cook",
             "persistent_id": "F8521F484E1D6045",
-            "track_id": 21352,
             "track_type": "URL"
         },
         {
@@ -431,7 +399,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_37.mp3",
             "name": "Dialogue Lectures #37 w/Christine Durham",
             "persistent_id": "6B763EDE7456BF31",
-            "track_id": 21354,
             "track_type": "URL"
         },
         {
@@ -443,7 +410,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_38.mp3",
             "name": "Dialogue Lectures #38 w/D. Michael Quinn",
             "persistent_id": "892268ABDB14F6CB",
-            "track_id": 21356,
             "track_type": "URL"
         },
         {
@@ -455,7 +421,6 @@
             "location": "https://www.dialoguejournal.com/wp-content/uploads/podcasts/dialoguepodcast_39.mp3",
             "name": "Dialogue Lectures #39 w/William MacKinnon and Richard E. Turley",
             "persistent_id": "89FAD89729AD2ADD",
-            "track_id": 21358,
             "track_type": "URL"
         },
         {
@@ -468,7 +433,6 @@
             "name": "Dialogue Lectures #40 w/ Thomas Simpson",
             "persistent_id": "9E7B077DC5881878",
             "total_time": 4971000,
-            "track_id": 21360,
             "track_type": "URL"
         },
         {
@@ -484,7 +448,6 @@
             "play_date": 3641374173,
             "play_date_utc": "2019-05-22T18:49:33",
             "total_time": 5009000,
-            "track_id": 21362,
             "track_type": "URL"
         },
         {
@@ -497,7 +460,6 @@
             "name": "Dialogue Lectures #42 w/ Jana Riess",
             "persistent_id": "324E487A05F233B0",
             "total_time": 5188000,
-            "track_id": 21364,
             "track_type": "URL"
         },
         {
@@ -510,7 +472,6 @@
             "name": "Dialogue Lectures #43 w/ Don Bradley",
             "persistent_id": "E1E4DAD3056377C7",
             "total_time": 5070000,
-            "track_id": 21366,
             "track_type": "URL"
         },
         {
@@ -523,7 +484,6 @@
             "name": "Dialogue Lectures #45 w/ Gary Bergera",
             "persistent_id": "1A5DFF9397A84863",
             "total_time": 4504000,
-            "track_id": 21368,
             "track_type": "URL"
         },
         {
@@ -539,7 +499,6 @@
             "play_date": 3641384052,
             "play_date_utc": "2019-05-22T21:34:12",
             "total_time": 5445000,
-            "track_id": 21370,
             "track_type": "URL"
         },
         {
@@ -554,7 +513,6 @@
             "persistent_id": "2CAC01A0153A7C3D",
             "sample_rate": 44100,
             "total_time": 5096000,
-            "track_id": 22790,
             "track_type": "URL",
             "year": 2020
         },
@@ -570,7 +528,6 @@
             "persistent_id": "738436A3987AF0BE",
             "sample_rate": 48000,
             "total_time": 81000,
-            "track_id": 22798,
             "track_type": "URL",
             "year": 2020
         },
@@ -584,7 +541,6 @@
             "name": "Dialogue Lectures #47 w/ Quincy Newell",
             "persistent_id": "E8DBC72B91EE1650",
             "total_time": 4010000,
-            "track_id": 22828,
             "track_type": "URL"
         },
         {
@@ -597,7 +553,6 @@
             "name": "Dialogue Heritage #1",
             "persistent_id": "F3E3B2E2CDB38D5F",
             "total_time": 3106000,
-            "track_id": 22830,
             "track_type": "URL"
         },
         {
@@ -610,7 +565,6 @@
             "name": "Dialogue Lectures #48 w/ Steven Harper",
             "persistent_id": "6EF8943B9311D43B",
             "total_time": 4763000,
-            "track_id": 22832,
             "track_type": "URL"
         },
         {
@@ -623,7 +577,6 @@
             "name": "Dialogue Book Report #1",
             "persistent_id": "09B09D7A869CAEAF",
             "total_time": 2430000,
-            "track_id": 22834,
             "track_type": "URL"
         },
         {
@@ -638,7 +591,6 @@
             "persistent_id": "E6CBE462FC118CFC",
             "sample_rate": 44100,
             "total_time": 2044000,
-            "track_id": 23830,
             "track_type": "URL",
             "year": 2020
         },
@@ -654,7 +606,6 @@
             "persistent_id": "1DC97B0722AF7A56",
             "sample_rate": 48000,
             "total_time": 1965000,
-            "track_id": 23850,
             "track_type": "URL",
             "year": 2020
         },
@@ -670,7 +621,6 @@
             "persistent_id": "BFADDAFF94DBD065",
             "sample_rate": 44100,
             "total_time": 3682925,
-            "track_id": 23870,
             "track_type": "URL",
             "year": 2020
         }

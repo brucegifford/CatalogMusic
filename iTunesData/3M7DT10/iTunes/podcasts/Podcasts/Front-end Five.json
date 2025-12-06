@@ -13,7 +13,6 @@
             "release_date": "2016-01-12T00:00:00",
             "size": 295,
             "total_time": 295000,
-            "track_id": 22990,
             "track_type": "URL",
             "unplayed": true
         },
@@ -29,7 +28,6 @@
             "release_date": "2016-01-20T00:00:00",
             "size": 233,
             "total_time": 233000,
-            "track_id": 22992,
             "track_type": "URL",
             "unplayed": true
         },
@@ -45,7 +43,6 @@
             "release_date": "2016-01-26T00:00:00",
             "size": 260,
             "total_time": 260000,
-            "track_id": 22994,
             "track_type": "URL",
             "unplayed": true
         },
@@ -61,7 +58,6 @@
             "release_date": "2016-02-02T00:00:00",
             "size": 230,
             "total_time": 230000,
-            "track_id": 22996,
             "track_type": "URL",
             "unplayed": true
         },
@@ -77,7 +73,6 @@
             "release_date": "2016-02-09T00:00:00",
             "size": 849,
             "total_time": 849000,
-            "track_id": 22998,
             "track_type": "URL",
             "unplayed": true
         },
@@ -93,7 +88,6 @@
             "release_date": "2016-02-17T00:00:00",
             "size": 272,
             "total_time": 272000,
-            "track_id": 23000,
             "track_type": "URL",
             "unplayed": true
         },
@@ -109,7 +103,6 @@
             "release_date": "2016-02-23T00:00:00",
             "size": 211,
             "total_time": 211000,
-            "track_id": 23002,
             "track_type": "URL",
             "unplayed": true
         },
@@ -125,7 +118,6 @@
             "release_date": "2016-03-01T00:00:00",
             "size": 687,
             "total_time": 687000,
-            "track_id": 23004,
             "track_type": "URL",
             "unplayed": true
         },
@@ -141,7 +133,6 @@
             "release_date": "2016-03-08T00:00:00",
             "size": 229,
             "total_time": 229000,
-            "track_id": 23006,
             "track_type": "URL",
             "unplayed": true
         },
@@ -157,7 +148,6 @@
             "release_date": "2016-03-15T00:00:00",
             "size": 211,
             "total_time": 211000,
-            "track_id": 23008,
             "track_type": "URL",
             "unplayed": true
         },
@@ -173,7 +163,6 @@
             "release_date": "2016-03-22T00:00:00",
             "size": 252,
             "total_time": 252000,
-            "track_id": 23010,
             "track_type": "URL",
             "unplayed": true
         },
@@ -189,7 +178,6 @@
             "release_date": "2016-03-29T00:00:00",
             "size": 255,
             "total_time": 255000,
-            "track_id": 23012,
             "track_type": "URL",
             "unplayed": true
         },
@@ -205,7 +193,6 @@
             "release_date": "2016-04-05T00:00:00",
             "size": 234,
             "total_time": 234000,
-            "track_id": 23014,
             "track_type": "URL",
             "unplayed": true
         },
@@ -221,7 +208,6 @@
             "release_date": "2016-04-12T00:00:00",
             "size": 469,
             "total_time": 469000,
-            "track_id": 23016,
             "track_type": "URL",
             "unplayed": true
         },
@@ -237,7 +223,6 @@
             "release_date": "2016-04-19T00:00:00",
             "size": 225,
             "total_time": 225000,
-            "track_id": 23018,
             "track_type": "URL",
             "unplayed": true
         },
@@ -252,7 +237,6 @@
             "persistent_id": "A0BF1AC340433955",
             "play_count": 1,
             "total_time": 324000,
-            "track_id": 22860,
             "track_type": "URL"
         },
         {
@@ -266,7 +250,6 @@
             "persistent_id": "D6AEED61C4C04F17",
             "play_count": 1,
             "total_time": 309000,
-            "track_id": 22862,
             "track_type": "URL"
         },
         {
@@ -280,7 +263,6 @@
             "persistent_id": "F212B3DC4BD326AC",
             "play_count": 1,
             "total_time": 325000,
-            "track_id": 22864,
             "track_type": "URL"
         },
         {
@@ -294,7 +276,6 @@
             "persistent_id": "0E788AE384DCB88E",
             "play_count": 1,
             "total_time": 329000,
-            "track_id": 22866,
             "track_type": "URL"
         },
         {
@@ -308,7 +289,6 @@
             "persistent_id": "19E70778B72525B7",
             "play_count": 1,
             "total_time": 323000,
-            "track_id": 22868,
             "track_type": "URL"
         },
         {
@@ -322,7 +302,6 @@
             "persistent_id": "B6F3DB3FDF3EAE1D",
             "play_count": 1,
             "total_time": 279000,
-            "track_id": 22870,
             "track_type": "URL"
         },
         {
@@ -335,7 +314,6 @@
             "name": "Episode #9 - June 29th, 2015",
             "persistent_id": "6D73443E7A49EBFC",
             "play_count": 1,
-            "track_id": 22872,
             "track_type": "URL"
         },
         {
@@ -349,7 +327,6 @@
             "persistent_id": "6BE0D9FE429F89B5",
             "play_count": 1,
             "total_time": 311000,
-            "track_id": 22874,
             "track_type": "URL"
         },
         {
@@ -363,7 +340,6 @@
             "persistent_id": "F8BFD0C707433F57",
             "play_count": 1,
             "total_time": 295000,
-            "track_id": 22876,
             "track_type": "URL"
         },
         {
@@ -377,7 +353,6 @@
             "persistent_id": "1FA20B925F4C5081",
             "play_count": 1,
             "total_time": 296000,
-            "track_id": 22878,
             "track_type": "URL"
         },
         {
@@ -391,7 +366,6 @@
             "persistent_id": "A6F0C25E44C1DF3A",
             "play_count": 1,
             "total_time": 300000,
-            "track_id": 22880,
             "track_type": "URL"
         },
         {
@@ -405,7 +379,6 @@
             "persistent_id": "D3815CAF32CF47E8",
             "play_count": 1,
             "total_time": 345000,
-            "track_id": 22882,
             "track_type": "URL"
         },
         {
@@ -419,7 +392,6 @@
             "persistent_id": "8063EBC3B36C3853",
             "play_count": 1,
             "total_time": 296000,
-            "track_id": 22884,
             "track_type": "URL"
         },
         {
@@ -433,7 +405,6 @@
             "persistent_id": "373598C863D47BF8",
             "play_count": 1,
             "total_time": 236000,
-            "track_id": 22886,
             "track_type": "URL"
         },
         {
@@ -447,7 +418,6 @@
             "persistent_id": "CF849AC877755D21",
             "play_count": 1,
             "total_time": 281000,
-            "track_id": 22888,
             "track_type": "URL"
         },
         {
@@ -461,7 +431,6 @@
             "persistent_id": "1B0B6275BEEBE93E",
             "play_count": 1,
             "total_time": 262000,
-            "track_id": 22890,
             "track_type": "URL"
         },
         {
@@ -476,7 +445,6 @@
             "release_date": "2016-04-26T00:00:00",
             "size": 258,
             "total_time": 258000,
-            "track_id": 23020,
             "track_type": "URL",
             "unplayed": true
         },
@@ -492,7 +460,6 @@
             "release_date": "2016-05-03T00:00:00",
             "size": 227,
             "total_time": 227000,
-            "track_id": 23022,
             "track_type": "URL",
             "unplayed": true
         },
@@ -508,7 +475,6 @@
             "release_date": "2016-05-10T00:00:00",
             "size": 227,
             "total_time": 227000,
-            "track_id": 23024,
             "track_type": "URL",
             "unplayed": true
         },
@@ -524,7 +490,6 @@
             "release_date": "2016-05-17T00:00:00",
             "size": 229,
             "total_time": 229000,
-            "track_id": 23026,
             "track_type": "URL",
             "unplayed": true
         },
@@ -540,7 +505,6 @@
             "release_date": "2016-05-24T00:00:00",
             "size": 239,
             "total_time": 239000,
-            "track_id": 23028,
             "track_type": "URL",
             "unplayed": true
         },
@@ -557,7 +521,6 @@
             "release_date": "2016-06-01T00:00:00",
             "size": 222,
             "total_time": 222000,
-            "track_id": 23030,
             "track_type": "URL"
         },
         {
@@ -573,7 +536,6 @@
             "release_date": "2016-06-07T00:00:00",
             "size": 299,
             "total_time": 299000,
-            "track_id": 23032,
             "track_type": "URL"
         },
         {
@@ -589,7 +551,6 @@
             "release_date": "2016-06-14T00:00:00",
             "size": 229,
             "total_time": 229000,
-            "track_id": 23034,
             "track_type": "URL"
         },
         {
@@ -605,7 +566,6 @@
             "release_date": "2016-06-21T00:00:00",
             "size": 244,
             "total_time": 244000,
-            "track_id": 23036,
             "track_type": "URL"
         },
         {
@@ -627,7 +587,6 @@
             "sample_rate": 48000,
             "size": 4253833,
             "total_time": 167856,
-            "track_id": 23868,
             "track_type": "File",
             "unplayed": true,
             "year": 2016

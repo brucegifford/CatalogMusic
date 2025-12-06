@@ -2,7 +2,6 @@
     "all_items": true,
     "display_path": "/Top 25 Most Played",
     "name": "Top 25 Most Played",
-    "playlist_id": 84226,
     "playlist_persistent_id": "5CF7C1834DAE1814",
     "smart_criteria": "\n\t\t\tU0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB\n\t\t\tAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAAAA\n\t\t\t",
     "smart_info": "\n\t\t\tAQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\t\t\tAAAAAA==\n\t\t\t",
@@ -33,7 +32,6 @@
             "skip_date": "2016-06-06T16:41:51",
             "total_time": 168071,
             "track_count": 14,
-            "track_id": 6442,
             "track_number": 1,
             "track_type": "File",
             "year": 1998
@@ -62,7 +60,6 @@
             "size": 3401772,
             "total_time": 169978,
             "track_count": 14,
-            "track_id": 6446,
             "track_number": 3,
             "track_type": "File",
             "year": 1998
@@ -93,7 +90,6 @@
             "skip_date": "2016-06-06T16:42:50",
             "total_time": 161619,
             "track_count": 14,
-            "track_id": 6444,
             "track_number": 2,
             "track_type": "File",
             "year": 1998
@@ -122,7 +118,6 @@
             "skip_date": "2017-07-10T21:19:23",
             "sort_album": "Chase",
             "total_time": 228179,
-            "track_id": 7438,
             "track_number": 1,
             "track_type": "File",
             "year": 1992
@@ -149,7 +144,6 @@
             "size": 3856327,
             "sort_album": "Chase",
             "total_time": 192705,
-            "track_id": 7440,
             "track_number": 2,
             "track_type": "File",
             "year": 1992
@@ -176,7 +170,6 @@
             "size": 2426874,
             "sort_album": "Chase",
             "total_time": 121234,
-            "track_id": 7442,
             "track_number": 3,
             "track_type": "File",
             "year": 1992
@@ -203,7 +196,6 @@
             "size": 5124825,
             "sort_album": "Chase",
             "total_time": 256130,
-            "track_id": 7444,
             "track_number": 4,
             "track_type": "File",
             "year": 1992
@@ -230,7 +222,6 @@
             "size": 3077867,
             "sort_album": "Chase",
             "total_time": 153782,
-            "track_id": 7446,
             "track_number": 5,
             "track_type": "File",
             "year": 1992
@@ -257,7 +248,6 @@
             "size": 5308722,
             "sort_album": "Chase",
             "total_time": 265325,
-            "track_id": 7448,
             "track_number": 6,
             "track_type": "File",
             "year": 1992
@@ -284,7 +274,6 @@
             "size": 4926821,
             "sort_album": "Chase",
             "total_time": 246230,
-            "track_id": 7450,
             "track_number": 7,
             "track_type": "File",
             "year": 1992
@@ -311,7 +300,6 @@
             "size": 5728776,
             "sort_album": "Chase",
             "total_time": 286328,
-            "track_id": 7452,
             "track_number": 8,
             "track_type": "File",
             "year": 1992
@@ -349,7 +337,6 @@
             "sort_name": "One",
             "total_time": 233666,
             "track_count": 13,
-            "track_id": 6634,
             "track_number": 3,
             "track_type": "File",
             "year": 2011
@@ -377,7 +364,6 @@
             "size": 5503519,
             "total_time": 275069,
             "track_count": 9,
-            "track_id": 8898,
             "track_number": 1,
             "track_type": "File"
         },
@@ -407,7 +393,6 @@
             "skip_date": "2017-03-06T23:13:18",
             "total_time": 221309,
             "track_count": 9,
-            "track_id": 8904,
             "track_number": 4,
             "track_type": "File"
         },
@@ -434,7 +419,6 @@
             "size": 3778392,
             "total_time": 188813,
             "track_count": 9,
-            "track_id": 8908,
             "track_number": 6,
             "track_type": "File"
         },
@@ -462,7 +446,6 @@
             "size": 5274251,
             "total_time": 263601,
             "track_count": 14,
-            "track_id": 6448,
             "track_number": 4,
             "track_type": "File",
             "year": 1998
@@ -491,7 +474,6 @@
             "size": 4226728,
             "total_time": 211226,
             "track_count": 14,
-            "track_id": 6450,
             "track_number": 5,
             "track_type": "File",
             "year": 1998
@@ -521,7 +503,6 @@
             "skip_date": "2018-12-27T07:06:04",
             "total_time": 202135,
             "track_count": 9,
-            "track_id": 8900,
             "track_number": 2,
             "track_type": "File"
         },
@@ -549,7 +530,6 @@
             "size": 4022148,
             "total_time": 200986,
             "track_count": 9,
-            "track_id": 8902,
             "track_number": 3,
             "track_type": "File"
         },
@@ -576,7 +556,6 @@
             "size": 3848923,
             "total_time": 192339,
             "track_count": 9,
-            "track_id": 8906,
             "track_number": 5,
             "track_type": "File"
         },
@@ -604,7 +583,6 @@
             "size": 3550777,
             "total_time": 177397,
             "track_count": 9,
-            "track_id": 8910,
             "track_number": 7,
             "track_type": "File"
         },
@@ -632,7 +610,6 @@
             "size": 4394077,
             "total_time": 219585,
             "track_count": 9,
-            "track_id": 8912,
             "track_number": 8,
             "track_type": "File"
         },
@@ -660,7 +637,6 @@
             "size": 4549558,
             "total_time": 227343,
             "track_count": 9,
-            "track_id": 8914,
             "track_number": 9,
             "track_type": "File"
         },
@@ -688,7 +664,6 @@
             "size": 3792055,
             "total_time": 189492,
             "track_count": 14,
-            "track_id": 6452,
             "track_number": 6,
             "track_type": "File",
             "year": 1998
@@ -717,7 +692,6 @@
             "size": 4740300,
             "total_time": 236904,
             "track_count": 14,
-            "track_id": 6458,
             "track_number": 9,
             "track_type": "File",
             "year": 1998
