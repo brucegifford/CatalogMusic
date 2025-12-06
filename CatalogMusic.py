@@ -232,6 +232,8 @@ def Main():
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
             for media_dir in args.media_files_dirs:
+                if media_dir.startswith('#'):
+                    continue
                 media_dir = strip_quotes_if_needed(media_dir)
                 print(media_dir)
                 extract_metadata(media_files, media_dir, logger)
