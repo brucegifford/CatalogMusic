@@ -1,0 +1,11 @@
+--outputdir=iTunesData\3M8LT10\fileSystem\songs
+--media_files_dirs
+#-this-is-the-folder-on-original-machine
+#"C:\Users\a4n1czz\Music\iTunes\iTunes Media\Music"
+#"D:\iTunes Media\Music"
+#-this-is-the-folder-in-the-machine-backup
+"D:\J\Users\a4n1czz\Music\iTunes\iTunes Media\Music"
+"D:\K\iTunes Media\Music"
+--remap_filepaths
+"D:\J\Users\a4n1czz\Music\iTunes\iTunes Media\Music"|"C:\Users\a4n1czz\Music\iTunes\iTunes Media\Music"
+"D:\K\iTunes Media\Music"|"D:\iTunes Media\Music"
