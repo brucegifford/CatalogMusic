@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="CatalogMusic-tndr-fs-redo-reports" type="PythonConfigurationType" factoryName="Python">
+  <configuration default="false" name="CatalogMusic-Tndr-fs-redo-reports" type="PythonConfigurationType" factoryName="Python">
     <module name="CatalogMusic" />
     <option name="ENV_FILES" value="" />
     <option name="INTERPRETER_OPTIONS" value="" />
