@@ -225,11 +225,12 @@ def Main():
 
         # set up to rename file paths
         remap_filepath_list = []
-        for remap_str in args.remap_filepaths:
-            if remap_str.startswith('#'):
-                continue
-            parts = remap_str.split('|')
-            remap_filepath_list.append( (strip_quotes_if_needed(parts[0]).replace('\\','/'), strip_quotes_if_needed(parts[1]).replace('\\','/') ) )
+        if args.remap_filepaths:
+            for remap_str in args.remap_filepaths:
+                if remap_str.startswith('#'):
+                    continue
+                parts = remap_str.split('|')
+                remap_filepath_list.append( (strip_quotes_if_needed(parts[0]).replace('\\','/'), strip_quotes_if_needed(parts[1]).replace('\\','/') ) )
 
         if args.media_files_input:
             media_files_input = strip_quotes_if_needed(args.media_files_input)
